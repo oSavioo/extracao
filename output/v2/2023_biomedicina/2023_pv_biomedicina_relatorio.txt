@@ -1,0 +1,16 @@
+RELATÓRIO DE PROCESSAMENTO V2
+============================================================
+PDF prova: 2023_PV_biomedicina.pdf
+PDF gabarito: 2023_GB_biomedicina.pdf
+Prefixo de saída: 2023_pv_biomedicina
+Tokens de contexto: ['biomedicina']
+
+Questões no gabarito: 38
+Questões encontradas: 38
+Questões completas: 38
+Questões incompletas: 0
+Questões faltando: 0
+
+Completas: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+Incompletas: []
+Faltando: []
