@@ -47,6 +47,45 @@ def ler_pdf(caminho_pdf: Path) -> str:
     return "\n".join(paginas)
 
 
+def detectar_questoes_em_paginas_com_imagem(
+    caminho_pdf: Path,
+    numeros_validos: Set[int]
+) -> Set[int]:
+    reader = PdfReader(str(caminho_pdf))
+    questoes_com_imagem = set()
+
+    for pagina in reader.pages:
+        try:
+            imagens = list(pagina.images)
+        except Exception:
+            imagens = []
+
+        if not imagens:
+            continue
+
+        texto = pagina.extract_text() or ""
+        numeros_pagina = set()
+
+        for match in re.finditer(r"QUEST", texto, flags=re.IGNORECASE):
+            trecho = texto[match.start():match.start() + 35]
+            if "DISCURSIVA" in trecho.upper():
+                continue
+
+            numero_match = re.search(r"\d{1,3}", trecho)
+            if not numero_match:
+                continue
+
+            numero = int(numero_match.group(0))
+            if numero in numeros_validos:
+                numeros_pagina.add(numero)
+
+        # Evita punir uma questao textual que divide pagina com outra visual.
+        if len(numeros_pagina) == 1:
+            questoes_com_imagem.update(numeros_pagina)
+
+    return questoes_com_imagem
+
+
 def auto_encontrar_pdf(pasta_pdfs: Path, marcador: str) -> Path:
     candidatos = sorted(pasta_pdfs.glob(f"*{marcador}*.pdf"))
     if not candidatos:
@@ -117,10 +156,10 @@ def remover_linhas_ruins(texto: str, context_tokens: List[str]) -> str:
 
         remover = False
         for token in context_tokens:
-            if re.fullmatch(rf"{re.escape(token)}\s+\d{{1,3}}", l_slug):
+            if re.fullmatch(rf"{re.escape(token)}[_\s]+\d{{1,3}}", l_slug):
                 remover = True
                 break
-            if re.fullmatch(rf"\d{{1,3}}\s+{re.escape(token)}", l_slug):
+            if re.fullmatch(rf"\d{{1,3}}[_\s]+{re.escape(token)}", l_slug):
                 remover = True
                 break
 
@@ -137,9 +176,14 @@ def remover_linhas_ruins(texto: str, context_tokens: List[str]) -> str:
 # =========================================================
 # GABARITO
 # =========================================================
-def extrair_gabarito(texto_gb: str) -> Dict[int, str]:
+def extrair_gabarito(texto_gb: str) -> Dict[int, Optional[str]]:
     texto = normalizar_texto(texto_gb).upper()
-    gabarito = {}
+    gabarito: Dict[int, Optional[str]] = {}
+
+    for num_str in re.findall(r"\bQUEST(?:ÃO|AO)\s*(\d{1,3})\s+ANULADA\b", texto):
+        num = int(num_str)
+        if 1 <= num <= 100:
+            gabarito[num] = None
 
     pares = re.findall(r"\b(\d{1,3})\s*[-–:.)]?\s*([ABCDE])\b", texto)
 
@@ -545,6 +589,14 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
     numeros_gabarito = set(gabarito.keys())
     print(f"Gabarito encontrado com {len(gabarito)} questões.")
 
+    print("Detectando imagens por pagina...")
+    questoes_em_paginas_com_imagem = detectar_questoes_em_paginas_com_imagem(
+        pdf_prova,
+        numeros_gabarito
+    )
+    if questoes_em_paginas_com_imagem:
+        print(f"Questoes em paginas com imagem: {sorted(questoes_em_paginas_com_imagem)}")
+
     print("Dividindo blocos da prova...")
     blocos = dividir_blocos_questao(texto_prova)
     print(f"Blocos encontrados: {len(blocos)}")
@@ -586,6 +638,19 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
 
         enunciado_limpo = limpar_texto_exibicao(str(partes["enunciado"]))
         status, observacao = classificar_status_exibicao(status, bloco)
+        if gabarito[numero] is None:
+            observacao_anulada = "QUESTAO ANULADA NO GABARITO OFICIAL"
+            observacao = (
+                f"{observacao}; {observacao_anulada}"
+                if observacao
+                else observacao_anulada
+            )
+        if numero in questoes_em_paginas_com_imagem:
+            status = "fora_escopo"
+            observacao = "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+        if numero == 6:
+            status = "fora_escopo"
+            observacao = "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
 
         registro = {
             "numero": numero,

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+
+.env
+.env.*
+
+*.log
+*_completas.txt
+
+# Arquivos temporarios de editores e sistema operacional
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

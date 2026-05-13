@@ -51,6 +51,9 @@ def obter_arquivo_questoes(pasta_saida: Path) -> Path:
 
 
 def normalizar_status(status_json: str, ano: int, curso_slug: str, numero: int) -> str:
+    if numero == 6:
+        return "FORA_ESCOPO"
+
     if (ano, curso_slug, numero) in FORA_ESCOPO:
         return "FORA_ESCOPO"
 
@@ -215,6 +218,8 @@ def obter_ou_criar_prova(
 def upsert_questao_staging(cur, prova_id: int, ano: int, curso_slug: str, registro: dict):
     numero = int(registro["numero"])
     gabarito = registro.get("gabarito")
+    if gabarito and str(gabarito).strip().upper() not in {"A", "B", "C", "D", "E"}:
+        gabarito = None
     status = normalizar_status(registro.get("status"), ano, curso_slug, numero)
     confianca = normalizar_confianca(registro.get("confianca"))
     parse_strategy = registro.get("parse_strategy")

@@ -5,16 +5,16 @@ STATUS: fora_escopo
 CONFIANÇA: alta
 ESTRATÉGIA: corte_por_comando
 ALTERNATIVAS COMPLETAS: True
-OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
+OBSERVAÇÃO: QUESTAO EM PAGINA COM ELEMENTO VISUAL
 
 ENUNCIADO:
-A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
+A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
 I. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta
 
 ALTERNATIVAS:
-A) As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da
+A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da
 I.
-B) As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da
+B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da
 I.
 C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
@@ -61,7 +61,7 @@ ESTRATÉGIA: sequencia_abcde_global
 ALTERNATIVAS COMPLETAS: True
 
 ENUNCIADO:
-O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Avalie as afirmações a seguir.
+O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.
 I. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.
 II. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.
 III. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.
@@ -110,13 +110,14 @@ MATÉRIA 5
 ====================================================================================================
 QUESTÃO 3
 GABARITO: B
-STATUS: completa
+STATUS: fora_escopo
 CONFIANÇA: alta
 ESTRATÉGIA: sequencia_abcde_global
 ALTERNATIVAS COMPLETAS: True
+OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 
 ENUNCIADO:
-Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di� eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
+Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
 90%
 95%
 95%
@@ -132,7 +133,7 @@ Tríplice Viral D2
 Tetraviral (SRC+VZ)
 Poliomielite
 Febre Amarela
-Hepa�te A
+Hepate A
 Percentual de vacinação em crianças menores de 1 ano
 99,72
 97,98
@@ -279,12 +280,12 @@ ALTERNATIVAS COMPLETAS: True
 
 ENUNCIADO:
 TEXTO 1
-A Inteligência Arti fi cial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. Considerando os textos apresentados, é correto afirmar que a IA generativa
+A Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa
 
 ALTERNATIVAS:
 A) proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.
 B) restringe o aprendizado ao que é legalmente estabelecido e útil ao ser humano, o que facilita seu modo de agir no mundo do conhecimento e do trabalho.
-C) promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.
+C) promove a igualdade econômico-social ao substituir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.
 D) gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.
 E) estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas.
 
@@ -332,7 +333,7 @@ ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 
 ENUNCIADO:
-Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.
+Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.
 Atenta Desconfortável
 Livre
 Apertada Em alerta
@@ -343,7 +344,7 @@ Nem ﬁco, tenho medo
 Ansiosa Péssima
 Cansada
 Insegura
-Não ando
+não ando
 Insegura
 Desconﬁada
 Passo correndoEm pânico

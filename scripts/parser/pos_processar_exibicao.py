@@ -58,6 +58,49 @@ SUBSTITUICOES_FIXAS = {
     "roti neiros": "rotineiros",
     "gr á fi c o": "gráfico",
     "fi co": "fico",
+    "noti fi caÃ§Ãµes": "notificaÃ§Ãµes",
+    "fi xaÃ§Ã£o": "fixaÃ§Ã£o",
+    "justi fi cati": "justificati",
+    "ressignifi caÃ§Ã£o": "ressignificaÃ§Ã£o",
+    "artÃ­ sti ca": "artÃ­stica",
+    "refl exÃ£o": "reflexÃ£o",
+    "noti fi caÃ§Ãµes": "notificaÃ§Ãµes",
+    "justificati va": "justificativa",
+    "substi tuir": "substituir",
+    "noti fi cações": "notificações",
+    "fi xação": "fixação",
+    "ressignifi cação": "ressignificação",
+    "artí sti ca": "artística",
+    "refl exão": "reflexão",
+    "disrupti va": "disruptiva",
+    "drasti camente": "drasticamente",
+    "maléfi cas": "maléficas",
+    "éti cas": "éticas",
+    "parti cipação": "participação",
+    "classifi cadas": "classificadas",
+    "insti tucional": "institucional",
+    "desati vação": "desativação",
+    "aplicati vos": "aplicativos",
+    "profi ssional": "profissional",
+    "recreati vo": "recreativo",
+    "ti nha": "tinha",
+    "ti po": "tipo",
+    "gati lhos": "gatilhos",
+    "ti ros": "tiros",
+    "menti ra": "mentira",
+    "identi dade": "identidade",
+    "personifi ca": "personifica",
+    "Justi ça": "Justiça",
+    "fi lha": "filha",
+    "fi lmes": "filmes",
+    "Typografi a": "Typografia",
+    "Mesti ço": "Mestiço",
+    "Porti nari": "Portinari",
+    "arti sta": "artista",
+    "identi dade": "identidade",
+    "ressignifi cação": "ressignificação",
+    "A parti r": "A partir",
+    "defi nição": "definição",
 }
 PADROES_FORA_ESCOPO_FORTES = [
     "grafico",
@@ -173,8 +216,67 @@ PADROES_FORA_ESCOPO_DEPENDENCIA = [
     "ando de trem",
 ]
 
+PADROES_FORA_ESCOPO_DEPENDENCIA.extend([
+    "conforme apresentado no grafico",
+    "texto e o grafico",
+    "informacoes apresentadas no texto e no grafico",
+    "informacoes apresentadas no grafico",
+    "apresentadas no grafico",
+    "tabela a seguir",
+    "resultados apresentados na tabela",
+    "dados apresentados na tabela",
+    "informacoes apresentadas na tabela",
+    "apresentado na tabela",
+    "apresentados na tabela",
+    "figura a seguir",
+    "figura acima",
+    "com base na figura",
+    "com base no texto e na figura",
+    "texto e na figura",
+    "texto e figura",
+    "conforme ilustrado na figura",
+    "ilustrado na figura",
+    "ilustra este cenario",
+    "na figura do mapa",
+    "mapa de doses",
+    "mapa de aplicacao",
+    "mapa a seguir",
+    "com base no mapa",
+    "de acordo com o mapa",
+    "observe o mapa",
+    "analise o mapa",
+    "no quadro a seguir",
+    "quadro a seguir",
+    "com base no quadro",
+    "de acordo com o quadro",
+    "texto e imagens apresentados",
+    "imagem apresentada",
+    "seguinte figura",
+    "figura 1",
+    "figura 2",
+    "figura 3",
+    "visualiza as estruturas a seguir",
+    "visualizaram as estruturas a seguir",
+    "estruturas a seguir",
+    "observe, a seguir, os resultados",
+    "observe a seguir os resultados",
+    "resultados da tipagem sanguinea",
+    "presenca de aglutinacao",
+    "ausencia de aglutinacao",
+    "anti-a",
+    "anti-b",
+    "anti-d",
+    "tipos de secadores",
+    "fluxo cruzado",
+    "fluxo concorrente",
+    "fluxo contracorrente",
+    "fluxo misto",
+    "produto ar de secagem ar de exaustao",
+])
+
 def _normalizar_basico(texto: str) -> str:
     texto = texto.replace("\r", "\n").replace("\xa0", " ")
+    texto = texto.replace("\ufffd", "")
     texto = re.sub(r"[ \t]+", " ", texto)
     texto = re.sub(r"\n{3,}", "\n\n", texto)
     return texto.strip()
@@ -185,6 +287,30 @@ def _normalizar_para_detecao(texto: str) -> str:
     texto = texto.lower()
     texto = re.sub(r"\s+", " ", texto)
     return texto.strip()
+
+def _normalizar_quebras_visuais(texto: str) -> str:
+    compactadores = {
+        r"\bg\s*r\s*a\s*f\s*i\s*c\s*o(?:s|\s+s)?\b": "grafico",
+        r"\bt\s*a\s*b\s*e\s*l\s*a(?:s|\s+s)?\b": "tabela",
+        r"\bf\s*i\s*g\s*u\s*r\s*a(?:s|\s+s)?\b": "figura",
+        r"\bi\s*m\s*a\s*g\s*e\s*n\s*s\b": "imagens",
+        r"\bi\s*m\s*a\s*g\s*e\s*m\b": "imagem",
+        r"\bi\s*c\s*o\s*n\s*e(?:s|\s+s)?\b": "icone",
+        r"\bi\s*n\s*f\s*o\s*g\s*r\s*a\s*f\s*i\s*c\s*o\b": "infografico",
+        r"\bd\s*i\s*a\s*g\s*r\s*a\s*m\s*a\b": "diagrama",
+        r"\bq\s*u\s*a\s*d\s*r\s*o(?:s|\s+s)?\b": "quadro",
+    }
+
+    for padrao, substituto in compactadores.items():
+        texto = re.sub(padrao, substituto, texto)
+
+    return texto
+
+def _contem_termo(texto: str, termo: str) -> bool:
+    if " " in termo:
+        return termo in texto
+
+    return re.search(rf"\b{re.escape(termo)}\b", texto) is not None
 
 def _remover_rodapes_cabecalhos(texto: str) -> str:
     linhas_ok = []
@@ -253,9 +379,49 @@ def _remover_rodape_inline(texto: str) -> str:
         texto = re.sub(padrao, " ", texto, flags=re.IGNORECASE)
     return texto
 
+def _remover_secoes_pos_prova(texto: str) -> str:
+    padroes = [
+        r"(?is)\bAVALIA.{0,20}?GLOBAL\s+DA\s+P\s*ROVA\b.*$",
+        r"(?is)\bQUESTION.{0,20}?RIO\s+DE\s+PERCEP.{0,20}?O\s+SOBRE\s+A\s+PROVA\b.*$",
+        r"(?is)\bIMPRESS.{0,20}?O\s+SOBRE\s+A\s+PROVA\b.*$",
+    ]
+
+    for padrao in padroes:
+        texto = re.sub(padrao, " ", texto)
+
+    return texto
+
 def _remover_blocos_visuais(texto: str) -> str:
     if not texto:
         return texto
+
+    # Remove referencias sem engolir textos posteriores, como TEXTO 2.
+    texto = re.sub(
+        r"(?is)dispon[ií]vel em:[\s\S]{0,600}?acesso em:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\s+\d{4}\s*(?:\([^)]*\))?\.?",
+        " ",
+        texto
+    )
+    texto = re.sub(
+        r"(?is)dispon[ií]vel em:\s*acesso em:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\s+\d{4}\s*(?:\([^)]*\))?\.?",
+        " ",
+        texto
+    )
+    texto = re.sub(
+        r"(?is)\bacesso em:\s*\d{1,2}\s+[a-zç.]+\s+\d{4}\s*(?:\([^)]*\))?\.?",
+        " ",
+        texto
+    )
+    texto = re.sub(
+        r"(?is)\bacesso em:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\s+\d{4}\s*(?:\([^)]*\))?\.?",
+        " ",
+        texto
+    )
+    texto = re.sub(
+        r"(?im)^\s*dispon[iÃ­]vel em:\s.*(?:\n\s*(?!TEXTO\b|Considerando\b|Com base\b|A partir\b|Avalie\b|Assinale\b|[IVX]+\.).*){0,2}",
+        " ",
+        texto
+    )
+    texto = re.sub(r"(?im)^\s*acesso em:\s.*$", " ", texto)
 
     fim = (
         r"considerando\b|com base\b|a partir\b|avalie\b|assinale\b|"
@@ -269,12 +435,12 @@ def _remover_blocos_visuais(texto: str) -> str:
         texto
     )
     texto = re.sub(
-        rf"(?is)dispon[ií]vel em:\s.*?(?=({fim}|acesso em:|fonte:))",
+        rf"(?is)^\b$DISPONIVEL_JA_REMOVIDO\s.*?(?=({fim}|acesso em:|fonte:))",
         " ",
         texto
     )
     texto = re.sub(
-        rf"(?is)acesso em:\s.*?(?=({fim}))",
+        rf"(?is)^\b$ACESSO_JA_REMOVIDO\s.*?(?=({fim}))",
         " ",
         texto
     )
@@ -301,7 +467,8 @@ def _remover_blocos_visuais(texto: str) -> str:
 
 def _aplicar_substituicoes_fixas(texto: str) -> str:
     for errado, certo in SUBSTITUICOES_FIXAS.items():
-        texto = texto.replace(errado, certo)
+        texto = re.sub(re.escape(errado), certo, texto, flags=re.IGNORECASE)
+    texto = re.sub(r"justificati\s+va", "justificativa", texto, flags=re.IGNORECASE)
     return texto
 
 def _formatar_blocos_logicos(texto: str) -> str:
@@ -333,9 +500,12 @@ def limpar_texto_exibicao(texto: str) -> str:
 
     texto = _normalizar_basico(texto)
     texto = _remover_rodapes_cabecalhos(texto)
+    texto = _remover_secoes_pos_prova(texto)
     texto = _remover_blocos_visuais(texto)
     texto = _remover_rodape_inline(texto)
+    texto = _remover_secoes_pos_prova(texto)
     texto = _aplicar_substituicoes_fixas(texto)
+    texto = _remover_secoes_pos_prova(texto)
     texto = _formatar_blocos_logicos(texto)
 
     texto = re.sub(r"\s+([,.;:!?])", r"\1", texto)
@@ -356,20 +526,154 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
     if not bloco_bruto:
         return False
 
-    t = _normalizar_para_detecao(bloco_bruto)
+    t = _normalizar_quebras_visuais(_normalizar_para_detecao(bloco_bruto))
+    t = re.sub(r"\b(?:imagem|imagens)\s+radiograficas?\b", "exame radiografico", t)
 
-    tem_visual = any(p in t for p in PADROES_FORA_ESCOPO_FORTES)
+    tem_visual = any(_contem_termo(t, p) for p in PADROES_FORA_ESCOPO_FORTES)
     tem_dependencia = any(p in t for p in PADROES_FORA_ESCOPO_DEPENDENCIA)
 
     qtd_percentuais = len(re.findall(r"\b\d+(?:[.,]\d+)?%\b", t))
     qtd_numeros = len(re.findall(r"\b\d+(?:[.,]\d+)?\b", t))
+    qtd_comparadores = len(re.findall(r"(?:<|>|<=|>=)\s*\d+", t))
+    qtd_razoes = len(re.findall(r"\b\d+\s*:\s*\d+", t))
+    qtd_linhas = len([linha for linha in bloco_bruto.splitlines() if linha.strip()])
+
+    dependencia_regex = [
+        r"\b(?:com base|a partir|de acordo|considerando|conforme|observe|analise)\b.{0,90}\b(?:grafico|tabela|figura|imagem|imagens|mapa|quadro|diagrama)\b",
+        r"\b(?:grafico|tabela|figura|imagem|imagens|mapa|quadro|diagrama)\b.{0,30}\b(?:a seguir|acima|abaixo)\b",
+        r"\b(?:grafico|tabela|figura|imagem|imagens|mapa|quadro|diagrama)\b.{0,70}\b(?:apresentad[ao]s?|ilustrad[ao]s?|mostra|apresenta|indica)\b",
+        r"\b(?:resultados|dados|informacoes|respostas)\b.{0,80}\b(?:apresentad[ao]s?|representad[ao]s?)\b.{0,50}\b(?:tabela|grafico|figura|imagem|imagens|mapa|quadro)\b",
+        r"\b(?:observe|analise|visualize|visualiza|visualizam|visualizaram)\b.{0,80}\b(?:a seguir|abaixo|acima)\b",
+        r"\b(?:estruturas|resultados|amostras|laminas?|micrografias?)\b.{0,80}\b(?:a seguir|visualizad[ao]s?|apresentad[ao]s?)\b",
+    ]
+
+    if any(re.search(padrao, t) for padrao in dependencia_regex):
+        return True
+
+    tabela_extraida_sem_rotulo = [
+        "resultados descritos a seguir",
+        "resultados apresentados a seguir",
+        "dados descritos a seguir",
+        "dados apresentados a seguir",
+        "exames laboratoriais resultados",
+        "valores referenciais",
+        "categoria referencial",
+        "categoria de risco",
+        "parametro resultado valor de referencia",
+        "resultado valor de referencia",
+        "hemograma exame de urina",
+        "com jejum",
+        "sem jejum",
+    ]
+
+    qtd_indicios_tabela = sum(1 for p in tabela_extraida_sem_rotulo if p in t)
+    unidades_tabela = len(re.findall(r"\b(?:mg/dl|g/dl|mmhg|bpm|irpm|kg|ml|cm|mmol/l)\b", t))
+
+    if qtd_indicios_tabela >= 2 and (qtd_linhas >= 20 or qtd_numeros >= 12 or qtd_comparadores >= 4):
+        return True
+
+    if "valor de referencia" in t and (qtd_linhas >= 20 or qtd_numeros >= 18):
+        return True
+
+    if unidades_tabela >= 6 and (qtd_linhas >= 20 or qtd_comparadores >= 4):
+        return True
+
+    if "prevalencia" in t and qtd_razoes >= 4:
+        return True
+
+    if "avaliacao microscopica" in t and ("lamina" in t or "laminula" in t) and "visualiza" in t:
+        return True
+
+    if "tipagem sanguinea" in t and ("observe" in t or "resultados apresentados" in t):
+        return True
+
+    if "seguinte figura" in t:
+        return True
+
+    if re.search(r"\bfigura\s+\d+\b", t):
+        return True
+
+    if "tipos de secadores" in t and "fluxo" in t and ("ar de secagem" in t or "ar de exaustao" in t):
+        return True
+
+    if qtd_linhas >= 25 and len(re.findall(r"\bfluxo\b", t)) >= 8 and ("a)" in t or "b)" in t):
+        return True
+
+    termos_visuais_arquitetura = [
+        "planta do pavimento",
+        "planta de cobertura",
+        "fachada norte",
+        "fachada frontal",
+        "vista superior",
+        "vista leste",
+        "vista oeste",
+        "implantacao",
+        "quadro poliesportiva",
+        "acesso em: 18 ago. 2023",
+        "archdaily",
+        "vitruvius",
+        "tecverde",
+        "gazetadopovo",
+        "opovo.com.br",
+        "wribrasil",
+        "image_view_fullscreen",
+        "jpg",
+        "exemplo de intervencoes",
+        "ruas completas",
+    ]
+
+    comandos_visuais_arquitetura = [
+        "obra apresentada",
+        "projeto apresentado",
+        "edificacao apresentada",
+        "componentes da edificacao apresentada",
+        "sistema adotado no projeto",
+        "desenho de uma planta",
+        "indicacao da vista",
+        "mencionada elevacao",
+        "forma do lugar",
+        "paisagem urbana",
+        "composicao da fachada",
+        "desenho viario",
+    ]
+
+    qtd_termos_arq = sum(1 for p in termos_visuais_arquitetura if p in t)
+    qtd_comandos_arq = sum(1 for p in comandos_visuais_arquitetura if p in t)
+
+    if "arquitetura e urbanismo" in t and (qtd_termos_arq >= 1 or qtd_comandos_arq >= 1):
+        return True
+
+    if qtd_comandos_arq >= 1 and ("fachada" in t or "planta" in t or "vista" in t or "projeto" in t):
+        return True
+
+    # Provas de arquitetura podem trazer pranchas/fotos de obras apenas como legendas.
+    if t.count("arquiteto:") >= 2:
+        return True
 
     # Caso clássico: questão cita gráfico/tabela/figura e depende dela
     if tem_visual and tem_dependencia:
         return True
 
+    tem_grafico = _contem_termo(t, "grafico")
+    tem_tabela = _contem_termo(t, "tabela")
+    tem_figura = _contem_termo(t, "figura")
+    tem_mapa = _contem_termo(t, "mapa")
+    tem_quadro = _contem_termo(t, "quadro")
+    tem_imagem = _contem_termo(t, "imagem")
+    tem_imagens = _contem_termo(t, "imagens")
+    tem_icone = _contem_termo(t, "icone")
+    tem_icones = _contem_termo(t, "icones")
+
     # Questão numérica de gráfico/tabela
-    if tem_visual and ("grafico" in t or "tabela" in t) and (qtd_percentuais >= 3 or qtd_numeros >= 12):
+    if tem_visual and (tem_grafico or tem_tabela) and (qtd_percentuais >= 3 or qtd_numeros >= 12):
+        return True
+
+    # Tabelas extraidas como texto deixam muitas linhas e muitos numeros.
+    if (tem_tabela or tem_quadro) and qtd_linhas >= 30 and qtd_numeros >= 20:
+        return True
+
+    # Figuras/mapas/graficos costumam deixar percentuais e rotulos visuais no texto extraido.
+    if (tem_figura or tem_mapa or tem_grafico) and (qtd_percentuais >= 4 or qtd_numeros >= 18):
         return True
 
     # Questão de ícones / percepções / modais urbanos
@@ -392,7 +696,7 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
 
     qtd_blocos = sum(1 for p in blocos_textuais_visuais if p in t)
 
-    if ("icone" in t or "icones" in t or "imagem" in t or "imagens" in t) and qtd_blocos >= 4:
+    if (tem_icone or tem_icones or tem_imagem or tem_imagens) and qtd_blocos >= 4:
         return True
 
     modais = [
@@ -406,7 +710,7 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
 
     qtd_modais = sum(1 for p in modais if p in t)
 
-    if qtd_modais >= 4 and ("imagem" in t or "icones" in t or "respostas relativas" in t):
+    if qtd_modais >= 4 and (tem_imagem or tem_icones or "respostas relativas" in t):
         return True
 
     return False

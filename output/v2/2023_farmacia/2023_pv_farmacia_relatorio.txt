@@ -1,0 +1,18 @@
+RELATÓRIO DE PROCESSAMENTO V2
+============================================================
+PDF prova: 2023_PV_farmacia.pdf
+PDF gabarito: 2023_GB_farmacia.pdf
+Prefixo de saída: 2023_pv_farmacia
+Tokens de contexto: ['farmacia']
+
+Questões no gabarito: 38
+Questões encontradas: 38
+Questões completas: 26
+Questões incompletas: 0
+Questões fora de escopo: 12
+Questões faltando: 0
+
+Completas: [2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 26, 28, 29, 31, 32, 34, 36, 37, 38]
+Incompletas: []
+Fora de escopo: [1, 3, 5, 6, 20, 22, 23, 24, 27, 30, 33, 35]
+Faltando: []
