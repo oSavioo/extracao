@@ -19,7 +19,7 @@ B) As asserções I e II são proposições verdadeiras, mas a II não é uma ju
 I.
 C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
-E) As asserções I e II são proposições falsas.
+E) As asserções I e II são proposições falsas. 4 Engenharia de Controle e Automação
 
 TEXTO BRUTO:
 QUESTÃO 01 
@@ -33,7 +33,7 @@ Foto: FAO/Anatolii Stepanov. Colheita de trigo perto
 da vila de Krasne, na Ucrânia.
  
  Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.
- Disponível em: h� ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.
+ Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.
  Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
 I. A fome no mundo é um fenômeno biológico e sociológico inevitável.
  PORQUE
@@ -46,10 +46,10 @@ B As asserções I e II são proposições verdadeiras, mas a II não é uma jus
 C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 E As asserções I e II são proposições falsas. 
-*3**R1820233*
+*3**R0920233*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
-4 Medicina
+4 Engenharia de Controle e Automação
 LOGO
 4 MATÉRIA
 
@@ -87,7 +87,7 @@ segmentos populacionais em situação de vulnerabilidade.
  O atendimento integral e universalizado junto às populações periféricas e em situação de 
 vulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos 
 subsidiados e permanentes.
-Disponível em: h� ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. 
+Disponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. 
 Acesso em: 22 jun. 2023 (adaptado) .
  Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.
 I. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das 
@@ -120,7 +120,7 @@ ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 
 ENUNCIADO:
-Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a dift eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
+Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
 90%
 95%
 95%
@@ -181,6 +181,7 @@ B) A baixa cobertura vacinal de crianças menores de um ano de idade é um dos i
 C) A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.
 D) O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
 E) A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico.
+Engenharia de Controle e Automação 5
 
 TEXTO BRUTO:
 QUESTÃO 03 
@@ -191,7 +192,7 @@ crianças com menos de um ano de idade.
  Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que 
 já estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação 
 para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as 
-crianças, como a poliomielite, a meningite, a rubéola e a dift eria.
+crianças, como a poliomielite, a meningite, a rubéola e a di� eria.
  O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, 
 no período de 2017 a 2021.
  
@@ -251,7 +252,7 @@ em crianças menores de 1 ano
 84,19
 62,41
 85,02
-Disponível em: h� ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. 
+Disponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. 
 Acesso em: 23 de jun. 2023 (adaptado).
  Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.
 A O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte 
@@ -266,10 +267,10 @@ bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
 E A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter 
 alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o 
 aumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .
-*5**R1820234*
+*5**R0920234*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
-Medicina 5
+Engenharia de Controle e Automação 5
 LOGO
 4 MATÉRIA
 
@@ -302,7 +303,7 @@ intervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar 
 textos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar 
 modelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, 
 auxiliar no diagnósti co de doenças.
- Disponível em: h� ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-
+ Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-
 como-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).
  TEXTO 2
  Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente 
@@ -311,7 +312,7 @@ importante revolução no segmento de produção de conteúdo. Muitas dessas con
 ser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões 
 éti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto 
 entre indivíduos da mesma nação.
- Disponível em: h� ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. 
+ Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. 
 Acesso em: 2 ago. 2023 (adaptado).
  Considerando os textos apresentados, é correto afi rmar que a IA generati va
 A proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações 
@@ -368,7 +369,7 @@ A) I, apenas.
 B) III, apenas.
 C) I e II, apenas.
 D) II e III, apenas.
-E) I, II e III.
+E) I, II e III. Engenharia de Controle e Automação 7
 
 TEXTO BRUTO:
 QUESTÃO 05 
@@ -419,10 +420,10 @@ B III, apenas.
 C I e II, apenas.
 D II e III, apenas.
 E I, II e III.
-*7**R1820236*
+*7**R0920236*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
-Medicina 7
+Engenharia de Controle e Automação 7
 LOGO
 6 MATÉRIA
 

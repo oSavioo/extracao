@@ -1,0 +1,990 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas. 4 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R1020233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Engenharia de Produção\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 2,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmitidas pela água resulta não somente da inadequação dos serviços de saneamento, mas também da precariedade das condições de moradia da população em situação de vulnerabilidade. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5",
+    "observacao": null
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico.\nEngenharia de Produção 5"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R1020234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 4,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1\nA Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa",
+    "alternativas": {
+      "A": "proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.",
+      "B": "restringe o aprendizado ao que é legalmente estabelecido e útil ao ser humano, o que facilita seu modo de agir no mundo do conhecimento e do trabalho.",
+      "C": "promove a igualdade econômico-social ao substituir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.",
+      "D": "gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.",
+      "E": "estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7",
+    "observacao": null
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. Engenharia de Produção 7"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1020236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 7,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, mesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, são insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi a aprovação da reforma previdenciária de 2019, que modificou as regras de idade e contribuição para o acesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda maior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado atual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa faixa etária, denominado etarismo. Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de trabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua sustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no mercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da qualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de tecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III. 10 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1020239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Engenharia de Produção\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 8,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. A situação do encarceramento feminino por tráfico de drogas e outras situações que circundam o assunto foi tema de discussão da Secretaria de políticas sobre Drogas do Ministério da Justiça e Segurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com a participação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre drogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de encarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e primeira infância. Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em atividades do tráfico encontra-se em posições hierarquicamente inferiores, sendo classificadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, da divisão sexual do trabalho observada no mercado formal. PORQUE II. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela invisibilização com que as trata, seja por meio da violência institucional que reproduz a violência estrutural das relações sociais patriarcais. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11",
+    "observacao": null
+  },
+  {
+    "numero": 9,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. Os seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de desempenho e produção. São empresários de si mesmos. BYUNG-CHUL HAN. Sociedade do Cansaço. Petrópolis: Vozes, 2015 (adaptado). Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. Os recursos tecnológicos, como notificações de mensagens em tempo real e controle da velocidade de áudio em redes de mensagens, são fatores que podem contribuir para a precarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem a desativação de aplicativos e mecanismos de notificações instantâneas, bem como a fixação de horários para uso profissional e uso recreativo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso excessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento digital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no ambiente de trabalho. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. Engenharia de Produção 11"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R10202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 11\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 10,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "media",
+    "score_bloco": 125,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma das preocupações dos gestores de instituições bancárias é o tempo de permanência do cliente na agência. Considere que o tempo gasto por um cliente em um banco, entre meio-dia e uma hora da tarde, apresente o comportamento de uma distribuição de probabilidade uniforme entre 0 e 30 minutos.\nA probabilidade de que o tempo de permanência de um cliente esteja entre 5 e 20 minutos é, aproximadamente, de",
+    "alternativas": {
+      "A": "25%.",
+      "B": "33%.",
+      "C": "45%.",
+      "D": "50%.",
+      "E": "67%."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 10 \nUma das preocupações dos gestores de instituições bancárias é o tempo de permanência do cliente \nna agência. Considere que o tempo gasto por um cliente em um banco, entre meio-dia e uma hora da \ntarde, apresente o comportamento de uma distribuição de probabilidade uniforme entre 0 e 30 minutos.\nA probabilidade de que o tempo de permanência de um cliente esteja entre 5 e 20 minutos é, \naproximadamente, de\nA 25%.\nB 33%.\nC 45%.\nD 50%.\nE 67%.",
+    "observacao": null
+  },
+  {
+    "numero": 11,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "No Brasil, os principais produtos fabricados e comercializados por uma empresa são motosserras, roçadeiras e aparadores elétricos, cuja produção aproximada é de 50 000 unidades mensais. A empresa também produz cilindros para motores, fabricando em torno de 500 000 unidades por mês.\nQuanto à produção de cilindros para motores, identificou-se que a empresa compete na estratégia de liderança em custos, pois a produção é de alto volume, visto que esses produtos são destinados tanto para produção dos motores dos equipamentos produzidos internamente (motosserras, roçadeiras e aparadores elétricos) quanto para outras empresas que utilizam esses produtos no mercado interno e externo.\nNos mercados agropecuário, de jardinagem e florestal, foi identificado que a empresa compete na estratégia de diferenciação. Tratam-se de produtos com valor agregado, que, depois de produzidos, são comercializados diretamente aos consumidores em lojas próprias.\nPIRAN, F.A.S. et al. Posicionamento estratégico, estratégias de manufatura e gestão de custos: estudo de caso em uma empresa do segmento metalomecânico. Revista Contemporânea de Contabilidade. Florianópolis, v. 13, n. 28, p. 81-98, jan./abr., 2016 (adaptado).\nCom base no texto e na classificação das decisões de estratégias competitivas genéricas, Avalie as afirmações a seguir.\nI. A estratégia de liderança em custos baseia-se na obtenção de economia de escala, decorrente do uso dos cilindros em uma maior variedade de produtos.\nII. A diversidade de clientes que adquire os cilindros, evidencia que a empresa adota a estratégia competitiva genérica baseada no enfoque em custo.\nIII. A estratégia de diferenciação pode ser direcionada para alvos amplos ou estreitos, a depender dos segmentos de clientes que a empresa pretende alcançar.\nIV. A referida empresa adota estratégia com enfoque na diferenciação, pois comercializa produtos nos mercados agropecuário, de jardinagem e florestal. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV. 14 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 11 \nNo Brasil, os principais produtos fabricados e comercializados por uma empresa são motosserras, \nroçadeiras e aparadores elétricos, cuja produção aproximada é de 50 000 unidades mensais. A empresa \ntambém produz cilindros para motores, fabricando em torno de 500 000 unidades por mês.\nQuanto à produção de cilindros para motores, identificou-se que a empresa compete na estratégia de liderança \nem custos, pois a produção é de alto volume, visto que esses produtos são destinados tanto para produção \ndos motores dos equipamentos produzidos internamente (motosserras, roçadeiras e aparadores elétricos) \nquanto para outras empresas que utilizam esses produtos no mercado interno e externo.\nNos mercados agropecuário, de jardinagem e florestal, foi identificado que a empresa compete na \nestratégia de diferenciação. Tratam-se de produtos com valor agregado, que, depois de produzidos, \nsão comercializados diretamente aos consumidores em lojas próprias.\nPIRAN, F.A.S. et al. Posicionamento estratégico, estratégias de manufatura e gestão de custos: estudo de caso em uma \nempresa do segmento metalomecânico. Revista Contemporânea de Contabilidade. \nFlorianópolis, v. 13, n. 28, p. 81-98, jan./abr., 2016 (adaptado).\nCom base no texto e na classificação das decisões de estratégias competitivas genéricas, \navalie as afirmações a seguir.\nI. A estratégia de liderança em custos baseia-se na obtenção de economia de escala, decorrente do \nuso dos cilindros em uma maior variedade de produtos.\nII. A diversidade de clientes que adquire os cilindros, evidencia que a empresa adota a estratégia \ncompetitiva genérica baseada no enfoque em custo.\nIII. A estratégia de diferenciação pode ser direcionada para alvos amplos ou estreitos, a depender \ndos segmentos de clientes que a empresa pretende alcançar.\nIV. A referida empresa adota estratégia com enfoque na diferenciação, pois comercializa produtos \nnos mercados agropecuário, de jardinagem e florestal.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R10202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Engenharia de Produção",
+    "observacao": null
+  },
+  {
+    "numero": 12,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Com o crescimento do mercado de pet shop, os estabelecimentos especializados passaram a gerenciar elevados níveis de estoque. Diante disso, o gestor de um estabelecimento comercial do ramo pet shop contratou um estagiário de Engenharia de Produção para auxiliá-lo na gestão de estoques.\nPara calcular o ponto de reposição (demanda média durante o tempo de reposição mais o estoque de segurança) do item ração canina em embalagens de 15 kg, definiu um nível de serviço igual a 99%, sendo essa a probabilidade de não esgotar o estoque em qualquer ciclo de pedido.\nA partir dessas definições, o gestor realizou levantamento de dados relativos ao item, e obteve os dados apresentados na tabela a seguir. Quantidade Unidade\nDemanda diária média 160 Embalagem de 15 kg\nDesvio padrão da demanda diária 25 Embalagem de 15 kg\nTempo de reposição 3 Dia\nApós seis meses de implantação do serviço o gestor percebeu que poderia reduzi-lo para 85%.\nCom relação à essa situação hipotética, considere que a demanda do item está distribuída normalmente e, portanto, o estoque de segurança é obtido pelo produto do número de desvios padrão (z), associado ao nível de serviço definido, e o desvio padrão da demanda durante o tempo de reposição. Nesse caso, o desvio padrão do tempo de reposição é igual a 43 unidades.\nA tabela da distribuição normal é apresentada a seguir.\nTabela da distribuição Normal Padrão\nP (Z < z)\nz Z\nSegunda decimal de z\n0 1 2 3 4 5 6 7 8 9\nParte inteira e primeira decimal de z\n0,0 0,5000 0,5040 0,5080 0,5120 0,5160 0,5199 0,5239 0,5279 0,5319 0,5359\n0,1 0,5398 0,5438 0,5478 0,5517 0,5557 0,5596 0,5636 0,5675 0,5714 0,5753\n0,2 0,5793 0,5832 0,5871 0,5910 0,5948 0,5987 0,6026 0,6064 0,6103 0,6141\n0,3 0,6179 0,6217 0,6255 0,6293 0,6331 0,6368 0,6406 0,6443 0,6480 0,6517\n0,4 0,6554 0,6591 0,6628 0,6664 0,6700 0,6736 0,6772 0,6808 0,6844 0,6879\n0,5 0,6915 0,6950 0,6985 0,7019 0,7054 0,7088 0,7123 0,7157 0,7190 0,7224\n0,6 0,7257 0,7291 0,7324 0,7357 0,7389 0,7422 0,7454 0,7486 0,7517 0,7549\n0,7 0,7580 0,7611 0,7642 0,7673 0,7704 0,7734 0,7764 0,7794 0,7823 0,7852\n0,8 0,7881 0,7910 0,7939 0,7967 0,7995 0,8023 0,8051 0,8078 0,8106 0,8133\n0,9 0,8159 0,8186 0,8212 0,8238 0,8264 0,8289 0,8315 0,8340 0,8365 0,8389\n1,0 0,8413 0,8438 0,8461 0,8485 0,8508 0,8531 0,8554 0,8577 0,8599 0,8621\nEngenharia de Produção 15\nSegunda decimal de z\n0 1 2 3 4 5 6 7 8 9\nParte inteira e primeira decimal de z\n1,1 0,8643 0,8665 0,8686 0,8708 0,8729 0,8749 0,8770 0,8790 0,8810 0,8830\n1,2 0,8849 0,8869 0,8888 0,8907 0,8925 0,8944 0,8962 0,8980 0,8997 0,9015\n1,3 0,9032 0,9049 0,9066 0,9082 0,9099 0,9115 0,9131 0,9147 0,9162 0,9177\n1,4 0,9192 0,9207 0,9222 0,9236 0,9251 0,9265 0,9279 0,9292 0,9376 0,9319\n1,5 0,9332 0,9345 0,9357 0,9370 0,9382 0,9394 0,9406 0,9418 0,9429 0,9441\n1,6 0,9452 0,9463 0,9474 0,9484 0,9495 0,9505 0,9515 0,9525 0,9535 0,9545\n1,7 0,9554 0,9564 0,9573 0,9582 0,9591 0,9599 0,9608 0,9616 0,9625 0,9633\n1,8 0,9641 0,9649 0,9656 0,9664 0,9671 0,9678 0,9686 0,9693 0,9699 0,9706\n1,9 0,9713 0,9719 0,9726 0,9732 0,9738 0,9744 0,9750 0,9756 0,9761 0,9767\n2,0 0,9772 0,9778 0,9783 0,9788 0,9793 0,9798 0,9803 0,9808 0,9812 0,9817\n2,1 0,9821 0,9826 0,9830 0,9834 0,9838 0,9842 0,9846 0,9850 0,9854 0,9857\n2,2 0,9861 0,9864 0,9868 0,9871 0,9875 0,9878 0,9881 0,9884 0,9887 0,9890\n2,3 0,9893 0,9896 0,9898 0,9901 0,9904 0,9906 0,9909 0,9911 0,9913 0,9916\n2,4 0,9918 0,9920 0,9922 0,9925 0,9927 0,9929 0,9931 0,9932 0,9934 0,9936\n2,5 0,9938 0,9940 0,9941 0,9943 0,9945 0,9946 0,9948 0,9949 0,9951 0,9952\n2,6 0,9953 0,9955 0,9956 0,9957 0,9959 0,9960 0,9961 0,9962 0,9963 0,9964\n2,7 0,9965 0,9966 0,9967 0,9968 0,9969 0,9970 0,9971 0,9972 0,9973 0,9974\n2,8 0,9974 0,9975 0,9976 0,9977 0,9977 0,9978 0,9979 0,9979 0,9980 0,9981\n2,9 0,9981 0,9982 0,9982 0,9983 0,9984 0,9984 0,9985 0,9985 0,9986 0,9986\n3,0 0,9987 0,9987 0,9988 0,9988 0,9989 0,9989 0,9989 0,9989 0,9990 0,9990\n3,1 0,9990 0,9991 0,9991 0,9991 0,9992 0,9992 0,9992 0,9992 0,9993 0,9993\n3,2 0,9993 0,9993 0,9994 0,9994 0,9994 0,9994 0,9994 0,9995 0,9995 0,9995\n3,3 0,9995 0,9995 0,9995 0,9996 0,9996 0,9996 0,9996 0,9996 0,9996 0,9997\n3,4 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9998\n3,5 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998\n3,6 0,9998 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,7 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,8 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,9 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 Considerando as informações apresentadas, assinale a opção correta.",
+    "alternativas": {
+      "A": "A demanda média no tempo de reposição é de 320 unidades.",
+      "B": "O ponto de reposição para o nível de serviço de 85% é de 400 unidades.",
+      "C": "O estoque de segurança para o nível de serviço de 99% é de 120 unidades.",
+      "D": "O ponto de reposição teve redução em cerca de 40 unidades, após a diminuição do nível de serviço de 99% para 85%.",
+      "E": "O estoque de segurança foi aumentado em mais de 45 unidades, em razão da redução do nível de serviço de 99% para 85%.\n16 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 12 \nCom o crescimento do mercado de pet shop, os estabelecimentos especializados passaram a gerenciar \nelevados níveis de estoque. Diante disso, o gestor de um estabelecimento comercial do ramo pet shop \ncontratou um estagiário de Engenharia de Produção para auxiliá-lo na gestão de estoques.\nPara calcular o ponto de reposição (demanda média durante o tempo de reposição mais o estoque \nde segurança) do item ração canina em embalagens de 15 kg, definiu um nível de serviço igual a 99%, \nsendo essa a probabilidade de não esgotar o estoque em qualquer ciclo de pedido.\nA partir dessas definições, o gestor realizou levantamento de dados relativos ao item, e obteve os dados \napresentados na tabela a seguir.\n Quantidade Unidade\nDemanda diária média 160 Embalagem de 15 kg\nDesvio padrão da demanda diária 25 Embalagem de 15 kg\nTempo de reposição 3 Dia\nApós seis meses de implantação do serviço o gestor percebeu que poderia reduzi-lo para 85%.\nCom relação à essa situação hipotética, considere que a demanda do item está distribuída normalmente \ne, portanto, o estoque de segurança é obtido pelo produto do número de desvios padrão (z), associado \nao nível de serviço definido, e o desvio padrão da demanda durante o tempo de reposição. Nesse caso, \no desvio padrão do tempo de reposição é igual a 43 unidades.\nA tabela da distribuição normal é apresentada a seguir.\nTabela da distribuição Normal Padrão\nP (Z < z)\nz Z\nSegunda decimal de z\n0 1 2 3 4 5 6 7 8 9\nParte inteira e primeira decimal de z\n0,0 0,5000 0,5040 0,5080 0,5120 0,5160 0,5199 0,5239 0,5279 0,5319 0,5359\n0,1 0,5398 0,5438 0,5478 0,5517 0,5557 0,5596 0,5636 0,5675 0,5714 0,5753\n0,2 0,5793 0,5832 0,5871 0,5910 0,5948 0,5987 0,6026 0,6064 0,6103 0,6141\n0,3 0,6179 0,6217 0,6255 0,6293 0,6331 0,6368 0,6406 0,6443 0,6480 0,6517\n0,4 0,6554 0,6591 0,6628 0,6664 0,6700 0,6736 0,6772 0,6808 0,6844 0,6879\n0,5 0,6915 0,6950 0,6985 0,7019 0,7054 0,7088 0,7123 0,7157 0,7190 0,7224\n0,6 0,7257 0,7291 0,7324 0,7357 0,7389 0,7422 0,7454 0,7486 0,7517 0,7549\n0,7 0,7580 0,7611 0,7642 0,7673 0,7704 0,7734 0,7764 0,7794 0,7823 0,7852\n0,8 0,7881 0,7910 0,7939 0,7967 0,7995 0,8023 0,8051 0,8078 0,8106 0,8133\n0,9 0,8159 0,8186 0,8212 0,8238 0,8264 0,8289 0,8315 0,8340 0,8365 0,8389\n1,0 0,8413 0,8438 0,8461 0,8485 0,8508 0,8531 0,8554 0,8577 0,8599 0,8621\n0\n*R10202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 15\nSegunda decimal de z\n0 1 2 3 4 5 6 7 8 9\nParte inteira e primeira decimal de z\n1,1 0,8643 0,8665 0,8686 0,8708 0,8729 0,8749 0,8770 0,8790 0,8810 0,8830\n1,2 0,8849 0,8869 0,8888 0,8907 0,8925 0,8944 0,8962 0,8980 0,8997 0,9015\n1,3 0,9032 0,9049 0,9066 0,9082 0,9099 0,9115 0,9131 0,9147 0,9162 0,9177\n1,4 0,9192 0,9207 0,9222 0,9236 0,9251 0,9265 0,9279 0,9292 0,9376 0,9319\n1,5 0,9332 0,9345 0,9357 0,9370 0,9382 0,9394 0,9406 0,9418 0,9429 0,9441\n1,6 0,9452 0,9463 0,9474 0,9484 0,9495 0,9505 0,9515 0,9525 0,9535 0,9545\n1,7 0,9554 0,9564 0,9573 0,9582 0,9591 0,9599 0,9608 0,9616 0,9625 0,9633\n1,8 0,9641 0,9649 0,9656 0,9664 0,9671 0,9678 0,9686 0,9693 0,9699 0,9706\n1,9 0,9713 0,9719 0,9726 0,9732 0,9738 0,9744 0,9750 0,9756 0,9761 0,9767\n2,0 0,9772 0,9778 0,9783 0,9788 0,9793 0,9798 0,9803 0,9808 0,9812 0,9817\n2,1 0,9821 0,9826 0,9830 0,9834 0,9838 0,9842 0,9846 0,9850 0,9854 0,9857\n2,2 0,9861 0,9864 0,9868 0,9871 0,9875 0,9878 0,9881 0,9884 0,9887 0,9890\n2,3 0,9893 0,9896 0,9898 0,9901 0,9904 0,9906 0,9909 0,9911 0,9913 0,9916\n2,4 0,9918 0,9920 0,9922 0,9925 0,9927 0,9929 0,9931 0,9932 0,9934 0,9936\n2,5 0,9938 0,9940 0,9941 0,9943 0,9945 0,9946 0,9948 0,9949 0,9951 0,9952\n2,6 0,9953 0,9955 0,9956 0,9957 0,9959 0,9960 0,9961 0,9962 0,9963 0,9964\n2,7 0,9965 0,9966 0,9967 0,9968 0,9969 0,9970 0,9971 0,9972 0,9973 0,9974\n2,8 0,9974 0,9975 0,9976 0,9977 0,9977 0,9978 0,9979 0,9979 0,9980 0,9981\n2,9 0,9981 0,9982 0,9982 0,9983 0,9984 0,9984 0,9985 0,9985 0,9986 0,9986\n3,0 0,9987 0,9987 0,9988 0,9988 0,9989 0,9989 0,9989 0,9989 0,9990 0,9990\n3,1 0,9990 0,9991 0,9991 0,9991 0,9992 0,9992 0,9992 0,9992 0,9993 0,9993\n3,2 0,9993 0,9993 0,9994 0,9994 0,9994 0,9994 0,9994 0,9995 0,9995 0,9995\n3,3 0,9995 0,9995 0,9995 0,9996 0,9996 0,9996 0,9996 0,9996 0,9996 0,9997\n3,4 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9997 0,9998\n3,5 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998 0,9998\n3,6 0,9998 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,7 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,8 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999 0,9999\n3,9 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000 1,0000\nConsiderando as informações apresentadas, assinale a opção correta.\nA A demanda média no tempo de reposição é de 320 unidades.\nB O ponto de reposição para o nível de serviço de 85% é de 400 unidades.\nC O estoque de segurança para o nível de serviço de 99% é de 120 unidades.\nD O ponto de reposição teve redução em cerca de 40 unidades, após a diminuição do nível de serviço \nde 99% para 85%.\nE O estoque de segurança foi aumentado em mais de 45 unidades, em razão da redução do nível \nde serviço de 99% para 85%.\n*R10202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 13,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "As estacas pré-fabricadas de concreto são cravadas no terreno para a execução das fundações em profundidades suficientes para absorver as cargas estruturais. As peças podem ser fabricadas em qualquer forma geométrica em sua seção transversal.\nA tabela a seguir indica a demanda, a previsão de demanda pelo método da suavização exponencial, com parâmetro suavizador de 0,6, o erro da previsão, o erro absoluto e o sinal de rastreamento para a estaca de 420 mm para um período de 20 dias.\nTabela – Dados sobre a demanda de uma estaca de 420 mm\nDia Demanda Previsão Erro de Previsão Erro Absoluto Sinal de Rastreamento\n1 240 220 20 20 1,0\n2 170 232 -62 62 -0,3\n3 230 195 35 35 -0,1\n4 210 216 -6 6 -0,5\n5 220 212 8 8 -0,1\n6 235 217 18 18 0,1\n7 190 228 -38 38 -0,1\n8 200 205 -5 5 -0,7\n9 205 202 3 3 -1,0\n10 220 204 16 16 -0,1\n11 245 214 31 31 0,1\n12 180 232 -52 52 -0,1\n13 245 201 44 44 0,0\n14 225 227 -2 2 0,3\n15 200 226 -26 26 0,0\n16 260 210 50 50 0,0\n17 190 240 -50 50 0,0\n18 180 210 -30 30 -0,1\n19 200 192 8 8 -0,3\n20 230 197 33 33 0,0\nTotais 4 275 4 280 -5 537\nNa tabela, o erro de previsão tem distribuição aproximadamente normal, com média zero ao nível de confiança de 95%, o que possibilita o monitoramento do sinal de rastreamento do modelo de previsão por meio do gráfico de controle a seguir.\nEngenharia de Produção 17\n1,5\n1,0\n0,5\n0,0\n-0,5\n-1,0\n-1,5\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20\nGráﬁco – Sinal de Rastreamento\nSinal de Rastreamento LC LIC LSC\nCom base nos dados apresentados, Avalie as afirmações a seguir.\nI. O sinal de rastreamento indica que o modelo de previsão rastreia a variação da demanda.\nII. O desvio médio absoluto (MAD) para o período de 20 dias é de aproximadamente -0,4.\nIII. O MAD para o período de 20 dias é de aproximadamente 27.\nIV. A previsão da demanda para o dia 21 é de aproximadamente 217 estacas. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "II e IV.",
+      "C": "III e IV.",
+      "D": "I, II e III.",
+      "E": "I, III e IV. 18 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 13 \nAs estacas pré-fabricadas de concreto são cravadas no terreno para a execução das fundações em \nprofundidades suficientes para absorver as cargas estruturais. As peças podem ser fabricadas em \nqualquer forma geométrica em sua seção transversal.\nA tabela a seguir indica a demanda, a previsão de demanda pelo método da suavização exponencial, \ncom parâmetro suavizador de 0,6, o erro da previsão, o erro absoluto e o sinal de rastreamento para a \nestaca de 420 mm para um período de 20 dias.\nTabela – Dados sobre a demanda de uma estaca de 420 mm\nDia Demanda Previsão Erro de Previsão Erro Absoluto Sinal de Rastreamento\n1 240 220 20 20 1,0\n2 170 232 -62 62 -0,3\n3 230 195 35 35 -0,1\n4 210 216 -6 6 -0,5\n5 220 212 8 8 -0,1\n6 235 217 18 18 0,1\n7 190 228 -38 38 -0,1\n8 200 205 -5 5 -0,7\n9 205 202 3 3 -1,0\n10 220 204 16 16 -0,1\n11 245 214 31 31 0,1\n12 180 232 -52 52 -0,1\n13 245 201 44 44 0,0\n14 225 227 -2 2 0,3\n15 200 226 -26 26 0,0\n16 260 210 50 50 0,0\n17 190 240 -50 50 0,0\n18 180 210 -30 30 -0,1\n19 200 192 8 8 -0,3\n20 230 197 33 33 0,0\nTotais 4 275 4 280 -5 537\nNa tabela, o erro de previsão tem distribuição aproximadamente normal, com média zero ao nível de \nconfiança de 95%, o que possibilita o monitoramento do sinal de rastreamento do modelo de previsão \npor meio do gráfico de controle a seguir.\n*R10202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 17\n1,5\n1,0\n0,5\n0,0\n-0,5\n-1,0\n-1,5\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20\nGráﬁco – Sinal de Rastreamento\nSinal de Rastreamento LC LIC LSC\nCom base nos dados apresentados, avalie as afirmações a seguir.\nI. O sinal de rastreamento indica que o modelo de previsão rastreia a variação da demanda.\nII. O desvio médio absoluto (MAD) para o período de 20 dias é de aproximadamente -0,4.\nIII. O MAD para o período de 20 dias é de aproximadamente 27.\nIV. A previsão da demanda para o dia 21 é de aproximadamente 217 estacas.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, III e IV.\n*R10202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 14,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma pequena fábrica, que produz artefatos plásticos injetados, possui três máquinas injetoras em suas instalações. Todas as máquinas têm a mesma capacidade de processamento e se encontram em plena operação. No entanto, clientes começaram a reclamar da qualidade dos produtos, pois, em muitos casos, as peças rachavam ao sofrerem pequenas quedas. A fim de verificar o ajuste das injetoras, foram selecionadas aleatoriamente 8 peças injetadas de cada máquina e, subsequentemente, o ensaio de resistência ao impacto foi conduzido em tais peças.\nOs resultados experimentais são apresentados por meio do diagrama boxplot a seguir.\nDiagrama boxplot para a propriedade de resistência ao impacto de peças injetadas produzidas por diferentes injetoras da fábrica\nResistência ao impacto (J/m)\nMáquina 1 Máquina 2 Máquina 3\nA análise da figura permite concluir, comparativamente, que",
+    "alternativas": {
+      "A": "a máquina 3 apresenta um melhor ajuste em relação à máquina 2, pois as peças injetadas exibem maior resistência ao impacto.",
+      "B": "a máquina 3 é a que apresenta o melhor ajuste entre as máquinas da fábrica, pois fornece as peças injetadas de maior resistência ao impacto.",
+      "C": "a máquina 1 apresenta um melhor ajuste em relação à máquina 2, pois é capaz de produzir 50% das peças injetadas com propriedade de resistência ao impacto superior a 19 J/m.",
+      "D": "a máquina 3 é a que apresenta o pior ajuste dentre as máquinas da fábrica, pois é capaz de produzir 50% das peças injetadas com propriedade de resistência ao impacto inferior a 17 J/m.",
+      "E": "a máquina 2 é a que apresenta o pior ajuste dentre as máquinas da fábrica, pois os dados experimentais para a resistência ao impacto são os que exibem o maior intervalo interquartílico.\nEngenharia de Produção 19"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 14 \nUma pequena fábrica, que produz artefatos plásticos injetados, possui três máquinas injetoras em \nsuas instalações. Todas as máquinas têm a mesma capacidade de processamento e se encontram \nem plena operação. No entanto, clientes começaram a reclamar da qualidade dos produtos, \npois, em muitos casos, as peças rachavam ao sofrerem pequenas quedas. A fim de verificar o \najuste das injetoras, foram selecionadas aleatoriamente 8 peças injetadas de cada máquina e, \nsubsequentemente, o ensaio de resistência ao impacto foi conduzido em tais peças.\nOs resultados experimentais são apresentados por meio do diagrama boxplot a seguir.\nDiagrama boxplot para a propriedade de resistência ao impacto de peças injetadas produzidas por \ndiferentes injetoras da fábrica\nResistência ao impacto (J/m)\nMáquina 1 Máquina 2 Máquina 3\n30\n25\n20\n15\n10\nA análise da figura permite concluir, comparativamente, que\nA a máquina 3 apresenta um melhor ajuste em relação à máquina 2, pois as peças injetadas exibem \nmaior resistência ao impacto.\nB a máquina 3 é a que apresenta o melhor ajuste entre as máquinas da fábrica, pois fornece as peças \ninjetadas de maior resistência ao impacto.\nC a máquina 1 apresenta um melhor ajuste em relação à máquina 2, pois é capaz de produzir 50% das \npeças injetadas com propriedade de resistência ao impacto superior a 19 J/m. \nD a máquina 3 é a que apresenta o pior ajuste dentre as máquinas da fábrica, pois é capaz de produzir \n50% das peças injetadas com propriedade de resistência ao impacto inferior a 17 J/m.\nE a máquina 2 é a que apresenta o pior ajuste dentre as máquinas da fábrica, pois os dados \nexperimentais para a resistência ao impacto são os que exibem o maior intervalo interquartílico.\n*R10202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 19",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 15,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Suponha que Leandro e seu irmão tenham resolvido fazer um macarrão ao alho e óleo seguindo a sequência representada no diagrama de rede a seguir, com os tempos das atividades dados em minutos.\nInício\nT1 = 0\nCortar o\nalho\nT3 = 2\nFerver a\nágua\nT2 = 6\nTemperar\no macarrão\nT7 = 3\nTirar a\nágua do\nmacarrão\nT6 = 3\nColocar o\nmacarrão\nna água\nT5 = 5\nFim\nT9 = 0\nT8 = 2\nRalar o\nqueijo sobre o macarrão\nRefogar o\nalho\nT4 = 4\nConsiderando que esse diagrama de rede foi seguido corretamente, Avalie as afirmações a seguir.\nI. O macarrão ao alho e óleo levou, no mínimo, 19 minutos para ficar pronto.\nII. O caminho que inclui as atividades de cortar o alho e refogar o alho é um caminho não crítico.\nIII. A atividade de temperar o macarrão somente pode ser realizada após a atividade de ferver a água. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. 20 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 15 \nSuponha que Leandro e seu irmão tenham resolvido fazer um macarrão ao alho e óleo seguindo a \nsequência representada no diagrama de rede a seguir, com os tempos das atividades dados em minutos.\nInício\nT1 = 0\nCortar o\nalho\nT3 = 2\nFerver a\nágua\nT2 = 6\nTemperar\no macarrão\nT7 = 3\nTirar a\nágua do\nmacarrão\nT6 = 3\nColocar o\nmacarrão\nna água\nT5 = 5\nFim\nT9 = 0\nT8 = 2\nRalar o\nqueijo \nsobre o \nmacarrão\nRefogar o\nalho\nT4 = 4\nConsiderando que esse diagrama de rede foi seguido corretamente, avalie as afirmações a seguir.\nI. O macarrão ao alho e óleo levou, no mínimo, 19 minutos para ficar pronto.\nII. O caminho que inclui as atividades de cortar o alho e refogar o alho é um caminho não crítico.\nIII. A atividade de temperar o macarrão somente pode ser realizada após a atividade de ferver a água.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R10202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 16,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "media",
+    "score_bloco": 125,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "PERT (Program Evaluation and Review Technique) e CPM (Critical Path Method) são técnicas utilizadas na gestão de projetos que foram desenvolvidas na década de 1950.\nNo diagrama a seguir estão representadas as atividades, e suas respectivas durações em dias, para a instalação de um equipamento de produção.\nA 3 3\n5 6\nD E B C H\nM\nK\nI\nG\nF\nL\nJ\nAssinale a alternativa que indica a folga, em dias, do caminho que inclui as atividades A, D e J.",
+    "alternativas": {
+      "A": "3.",
+      "B": "8.",
+      "C": "13.",
+      "D": "15.",
+      "E": "18."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 16 \nPERT (Program Evaluation and Review Technique) e CPM (Critical Path Method) são técnicas utilizadas \nna gestão de projetos que foram desenvolvidas na década de 1950.\nNo diagrama a seguir estão representadas as atividades, e suas respectivas durações em dias, \npara a instalação de um equipamento de produção.\nA\n3 3\n2\n2\n2\n2\n4\n4\n5\n5 6\n5\n5\n1\n2\n3\n4\n5\n6\n7\n8\nD\nE\nB\nC H\nM\nK\nI\nG\nF\nL\nJ\nAssinale a alternativa que indica a folga, em dias, do caminho que inclui as atividades A, D e J.\nA 3.\nB 8.\nC 13.\nD 15.\nE 18.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 17,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O quadro a seguir lista as atividades de um projeto, com suas durações e a indicação das atividades predecessoras.\nAtividades Duração (dias) Predecessoras",
+    "alternativas": {
+      "A": "3 -",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "F 3 D\nG 2 E, F\nDe acordo com o cronograma apresentado, o tempo para completar o projeto, em dias, corresponde a\nA 15.\nB 16.\nC 17.\nD 18.\nE 19.\nEngenharia de Produção 21"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 17 \nO quadro a seguir lista as atividades de um projeto, com suas durações e a indicação das atividades \npredecessoras.\nAtividades Duração (dias) Predecessoras\nA 3 -\nB 4 A\nC 2 B\nD 5 B\nE 4 C\nF 3 D\nG 2 E, F\nDe acordo com o cronograma apresentado, o tempo para completar o projeto, em dias, corresponde a\nA 15.\nB 16.\nC 17.\nD 18.\nE 19.\n*R10202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 21",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 18,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A tabela a seguir apresenta os resultados de demanda real e quatro estimativas de previsão de demanda de uma empresa fabricante de bens de capital. A primeira estimativa de previsão de demanda foi obtida por meio da média móvel dos últimos três meses (n = 3) a segunda, pela média exponencial (alfa = 0,5), as duas últimas estimativas foram obtidas considerando-se médias móvel e exponencial, ambas com sazonalidade (SZ).\nMês Demanda Previsão (n = 3)\nPrevisão (alfa = 0,5)\nPrevisão\n(n = 3, com SZ.)\nPrevisão\n(alfa = 0,5, com SZ)\nJan. 43 43 42 41 41\nFev. 53 43 43 46 46\nMar. 65 50 47 55 58\nAbr. 69 60 54 65 73 Maio 65 66 62 73 78 Jun. 53 65 66 71 70 Jul. 43 57 62 60 55 Ago. 34 48 54 46 41 Set. 31 39 43 35 31 Out. 34 33 36 31 29 Nov. 38 34 33 30 30 Dez. 43 37 34 33 35 Erro acumulado -4 -5 -15 -16\nDesvio médio absoluto 7,8 10,6 8,6 7,5\nTracking signal -0,51 -0,47 -1,7 -2,1\nConsiderando os dados da tabela, assinale a opção correta.",
+    "alternativas": {
+      "A": "A adoção de qualquer um dos modelos de previsão apresentados é elegível para uma restrição -3 < tracking signal < 3.",
+      "B": "O tracking signal apresenta valor negativo em todas as estimativas, para essa empresa, nenhum dos modelos de previsão utilizados foi adequado.",
+      "C": "O uso de médias exponenciais deve ser evitado quando se tem mais de um dado real de demanda, pois, nesses modelos, considera-se apenas um valor real de demanda.",
+      "D": "O modelo de média exponencial com sazonalidade apresentou o menor tracking signal, a empresa deve adotar esse modelo para a previsão da demanda do produto, cujo indicador é otimizante.",
+      "E": "O modelo de média exponencial com sazonalidade, obteve o menor erro acumulado, sendo esse, portanto, o modelo mais indicado, pois os erros de subestimação e superestimação da demanda estão se compensando.\n22 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 18 \nA tabela a seguir apresenta os resultados de demanda real e quatro estimativas de previsão de \ndemanda de uma empresa fabricante de bens de capital. A primeira estimativa de previsão de demanda \nfoi obtida por meio da média móvel dos últimos três meses (n = 3) a segunda, pela média exponencial \n(alfa = 0,5), as duas últimas estimativas foram obtidas considerando-se médias móvel e exponencial, \nambas com sazonalidade (SZ).\nMês Demanda Previsão \n(n = 3)\nPrevisão \n(alfa = 0,5)\nPrevisão\n(n = 3, com SZ.)\nPrevisão\n(alfa = 0,5, com SZ)\nJan. 43 43 42 41 41\nFev. 53 43 43 46 46\nMar. 65 50 47 55 58\nAbr. 69 60 54 65 73 \nMaio 65 66 62 73 78 \nJun. 53 65 66 71 70 \nJul. 43 57 62 60 55 \nAgo. 34 48 54 46 41 \nSet. 31 39 43 35 31 \nOut. 34 33 36 31 29 \nNov. 38 34 33 30 30 \nDez. 43 37 34 33 35 \nErro acumulado -4 -5 -15 -16\nDesvio médio absoluto 7,8 10,6 8,6 7,5\nTracking signal -0,51 -0,47 -1,7 -2,1\nConsiderando os dados da tabela, assinale a opção correta.\nA A adoção de qualquer um dos modelos de previsão apresentados é elegível para uma restrição \n-3 < tracking signal < 3.\nB O tracking signal apresenta valor negativo em todas as estimativas, logo para essa empresa, nenhum \ndos modelos de previsão utilizados foi adequado.\nC O uso de médias exponenciais deve ser evitado quando se tem mais de um dado real de demanda, \npois, nesses modelos, considera-se apenas um valor real de demanda.\nD O modelo de média exponencial com sazonalidade apresentou o menor tracking signal , logo \na empresa deve adotar esse modelo para a previsão da demanda do produto, cujo indicador \né otimizante.\nE O modelo de média exponencial com sazonalidade, obteve o menor erro acumulado, sendo esse, \nportanto, o modelo mais indicado, pois os erros de subestimação e superestimação da demanda \nestão se compensando.\n*R10202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 19,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma empresa automobilística fabrica carros de passeio em três cores: branco, preto e cinza. A unidade fabril dessa empresa conta com três centros de trabalho: estruturação, pintura e acabamento, que operam em dois turnos de oito horas cada. A demanda agregada para este mês foi de 200 carros de passeio, e o setor de vendas prevê que a demanda irá aumentar 10% ao mês durante o próximo semestre. O engenheiro de produção responsável pela análise da capacidade acredita que os centros de trabalho para pintura e acabamento estão ociosos e, por isso, está preocupado momentaneamente apenas com o centro de estruturação, conforme evidencia a tabela 1.\nTabela 1 – Tempo gasto, em horas, na produção de cada veículo na estruturação\nBranco Preto Cinza\nEstruturação 1 1,5 0,5\nConsidere ainda que a demanda por carros de passeio segue a distribuição apresentada na tabela 2.\nTabela 2 – Demanda de carros por cor\nBranco Preto Cinza\nCarros de passeio 50% 40% 10%\nNesse contexto, e considerando que o mês útil tenha sempre 20 dias, avalie as asserções a seguir e a relação proposta entre elas.\nI. A empresa, no próximo mês, precisará traçar um plano de aumento da capacidade produtiva do centro de trabalho de estruturação, com o objetivo de atender ao crescimento de sua demanda. PORQUE II. Um aumento na demanda exigirá maior utilização do centro de trabalho de estruturação, consumindo um tempo maior de produção. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas.\nEngenharia de Produção 23"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 19 \nUma empresa automobilística fabrica carros de passeio em três cores: branco, preto e cinza. A unidade \nfabril dessa empresa conta com três centros de trabalho: estruturação, pintura e acabamento, que operam \nem dois turnos de oito horas cada. A demanda agregada para este mês foi de 200 carros de passeio, \ne o setor de vendas prevê que a demanda irá aumentar 10% ao mês durante o próximo semestre. \nO engenheiro de produção responsável pela análise da capacidade acredita que os centros de trabalho \npara pintura e acabamento estão ociosos e, por isso, está preocupado momentaneamente apenas com o \ncentro de estruturação, conforme evidencia a tabela 1.\nTabela 1 – Tempo gasto, em horas, na produção de cada veículo na estruturação\nBranco Preto Cinza\nEstruturação 1 1,5 0,5\nConsidere ainda que a demanda por carros de passeio segue a distribuição apresentada na tabela 2.\nTabela 2 – Demanda de carros por cor\nBranco Preto Cinza\nCarros de passeio 50% 40% 10%\nNesse contexto, e considerando que o mês útil tenha sempre 20 dias, avalie as asserções a seguir e a \nrelação proposta entre elas.\nI. A empresa, no próximo mês, precisará traçar um plano de aumento da capacidade produtiva do \ncentro de trabalho de estruturação, com o objetivo de atender ao crescimento de sua demanda.\nPORQUE\nII. Um aumento na demanda exigirá maior utilização do centro de trabalho de estruturação, \nconsumindo um tempo maior de produção.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R10202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 23",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 20,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A tabela a seguir apresenta o histórico de consumo de um item em uma empresa.\nMês Unidades\nmarço 60\nabril 70\nmaio 85\njunho 88\njulho 94\nagosto 98\nsetembro 98\noutubro 102\nnovembro 105\ndezembro 111\nCom base nos dados apresentados e considerando que os estudos acerca de estoques dependem da previsão do consumo de material, assinale a opção correta.",
+    "alternativas": {
+      "A": "Na previsão de consumo para meses futuros, visando reduzir a influência do baixo consumo nos meses de março e abril, pode-se utilizar o método da média móvel ponderada, caracterizado pela aplicação de pesos maiores aos dados de consumo mais recentes e pesos menores aos dados mais antigos.",
+      "B": "No método da média móvel, a previsão do próximo período é calculada pela média do consumo dos períodos anteriores, obtendo-se valores menores que os ocorridos nos últimos períodos, caso o consumo tenha tendências decrescentes, e maiores se o consumo tiver tendências crescentes.",
+      "C": "No método da média com ponderação exponencial, apenas o consumo dos meses de julho e dezembro deve ser utilizado na fórmula de cálculo da previsão do consumo para o próximo mês, janeiro.",
+      "D": "No método da média móvel para três períodos, a previsão de consumo para o próximo mês, janeiro, é superior a 111 unidades, dada a tendência crescente de consumo.",
+      "E": "No método do último período, a previsão de consumo para o próximo mês, janeiro, é de 70 unidades.\n24 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 20 \nA tabela a seguir apresenta o histórico de consumo de um item em uma empresa.\nMês Unidades\nmarço 60\nabril 70\nmaio 85\njunho 88\njulho 94\nagosto 98\nsetembro 98\noutubro 102\nnovembro 105\ndezembro 111\nCom base nos dados apresentados e considerando que os estudos acerca de estoques dependem da \nprevisão do consumo de material, assinale a opção correta.\nA Na previsão de consumo para meses futuros, visando reduzir a influência do baixo consumo nos \nmeses de março e abril, pode-se utilizar o método da média móvel ponderada, caracterizado pela \naplicação de pesos maiores aos dados de consumo mais recentes e pesos menores aos dados mais \nantigos. \nB No método da média móvel, a previsão do próximo período é calculada pela média do consumo \ndos períodos anteriores, obtendo-se valores menores que os ocorridos nos últimos períodos, caso o \nconsumo tenha tendências decrescentes, e maiores se o consumo tiver tendências crescentes. \nC No método da média com ponderação exponencial, apenas o consumo dos meses de julho \ne dezembro deve ser utilizado na fórmula de cálculo da previsão do consumo para o \npróximo mês, janeiro.\nD No método da média móvel para três períodos, a previsão de consumo para o próximo mês, \njaneiro, é superior a 111 unidades, dada a tendência crescente de consumo.\nE No método do último período, a previsão de consumo para o próximo mês, janeiro, é de \n70 unidades.\n*R10202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 21,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma fábrica planeja aumentar sua capacidade de produção para atender ao crescimento da demanda previsto para os próximos anos. Após considerar uma dezena de pacotes tecnológicos, o gerente de produção definiu três alternativas tecnológicas, com características diferentes de custo fixo anual, custo variável por unidade e volume de produção anual.\nSabendo que o custo total anual = custo fixo anual + custo variável por unidade × volume de produção anual, analise o gráfico a seguir, que representa a relação custo x volume das três tecnologias avaliadas.\nV1 V2 V3\nCustos totais anuais Tecnologia 1\nTecnologia 2\nTecnologia 3\nVolume de produção anual\nSobre a análise de viabilidade econômica das tecnologias avaliadas nos níveis de produção V1, V2 e V3, assinale a opção correta.",
+    "alternativas": {
+      "A": "Para volumes acima de V2 e abaixo de V3, a tecnologia 1 é a escolha preferencial.",
+      "B": "Para volumes abaixo de V1, a tecnologia 3 apresenta o melhor resultado econômico.",
+      "C": "Para volumes entre V1 e V3, a tecnologia 2 apresenta o melhor resultado econômico.",
+      "D": "Para volumes abaixo de V2 e acima de V3, a tecnologia 1 apresenta custos totais menores.",
+      "E": "Para volumes acima de V3, a tecnologia 1 apresenta um melhor resultado econômico do que as demais.\nEngenharia de Produção 25"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 21 \nUma fábrica planeja aumentar sua capacidade de produção para atender ao crescimento da demanda \nprevisto para os próximos anos. Após considerar uma dezena de pacotes tecnológicos, o gerente de \nprodução definiu três alternativas tecnológicas, com características diferentes de custo fixo anual, \ncusto variável por unidade e volume de produção anual.\nSabendo que o custo total anual = custo fixo anual + custo variável por unidade × volume de produção anual, \nanalise o gráfico a seguir, que representa a relação custo x volume das três tecnologias avaliadas.\nV1 V2 V3\nCustos totais anuais Tecnologia 1\nTecnologia 2\nTecnologia 3\nVolume de \nprodução anual\nSobre a análise de viabilidade econômica das tecnologias avaliadas nos níveis de produção V1, V2 e V3, \nassinale a opção correta.\nA Para volumes acima de V2 e abaixo de V3, a tecnologia 1 é a escolha preferencial. \nB Para volumes abaixo de V1, a tecnologia 3 apresenta o melhor resultado econômico.\nC Para volumes entre V1 e V3, a tecnologia 2 apresenta o melhor resultado econômico.\nD Para volumes abaixo de V2 e acima de V3, a tecnologia 1 apresenta custos totais menores.\nE Para volumes acima de V3, a tecnologia 1 apresenta um melhor resultado econômico do que as demais.\n*R10202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 25",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 22,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O gestor de um estabelecimento comercial adota o modelo de previsão de demanda pela média móvel simples para ração canina para cães adultos e para filhotes. Para a semana atual, os resultados referentes à demanda e previsão de demanda, em kg, são apresentados no quadro a seguir.\nCão\nSemana Atual\nDemanda Previsão\nAdulto 6 200 6 350\nFilhote 670 620\nA falta de produto para atender à demanda de ração para filhotes motivou o gestor a adotar o modelo de suavização exponencial para a previsão de demanda, com parâmetros suavizadores 0,2 e 0,5 para a ração canina para adultos e filhotes, respectivamente.\nDiante desses dados, verifica-se que a previsão da demanda de ração para cães adultos e filhotes, para a semana seguinte, deve ser, respectivamente, de",
+    "alternativas": {
+      "A": "6 320 e 645.",
+      "B": "6 320 e 630.",
+      "C": "6 305 e 640.",
+      "D": "6 275 e 645.",
+      "E": "6 275 e 630."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 22 \nO gestor de um estabelecimento comercial adota o modelo de previsão de demanda pela média \nmóvel simples para ração canina para cães adultos e para filhotes. Para a semana atual, os resultados \nreferentes à demanda e previsão de demanda, em kg, são apresentados no quadro a seguir.\nCão\nSemana Atual\nDemanda Previsão\nAdulto 6 200 6 350\nFilhote 670 620\nA falta de produto para atender à demanda de ração para filhotes motivou o gestor a adotar o modelo \nde suavização exponencial para a previsão de demanda, com parâmetros suavizadores 0,2 e 0,5 para a \nração canina para adultos e filhotes, respectivamente.\nDiante desses dados, verifica-se que a previsão da demanda de ração para cães adultos e filhotes, para a \nsemana seguinte, deve ser, respectivamente, de\nA 6 320 e 645.\nB 6 320 e 630.\nC 6 305 e 640.\nD 6 275 e 645.\nE 6 275 e 630.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 23,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que um engenheiro tenha sido contratado para analisar a situação econômica de determinada empresa fabricante de produtos populares. A análise determinou que o custo total para a produção de x unidades pela empresa foi dado pela função C(x) = 15 + 3x + x 2; o custo médio de produção foi estimado pela função Q(x) = C(x) / x; a receita total recebida pela venda de x unidades foi projetada pela função R(x) = 3x – x2/2.\nEm seu relatório, o engenheiro pôde concluir corretamente que",
+    "alternativas": {
+      "A": "a função custo marginal é dada por C’(x) = 15 + 2x.",
+      "B": "o custo real da fabricação da terceira unidade é de R$ 15.",
+      "C": "o custo médio para a fabricação de dez unidades é de R$ 18.",
+      "D": "a taxa de variação do custo, quando forem fabricadas três unidades, será de R$ 9 por unidade.",
+      "E": "o empreendimento é rentável, pois a receita total é superior ao custo total de produção para qualquer quantidade produzida.\n26 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 23 \nSuponha que um engenheiro tenha sido contratado para analisar a situação econômica de determinada \nempresa fabricante de produtos populares. A análise determinou que o custo total para a produção de \nx unidades pela empresa foi dado pela função C(x) = 15 + 3x + x 2; o custo médio de produção foi \nestimado pela função Q(x) = C(x) / x; a receita total recebida pela venda de x unidades foi projetada pela \nfunção R(x) = 3x – x2/2.\nEm seu relatório, o engenheiro pôde concluir corretamente que\nA a função custo marginal é dada por C’(x) = 15 + 2x.\nB o custo real da fabricação da terceira unidade é de R$ 15.\nC o custo médio para a fabricação de dez unidades é de R$ 18.\nD a taxa de variação do custo, quando forem fabricadas três unidades, será de R$ 9 por unidade.\nE o empreendimento é rentável, pois a receita total é superior ao custo total de produção para \nqualquer quantidade produzida.\n*R10202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Engenharia de Produção",
+    "observacao": null
+  },
+  {
+    "numero": 24,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Um fornecedor de buchas e cunhas recebeu de seu cliente a programação para as semanas 14 a 23, conforme apresentado na tabela 1. Nela são apresentados os seguintes dados fornecidos pelo cliente: quantidade de itens em estoque no início da semana 14, estoque de segurança, a capacidade de produção diária para cada item e as necessidades de materiais referentes às semanas de 14 a 23. O fornecedor utilizou a regra de dimensionamento da quantidade fixa, correspondente à produção diária. Os lotes foram produzidos em múltiplos inteiros da produção diária. O fornecedor trabalha 6 dias por semana, não tendo restrição de capacidade para atender as demandas semanais previstas. O lead time para fabricação é de uma semana para todos os produtos, uma vez que o fornecedor não permite alterações na programação da semana em curso.\nTabela 1 – Dados para usinagem de buchas e cunhas\nItens Estoque\nDisponível\nEstoque de Segurança\nProdução diária\nSemana\n14 15 16 17 18 19 20 21 22 23\nBUCHA 0025 40 0 240 160\nBUCHA 0029 60 40 240 120 180 60 180\nBUCHA 0039 380 160 160 200 400 300 400 400 300 300 1500 1000 800\nCUNHA 0045 60 0 240 60 60 60\nCUNHA 0046 76 30 96 40 80 40 80 80 120\nCUNHA 0056 50 0 96 80 50 30 60 30\nPara efeito de registro de estoque, o fornecedor utilizou o modelo da tabela 2, apresentada a seguir.\nTabela 2 – Modelo de registro de estoque\nITEM: Estoque\nDisponível\nSemana\n14 15 16 17 18 19 20 21 22 23\nDemanda\nEstoque Projetado\nRecebimento programado\nLiberação de ordem de produção\nCom base nos dados apresentados, conclui-se que, para atender a demanda de",
+    "alternativas": {
+      "A": "BUCHA 0025, o fornecedor emite ordem de produção interna de 240 unidades na semana 15.",
+      "B": "160 itens da BUCHA 0025, o fornecedor encerra a semana 23 com estoque projetado de 40 unidades.",
+      "C": "250 itens da CUNHA 0056, o fornecedor encerra a semana 23 com estoque projetado de 30 unidades.",
+      "D": "5 600 itens da BUCHA 0039, o fornecedor emite ordens de produção interna que totalizam 5 220 unidades.",
+      "E": "BUCHA 0039, o fornecedor mantém o estoque projetado médio de 236 unidades por semana no horizonte planejado.\nEngenharia de Produção 27"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 24 \nUm fornecedor de buchas e cunhas recebeu de seu cliente a programação para as semanas 14 a \n23, conforme apresentado na tabela 1. Nela são apresentados os seguintes dados fornecidos pelo \ncliente: quantidade de itens em estoque no início da semana 14, estoque de segurança, a capacidade \nde produção diária para cada item e as necessidades de materiais referentes às semanas de 14 a 23. \nO fornecedor utilizou a regra de dimensionamento da quantidade fixa, correspondente à produção diária. \nOs lotes foram produzidos em múltiplos inteiros da produção diária. O fornecedor trabalha 6 dias \npor semana, não tendo restrição de capacidade para atender as demandas semanais previstas. \nO lead time para fabricação é de uma semana para todos os produtos, uma vez que o fornecedor não \npermite alterações na programação da semana em curso.\nTabela 1 – Dados para usinagem de buchas e cunhas\nItens Estoque\nDisponível\nEstoque de \nSegurança\nProdução \ndiária\nSemana\n14 15 16 17 18 19 20 21 22 23\nBUCHA 0025 40 0 240 160\nBUCHA 0029 60 40 240 120 180 60 180\nBUCHA 0039 380 160 160 200 400 300 400 400 300 300 1500 1000 800\nCUNHA 0045 60 0 240 60 60 60\nCUNHA 0046 76 30 96 40 80 40 80 80 120\nCUNHA 0056 50 0 96 80 50 30 60 30\nPara efeito de registro de estoque, o fornecedor utilizou o modelo da tabela 2, apresentada a seguir.\nTabela 2 – Modelo de registro de estoque\nITEM: Estoque\nDisponível\nSemana\n14 15 16 17 18 19 20 21 22 23\nDemanda\nEstoque Projetado\nRecebimento programado\nLiberação de ordem de produção\nCom base nos dados apresentados, conclui-se que, para atender a demanda de\nA BUCHA 0025, o fornecedor emite ordem de produção interna de 240 unidades na semana 15.\nB 160 itens da BUCHA 0025, o fornecedor encerra a semana 23 com estoque projetado de 40 unidades.\nC 250 itens da CUNHA 0056, o fornecedor encerra a semana 23 com estoque projetado de 30 unidades.\nD 5 600 itens da BUCHA 0039, o fornecedor emite ordens de produção interna que totalizam 5 220 unidades.\nE BUCHA 0039, o fornecedor mantém o estoque projetado médio de 236 unidades por semana \nno horizonte planejado.\n*R10202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 27",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 25,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que a empresa Alfa apresente as seguintes características:\n• Tempo disponível para produção: 100 horas;\n• Produto A\n> preço unitário de venda: R$ 260,00;\n> custo variável unitário: R$ 100,00;\n> tempo de produção: 2 horas para cada unidade.\n• Produto B\n> preço unitário de venda: R$ 150,00;\n> custo variável unitário: R$ 50,00;\n> tempo de produção: 1 hora para cada unidade.\nGráfico – Ponto de Equilíbrio\nReceita total\nCusto total\nCusto variável\nVolume (Q)\nBreak-even point\nPonto de ruptura\nR$ 10.000\nUnidade monetária ($)\nConsiderando o gráfico e as informações apresentadas, pode-se concluir que a empresa Alfa atingirá o ponto de equilíbrio com o produto",
+    "alternativas": {
+      "A": "B, com 67 unidades vendidas.",
+      "B": "A, com faturamento de R$ 16 250,00.",
+      "C": "B, com 100 unidades e 100 horas de produção.",
+      "D": "A, com o ponto de equilíbrio em 38 unidades vendidas.",
+      "E": "A, com margem de contribuição unitária no valor de R$ 160,00.\n28 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 25 \nSuponha que a empresa Alfa apresente as seguintes características:\n• Tempo disponível para produção: 100 horas;\n• Produto A\n> preço unitário de venda: R$ 260,00;\n> custo variável unitário: R$ 100,00;\n> tempo de produção: 2 horas para cada unidade.\n• Produto B\n> preço unitário de venda: R$ 150,00;\n> custo variável unitário: R$ 50,00;\n> tempo de produção: 1 hora para cada unidade.\nGráfico – Ponto de Equilíbrio\nReceita\n total\nCusto total\nCusto variável\nVolume (Q)\nBreak-even point\nPonto de ruptura\nR$ 10.000\nUnidade monetária ($)\nConsiderando o gráfico e as informações apresentadas, pode-se concluir que a empresa Alfa atingirá o \nponto de equilíbrio com o produto\nA B, com 67 unidades vendidas.\nB A, com faturamento de R$ 16 250,00.\nC B, com 100 unidades e 100 horas de produção.\nD A, com o ponto de equilíbrio em 38 unidades vendidas.\nE A, com margem de contribuição unitária no valor de R$ 160,00.\n*R10202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 26,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Bolas para moagem forjadas em aço alto carbono são utilizadas em unidades de tratamento de minérios e na indústria cimenteira. Em uma empresa de produção de bolas para moagem, o fluxo do processo de fabricação inclui as seguintes operações: (i) aquecimento de barras de aço; (ii) cisalhamento de tarugos com dimensões de projeto e forjamento das bolas em recalcador horizontal; (iii) laminação para acabamento superficial das bolas; (iv) tratamento térmico de têmpera direta da temperatura final de laminação em tanque com solução aquosa; (v) tratamento de revenimento, para alívio das tensões térmicas originárias na etapa anterior, restrito a algumas aplicações específicas.\nO engenheiro responsável pela produção, ao receber o programa da semana seguinte, considerando o fluxo do processo, apresentado na figura a seguir, e o fato de cada centro de trabalho possuir capacidade máxima de processamento igual a 2 400 minutos por semana, avaliou a utilização da capacidade do sistema produtivo visando à maximização do resultado econômico da empresa, conforme figura apresentada a seguir.\nProduto: B25\nPreço: 7 $/un\nDemanda:\n12 000 un/sem\nProduto: B40\nPreço: 6 $/un\nDemanda:\n23 100 un/sem\nProduto: B50\nPreço: 6 $/un\nTérmino em Temperar - Y\n(100 un/min)\nLaminar - X\n(80 un/min)\nForjar - W\n(100 un/min)\nAquecer - V\n(60 un/min)\nTérmino em Temperar - Y\n(55 un/min)\nLaminar - X\n(60 un/min)\nForjar - W\n(50 un/min)\nAquecer - V\n(35 un/min)\nTemperar - Y\n(90 un/min)\nTérmino em\nRevenir - Z\n(40 un/min)\nLaminar - X\n(60 un/min)\nForjar - W\n(50 un/min)\nAquecer - V\n(30 un/min) prima\nProduto B50\n3 $/un prima\nProduto B40\n4 $/un prima\nProduto B25\n4 $/un\nDemanda:\n48 600 un/sem\nEngenharia de Produção 29 Considerando as informações apresentadas, é correto afirmar que o gargalo da operação é a estação de trabalho",
+    "alternativas": {
+      "A": "V (aquecer barras de aço) e o mix de produtos, para se alcançar o objetivo proposto, é de 12 000 unidades de B25, 48 600 unidades de B50 e 20 300 unidades de B40.",
+      "B": "Y (tratamento térmico por têmpera) e o mix de produtos, para se alcançar o objetivo proposto, é de 12 000 unidades de B25, 23 100 unidades de B40 e 45 800 unidades de B50.",
+      "C": "X (laminar) e o mix de produtos, para se alcançar o objetivo proposto, é de 23 100 unidades de B40, 48 600 unidades de B50 e 9 200 unidades de B25.",
+      "D": "V (aquecer barras de aço) e a priorização de produção, para se alcançar o objetivo proposto, é B40, B50 e B25.",
+      "E": "X (laminar) e a priorização de produção, para se alcançar o objetivo proposto, é B25, B50 e B40."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 26 \nBolas para moagem forjadas em aço alto carbono são utilizadas em unidades de tratamento de minérios \ne na indústria cimenteira. Em uma empresa de produção de bolas para moagem, o fluxo do processo \nde fabricação inclui as seguintes operações: (i) aquecimento de barras de aço; (ii) cisalhamento de \ntarugos com dimensões de projeto e forjamento das bolas em recalcador horizontal; (iii) laminação \npara acabamento superficial das bolas; (iv) tratamento térmico de têmpera direta da temperatura final \nde laminação em tanque com solução aquosa; (v) tratamento de revenimento, para alívio das tensões \ntérmicas originárias na etapa anterior, restrito a algumas aplicações específicas.\nO engenheiro responsável pela produção, ao receber o programa da semana seguinte, considerando \no fluxo do processo, apresentado na figura a seguir, e o fato de cada centro de trabalho possuir \ncapacidade máxima de processamento igual a 2 400 minutos por semana, avaliou a utilização da \ncapacidade do sistema produtivo visando à maximização do resultado econômico da empresa, \nconforme figura apresentada a seguir.\nProduto: B25\nPreço: 7 $/un\nDemanda:\n12 000 un/sem\nProduto: B40\nPreço: 6 $/un\nDemanda:\n23 100 un/sem\nProduto: B50\nPreço: 6 $/un\nTérmino em \nTemperar - Y\n(100 un/min)\nLaminar - X\n(80 un/min)\nForjar - W\n(100 un/min)\nAquecer - V\n(60 un/min)\nTérmino em \nTemperar - Y\n(55 un/min)\nLaminar - X\n(60 un/min)\nForjar - W\n(50 un/min)\nAquecer - V\n(35 un/min)\nTemperar - Y\n(90 un/min)\nTérmino em\nRevenir - Z\n(40 un/min)\nLaminar - X\n(60 un/min)\nForjar - W\n(50 un/min)\nAquecer - V\n(30 un/min)\nMatéria prima\nProduto B50\n3 $/un\nMatéria prima\nProduto B40\n4 $/un\nMatéria prima\nProduto B25\n4 $/un\nDemanda:\n48 600 un/sem\n*R10202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 29\nConsiderando as informações apresentadas, é correto afirmar que o gargalo da operação é a estação de \ntrabalho\nA V (aquecer barras de aço) e o mix de produtos, para se alcançar o objetivo proposto, \né de 12 000 unidades de B25, 48 600 unidades de B50 e 20 300 unidades de B40.\nB Y (tratamento térmico por têmpera) e o mix de produtos, para se alcançar o objetivo proposto, \né de 12 000 unidades de B25, 23 100 unidades de B40 e 45 800 unidades de B50. \nC X (laminar) e o mix de produtos, para se alcançar o objetivo proposto, é de 23 100 unidades \nde B40, 48 600 unidades de B50 e 9 200 unidades de B25.\nD V (aquecer barras de aço) e a priorização de produção, para se alcançar o objetivo proposto, \né B40, B50 e B25.\nE X (laminar) e a priorização de produção, para se alcançar o objetivo proposto, é B25, B50 e B40.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 27,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Uma empresa produz derivados lácteos em sua unidade central, podendo atender clientes de quatro regiões: Norte, Sul, Leste e Oeste. Os vendedores Astolfo, Benício, Carlitos e Demóstenes serão alocados, no próximo semestre, para atender a essas localidades. A tabela a seguir apresenta o potencial de lucro, em milhões de reais, que pode ser gerado pelos vendedores em cada região. Acrescente-se que a empresa não possui recursos para enviar mais de um funcionário para atender a cada região. Norte Sul Leste Oeste\nAstolfo 17 16 16 20\nBenício 14 13 8 19\nCarlitos 11 19 9 15\nDemóstenes 19 16 13 19\nAcerca desse cenário, Avalie as afirmações a seguir.\nI. Pelo fato da região Oeste ser a mais lucrativa entre as possíveis alocações, o funcionário Astolfo deverá ser enviado para atender essa região.\nII. Pelo fato de ser a opção menos lucrativa entre as possíveis alocações, o funcionário Benício não deverá ser enviado para atender a região Leste.\nIII. A opção mais lucrativa, entre todas as possíveis alocações, resultará em 73 milhões de reais. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. 30 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 27 \nUma empresa produz derivados lácteos em sua unidade central, podendo atender clientes de \nquatro regiões: Norte, Sul, Leste e Oeste. Os vendedores Astolfo, Benício, Carlitos e Demóstenes \nserão alocados, no próximo semestre, para atender a essas localidades. A tabela a seguir apresenta \no potencial de lucro, em milhões de reais, que pode ser gerado pelos vendedores em cada região. \nAcrescente-se que a empresa não possui recursos para enviar mais de um funcionário para atender a \ncada região.\n Norte Sul Leste Oeste\nAstolfo 17 16 16 20\nBenício 14 13 8 19\nCarlitos 11 19 9 15\nDemóstenes 19 16 13 19\nAcerca desse cenário, avalie as afirmações a seguir.\nI. Pelo fato da região Oeste ser a mais lucrativa entre as possíveis alocações, o funcionário Astolfo \ndeverá ser enviado para atender essa região.\nII. Pelo fato de ser a opção menos lucrativa entre as possíveis alocações, o funcionário Benício \nnão deverá ser enviado para atender a região Leste.\nIII. A opção mais lucrativa, entre todas as possíveis alocações, resultará em 73 milhões de reais.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R10202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 28,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Uma fábrica pode produzir dois tipos de vidros blindados, o Alfa e o Beta, cujos lotes com 1 000 unidades contribuem para gerar um lucro de, respectivamente, R$ 15 000,00 e R$ 6 000,00. Entre os diversos insumos de produção, há dois que são limitantes: a sílica (vendida em kg) e o corante (vendido em litros). Sabe-se que, na produção unitária de cada um dos produtos, utiliza-se 1 kg de sílica. São, também, consumidos 2 litros de corante para cada unidade de vidro Alfa e 1 litro de corante para cada unidade de vidro Beta. Acrescente-se que os fornecedores entregam, diariamente, 7 000 kg de sílica e 10 000 litros de corante.\nConsiderando que o objetivo da empresa é maximizar o seu lucro, Avalie as afirmações a seguir.\nI. A fábrica deveria produzir exclusivamente os vidros Alfa.\nII. A fábrica deveria estabelecer um contrato com um grande cliente e fornecer 6 lotes de vidros Alfa diariamente.\nIII. A fábrica deveria adquirir mais corante, com o intuito de aumentar a produção de seus vidros. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 28 \nUma fábrica pode produzir dois tipos de vidros blindados, o Alfa e o Beta, cujos lotes com 1 000 unidades \ncontribuem para gerar um lucro de, respectivamente, R$ 15 000,00 e R$ 6 000,00. Entre os diversos \ninsumos de produção, há dois que são limitantes: a sílica (vendida em kg) e o corante (vendido em litros). \nSabe-se que, na produção unitária de cada um dos produtos, utiliza-se 1 kg de sílica. São, também, \nconsumidos 2 litros de corante para cada unidade de vidro Alfa e 1 litro de corante para cada unidade de \nvidro Beta. Acrescente-se que os fornecedores entregam, diariamente, 7 000 kg de sílica e 10 000 litros \nde corante.\nConsiderando que o objetivo da empresa é maximizar o seu lucro, avalie as afirmações a seguir.\nI. A fábrica deveria produzir exclusivamente os vidros Alfa.\nII. A fábrica deveria estabelecer um contrato com um grande cliente e fornecer 6 lotes de vidros \nAlfa diariamente.\nIII. A fábrica deveria adquirir mais corante, com o intuito de aumentar a produção de seus vidros.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.",
+    "observacao": null
+  },
+  {
+    "numero": 29,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O Sistema Toyota de Produção (STP) é uma filosofia que objetiva a eliminação de desperdícios no processo produtivo, por meio de ações eficientes, sem interrupções no fluxo e sob a demanda do cliente.\nConsiderando o STP, avalie as asserções a seguir e a relação proposta entre elas.\nI. A troca rápida de ferramentas (TRF) é um dos métodos utilizados para tornar possível a implementação do STP. PORQUE II. O método TRF fundamenta-se na premissa de que, quanto menor o tempo de preparação de máquina (setup), menor o tamanho do lote econômico. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas.\nEngenharia de Produção 31"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 29 \nO Sistema Toyota de Produção (STP) é uma filosofia que objetiva a eliminação de desperdícios no \nprocesso produtivo, por meio de ações eficientes, sem interrupções no fluxo e sob a demanda do \ncliente.\nConsiderando o STP , avalie as asserções a seguir e a relação proposta entre elas.\nI. A troca rápida de ferramentas (TRF) é um dos métodos utilizados para tornar possível a \nimplementação do STP .\nPORQUE\nII. O método TRF fundamenta-se na premissa de que, quanto menor o tempo de preparação \nde máquina (setup), menor o tamanho do lote econômico.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R10202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 31",
+    "observacao": null
+  },
+  {
+    "numero": 30,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Em um determinado sistema de produção, quando a demanda é maior que a capacidade de processamento, tem-se um recurso gargalo (interno) que condiciona a decisão de mix de produtos. No quadro a seguir, são apresentados dados para apoiar a decisão sobre os produtos de um sistema produtivo.\nDemanda mensal do produto A 300 unidades\nDemanda mensal do produto B 200 unidades\nGanho por unidade do produto A R$ 500,00\nGanho por unidade do produto B R$ 800,00\nTempo de processamento por unidade do produto A no gargalo 1 hora\nTempo de processamento por unidade do produto B no gargalo 2 horas\nCapacidade máxima mensal do gargalo do sistema produtivo 500 horas Considerando as informações apresentadas e os conceitos da Teoria das Restrições, assinale a opção em que o mix de produtos que maximiza economicamente a utilização da capacidade do sistema de produção corresponde, respectivamente, às seguintes unidades do produto A e do produto B.",
+    "alternativas": {
+      "A": "100 e 200.",
+      "B": "100 e 300.",
+      "C": "200 e 200.",
+      "D": "300 e 100.",
+      "E": "300 e 200."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 30 \nEm um determinado sistema de produção, quando a demanda é maior que a capacidade \nde processamento, tem-se um recurso gargalo (interno) que condiciona a decisão de mix de produtos. \nNo quadro a seguir, são apresentados dados para apoiar a decisão sobre os produtos de um sistema produtivo.\nDemanda mensal do produto A 300 unidades\nDemanda mensal do produto B 200 unidades\nGanho por unidade do produto A R$ 500,00\nGanho por unidade do produto B R$ 800,00\nTempo de processamento por unidade do produto A no gargalo 1 hora\nTempo de processamento por unidade do produto B no gargalo 2 horas\nCapacidade máxima mensal do gargalo do sistema produtivo 500 horas\nConsiderando as informações apresentadas e os conceitos da Teoria das Restrições, assinale a opção \nem que o mix de produtos que maximiza economicamente a utilização da capacidade do sistema de \nprodução corresponde, respectivamente, às seguintes unidades do produto A e do produto B.\nA 100 e 200.\nB 100 e 300.\nC 200 e 200.\nD 300 e 100.\nE 300 e 200.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 31,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O estoque de segurança corresponde a uma fração do estoque total em uma cadeia de suprimentos, afetando os custos logísticos.\nConsiderando os conceitos sobre estoque de segurança, analise as afirmações a seguir.\nI. Quanto maior a variabilidade da demanda durante o tempo de ressuprimento, maior deverá ser o estoque de segurança a ser mantido para oferecer o mesmo nível de serviço.\nII. O estoque de segurança, para um determinado nível de serviço, não acarreta custo de manutenção e armazenagem, pois ele é utilizado apenas quando a demanda esperada é excedida.\nIII. Quanto maior o nível de serviço, menor deve ser o estoque de segurança a ser mantido.\nIV. A redução na variabilidade no tempo de ressuprimento permite a redução do nível de estoque de segurança, sem prejudicar a disponibilidade do produto.\nV. Uma das funções do estoque de segurança é garantir a disponibilidade de estoque em face a incerteza na oferta e na demanda. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I, II e III.",
+      "B": "I, III e V.",
+      "C": "I, IV e V.",
+      "D": "II, III e IV.",
+      "E": "II, IV e V. 32 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 31 \nO estoque de segurança corresponde a uma fração do estoque total em uma cadeia de suprimentos, \nafetando os custos logísticos.\nConsiderando os conceitos sobre estoque de segurança, analise as afirmações a seguir.\nI. Quanto maior a variabilidade da demanda durante o tempo de ressuprimento, maior deverá ser \no estoque de segurança a ser mantido para oferecer o mesmo nível de serviço.\nII. O estoque de segurança, para um determinado nível de serviço, não acarreta custo de \nmanutenção e armazenagem, pois ele é utilizado apenas quando a demanda esperada é excedida.\nIII. Quanto maior o nível de serviço, menor deve ser o estoque de segurança a ser mantido.\nIV. A redução na variabilidade no tempo de ressuprimento permite a redução do nível de estoque \nde segurança, sem prejudicar a disponibilidade do produto.\nV. Uma das funções do estoque de segurança é garantir a disponibilidade de estoque em face a \nincerteza na oferta e na demanda.\nÉ correto apenas o que se afirma em\nA I, II e III.\nB I, III e V.\nC I, IV e V.\nD II, III e IV.\nE II, IV e V.\n*R10202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 32,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Determinada empresa fabricante de decodificadores para aparelhos de TV deve produzir 300 unidades desse material, por dia, para atender à demanda. Para otimizar o fluxo produtivo, o engenheiro da empresa decidiu realizar o balanceamento da linha de produção, estimando que 600 minutos por dia seria o tempo disponível para produção. A montagem do produto é composta por cinco operações (A, B, C, D e E), com durações (em minutos) e precedências especificadas no diagrama a seguir.\nA\nB\nC\nD E\n1,2 min 0,5 min 2,0 min\n0,7 min\n1,0 min\nCom base nos dados apresentados, Avalie as afirmações a seguir, relativas à referida empresa.\nI. O takt time do sistema produtivo para atender a demanda é igual a 2 minutos por unidade.\nII. A quantidade de estações de trabalho suficiente para balancear a linha de produção é igual a 2.\nIII. A eficiência do balanceamento da linha de produção é igual a 90%. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. Engenharia de Produção 33"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 32 \nDeterminada empresa fabricante de decodificadores para aparelhos de TV deve produzir 300 unidades \ndesse material, por dia, para atender à demanda. Para otimizar o fluxo produtivo, o engenheiro da \nempresa decidiu realizar o balanceamento da linha de produção, estimando que 600 minutos por dia \nseria o tempo disponível para produção. A montagem do produto é composta por cinco operações (A, B, \nC, D e E), com durações (em minutos) e precedências especificadas no diagrama a seguir.\nA\nB\nC\nD E\n1,2 min 0,5 min 2,0 min\n0,7 min\n1,0 min\nCom base nos dados apresentados, avalie as afirmações a seguir, relativas à referida empresa.\nI. O takt time do sistema produtivo para atender a demanda é igual a 2 minutos por unidade.\nII. A quantidade de estações de trabalho suficiente para balancear a linha de produção é igual a 2.\nIII. A eficiência do balanceamento da linha de produção é igual a 90%.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R10202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 33",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 33,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Comparada às equações de escoamentos viscosos, a equação de movimento (Equação de Euler) empregada para escoamento incompressível e sem viscosidade é matematicamente mais simples, mas sua solução, em conjunto com a equação de conservação de massa, ainda apresenta dificuldades consideráveis. Uma aproximação conveniente resulta na Equação de Bernoulli, a qual é representada por\nPv\ng zC onstanteg ++ =\nEm que: P = pressão, Pa; g = massa específica do fluido, N/m 3; v = velocidade de escoamento do fluido, m/s; e, z = cota de altura, em relação ao referencial adotado no escoamento.\nAs restrições para o uso da Equação de Bernoulli são: (i) escoamento em regime permanente; (ii) escoamento incompressível; (iii) escoamento sem atrito; (iv) escoamento ao longo de uma linha de corrente.\nFOX, R. W., et al. Introdução à Mecânica dos Fluidos. Rio de Janeiro: LTC, 2014 (adaptado).\nMuitos problemas em tubulações estão associados à velocidade de escoamento de líquidos no interior de tubos. Um dos problemas é a separação da coluna líquida ocasionada pela obstrução do escoamento causado por bolhas. Essas bolhas são formadas pelos gases dissolvidos na água, que se desprendem do líquido quando a pressão é reduzida à pressão de vapor. As bolhas tendem a aumentar de tamanho com a liberação dos gases, tornando a vazão intermitente, podendo, até mesmo, interrompê-la.\nPORTO, R. M. Hidráulica Básica. São Paulo: EESC-USP, 2006 (adaptado).\nConsidere a figura a seguir, que representa onde ocorre a separação da coluna líquida no tubo ascendente que transporta água a 60 °C, cuja pressão de vapor (Pv) é, aproximadamente, 19,53 kPa.\nDh\nP2/g\nP1/g\nZ2\nZ1\nLiberação de bolhas de ar\nEscoamento intermitente\nL.P º L.C.\nTrecho 1 Trecho 2\nDatum\nPara que o problema seja contornado, a solução é",
+    "alternativas": {
+      "A": "a elevação da cota de altura z2 estipulada para o trecho 2.",
+      "B": "a redução da vazão volumétrica média do fluido em escoamento.",
+      "C": "a redução da pressão manométrica P2, imposta no trecho 2 da tubulação.",
+      "D": "a diminuição da velocidade de escoamento do fluido no trecho 1 da tubulação.",
+      "E": "o esfriamento da água em escoamento na tubulação, pois a pressão Pv diminuirá.\n34 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 33 \nComparada às equações de escoamentos viscosos, a equação de movimento (Equação de Euler) \nempregada para escoamento incompressível e sem viscosidade é matematicamente mais simples, \nmas sua solução, em conjunto com a equação de conservação de massa, ainda apresenta dificuldades \nconsideráveis. Uma aproximação conveniente resulta na Equação de Bernoulli, a qual é representada por\nPv\ng zC onstanteg ++ =\n2\n2\nEm que: P = pressão, Pa; g = massa específica do fluido, N/m 3; v = velocidade de escoamento do fluido, \nm/s; e, z = cota de altura, em relação ao referencial adotado no escoamento.\nAs restrições para o uso da Equação de Bernoulli são: (i) escoamento em regime permanente; \n(ii) escoamento incompressível; (iii) escoamento sem atrito; (iv) escoamento ao longo de uma linha de corrente.\nFOX, R. W., et al. Introdução à Mecânica dos Fluidos. Rio de Janeiro: LTC, 2014 (adaptado).\nMuitos problemas em tubulações estão associados à velocidade de escoamento de líquidos no interior \nde tubos. Um dos problemas é a separação da coluna líquida ocasionada pela obstrução do escoamento \ncausado por bolhas. Essas bolhas são formadas pelos gases dissolvidos na água, que se desprendem do \nlíquido quando a pressão é reduzida à pressão de vapor. As bolhas tendem a aumentar de tamanho com \na liberação dos gases, tornando a vazão intermitente, podendo, até mesmo, interrompê-la.\nPORTO, R. M. Hidráulica Básica. São Paulo: EESC-USP , 2006 (adaptado).\nConsidere a figura a seguir, que representa onde ocorre a separação da coluna líquida no tubo \nascendente que transporta água a 60 °C, cuja pressão de vapor (Pv) é, aproximadamente, 19,53 kPa.\nDh\nP2/g\nP1/g\nZ2\nZ1\nLiberação de bolhas de ar\nEscoamento \nintermitente\nL.P º L.C.\nTrecho 1 Trecho 2\nDatum\nPara que o problema seja contornado, a solução é\nA a elevação da cota de altura z2 estipulada para o trecho 2.\nB a redução da vazão volumétrica média do fluido em escoamento.\nC a redução da pressão manométrica P2, imposta no trecho 2 da tubulação.\nD a diminuição da velocidade de escoamento do fluido no trecho 1 da tubulação.\nE o esfriamento da água em escoamento na tubulação, pois a pressão Pv diminuirá.\n*R10202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 34,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Para garantir a eficácia da gestão da qualidade, uma organização deve determinar e aplicar critérios e métodos (incluídos monitoramento, medições e indicadores de desempenho) necessários para assegurar a operação e o controle dos seus processos, além de determinar os recursos necessários para esses processos e assegurar sua disponibilidade.\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO 9001: Sistema de gestão da qualidade – requisitos. Rio de Janeiro: ABNT Editora, 2015.\nDada a necessidade de serem garantidas a disponibilidade e a confiabilidade de equipamentos que possibilitam o atendimento aos clientes, deve-se realizar o monitoramento da eficácia das ações da Engenharia de Manutenção por meio da utilização de indicadores de desempenho.\nConsiderando esses indicadores, Avalie as afirmações a seguir.\nI. O nível de qualidade na produção é o fator que mais influencia a Eficiência Global dos Equipamentos (OEE).\nII. O Tempo Médio Entre Falhas (MTBF) é utilizado na determinação da manutenibilidade de equipamentos.\nIII. A distribuição estatística dos dados de taxa de falha pode ser dos tipos normal, exponencial ou Weibull.\nIV. O Tempo Médio para Reparar (MTTR), que indica a eficiência da ação corretiva, é utilizado na determinação da confiabilidade de equipamento. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I.",
+      "B": "III.",
+      "C": "I e II.",
+      "D": "II e IV.",
+      "E": "III e IV. Engenharia de Produção 35"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 34 \nPara garantir a eficácia da gestão da qualidade, uma organização deve determinar e aplicar critérios \ne métodos (incluídos monitoramento, medições e indicadores de desempenho) necessários para \nassegurar a operação e o controle dos seus processos, além de determinar os recursos necessários para \nesses processos e assegurar sua disponibilidade.\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO 9001: Sistema de gestão \nda qualidade – requisitos. Rio de Janeiro: ABNT Editora, 2015.\nDada a necessidade de serem garantidas a disponibilidade e a confiabilidade de equipamentos que \npossibilitam o atendimento aos clientes, deve-se realizar o monitoramento da eficácia das ações da \nEngenharia de Manutenção por meio da utilização de indicadores de desempenho.\nConsiderando esses indicadores, avalie as afirmações a seguir.\nI. O nível de qualidade na produção é o fator que mais influencia a Eficiência Global dos \nEquipamentos (OEE).\nII. O Tempo Médio Entre Falhas (MTBF) é utilizado na determinação da manutenibilidade de equipamentos.\nIII. A distribuição estatística dos dados de taxa de falha pode ser dos tipos normal, exponencial ou Weibull.\nIV. O Tempo Médio para Reparar (MTTR), que indica a eficiência da ação corretiva, é utilizado na \ndeterminação da confiabilidade de equipamento.\nÉ correto apenas o que se afirma em\nA I.\nB III.\nC I e II.\nD II e IV.\nE III e IV.\n*R10202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 35",
+    "observacao": null
+  },
+  {
+    "numero": 35,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "As cartas de controle fornecem informações sobre o valor de parâmetros de processo e sobre o seu comportamento ao longo do tempo. Isso permite que se faça estimativa da capacidade do processo. Dessa forma, se o processo apresenta apenas variações aleatórias é possível, por meio das propriedades da curva de distribuição normal, determinar a sua capacidade. MONTGOMERY, D. C. Introdução ao controle estatístico da qualidade. Rio de Janeiro: LTC Editora, 2004 (adaptado).\nLIE LSE\nProcesso A Processo B\nCom base na figura e considerando que o desvio padrão dos processos A e B têm o mesmo valor, Avalie as afirmações a seguir, relativas aos índices de capacidade desses processos.\nI. Os processos A e B têm a mesma capacidade real.\nII. Os processos A e B têm a mesma capacidade potencial.\nIII. A capacidade potencial do processo B é menor que sua capacidade real. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. 36 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 35 \nAs cartas de controle fornecem informações sobre o valor de parâmetros de processo e sobre o seu \ncomportamento ao longo do tempo. Isso permite que se faça estimativa da capacidade do processo. \nDessa forma, se o processo apresenta apenas variações aleatórias é possível, por meio das propriedades \nda curva de distribuição normal, determinar a sua capacidade.\n MONTGOMERY , D. C. Introdução ao controle estatístico da qualidade. Rio de Janeiro: LTC Editora, 2004 (adaptado).\nLIE LSE\nProcesso A Processo B\nCom base na figura e considerando que o desvio padrão dos processos A e B têm o mesmo valor, \navalie as afirmações a seguir, relativas aos índices de capacidade desses processos.\nI. Os processos A e B têm a mesma capacidade real.\nII. Os processos A e B têm a mesma capacidade potencial.\nIII. A capacidade potencial do processo B é menor que sua capacidade real.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R10202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 36,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "No desenvolvimento do trabalho manual feito na posição sentado ou que tenha de ser feito em pé, bancadas, mesas, escrivaninhas e painéis devem proporcionar ao trabalhador condições de boa postura, visualização e operação e devem atender aos seguintes requisitos mínimos: a) ter altura e características da superfície de trabalho compatíveis com o tipo de atividade, com a distância requerida dos olhos ao campo de trabalho e com a altura do assento; b) ter área de trabalho de fácil alcance e visualização pelo trabalhador; c) ter características dimensionais que possibilitem posicionamento e movimentação adequados dos segmentos corporais.\nDisponível em: (adaptado). Acerca dos mobiliários adequados em postos de trabalhos conforme disposto na Norma Regulamentadora n. 17, Avalie as afirmações a seguir.\nI. Os assentos utilizados em postos de trabalho devem ter altura fixa, independentemente da estatura do trabalhador e da natureza da função exercida.\nII. Os postos de trabalho, em que as atividades são realizadas em pé, devem possuir mobiliário adequado para que o trabalhador descanse no próprio posto de trabalho.\nIII. O posto de trabalho, em que a atividade puder ser executada na posição sentada, deve ser planejado ou adaptado para esta posição.\nIV. Os assentos utilizados nos postos de trabalho devem ter encosto com forma levemente adaptada ao corpo do trabalhador, para a proteção de sua região lombar. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "II e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "I, III e IV. Engenharia de Produção 37"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 36 \nNo desenvolvimento do trabalho manual feito na posição sentado ou que tenha de ser feito em pé, \nbancadas, mesas, escrivaninhas e painéis devem proporcionar ao trabalhador condições de boa postura, \nvisualização e operação e devem atender aos seguintes requisitos mínimos: a) ter altura e características \nda superfície de trabalho compatíveis com o tipo de atividade, com a distância requerida dos olhos ao \ncampo de trabalho e com a altura do assento; b) ter área de trabalho de fácil alcance e visualização \npelo trabalhador; c) ter características dimensionais que possibilitem posicionamento e movimentação \nadequados dos segmentos corporais.\nDisponível em: https://enit.trabalho.gov.br/portal/images/Arquivos_SST/SST_NR/NR-17.pdf (adaptado). \nAcesso em: 31 jun.2019.\nAcerca dos mobiliários adequados em postos de trabalhos conforme disposto na Norma Regulamentadora \nn. 17, avalie as afirmações a seguir.\nI. Os assentos utilizados em postos de trabalho devem ter altura fixa, independentemente da \nestatura do trabalhador e da natureza da função exercida.\nII. Os postos de trabalho, em que as atividades são realizadas em pé, devem possuir mobiliário \nadequado para que o trabalhador descanse no próprio posto de trabalho.\nIII. O posto de trabalho, em que a atividade puder ser executada na posição sentada, \ndeve ser planejado ou adaptado para esta posição.\nIV. Os assentos utilizados nos postos de trabalho devem ter encosto com forma levemente adaptada \nao corpo do trabalhador, para a proteção de sua região lombar.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*R10202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia de Produção 37",
+    "observacao": null
+  },
+  {
+    "numero": 37,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O método do payback simples considera o tempo de retorno do capital investido, quando o investidor estabelece um prazo máximo para recuperação do investimento, que servirá de padrão para a análise da viabilidade econômica do projeto. Nesse sentido, suponha que uma empresa pretende realizar um projeto de investimento com seis anos de duração, sendo de quatro anos o prazo estabelecido para a recuperação do capital investido. A tabela a seguir apresenta os valores para os fluxos de caixa anuais do mencionado projeto.\nAno 0 1 2 3 4 5 6\nFluxo de caixa - 400 000 + 80 000 + 90 000 + 120 000 + 130 000 + 100,000 + 70 000 Considerando as informações apresentadas e o método payback simples, Avalie as afirmações a seguir.\nI. A recuperação do capital, no método payback simples, ocorrerá no prazo de até quatro anos, o que significa que o projeto deve ser aceito, pois atendeu à condição estabelecida.\nII. O método payback simples considera o valor do dinheiro no tempo, mas não a distribuição do fluxo de caixa no período de recuperação do investimento.\nIII. O método payback simples pode ser comparado a um padrão de rentabilidade como, por exemplo, o custo de oportunidade do capital investido.\nIV. O método payback simples pode ser adaptado para payback descontado, modelo que se diferencia do anterior apenas pelo fato de nele ser considerada uma taxa de atratividade ou de desconto.\nV. A adaptação de payback simples para payback descontado não resolve todos os problemas, mas introduz a taxa de desconto, direcionando-se a solução para o método da taxa interna de retorno. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e III.",
+      "B": "I e IV.",
+      "C": "II e IV.",
+      "D": "II e V.",
+      "E": "III e V. 38 Engenharia de Produção"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 37 \nO método do payback simples considera o tempo de retorno do capital investido, quando o investidor \nestabelece um prazo máximo para recuperação do investimento, que servirá de padrão para a análise \nda viabilidade econômica do projeto. Nesse sentido, suponha que uma empresa pretende realizar um \nprojeto de investimento com seis anos de duração, sendo de quatro anos o prazo estabelecido para a \nrecuperação do capital investido. A tabela a seguir apresenta os valores para os fluxos de caixa anuais do \nmencionado projeto.\nAno 0 1 2 3 4 5 6\nFluxo de caixa - 400 000 + 80 000 + 90 000 + 120 000 + 130 000 + 100,000 + 70 000\nConsiderando as informações apresentadas e o método payback simples, avalie as afirmações a seguir.\nI. A recuperação do capital, no método payback simples, ocorrerá no prazo de até quatro anos, o \nque significa que o projeto deve ser aceito, pois atendeu à condição estabelecida.\nII. O método payback simples considera o valor do dinheiro no tempo, mas não a distribuição do \nfluxo de caixa no período de recuperação do investimento.\nIII. O método payback simples pode ser comparado a um padrão de rentabilidade como, \npor exemplo, o custo de oportunidade do capital investido.\nIV. O método payback simples pode ser adaptado para payback descontado, modelo que se diferencia \ndo anterior apenas pelo fato de nele ser considerada uma taxa de atratividade ou de desconto.\nV. A adaptação de payback simples para payback descontado não resolve todos os problemas, \nmas introduz a taxa de desconto, direcionando-se a solução para o método da taxa interna de retorno.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD II e V.\nE III e V.\n*R10202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Engenharia de Produção",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 38,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "No esquema apresentado a seguir, estão identificados cinco ambientes de trabalho de uma instalação industrial.\nAmbiente A Ambiente B\nAmbiente EAmbiente D\nAmbiente C\nWC\nWC\nPara cada um desses ambientes foram identificados os riscos ambientais listados a seguir.\n• Ambiente A: alto ruído de máquinas e equipamentos;\n• Ambiente B: operação com eletricidade;\n• Ambiente C: radiações ionizantes;\n• Ambiente D: utilização de óleos e lubrificantes;\n• Ambiente E: postura inadequada.\nOs riscos mencionados para os ambientes A, B, C, D e E, podem ser classificados no processo de construção de um mapa de riscos, respectivamente, como",
+    "alternativas": {
+      "A": "físico, físico, acidente, físico e ergonômico.",
+      "B": "ergonômico, físico, químico, químico e físico.",
+      "C": "acidente, acidente, químico, químico e físico.",
+      "D": "físico, acidente, químico, ergonômico e físico.",
+      "E": "físico, acidente, físico, químico e ergonômico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 38 \nNo esquema apresentado a seguir, estão identificados cinco ambientes de trabalho de uma \ninstalação industrial.\nAmbiente A Ambiente B\nAmbiente EAmbiente D\nAmbiente C\nWC\nWC\nPara cada um desses ambientes foram identificados os riscos ambientais listados a seguir.\n• Ambiente A: alto ruído de máquinas e equipamentos;\n• Ambiente B: operação com eletricidade;\n• Ambiente C: radiações ionizantes;\n• Ambiente D: utilização de óleos e lubrificantes;\n• Ambiente E: postura inadequada.\nOs riscos mencionados para os ambientes A, B, C, D e E, podem ser classificados no processo \nde construção de um mapa de riscos, respectivamente, como\nA físico, físico, acidente, físico e ergonômico.\nB ergonômico, físico, químico, químico e físico.\nC acidente, acidente, químico, químico e físico.\nD físico, acidente, químico, ergonômico e físico.\nE físico, acidente, físico, químico e ergonômico.\n*R10202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA",
+    "observacao": null
+  }
+]

@@ -10,6 +10,7 @@ from pos_processar_exibicao import eh_fora_escopo_visual
 
 ROOT = Path(__file__).resolve().parents[2]
 STATUS_OK = "completa"
+LETRAS_VALIDAS = ("A", "B", "C", "D", "E")
 
 
 def configurar_stdout():
@@ -29,6 +30,12 @@ def carregar_json(caminho: Path):
         return json.load(f)
 
 
+def obter_alternativas_esperadas(questao: dict) -> list[str]:
+    esperadas = questao.get("alternativas_esperadas") or []
+    letras = [letra for letra in esperadas if letra in LETRAS_VALIDAS]
+    return letras or list(LETRAS_VALIDAS)
+
+
 def iter_arquivos(output_root: Path, ano: int | None, cursos: set[str] | None):
     if ano is None:
         candidatos = sorted(output_root.glob("*/*_questoes.json"))
@@ -46,7 +53,10 @@ def iter_arquivos(output_root: Path, ano: int | None, cursos: set[str] | None):
 def detectar_problemas_fortes(questao: dict):
     enunciado = questao.get("enunciado") or ""
     alternativas = questao.get("alternativas") or {}
-    texto = " ".join([enunciado] + [alternativas.get(letra, "") or "" for letra in "ABCDE"])
+    letras_esperadas = obter_alternativas_esperadas(questao)
+    texto = " ".join(
+        [enunciado] + [alternativas.get(letra, "") or "" for letra in letras_esperadas]
+    )
     texto_norm = normalizar(texto)
 
     problemas = []
@@ -54,9 +64,13 @@ def detectar_problemas_fortes(questao: dict):
     if len(enunciado.strip()) < 80:
         problemas.append("enunciado_curto")
 
-    for letra in "ABCDE":
+    for letra in letras_esperadas:
         if not (alternativas.get(letra) or "").strip():
             problemas.append(f"alternativa_{letra}_vazia")
+
+    gabarito = questao.get("gabarito")
+    if gabarito in LETRAS_VALIDAS and gabarito not in letras_esperadas:
+        problemas.append("gabarito_fora_das_alternativas")
 
     padroes = [
         ("seguinte_figura", r"\bseguinte figura\b"),

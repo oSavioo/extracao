@@ -13,6 +13,11 @@ CURSOS_ATUAIS_2023 = [
     "biomedicina",
     "enfermagem",
     "engenharia_ambiental",
+    "engenharia_civil",
+    "engenharia_de_alimentos",
+    "engenharia_da_computacao",
+    "engenharia_de_controle_e_automacao",
+    "engenharia_de_producao",
     "farmacia",
     "fisioterapia",
     "fonoaudiologia",
@@ -23,11 +28,6 @@ CURSOS_ATUAIS_2023 = [
 ]
 
 CURSOS_PENDENTES_2023 = [
-    "engenharia_civil",
-    "engenharia_de_alimentos",
-    "engenharia_da_computacao",
-    "engenharia_de_controle_e_automacao",
-    "engenharia_de_producao",
     "engenharia_eletrica",
     "engenharia_florestal",
     "engenharia_mecanica",

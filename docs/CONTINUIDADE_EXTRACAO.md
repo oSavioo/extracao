@@ -11,7 +11,7 @@ Construir uma base de questões objetivas do ENADE em PostgreSQL.
 O foco atual é extrair apenas questões no modelo textual:
 
 - enunciado completo em texto;
-- alternativas A, B, C, D e E completas;
+- alternativas completas conforme a prova (`A-D` ou `A-E`);
 - gabarito associado;
 - sem necessidade de analisar imagem, gráfico, tabela, mapa, figura, planta, foto, diagrama, radiografia ou qualquer elemento visual;
 - texto adequado para exibição no jogo/banco, sem rodapé, URL solta, seção pós-prova ou artefato de PDF.
@@ -53,7 +53,7 @@ Preferência do projeto: em caso de dúvida, descartar para `fora_escopo`.
   - Script principal de processamento.
   - Lê PDF de prova e gabarito.
   - Divide a prova por blocos `QUESTÃO X`.
-  - Extrai alternativas.
+  - Extrai alternativas em sequencias `A-D` ou `A-E`.
   - Chama `classificar_status_exibicao`.
   - Detecta páginas com imagens via `pypdf`.
   - Gera JSON, quarentena, relatório, debug e amostra.
@@ -107,31 +107,34 @@ Resumo após a última auditoria:
 | Biomedicina | 20 | 18 | 0 | Q6 fora do escopo por regra do projeto |
 | Enfermagem | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
 | Engenharia Ambiental | 24 | 14 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia Civil | 18 | 20 | 0 | Q17 e Q36 fora do escopo por fórmula/pseudocódigo visual |
+| Engenharia de Alimentos | 23 | 15 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia da Computação | 23 | 15 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia de Controle e Automação | 14 | 24 | 0 | Q22 fora do escopo por circuito/equação visual |
+| Engenharia de Produção | 13 | 25 | 0 | Q6 fora do escopo por regra do projeto |
 | Farmácia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
 | Fisioterapia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
 | Fonoaudiologia | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
-| Medicina | 5 | 7 | 26 | Não usar ainda; parser falhou em muitas alternativas |
+| Medicina | 30 | 8 | 0 | Parser ajustado para alternativas A-D; Q10 fora do escopo por tabela extraída como texto |
 | Medicina Veterinária | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
 | Nutrição | 31 | 7 | 0 | Q6 fora do escopo por regra do projeto |
 | Odontologia | 29 | 9 | 0 | Q23, Q25 e Q26 corrigidas como textuais; Q26 anulada no gabarito oficial |
 
-## Pendência crítica
+## Pendência crítica resolvida
 
 ### Medicina 2023
 
-Medicina ainda não está pronta para carga final.
+Medicina foi reprocessada em 2026-05-13 e não tem mais questões `incompleta`.
 
-Sintoma:
+Correção aplicada:
 
-- `26` questões ficaram `incompleta`.
+- O componente específico da prova usa quatro alternativas (`A-D`), enquanto o parser antigo exigia `A-E`.
+- `scripts/parser/processar_prova_v2.py` agora reconhece sequências `A-D` e `A-E`, preferindo `A-E` quando existir.
+- O JSON passou a registrar `alternativas_esperadas`.
+- `scripts/parser/auditar_qualidade.py` e `scripts/parser/ver_questoes.py` respeitam `alternativas_esperadas`.
+- Q10 de Medicina foi marcada como `fora_escopo` por conter tabela clínica extraída como texto.
 
-Próximo passo sugerido:
-
-1. Abrir `output/v2/2023_medicina/2023_pv_medicina_debug_blocos.json`.
-2. Verificar por que o parser não está identificando as alternativas A-E.
-3. Comparar com o PDF de Medicina.
-4. Ajustar `normalizar_trecho_alternativas`, `localizar_marcadores_alternativas` ou a escolha do melhor bloco.
-5. Reprocessar Medicina.
+Resultado atual de Medicina: 30 `completa`, 8 `fora_escopo`, 0 `incompleta`.
 
 ## Comandos de revisão
 
@@ -176,6 +179,11 @@ $cursos = @(
   'biomedicina',
   'enfermagem',
   'engenharia_ambiental',
+  'engenharia_civil',
+  'engenharia_de_alimentos',
+  'engenharia_da_computacao',
+  'engenharia_de_controle_e_automacao',
+  'engenharia_de_producao',
   'farmacia',
   'fisioterapia',
   'fonoaudiologia',
@@ -209,11 +217,6 @@ https://download.inep.gov.br/enade/provas_e_gabaritos/2023_GB_<curso>.pdf
 
 Já aparecem em `output/csv/pdfs_objetivos_2023.csv` e ainda podem ser processados:
 
-- engenharia_civil
-- engenharia_de_alimentos
-- engenharia_da_computacao
-- engenharia_de_controle_e_automacao
-- engenharia_de_producao
 - engenharia_eletrica
 - engenharia_florestal
 - engenharia_mecanica
@@ -258,12 +261,17 @@ PROBLEMAS_FORTES 0
    - Farmácia
    - Fisioterapia
    - Fonoaudiologia
+   - Medicina
    - Medicina Veterinária
    - Nutrição
    - Odontologia
-2. Corrigir Medicina separadamente.
-3. Só depois carregar no banco.
-4. Quando 2023 estiver estável, replicar o fluxo para anos anteriores, começando por 2022 ou 2021 antes de ir até 2015.
+   - Engenharia Civil
+   - Engenharia de Alimentos
+   - Engenharia da Computação
+   - Engenharia de Controle e Automação
+   - Engenharia de Produção
+2. Só depois carregar no banco.
+3. Quando 2023 estiver estável, replicar o fluxo para anos anteriores, começando por 2022 ou 2021 antes de ir até 2015.
 
 ## Carga no banco
 
@@ -313,3 +321,20 @@ Lembrete: `popular_final.sql` só leva para a camada final o que está `COMPLETA
 - Mencao textual a `imagem radiografica` ou `imagens radiograficas`, quando o resultado do exame ja esta descrito no enunciado e nao ha figura a analisar, pode permanecer em `completa`.
 - Odontologia 2023 foi reprocessada: Q23, Q25 e Q26 ficaram no escopo textual; Q26 esta anulada no gabarito oficial e nao deve ir para a camada final jogavel.
 - Auditoria geral apos o reprocessamento: 289 `completa`, 141 `fora_escopo`, 26 `incompleta`.
+
+## Atualizacao de regra - 2026-05-13
+
+- Medicina 2023 foi corrigida e reprocessada: 30 `completa`, 8 `fora_escopo`, 0 `incompleta`.
+- O parser v2 agora aceita provas com alternativas `A-D` ou `A-E`, gravando `alternativas_esperadas` para auditoria e visualizacao.
+- `auditar_qualidade.py` e `ver_questoes.py` usam `alternativas_esperadas`, entao `E` ausente nao e problema quando a questao esperada e `A-D`.
+- Q10 de Medicina 2023 deve ficar `fora_escopo`, pois contem tabela clinica extraida como texto (`Resultado Referencia`, citometria/citologia).
+- Auditoria geral apos o reprocessamento: 314 `completa`, 142 `fora_escopo`, 0 `incompleta`.
+
+## Atualizacao de lote - 2026-05-13
+
+- Cinco cursos foram baixados e processados: `engenharia_civil`, `engenharia_de_alimentos`, `engenharia_da_computacao`, `engenharia_de_controle_e_automacao`, `engenharia_de_producao`.
+- Q22 de Engenharia de Controle e Automacao deve ficar `fora_escopo`, pois as alternativas dependem de circuito/equacao booleana visual extraida como texto (`ABCD Motor`).
+- Engenharia Civil Q17 e Q36 devem ficar `fora_escopo`: Q17 depende de fórmula matemática visual mal preservada na extração; Q36 depende de bloco estruturado de pseudocódigo.
+- Rodapes de cursos com nome composto, como `18 Engenharia Civil` e `34 Engenharia de Alimentos`, passaram a ser removidos das alternativas.
+- Auditoria geral apos o lote: 405 `completa`, 241 `fora_escopo`, 0 `incompleta`.
+- Estado de 2023: 17 cursos processados e 11 cursos pendentes.

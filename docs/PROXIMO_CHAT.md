@@ -2,6 +2,7 @@
 
 Este arquivo e o ponto de entrada rapido para continuar a extracao.
 Para detalhes completos, leia tambem `docs/CONTINUIDADE_EXTRACAO.md`.
+Para a retomada exata do ultimo lote de engenharias, leia `docs/RETOMADA_2026-05-13_LOTE_ENGENHARIAS.md`.
 
 ## Objetivo atual
 
@@ -20,6 +21,11 @@ Cursos 2023 ja processados em `output/v2`:
 - biomedicina
 - enfermagem
 - engenharia_ambiental
+- engenharia_civil
+- engenharia_de_alimentos
+- engenharia_da_computacao
+- engenharia_de_controle_e_automacao
+- engenharia_de_producao
 - farmacia
 - fisioterapia
 - fonoaudiologia
@@ -28,7 +34,7 @@ Cursos 2023 ja processados em `output/v2`:
 - nutricao
 - odontologia
 
-Atencao: `medicina` ainda nao esta pronta. Muitas questoes ficaram `incompleta`, entao nao use Medicina para carga final ate corrigir o parser desse curso.
+Estado atual de 2023: 17 cursos processados e 11 cursos pendentes. Medicina foi reprocessada em 2026-05-13: ficou com 30 `completa`, 8 `fora_escopo` e 0 `incompleta`. A prova usa alternativas `A-D` no componente especifico; o parser agora aceita sequencias `A-D` ou `A-E` e grava `alternativas_esperadas` no JSON.
 
 ## Primeiro comando recomendado
 
@@ -106,11 +112,6 @@ python scripts/parser/processar_lote_2023.py --pendentes --listar
 
 Estao em `output/csv/pdfs_objetivos_2023.csv` e tambem no script `scripts/parser/processar_lote_2023.py`:
 
-- engenharia_civil
-- engenharia_de_alimentos
-- engenharia_da_computacao
-- engenharia_de_controle_e_automacao
-- engenharia_de_producao
 - engenharia_eletrica
 - engenharia_florestal
 - engenharia_mecanica
@@ -124,6 +125,8 @@ Estao em `output/csv/pdfs_objetivos_2023.csv` e tambem no script `scripts/parser
 - tecnologia_em_seguranca_do_trabalho
 
 ## Regras que deram problema antes
+
+Observacao de parser: prova/curso pode ter alternativas `A-D` ou `A-E`; conferir `alternativas_esperadas` antes de tratar `E` ausente como erro.
 
 Marcar como `fora_escopo`:
 

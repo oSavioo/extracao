@@ -272,6 +272,10 @@ PADROES_FORA_ESCOPO_DEPENDENCIA.extend([
     "fluxo contracorrente",
     "fluxo misto",
     "produto ar de secagem ar de exaustao",
+    "equacao booleana a seguir",
+    "ilustra a equacao booleana",
+    "resultado logico da equacao original fornecida",
+    "portas logicas originais",
 ])
 
 def _normalizar_basico(texto: str) -> str:
@@ -550,7 +554,32 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
     if any(re.search(padrao, t) for padrao in dependencia_regex):
         return True
 
+    if (
+        "equacao booleana a seguir" in t
+        and (
+            "ilustra a equacao booleana" in t
+            or "portas logicas originais" in t
+            or "resultado logico da equacao original fornecida" in t
+        )
+    ):
+        return True
+
+    if "numero de froude" in t and "numero de reynolds" in t:
+        return True
+
+    if (
+        "pseudocodigo apresentado a seguir" in t
+        and (
+            "variavel real num" in t
+            or "variavel inteiro" in t
+            or "para i de 1 ate" in t
+        )
+    ):
+        return True
+
     tabela_extraida_sem_rotulo = [
+        "resultado referencia",
+        "resultado referencias",
         "resultados descritos a seguir",
         "resultados apresentados a seguir",
         "dados descritos a seguir",
@@ -561,6 +590,10 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
         "categoria de risco",
         "parametro resultado valor de referencia",
         "resultado valor de referencia",
+        "aspecto amarelo",
+        "citometria",
+        "citologia",
+        "bacterioscopia",
         "hemograma exame de urina",
         "com jejum",
         "sem jejum",
@@ -570,6 +603,9 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
     unidades_tabela = len(re.findall(r"\b(?:mg/dl|g/dl|mmhg|bpm|irpm|kg|ml|cm|mmol/l)\b", t))
 
     if qtd_indicios_tabela >= 2 and (qtd_linhas >= 20 or qtd_numeros >= 12 or qtd_comparadores >= 4):
+        return True
+
+    if "resultado referencia" in t and (qtd_linhas >= 18 or qtd_numeros >= 12 or qtd_comparadores >= 4):
         return True
 
     if "valor de referencia" in t and (qtd_linhas >= 20 or qtd_numeros >= 18):

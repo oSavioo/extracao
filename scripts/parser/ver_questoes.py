@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 ARQUIVO_PADRAO = ROOT / "output" / "v2" / "2023_agronomia" / "2023_pv_agronomia_questoes.json"
+LETRAS_VALIDAS = ("A", "B", "C", "D", "E")
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -37,6 +38,12 @@ def filtrar_questoes(questoes, status: str, inicio: int | None, fim: int | None)
     return selecionadas
 
 
+def obter_alternativas_esperadas(q):
+    esperadas = q.get("alternativas_esperadas") or []
+    letras = [letra for letra in esperadas if letra in LETRAS_VALIDAS]
+    return letras or list(LETRAS_VALIDAS)
+
+
 def imprimir_questao(q):
     print("=" * 120)
     print(f"QUESTAO: {q['numero']}")
@@ -51,7 +58,7 @@ def imprimir_questao(q):
     print(q.get("enunciado") or "")
 
     alternativas = q.get("alternativas") or {}
-    for letra in "ABCDE":
+    for letra in obter_alternativas_esperadas(q):
         print(f"\n{letra}:\n")
         print(alternativas.get(letra, ""))
 

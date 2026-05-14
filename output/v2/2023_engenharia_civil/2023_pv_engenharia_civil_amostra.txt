@@ -46,10 +46,10 @@ B As asserções I e II são proposições verdadeiras, mas a II não é uma jus
 C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 E As asserções I e II são proposições falsas. 
-*3**R1820233*
+*3**R0620233*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
-4 Medicina
+4 Engenharia Civil
 LOGO
 4 MATÉRIA
 
@@ -120,7 +120,7 @@ ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 
 ENUNCIADO:
-Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a dift eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
+Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
 90%
 95%
 95%
@@ -191,7 +191,7 @@ crianças com menos de um ano de idade.
  Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que 
 já estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação 
 para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as 
-crianças, como a poliomielite, a meningite, a rubéola e a dift eria.
+crianças, como a poliomielite, a meningite, a rubéola e a di� eria.
  O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, 
 no período de 2017 a 2021.
  
@@ -266,10 +266,10 @@ bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
 E A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter 
 alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o 
 aumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .
-*5**R1820234*
+*5**R0620234*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
-Medicina 5
+Engenharia Civil 5
 LOGO
 4 MATÉRIA
 
@@ -419,10 +419,10 @@ B III, apenas.
 C I e II, apenas.
 D II e III, apenas.
 E I, II e III.
-*7**R1820236*
+*7**R0620236*
 VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
 VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
-Medicina 7
+Engenharia Civil 7
 LOGO
 6 MATÉRIA
 

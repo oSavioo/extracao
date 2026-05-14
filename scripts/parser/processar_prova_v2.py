@@ -14,6 +14,12 @@ except ImportError:
     from PyPDF2 import PdfReader
 
 
+SEQUENCIAS_ALTERNATIVAS: Tuple[Tuple[str, ...], ...] = (
+    ("A", "B", "C", "D", "E"),
+    ("A", "B", "C", "D"),
+)
+
+
 # =========================================================
 # UTILIDADES
 # =========================================================
@@ -123,6 +129,7 @@ def extrair_tokens_contexto(caminho_pdf: Path) -> List[str]:
 # =========================================================
 def remover_linhas_ruins(texto: str, context_tokens: List[str]) -> str:
     linhas_filtradas = []
+    context_slug = "_".join(context_tokens)
 
     for linha in texto.splitlines():
         original = linha
@@ -155,6 +162,22 @@ def remover_linhas_ruins(texto: str, context_tokens: List[str]) -> str:
             continue
 
         remover = False
+        if context_slug:
+            if re.fullmatch(rf"{re.escape(context_slug)}[_\s]+\d{{1,3}}", l_slug):
+                remover = True
+            if re.fullmatch(rf"\d{{1,3}}[_\s]+{re.escape(context_slug)}", l_slug):
+                remover = True
+            if (
+                re.fullmatch(r"\d{1,3}[_\s]+[a-z0-9_\s]+", l_slug)
+                and all(token in l_slug for token in context_tokens)
+            ):
+                remover = True
+            if (
+                re.fullmatch(r"[a-z0-9_\s]+[_\s]+\d{1,3}", l_slug)
+                and all(token in l_slug for token in context_tokens)
+            ):
+                remover = True
+
         for token in context_tokens:
             if re.fullmatch(rf"{re.escape(token)}[_\s]+\d{{1,3}}", l_slug):
                 remover = True
@@ -302,47 +325,123 @@ def localizar_marcadores_alternativas(texto: str):
     return list(padrao.finditer(texto))
 
 
-def encontrar_inicio_sequencia_abcde(texto: str) -> Optional[int]:
-    matches = localizar_marcadores_alternativas(texto)
+def localizar_sequencia_alternativas(matches) -> Tuple[Optional[int], Tuple[str, ...]]:
     letras = [m.group(1) for m in matches]
 
-    for i in range(len(letras) - 4):
-        if letras[i:i + 5] == ["A", "B", "C", "D", "E"]:
-            return matches[i].start()
+    for sequencia in SEQUENCIAS_ALTERNATIVAS:
+        tamanho = len(sequencia)
+        for i in range(len(letras) - tamanho + 1):
+            if tuple(letras[i:i + tamanho]) == sequencia:
+                return i, sequencia
 
-    return None
+    return None, tuple()
+
+
+def encontrar_inicio_sequencia_alternativas(texto: str) -> Tuple[Optional[int], Tuple[str, ...]]:
+    matches = localizar_marcadores_alternativas(texto)
+    indice_inicio, sequencia = localizar_sequencia_alternativas(matches)
+
+    if indice_inicio is None:
+        return None, tuple()
+
+    return matches[indice_inicio].start(), sequencia
+
+
+def separar_trecho_pos_alternativas(conteudo: str) -> Tuple[str, str]:
+    padrao_codigo_numerado = re.compile(
+        r"(?m)\n\s*(1\s+(?:inicio|início)\b.*)$",
+        flags=re.IGNORECASE | re.DOTALL
+    )
+    match = padrao_codigo_numerado.search(conteudo)
+    if not match:
+        return conteudo, ""
+
+    trecho_pos = match.group(1).strip()
+    linhas_codigo = [
+        linha for linha in trecho_pos.splitlines()
+        if re.match(r"\s*\d{1,2}\s+\S+", linha)
+    ]
+    texto_codigo = " ".join(linhas_codigo).lower()
+    palavras_codigo = [
+        "inicio",
+        "início",
+        "variavel",
+        "variável",
+        "para",
+        "proximo",
+        "próximo",
+        "fim",
+        "fimse",
+        "escrever",
+        "ler",
+    ]
+
+    if len(linhas_codigo) < 4:
+        return conteudo, ""
+
+    if not any(palavra in texto_codigo for palavra in palavras_codigo):
+        return conteudo, ""
+
+    trecho_pos = re.split(
+        r"(?im)^\s*(?:\*R\d+|VALIDINEP|[A-Za-zÀ-ÿ ]+\s+\d+)\b",
+        trecho_pos,
+        maxsplit=1
+    )[0].strip()
+    conteudo_alt = conteudo[:match.start()].strip()
+    return conteudo_alt, trecho_pos
+
+
+def inserir_trecho_pos_alternativas(enunciado: str, trecho_pos: str) -> str:
+    if not trecho_pos:
+        return enunciado
+
+    match = re.search(
+        r"pseudoc[oó]digo apresentado a seguir\.",
+        enunciado,
+        flags=re.IGNORECASE
+    )
+    if match:
+        return (
+            enunciado[:match.end()]
+            + "\n\n"
+            + trecho_pos
+            + "\n\n"
+            + enunciado[match.end():].lstrip()
+        )
+
+    return f"{enunciado}\n\n{trecho_pos}".strip()
 
 
 def extrair_alternativas_do_tail(
     tail: str,
     context_tokens: List[str]
-) -> Tuple[Dict[str, str], str]:
+) -> Tuple[Dict[str, str], str, Tuple[str, ...], str]:
     tail = normalizar_trecho_alternativas(tail)
     matches = localizar_marcadores_alternativas(tail)
-    letras = [m.group(1) for m in matches]
 
-    indice_inicio = None
-    for i in range(len(letras) - 4):
-        if letras[i:i + 5] == ["A", "B", "C", "D", "E"]:
-            indice_inicio = i
-            break
+    indice_inicio, sequencia = localizar_sequencia_alternativas(matches)
 
     if indice_inicio is None:
-        return {}, tail
+        return {}, tail, tuple(), ""
 
     alternativas = {}
-    seq = matches[indice_inicio:indice_inicio + 5]
+    seq = matches[indice_inicio:indice_inicio + len(sequencia)]
+    trecho_pos_alternativas = ""
 
     for i, match in enumerate(seq):
         letra = match.group(1)
         inicio = match.end()
-        fim = seq[i + 1].start() if i + 1 < 5 else len(tail)
+        fim = seq[i + 1].start() if i + 1 < len(seq) else len(tail)
         conteudo = tail[inicio:fim].strip()
+        if i == len(seq) - 1:
+            conteudo, trecho_pos_alternativas = separar_trecho_pos_alternativas(conteudo)
         conteudo = remover_linhas_ruins(conteudo, context_tokens)
         conteudo = normalizar_texto(conteudo)
         alternativas[letra] = conteudo
 
-    return alternativas, tail
+    trecho_pos_alternativas = remover_linhas_ruins(trecho_pos_alternativas, context_tokens)
+    trecho_pos_alternativas = normalizar_texto(trecho_pos_alternativas)
+    return alternativas, tail, sequencia, trecho_pos_alternativas
 
 
 def construir_candidato_parse(
@@ -354,16 +453,20 @@ def construir_candidato_parse(
     enunciado = remover_linhas_ruins(enunciado, context_tokens)
     enunciado = normalizar_texto(enunciado)
 
-    alternativas, tail_norm = extrair_alternativas_do_tail(tail, context_tokens)
-
-    completo = all(
+    alternativas, tail_norm, alternativas_esperadas, trecho_pos_alternativas = extrair_alternativas_do_tail(
+        tail,
+        context_tokens
+    )
+    completo = bool(alternativas_esperadas) and all(
         letra in alternativas and alternativas[letra]
-        for letra in ["A", "B", "C", "D", "E"]
+        for letra in alternativas_esperadas
     )
 
     return {
         "enunciado": enunciado,
         "alternativas": alternativas,
+        "alternativas_esperadas": list(alternativas_esperadas),
+        "trecho_pos_alternativas": trecho_pos_alternativas,
         "completo": completo,
         "strategy": strategy,
         "tail_normalizado": tail_norm
@@ -386,13 +489,13 @@ def parsear_bloco_questao(bloco: str, context_tokens: List[str]) -> Dict[str, ob
         )
 
     texto_norm = normalizar_trecho_alternativas(texto)
-    inicio_seq = encontrar_inicio_sequencia_abcde(texto_norm)
+    inicio_seq, _ = encontrar_inicio_sequencia_alternativas(texto_norm)
     if inicio_seq is not None:
         candidatos.append(
             construir_candidato_parse(
                 texto_norm[:inicio_seq],
                 texto_norm[inicio_seq:],
-                "sequencia_abcde_global",
+                "sequencia_alternativas_global",
                 context_tokens
             )
         )
@@ -490,6 +593,7 @@ def selecionar_melhores_blocos(
             "numero": numero,
             "score": score,
             "qtd_alternativas": len(partes["alternativas"]),
+            "alternativas_esperadas": partes["alternativas_esperadas"],
             "alternativas_completas": partes["completo"],
             "strategy": partes["strategy"],
             "tamanho": len(bloco),
@@ -541,6 +645,7 @@ def salvar_amostra(arquivo: Path, questoes: List[Dict[str, object]], limite: int
             f.write(f"STATUS: {q['status']}\n")
             f.write(f"CONFIANÇA: {q['confianca']}\n")
             f.write(f"ESTRATÉGIA: {q['parse_strategy']}\n")
+            f.write(f"ALTERNATIVAS ESPERADAS: {q.get('alternativas_esperadas', [])}\n")
             f.write(f"ALTERNATIVAS COMPLETAS: {q['alternativas_completas']}\n")
             if q.get("observacao"):
                 f.write(f"OBSERVAÇÃO: {q['observacao']}\n")
@@ -637,6 +742,12 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
         }
 
         enunciado_limpo = limpar_texto_exibicao(str(partes["enunciado"]))
+        trecho_pos_alternativas = str(partes.get("trecho_pos_alternativas") or "")
+        if trecho_pos_alternativas:
+            enunciado_limpo = inserir_trecho_pos_alternativas(
+                enunciado_limpo,
+                trecho_pos_alternativas
+            )
         status, observacao = classificar_status_exibicao(status, bloco)
         if gabarito[numero] is None:
             observacao_anulada = "QUESTAO ANULADA NO GABARITO OFICIAL"
@@ -661,6 +772,8 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
             "parse_strategy": partes["strategy"],
             "enunciado": enunciado_limpo,
             "alternativas": alternativas_limpas,
+            "alternativas_esperadas": partes["alternativas_esperadas"],
+            "trecho_pos_alternativas": trecho_pos_alternativas,
             "alternativas_completas": partes["completo"],
             "texto_bruto": bloco,
             "observacao": observacao,
