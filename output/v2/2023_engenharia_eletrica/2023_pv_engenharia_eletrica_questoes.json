@@ -1,0 +1,1016 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**r1120233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Engenharia Elétrica\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 2,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmitidas pela água resulta não somente da inadequação dos serviços de saneamento, mas também da precariedade das condições de moradia da população em situação de vulnerabilidade. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5",
+    "observacao": null
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**r1120234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 4,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1\nA Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa",
+    "alternativas": {
+      "A": "proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.",
+      "B": "restringe o aprendizado ao que é legalmente estabelecido e útil ao ser humano, o que facilita seu modo de agir no mundo do conhecimento e do trabalho.",
+      "C": "promove a igualdade econômico-social ao substituir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.",
+      "D": "gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.",
+      "E": "estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7",
+    "observacao": null
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**r1120236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 7,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, mesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, são insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi a aprovação da reforma previdenciária de 2019, que modificou as regras de idade e contribuição para o acesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda maior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado atual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa faixa etária, denominado etarismo. Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de trabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua sustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no mercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da qualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de tecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**r1120239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Engenharia Elétrica\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 8,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. A situação do encarceramento feminino por tráfico de drogas e outras situações que circundam o assunto foi tema de discussão da Secretaria de políticas sobre Drogas do Ministério da Justiça e Segurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com a participação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre drogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de encarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e primeira infância. Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em atividades do tráfico encontra-se em posições hierarquicamente inferiores, sendo classificadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, da divisão sexual do trabalho observada no mercado formal. PORQUE II. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela invisibilização com que as trata, seja por meio da violência institucional que reproduz a violência estrutural das relações sociais patriarcais. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11",
+    "observacao": null
+  },
+  {
+    "numero": 9,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. Os seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de desempenho e produção. São empresários de si mesmos. BYUNG-CHUL HAN. Sociedade do Cansaço. Petrópolis: Vozes, 2015 (adaptado). Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. Os recursos tecnológicos, como notificações de mensagens em tempo real e controle da velocidade de áudio em redes de mensagens, são fatores que podem contribuir para a precarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem a desativação de aplicativos e mecanismos de notificações instantâneas, bem como a fixação de horários para uso profissional e uso recreativo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso excessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento digital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no ambiente de trabalho. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**r11202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 11\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 10,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura a seguir representa o diagrama esquemático de um autotransformador abaixador monofásico, 460:230 V, 10 kVA. O lado de alta tensão é alimentado pelos terminais A e D; e os terminais B e D correspondem ao lado de baixa tensão.\nDiagrama esquemático de um autotransformador\n+ v1\nE1\nE2\nA\nB\nD\nConsiderando como ideal o autotransformador retratado na figura, Avalie as afirmações a seguir.\nI. Alimentando uma carga nominal conectada aos terminais B e D, a fonte v 1 fornecerá uma corrente de, aproximadamente, 21,7 A; a carga drenará uma corrente de, aproximadamente, 43,5 A; e a corrente nos enrolamentos entre os terminais B e D será de, aproximadamente, 65,2 A.\nII. A relação entre as tensões E 1 e E 2 é igual à relação entre o número de espiras do primário e do secundário, como em um transformador.\nIII. A relação entre as tensões E 1 e E 2, com o autotransformador operando em vazio, é igual à relação entre as impedâncias Z AB e Z BD, em que Z AB é a impedância (ohms) dos enrolamentos entre os terminais A e B e ZBD é a impedância (ohms) dos enrolamentos entre os terminais B e D.\nIV. Operando em vazio, a tensão E2 é igual à tensão E1. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "III.",
+      "C": "I e II.",
+      "D": "I e IV.",
+      "E": "III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 10 \nA figura a seguir representa o diagrama esquemático de um autotransformador abaixador monofásico, \n460:230 V, 10 kVA. O lado de alta tensão é alimentado pelos terminais A e D; e os terminais B e D \ncorrespondem ao lado de baixa tensão.\nDiagrama esquemático de um autotransformador\n+ v1\nE1\nE2\nA\nB\nD\nConsiderando como ideal o autotransformador retratado na figura, avalie as afirmações a seguir.\nI. Alimentando uma carga nominal conectada aos terminais B e D, a fonte v 1 fornecerá uma \ncorrente de, aproximadamente, 21,7 A; a carga drenará uma corrente de, aproximadamente, \n43,5 A; e a corrente nos enrolamentos entre os terminais B e D será de, aproximadamente, 65,2 A.\nII. A relação entre as tensões E 1 e E 2 é igual à relação entre o número de espiras do primário e do \nsecundário, como em um transformador.\nIII. A relação entre as tensões E 1 e E 2, com o autotransformador operando em vazio, é igual à \nrelação entre as impedâncias Z AB e Z BD, em que Z AB é a impedância (ohms) dos enrolamentos \nentre os terminais A e B e ZBD é a impedância (ohms) dos enrolamentos entre os terminais B e D.\nIV. Operando em vazio, a tensão E2 é igual à tensão E1.\nÉ correto apenas o que se afirma em\nA II.\nB III.\nC I e II.\nD I e IV.\nE III e IV.\n*r11202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 11,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura 1 ilustra as curvas de variação dos parâmetros de desempenho de corrente elétrica, o fator de potência, o rendimento e o escorregamento de um motor de indução trifásico de potência nominal de 55 kW em função da potência fornecida pelo motor à carga.\nFigura 1 – Curvas de desempenho de um motor de indução trifásico\n0,0\n0,75\n1,5\n2,25\n3,0\n3,75\n4,5\n5,75\n6,0\n6,75\n7,5\n1,0\n0,9\n0,8\n0,7\n0,6\n0,5\n0,4\n0,3\n0,2\n0,1\n0,0\n0 10 20 30 40 50 60 70 80 90 100 110 120 130\nPotência fornecida em relação à nominal(%)\nCorrente (A)s(%)Rend. (%)cos Æ\nC\nB\nD\nA\nA - Rendimento\nB - Fator de potência\nC - Escorregamento\nD - Corrente A figura 2 apresenta as curvas de condições operacionais de uma bomba centrífuga (relação altura-vazão, rendimento e potência demandada). Tanto o motor elétrico quanto a bomba centrífuga possuem a mesma rotação nominal de 1.778 RPM.\nFigura 2 – Curvas de condições operacionais da bomba centrífuga\nCurva altura - vazão\n0 0,1 0,2 0,3 0,4 0,5\nRendimento (%)\nPotência (kW)\nVazão (m3 / s)\nPotência\nRendimento\nAltura manométrica (m)\nTSUTIYA, M. T. Abastecimento de água. 1. ed. São Paulo: Escola Politécnica, Universidade de São Paulo, 2004 (adaptado).\nApós analisar as curvas apresentadas nas figuras 1 e 2, considerando que o motor elétrico está acoplado à bomba centrífuga, Avalie as afirmações a seguir.\nI. Caso a bomba opere em sua região de máximo rendimento, o que corresponde a uma potência de, aproximadamente, 55 kW, o motor operará com rendimento de, aproximadamente, 91%, com fator de potência de 0,86 e com corrente elétrica de 120 A.\nII. Na configuração operacional em que o motor elétrico e a bomba centrífuga operam em máximo rendimento, o rendimento global do sistema motor-bomba será de, aproximadamente, 73%.\nIII. À medida que se diminui a vazão fornecida pela bomba, o escorregamento do motor aumenta, diminuindo, assim, a rotação do sistema motor-bomba.\nIV. Na melhor condição operacional, em que o motor elétrico atinge o rendimento de 98%, a bomba trabalha no seu rendimento máximo.\nV. Não é possível o conjunto motor-bomba centrífuga atingir a vazão de 0,4 m3/s. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "II e IV.",
+      "D": "III e V.",
+      "E": "IV e V."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 11 \nA figura 1 ilustra as curvas de variação dos parâmetros de desempenho de corrente elétrica, o fator de \npotência, o rendimento e o escorregamento de um motor de indução trifásico de potência nominal de \n55 kW em função da potência fornecida pelo motor à carga.\nFigura 1 – Curvas de desempenho de um motor de indução trifásico\n500\n450\n400\n350\n300\n250\n200\n150\n100\n50\n0\n0,0\n0,75\n1,5\n2,25\n3,0\n3,75\n4,5\n5,75\n6,0\n6,75\n7,5\n1,0\n0,9\n0,8\n0,7\n0,6\n0,5\n0,4\n0,3\n0,2\n0,1\n0,0\n0 10 20 30 40 50 60 70 80 90 100 110 120 130\nPotência fornecida em relação à nominal(%)\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nCorrente (A)s(%)Rend. (%)cos Æ\nC\nB\nD\nA\nA - Rendimento\nB - Fator de potência\nC - Escorregamento\nD - Corrente\nDisponível em: http://www.proceedings.scielo.br. Acesso em: 28 ago. 2023 (adaptado).\n*r11202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 15\nA figura 2 apresenta as curvas de condições operacionais de uma bomba centrífuga (relação altura-vazão, \nrendimento e potência demandada). Tanto o motor elétrico quanto a bomba centrífuga possuem a \nmesma rotação nominal de 1.778 RPM.\nFigura 2 – Curvas de condições operacionais da bomba centrífuga\nCurva altura - vazão\n0 0,1 0,2 0,3 0,4 0,5\n5\n10\n15\n20\n100\n90\n80\n70\n60\n50\nRendimento (%)\nPotência (kW)\nVazão ( m3 / s)\nPotência\nRendimento\nAltura manométrica (m)\n70\n60\n50\n40\n30\n20\nTSUTIYA, M. T. Abastecimento de água. 1. ed. São Paulo: Escola Politécnica, Universidade de São Paulo, 2004 (adaptado).\nApós analisar as curvas apresentadas nas figuras 1 e 2, considerando que o motor elétrico está acoplado \nà bomba centrífuga, avalie as afirmações a seguir.\nI. Caso a bomba opere em sua região de máximo rendimento, o que corresponde a uma potência \nde, aproximadamente, 55 kW, o motor operará com rendimento de, aproximadamente, 91%, \ncom fator de potência de 0,86 e com corrente elétrica de 120 A.\nII. Na configuração operacional em que o motor elétrico e a bomba centrífuga operam em máximo \nrendimento, o rendimento global do sistema motor-bomba será de, aproximadamente, 73%.\nIII. À medida que se diminui a vazão fornecida pela bomba, o escorregamento do motor aumenta, \ndiminuindo, assim, a rotação do sistema motor-bomba.\nIV. Na melhor condição operacional, em que o motor elétrico atinge o rendimento de 98%, \na bomba trabalha no seu rendimento máximo.\nV. Não é possível o conjunto motor-bomba centrífuga atingir a vazão de 0,4 m3/s.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD III e V.\nE IV e V.\n*r11202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 12,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Localização, construção, instalação, ampliação, modificação e operação de empreendimentos e atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras bem como os empreendimentos que são capazes, sob qualquer forma, de causar degradação ambiental, dependerão de prévio licenciamento do órgão ambiental competente, sem prejuízo de outras licenças legalmente exigíveis.\nBRASIL. Ministério do Meio Ambiente (MMA). Programa Nacional de Capacitação de Gestores Ambientais: licenciamento ambiental. Brasília: MMA, 2009 (adaptado).\nEm relação ao licenciamento ambiental de usinas hidrelétricas, avalie as asserções a seguir e a relação proposta entre elas.\nI. As obras hidráulicas para exploração de recursos hídricos, tais como as barragens para fins hidrelétricos acima de 10 MW, não necessitam de licenciamento do órgão ambiental competente. PORQUE II. As barragens para fins hidrelétricos não emitem poluição atmosférica e, em operação em regime permanente, não alteram a vazão da bacia hidráulica onde estão instaladas. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 12 \nLocalização, construção, instalação, ampliação, modificação e operação de empreendimentos e \natividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras bem \ncomo os empreendimentos que são capazes, sob qualquer forma, de causar degradação ambiental, \ndependerão de prévio licenciamento do órgão ambiental competente, sem prejuízo de outras licenças \nlegalmente exigíveis.\nBRASIL. Ministério do Meio Ambiente (MMA). Programa Nacional de Capacitação de Gestores Ambientais: \nlicenciamento ambiental. Brasília: MMA, 2009 (adaptado).\nEm relação ao licenciamento ambiental de usinas hidrelétricas, avalie as asserções a seguir e a relação \nproposta entre elas.\nI. As obras hidráulicas para exploração de recursos hídricos, tais como as barragens para fins \nhidrelétricos acima de 10 MW, não necessitam de licenciamento do órgão ambiental competente.\nPORQUE\nII. As barragens para fins hidrelétricos não emitem poluição atmosférica e, em operação em regime \npermanente, não alteram a vazão da bacia hidráulica onde estão instaladas.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r11202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 17",
+    "observacao": null
+  },
+  {
+    "numero": 13,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma onda eletromagnética possui frequência angular igual a ω e se propaga em diferentes meios materiais, de forma ideal, conforme os dados apresentados na tabela a seguir.\nMeio de Propagação Condutividade Permissividade Permeabilidade\n(1) Espaço livre (vácuo) s = 0 e = eo µ = µo\n(2) Dielétrico sem perdas s = 0 e = ereo µ = µr µo\n(3) Dielétrico com perdas s ¹ 0 e = ereo µ = µr µo\n(4) Bons condutores s » ∞ e = eo µ = µr µo\nSADIKU, M. N. O. Elementos de Eletromagnetismo. Porto Alegre: Bookman, 2012 (adaptado).\nPor meio do e studo da propagação de ondas em meios dielétricos com perdas, chega-se às equações que explicam a propagação nos demais meios (1), (2) e (4). Dessa forma, desenvolver as equações e interpretar os parâmetros s, e e µ é de fundamental importância. Por exemplo: a constante de propagação (γ) de uma onda eletromagnética em meios dielétricos com perdas (3) é uma quantidade complexa dada por: γ = a + jb, na qual a é a constante de atenuação do meio considerado e b sua constante de fase. Individualmente, os valores de a e b de uma onda eletromagnética em meios dielétricos com perdas (3) podem ser obtidos pelas equações apresentadas a seguir.\nαω µε σ\nωε=+\n\n\n\n\n\n −\n\n\n\n\n\n2 11\nβω µε σ\nωε=+\n\n\n\n\n\n +\n\n\n\n\n\n2 11\nSADIKU, M. N.O. Elementos de Eletromagnetismo. Porto Alegre: Bookman, 2012, p. 379 (adaptado).\nConsidere os valores apresentados na tabela e as equações para o cálculo de a e b.\nA partir dessas informações, é correto afirmar que, quando a propagação ocorrer no espaço livre (vácuo) (1), os valores de a e b serão, respectivamente,",
+    "alternativas": {
+      "A": "a = 0 e b = 0",
+      "B": "a ≠ 0 e b ≠ 0",
+      "C": "a = 0 e",
+      "D": "αω µε= 00 e b = 0",
+      "E": "a ≠ 0 e βω µε= 00\nβω µε= 00"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 13 \nUma onda eletromagnética possui frequência angular igual a ω e se propaga em diferentes meios materiais, \nde forma ideal, conforme os dados apresentados na tabela a seguir.\nMeio de Propagação Condutividade Permissividade Permeabilidade\n(1) Espaço livre (vácuo) s = 0 e = eo µ = µo\n(2) Dielétrico sem perdas s = 0 e = ereo µ = µr µo\n(3) Dielétrico com perdas s ¹ 0 e = ereo µ = µr µo\n(4) Bons condutores s » ∞ e = eo µ = µr µo\nSADIKU, M. N. O. Elementos de Eletromagnetismo. Porto Alegre: Bookman, 2012 (adaptado).\nPor meio do e studo da propagação de ondas em meios dielétricos com perdas, chega-se às equações \nque explicam a propagação nos demais meios (1), (2) e (4). Dessa forma, desenvolver as equações e \ninterpretar os parâmetros s, e e µ é de fundamental importância. Por exemplo: a constante de \npropagação (γ) de uma onda eletromagnética em meios dielétricos com perdas (3) é uma quantidade \ncomplexa dada por: γ = a + jb, na qual a é a constante de atenuação do meio considerado e b sua \nconstante de fase. Individualmente, os valores de a e b de uma onda eletromagnética em meios \ndielétricos com perdas (3) podem ser obtidos pelas equações apresentadas a seguir.\nαω µε σ\nωε=+\n\n\n\n\n\n −\n\n\n\n\n\n2 11\n2\nβω µε σ\nωε=+\n\n\n\n\n\n +\n\n\n\n\n\n2 11\n2\nSADIKU, M. N.O. Elementos de Eletromagnetismo. Porto Alegre: Bookman, 2012, p. 379 (adaptado).\nConsidere os valores apresentados na tabela e as equações para o cálculo de a e b.\nA partir dessas informações, é correto afirmar que, quando a propagação ocorrer no espaço livre \n(vácuo) (1), os valores de a e b serão, respectivamente,\nA a = 0 e b = 0\nB a ≠ 0 e b ≠ 0\nC a = 0 e \nD αω µε= 00 e b = 0\nE a ≠ 0 e βω µε= 00\nβω µε= 00\n*r11202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 14,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Seja a saída y(t) de um sistema dada por\ny(t)=(x(t))a+b x(t)+c\nem que x(t) é a entrada.\nA partir disso, considere os valores das constantes e em cada um dos casos:\nI. a = 0, b = 1, c = 0.\nII. a = 1, b = 0, c = 0.\nIII. a = 1, b = 1, c = 0.\nIV. a = 2, b = 0, c = 1.\nCom base nessas informações, é correto afirmar que o sistema será não linear apenas nos casos",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "III e IV.",
+      "D": "I, II e III.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 14 \nSeja a saída y(t) de um sistema dada por\ny(t)=(x(t))a+b x(t)+c\nem que x(t) é a entrada.\nA partir disso, considere os valores das constantes e em cada um dos casos:\nI. a = 0, b = 1, c = 0.\nII. a = 1, b = 0, c = 0.\nIII. a = 1, b = 1, c = 0.\nIV. a = 2, b = 0, c = 1.\nCom base nessas informações, é correto afirmar que o sistema será não linear apenas nos casos\nA I e II.\nB I e IV.\nC III e IV.\nD I, II e III.\nE II, III e IV.\n*r11202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 19",
+    "observacao": null
+  },
+  {
+    "numero": 15,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Um engenheiro projetou um novo sistema de sensoriamento de temperatura para a linha de produção de uma fábrica. No circuito eletrônico projetado, mostrado na figura a seguir, um sensor, baseado no detector resistivo de temperatura (RTD), foi escolhido e ligado a uma ponte de Wheatstone por meio dos resistores R 2, R 3 e R 4. Acerca desse projeto, tem-se as seguintes informações: a ponte é ligada a uma fonte de alimentação de 12 V; uma tensão V 0 é medida na saída da ponte quando o circuito é exposto a uma variação de temperatura; e o RTD apresenta uma resistência de 100 ohms a 0 °C com coeficiente térmico de + 0,4 ohm/°C.\nCircuito eletrônico projetado\n+12V\nRTDR4\nR3 R2\nVA VB V0\n+\n–\nCom base nos dados apresentados, considerando R2 = R3 = R4 = 100 ohms, Avalie as afirmações a seguir.\nI. Quando V0 = +1 V, a temperatura medida pelo circuito é de 100 °C.\nII. Quando o valor do RTD for igual a 100 ohms, a ponte estará em equilíbrio.\nIII. Quando V0 = 0 V, o valor do RTD também é igual a zero.\nIV. A sensibilidade do RTD na ponte depende dos resistores R2, R3 e R4. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "II e IV.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 15 \nUm engenheiro projetou um novo sistema de sensoriamento de temperatura para a linha de produção \nde uma fábrica. No circuito eletrônico projetado, mostrado na figura a seguir, um sensor, baseado no \ndetector resistivo de temperatura (RTD), foi escolhido e ligado a uma ponte de Wheatstone por meio \ndos resistores R 2, R 3 e R 4. Acerca desse projeto, tem-se as seguintes informações: a ponte é ligada a \numa fonte de alimentação de 12 V; uma tensão V 0 é medida na saída da ponte quando o circuito é \nexposto a uma variação de temperatura; e o RTD apresenta uma resistência de 100 ohms a 0 °C com \ncoeficiente térmico de + 0,4 ohm/°C.\nCircuito eletrônico projetado\n+12V\nRTDR4\nR3 R2\nVA VB V0\n+\n–\nCom base nos dados apresentados, considerando R2 = R3 = R4 = 100 ohms, avalie as afirmações a seguir.\nI. Quando V0 = +1 V, a temperatura medida pelo circuito é de 100 °C.\nII. Quando o valor do RTD for igual a 100 ohms, a ponte estará em equilíbrio.\nIII. Quando V0 = 0 V, o valor do RTD também é igual a zero.\nIV. A sensibilidade do RTD na ponte depende dos resistores R2, R3 e R4.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*r11202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 16,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "baixa",
+    "score_bloco": 110,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere que o sistema apresentado na figura a seguir possua entrada x(t), saída y(t), sinal de erro e(t), as correspondentes transformadas de Laplace, X(s), Y(s), E(s), e as constantes K e T maiores do que zero.\nDiagrama de blocos do sistema\nControlador\nProporcional Planta\nY(s)\ny(t)\nX(s)\nx(t)\nE(s)\ne(t)\nK+ +\n-\nTs + 1\nCom base nessas informações, qual será o sinal de saída em regime permanente, y(t), para a entrada degrau unitário?",
+    "alternativas": {
+      "A": "",
+      "B": "K",
+      "C": "K\nKT++ 1",
+      "D": "K\nK +1",
+      "E": "∞"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": false,
+    "texto_bruto": "QUESTÃO 16 \nConsidere que o sistema apresentado na figura a seguir possua entrada x(t), saída y(t), sinal de erro \ne(t), as correspondentes transformadas de Laplace, X(s), Y(s), E(s), e as constantes K e T maiores do \nque zero.\nDiagrama de blocos do sistema\nControlador\nProporcional Planta\nY(s)\ny(t)\nX(s)\nx(t)\nE(s)\ne(t)\nK+ +\n-\n1\nTs + 1\nCom base nessas informações, qual será o sinal de saída em regime permanente, y(t), para a entrada \ndegrau unitário?\nA 0\nB K\nC K\nKT++ 1\nD K\nK +1\nE ∞\n*r11202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 21",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 17,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "As figuras a seguir exemplificam aplicações com Strain Gauges, também conhecidos como extensômetros, do tipo banda uniaxial de trama pelicular afixado sobre viga.\nFigura 1 Figura 2\nF\nF\n1 2\nF\nAGUIRRE, L. A. Fundamentos de Instrumentação. São Paulo: Pearson Education do Brasil, 2013 (adaptado).\nCom base nessas informações, Avalie as afirmações a seguir.\nI. Na figura 1, à medida que a força vertical F atuar, a viga que está engastada do lado esquerdo e livre do lado direito, será flexionada de maneira que os extensômetros superiores (1 e 3) serão alongados e suas resistências aumentarão.\nII. Na figura 2, se o corpo de prova for tracionado pela força horizontal F, a resistência dos extensômetros 1 e 3 reduzirá.\nIII. Na figura 1, os extensômetros se deformam igualmente sob ação de forças verticais ou horizontais.\nIV. Na figura 2, os extensômetros 2 e 4 não são sensíveis às deformações do corpo de prova na direção de F, horizontal. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 17 \nAs figuras a seguir exemplificam aplicações com Strain Gauges, também conhecidos como extensômetros, \ndo tipo banda uniaxial de trama pelicular afixado sobre viga.\nFigura 1 Figura 2\n2\n3\n1\nF\n4\nF\n1 2\n43\nF\nAGUIRRE, L. A. Fundamentos de Instrumentação. São Paulo: Pearson Education do Brasil, 2013 (adaptado).\nCom base nessas informações, avalie as afirmações a seguir.\nI. Na figura 1, à medida que a força vertical F atuar, a viga que está engastada do lado esquerdo e \nlivre do lado direito, será flexionada de maneira que os extensômetros superiores (1 e 3) serão \nalongados e suas resistências aumentarão.\nII. Na figura 2, se o corpo de prova for tracionado pela força horizontal F, a resistência dos \nextensômetros 1 e 3 reduzirá.\nIII. Na figura 1, os extensômetros se deformam igualmente sob ação de forças verticais ou horizontais.\nIV. Na figura 2, os extensômetros 2 e 4 não são sensíveis às deformações do corpo de prova na \ndireção de F, horizontal.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*r11202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 18,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "baixa",
+    "score_bloco": 10,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Um engenheiro precisa construir um sistema de medição do valor eficaz da corrente senoidal de alimentação de um motor, o qual é acionado por meio de um inversor. A frequência de alimentação deve variar de 30 a 80 Hz.\nPara realizar o trabalho, esse engenheiro resolveu utilizar amplificadores operacionais (supostos ideais e operando com a alimentação adequada) com uma estrutura que está esquematizada no diagrama a seguir. A corrente CA é medida por um sensor que fornece uma corrente de saída na proporção de 1 000:1, ou seja, a cada 1 A medido, tem-se 1 mA disponível para o processamento eletrônico. Esse sensor tem capacidade de medir até 10 A (valor instantâneo máximo).\nDiagrama do circuito para medição de corrente\nCorrente\nCA 1mA/A 100k\n100k100k\nD1\nC\nD2\nU1\nU2\nAMP OP\nAMP OP\nBloco de\najuste do\nganho\nSaída\nvalor\neﬁcaz\n-\n+\n+ -\n-\n+\nSensor\nde\ncorrente\n1000:1\nNo diagrama, todos os valores de resistência estão em ohms e, com relação às funções dos circuitos mostrados, tem-se que:\n• U1 compõe um retificador de meia-onda, com ganho unitário, cuja saída é a inversão do semi-ciclo negativo do sinal de entrada. Consider+e que a corrente de saída do sensor flui pelo resistor de 1 000 ohms.\n• U2 compõe um filtro passa-baixas, com frequência de corte em 0,3 Hz.\nPara que a saída represente melhor o valor eficaz correspondente à corrente CA senoidal medida, assinale a opção que apresenta",
+    "alternativas": {},
+    "alternativas_esperadas": [],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": false,
+    "texto_bruto": "QUESTÃO 18 \nUm engenheiro precisa construir um sistema de medição do valor eficaz da corrente senoidal de \nalimentação de um motor, o qual é acionado por meio de um inversor. A frequência de alimentação \ndeve variar de 30 a 80 Hz.\nPara realizar o trabalho, esse engenheiro resolveu utilizar amplificadores operacionais (supostos ideais \ne operando com a alimentação adequada) com uma estrutura que está esquematizada no diagrama \na seguir. A corrente CA é medida por um sensor que fornece uma corrente de saída na proporção \nde 1 000:1, ou seja, a cada 1 A medido, tem-se 1 mA disponível para o processamento eletrônico. \nEsse sensor tem capacidade de medir até 10 A (valor instantâneo máximo).\nDiagrama do circuito para medição de corrente\nCorrente\nCA 1mA/A 100k\n100k\n100k100k\nD1\nC\nD2\nU1\nU2\nAMP OP\nAMP OP\nBloco de\najuste do\nganho\nSaída\nvalor\neﬁcaz\n1k\n-\n+\n+ -\n-\n+\nSensor\nde\ncorrente\n1000:1\nNo diagrama, todos os valores de resistência estão em ohms e, com relação às funções dos circuitos \nmostrados, tem-se que:\n• U1 compõe um retificador de meia-onda, com ganho unitário, cuja saída é a inversão do semi-ciclo \nnegativo do sinal de entrada. Consider+e que a corrente de saída do sensor flui pelo resistor \nde 1 000 ohms.\n• U2 compõe um filtro passa-baixas, com frequência de corte em 0,3 Hz.\n*r11202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 23\nPara que a saída represente melhor o valor eficaz correspondente à corrente CA senoidal medida, \nassinale a opção que apresenta o circuito mais adequado para o bloco de ajuste do ganho.\nA\n100k\n141k\nU3\nAMP OP-\n+\nD\n222k\n100k\nU3\nAMP OP+\n-\nB\n122k\n100k\nU3\nAMP OP+\n-\nE\n222k\n100k\nU3\nAMP OP\n-\n+\nC\n141k\n100k\nU3\nAMP OP-\n+\n*r11202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 19,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Há uma grande variedade de transformadores que funcionam com diferentes tipos de circuitos, mas todos operam sob o mesmo princípio de indução eletromagnética.\nDiante disso, considere dois transformadores projetados para a mesma potência em kVA, ambos com núcleo do mesmo material ferromagnético e que têm as mesmas tensões primárias e secundárias e os mesmos números de espiras no primário e no secundário.\nConsiderando essas condições, avalie as asserções a seguir e a relação proposta entre elas.\nI. Um transformador com frequência nominal de 60 Hz terá menor dimensão física do que um transformador com frequência nominal de 400 Hz. PORQUE II. O fluxo magnético máximo no transformador com frequência nominal de 400 Hz será menor do que no transformador com frequência nominal de 60 Hz. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 19 \nHá uma grande variedade de transformadores que funcionam com diferentes tipos de circuitos, \nmas todos operam sob o mesmo princípio de indução eletromagnética.\nDiante disso, considere dois transformadores projetados para a mesma potência em kVA, ambos com \nnúcleo do mesmo material ferromagnético e que têm as mesmas tensões primárias e secundárias e os \nmesmos números de espiras no primário e no secundário.\nConsiderando essas condições, avalie as asserções a seguir e a relação proposta entre elas.\nI. Um transformador com frequência nominal de 60 Hz terá menor dimensão física do que um \ntransformador com frequência nominal de 400 Hz.\nPORQUE\nII. O fluxo magnético máximo no transformador com frequência nominal de 400 Hz será menor do \nque no transformador com frequência nominal de 60 Hz.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r11202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 25",
+    "observacao": null
+  },
+  {
+    "numero": 20,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere o sistema representado pelo diagrama de blocos a seguir, em que T representa um atraso no tempo e em que k1 e k2 são constantes reais positivas.\nDiagrama de blocos do sistema\nx(t) y(t)k1\n- -\nk2+ T\nT\nT\n+\nPode-se obter a saída y(t) desse sistema para qualquer entrada arbitrária x(t) por meio da convolução entre o sinal de entrada e a sua resposta ao impulso. O Teorema da Convolução estabelece que a operação de convolução é equivalente ao produto, em frequência, entre a transformada de Fourier do sinal de entrada e a função de transferência do sistema (com transformada de Fourier da sua resposta ao impulso).\nCom base nessas informações, qual é a função de transferência, H(w), do sistema apresentado no diagrama?",
+    "alternativas": {
+      "A": "H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−",
+      "B": "H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−",
+      "C": "H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−",
+      "D": "H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−",
+      "E": "H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 20 \nConsidere o sistema representado pelo diagrama de blocos a seguir, em que T representa um atraso no \ntempo e em que k1 e k2 são constantes reais positivas.\nDiagrama de blocos do sistema\nx(t) y(t)k1\n- -\nk2+ T\nT\nT\n+\nPode-se obter a saída y(t) desse sistema para qualquer entrada arbitrária x(t) por meio da convolução \nentre o sinal de entrada e a sua resposta ao impulso. O Teorema da Convolução estabelece que a \noperação de convolução é equivalente ao produto, em frequência, entre a transformada de Fourier do \nsinal de entrada e a função de transferência do sistema (com transformada de Fourier da sua resposta \nao impulso).\nCom base nessas informações, qual é a função de transferência, H(w), do sistema apresentado \nno diagrama?\nA H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−\n12\n2\n2\n111\nB H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−\n12\n2\n2111\nC H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−\n12\n1\n2\n211\nD H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n−\n−\n12\n2\n1211\nE H kk e\nke k\njT\njT()\n()\nw\nw\nw=\n++\n12\n1\n2\n211\n*r11202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 21,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os materiais ferromagnéticos, frequentemente compostos de ferro e de ligas de ferro com cobalto, níquel, alumínio e outros metais, possuem um momento magnético permanente mesmo na ausência de um campo externo e se imantam fortemente se colocados na presença de um campo magnético. Sabe-se que a permeabilidade magnética, grandeza característica de cada material, refere-se à sua capacidade de \"permitir\" a existência de linhas de indução em seu interior e que, quanto maior for a permeabilidade de um material, mais fácil será a obtenção dessas linhas de indução.\nNo circuito magnético representado na figura 1 a seguir, as dimensões geométricas estão em centímetros. A corrente de excitação CC, i, percorrendo a bobina, estabelece a circulação de um fluxo magnético de 9,6 mWb no núcleo magnético, o qual é feito de chapas de aço silício de grão orientado (GO) do tipo M-5, cuja curva de magnetização é apresentada na figura 2. O fator de laminação do núcleo é igual a 1 e o fluxo de dispersão é desprezível.\nFigura 1 – Circuito magnético com núcleo de aço laminado\nbobina\ni\n+\ne\n–\n7,5 cm\n7,5 cm\nUMANS, S.\nD Máquinas Elétricas de Fitzgerald e Kingsley 7. ed. Porto Alegre: AMGH, 2014 (adaptado).\nFigura 2 – Curva de magnetização CC para o aço silício de grão orientado (GO) do tipo M-5\n2,4\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n0,8\n0,6\n0,4\n0,2\n0 1 10 100 1000 10.000 100.000\nH (Ae/m)\nB (Wb/m2)\nUMANS, S.\nD Máquinas Elétricas de Fitzgerald e Kingsley 7. ed. Porto Alegre: AMGH, 2014 (adaptado).\nPara essas condições, a permeabilidade magnética do material ferromagnético utilizado é, aproximadamente,",
+    "alternativas": {
+      "A": "8 mWb/Ae.m.",
+      "B": "23 mWb/Ae.m.",
+      "C": "40 mWb/Ae.m.",
+      "D": "25 Wb/Ae.m.",
+      "E": "44 Wb/Ae.m."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 21 \nOs materiais ferromagnéticos, frequentemente compostos de ferro e de ligas de ferro com cobalto, \nníquel, alumínio e outros metais, possuem um momento magnético permanente mesmo na ausência \nde um campo externo e se imantam fortemente se colocados na presença de um campo magnético. \nSabe-se que a permeabilidade magnética, grandeza característica de cada material, refere-se à sua \ncapacidade de \"permitir\" a existência de linhas de indução em seu interior e que, quanto maior for a \npermeabilidade de um material, mais fácil será a obtenção dessas linhas de indução.\nNo circuito magnético representado na figura 1 a seguir, as dimensões geométricas estão em \ncentímetros. A corrente de excitação CC, i, percorrendo a bobina, estabelece a circulação de um fluxo \nmagnético de 9,6 mWb no núcleo magnético, o qual é feito de chapas de aço silício de grão orientado \n(GO) do tipo M-5, cuja curva de magnetização é apresentada na figura 2. O fator de laminação do \nnúcleo é igual a 1 e o fluxo de dispersão é desprezível.\nFigura 1 – Circuito magnético com núcleo de aço laminado\n25 cm\nbobina\n30 cm\n8 cm\ni\n+\ne\n–\n7,5 cm\n7,5 cm\nUMANS, S. D. Máquinas Elétricas de Fitzgerald e Kingsley 7. ed. Porto Alegre: AMGH, 2014 (adaptado).\n*r11202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 27\nFigura 2 – Curva de magnetização CC para o aço silício de grão orientado (GO) do tipo M-5\n2,4\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n0,8\n0,6\n0,4\n0,2\n0 1 10 100 1000 10.000 100.000\nH (Ae/m)\nB (Wb/m2)\nUMANS, S. D. Máquinas Elétricas de Fitzgerald e Kingsley 7. ed. Porto Alegre: AMGH, 2014 (adaptado).\nPara essas condições, a permeabilidade magnética do material ferromagnético utilizado é, \naproximadamente,\nA 8 mWb/Ae.m.\nB 23 mWb/Ae.m.\nC 40 mWb/Ae.m.\nD 25 Wb/Ae.m.\nE 44 Wb/Ae.m.\n*r11202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 22,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O circuito esquematizado na figura 1 tem como entradas os sinais Q1 e Q2, que são gerados pelo circuito apresentado na figura 2. De acordo com o sinal de clock (CLK), um conjunto de símbolos do painel é \"ativado\". Cada um dos quatro símbolos do painel está associado a uma saída do circuito lógico, ou seja, o quadrado está associado à letra a, o losango à letra b, o círculo à letra c, e o triangulo à letra d. Sabe-se, também, que os flip-flops (FFs) são inicializados com nível zero.\nA tabela funcional dos FFs é apresentada na figura 3.\nFigura 1 – Circuito para acionamento dos símbolos do painel\na\nd\nb\nc\nPainel\nb\na\nQ1\nQ2\nc\nd\nFigura 2 – Circuito gerador dos sinais Q1 e Q2\nCLOCK CLK CLK\nJ Q1 J Q2\nK\nCLEAR\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nQ1 K Q2\nPRESET PRESET\nCLEAR\nCLOCK\nFigura 3 – Tabela funcional dos flip-flops\nTabela Funcional\nEntradas Saídas\nPR CLR CLK J K Q Q\nL H X X X H L\nH L X X X L H\nL L X X X H H\nH H L L Q0 Q0\nH H H L H L\nH H L H L H\nH H H H Toggle\nH = Nível lógico ALTO\nL = Nível lógico BAIXO\nX = Condição Irrelevante\nCom base nessas informações, assinale a opção que apresenta a sequência correta de símbolos ativados no painel em cor amarela, a partir da primeira borda ativa de clock.",
+    "alternativas": {
+      "A": "a\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc",
+      "B": "a\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc",
+      "C": "a\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc",
+      "D": "a\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc",
+      "E": "a\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 22 \nO circuito esquematizado na figura 1 tem como entradas os sinais Q1 e Q2, que são gerados pelo \ncircuito apresentado na figura 2. De acordo com o sinal de clock (CLK), um conjunto de símbolos do \npainel é \"ativado\". Cada um dos quatro símbolos do painel está associado a uma saída do circuito lógico, \nou seja, o quadrado está associado à letra a, o losango à letra b, o círculo à letra c, e o triangulo à letra d. \nSabe-se, também, que os flip-flops (FFs) são inicializados com nível zero.\nA tabela funcional dos FFs é apresentada na figura 3.\nFigura 1 – Circuito para acionamento dos símbolos do painel\na\nd\nb\nc\nPainel\nb\na\nQ1\nQ2\nc\nd\nFigura 2 – Circuito gerador dos sinais Q1 e Q2\nCLOCK CLK CLK\nJ Q1 J Q2\nK\nCLEAR\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nNível\nALTO\nQ1 K Q2\nPRESET PRESET\nCLEAR\nCLOCK\n1\n0\n*r11202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 29\nFigura 3 – Tabela funcional dos flip-flops\nTabela Funcional\nEntradas Saídas\nPR CLR CLK J K Q Q\nL H X X X H L\nH L X X X L H\nL L X X X H H\nH H L L Q0 Q0\nH H H L H L\nH H L H L H\nH H H H Toggle\nH = Nível lógico ALTO\nL = Nível lógico BAIXO\nX = Condição Irrelevante\nCom base nessas informações, assinale a opção que apresenta a sequência correta de símbolos \nativados no painel em cor amarela, a partir da primeira borda ativa de clock. \nA \na\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc\nB \na\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc\nC \na\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc\nD \na\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc\nE \na\nd\nb\nc\na\nd\nb\nc\na\nd\nb\nc\n*r11202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 23,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A figura a seguir apresenta um circuito para medir e para indicar a posição angular do eixo q de um potenciômetro. Esse circuito utiliza fontes de alimentação de + 10 V e - 5 V, um potenciômetro e os resistores de 4 e 16 ohms para obter uma tensão (VIN) na entrada do circuito amplificador. O modelo do potenciômetro utilizado no circuito é linear, com ângulo medido a partir da posição central, conforme os detalhes mostrados a seguir. O amplificador é composto por 2 resistores e uma fonte dependente, de ganho b.\nCircuito para medir e para indicar a posição angular q do eixo de um potenciômetro\n+10V\n-5V\n4Ω\n10Ω\n100Ω\nVsaída\nAmpliﬁcador\n+\n-\n+-Vin b Vin\nVolmetro\n10Ω\n16Ω\n+ -\nt3\nt1\nt2\nθ = 0°\nθ = 36°\nt3\nt1 t2\nPotenciômetro\nDORF, R. C.; SVOBODA, J.\nA Introdução aos circuitos elétricos. 7. ed. Rio de Janeiro: LTC, 2008 (adaptado).\nEsse circuito foi obtido modelando as fontes de alimentação como fontes ideais e o voltímetro como um circuito aberto. O potenciômetro tem curso de -180° a +180°.\nA partir das informações apresentadas e considerando que o potenciômetro se encontra na posição angular de 36°, qual deve ser o valor do ganho b, indicado na figura, para que a tensão VSAIDA do circuito seja 3,6 V?",
+    "alternativas": {
+      "A": "0,72.",
+      "B": "1,09.",
+      "C": "1,20.",
+      "D": "2,12.",
+      "E": "3,00."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 23 \nA figura a seguir apresenta um circuito para medir e para indicar a posição angular do eixo q de um \npotenciômetro. Esse circuito utiliza fontes de alimentação de + 10 V e - 5 V, um potenciômetro e os \nresistores de 4 e 16 ohms para obter uma tensão (VIN) na entrada do circuito amplificador. O modelo do \npotenciômetro utilizado no circuito é linear, com ângulo medido a partir da posição central, conforme \nos detalhes mostrados a seguir. O amplificador é composto por 2 resistores e uma fonte dependente, de \nganho b.\nCircuito para medir e para indicar a posição angular q do eixo de um potenciômetro\n+10V\n-5V\n4Ω\n10Ω\n100Ω\nVsaída\nAmpliﬁcador\n+\n-\n+-Vin b Vin\nVol�metro\n10Ω\n16Ω\n+ -\nt3\nt1\nt2\nθ = 0°\nθ = 36°\nt3\nt1 t2\nPotenciômetro\nDORF, R. C.; SVOBODA, J. A. Introdução aos circuitos elétricos. 7. ed. Rio de Janeiro: LTC, 2008 (adaptado).\nEsse circuito foi obtido modelando as fontes de alimentação como fontes ideais e o voltímetro como um \ncircuito aberto. O potenciômetro tem curso de -180° a +180°.\nA partir das informações apresentadas e considerando que o potenciômetro se encontra na posição \nangular de 36°, qual deve ser o valor do ganho b, indicado na figura, para que a tensão VSAIDA do circuito \nseja 3,6 V?\nA 0,72.\nB 1,09.\nC 1,20.\nD 2,12.\nE 3,00.\n*r11202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 31",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 24,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere um sistema elétrico de potência representado pelo diagrama unifilar a seguir. A potência injetada na barra 3 e as impedâncias das linhas que conectam a barra 1 à barra 2 bem como a barra 2 à barra 3 são mensuradas por unidade (pu). Tanto a tensão na barra 1 quanto a tensão na barra 3 são iguais a 1,0 pu.\nDiagrama unifilar do sistema\n1 2\nj0,2j0,2\nSG3= 0,5\nCom base nessas informações, é correto dizer que a tensão na barra 2 e o fluxo de potência saindo da barra 1 para a barra 2 são, respectivamente,",
+    "alternativas": {
+      "A": "1,0 pu e 1,0 pu.",
+      "B": "1,0 - j0,1 pu e 1,0 pu.",
+      "C": "1,0 + j0,1 pu e 0,5 pu.",
+      "D": "1,0 - j0,1 pu e 0,5 pu.",
+      "E": "1,0 + j0,1 pu e 1,0 pu."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 24 \nConsidere um sistema elétrico de potência representado pelo diagrama unifilar a seguir. A potência injetada \nna barra 3 e as impedâncias das linhas que conectam a barra 1 à barra 2 bem como a barra 2 à barra 3 \nsão mensuradas por unidade (pu). Tanto a tensão na barra 1 quanto a tensão na barra 3 são iguais a 1,0 pu.\nDiagrama unifilar do sistema\n1 2\nj0,2j0,2\nSG3= 0,5\n3\nCom base nessas informações, é correto dizer que a tensão na barra 2 e o fluxo de potência saindo da \nbarra 1 para a barra 2 são, respectivamente,\nA 1,0 pu e 1,0 pu.\nB 1,0 - j0,1 pu e 1,0 pu.\nC 1,0 + j0,1 pu e 0,5 pu.\nD 1,0 - j0,1 pu e 0,5 pu.\nE 1,0 + j0,1 pu e 1,0 pu.\n*r11202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 25,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Auditoria energética é a análise sistemática dos fluxos de energia em um sistema particular, visando a discriminar as perdas e a orientar um programa de uso racional de insumos energéticos. Uma forma de desenvolver uma auditoria energética na indústria é implementá-la em etapas sequenciadas, sendo:\nEtapas de uma auditoria energética\nLevantamento de dados gerais da empresa\nEstudo dos ﬂuxos de materiais e produtos\nCaracterização do consumo energético\nAvaliação das perdas de energia\nElaboração das recomendações e conclusões\nDesenvolvimento dos estudos técnicos e\neconômicos das alternativas de redução das perdas\nMARQUE, M. C. (org.). Conservação de Energia: Eficiência energética de equipamentos industriais. 3. ed. Itajubá: Fupai, 2006 (adaptado). Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. A etapa de avaliação das perdas de energia em uma auditoria energética envolve cálculos para determinar as correções das cargas de equipamentos. PORQUE II. A comparação de grandezas de naturezas diferentes na entrada e na saída de uma carga de sistema ou de um equipamento auxilia no diagnóstico de disfunções acarretadoras de desperdício. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 25 \nAuditoria energética é a análise sistemática dos fluxos de energia em um sistema particular, visando a \ndiscriminar as perdas e a orientar um programa de uso racional de insumos energéticos. Uma forma de \ndesenvolver uma auditoria energética na indústria é implementá-la em etapas sequenciadas, sendo:\nEtapas de uma auditoria energética\nLevantamento de dados gerais da empresa\nEstudo dos ﬂuxos de materiais e produtos\nCaracterização do consumo energético\nAvaliação das perdas de energia\nElaboração das recomendações e conclusões\nDesenvolvimento dos estudos técnicos e\neconômicos das alternativas de redução das perdas\nMARQUE, M. C. (org.). Conservação de Energia: Eficiência energética de equipamentos industriais. \n 3. ed. Itajubá: Fupai, 2006 (adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. A etapa de avaliação das perdas de energia em uma auditoria energética envolve cálculos para \ndeterminar as correções das cargas de equipamentos.\nPORQUE\nII. A comparação de grandezas de naturezas diferentes na entrada e na saída de uma carga de sistema \nou de um equipamento auxilia no diagnóstico de disfunções acarretadoras de desperdício.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r11202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 33",
+    "observacao": null
+  },
+  {
+    "numero": 26,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura a seguir apresenta um sistema fotovoltaico que visa a suprir uma parcela da demanda energética de uma residência, a qual também possui conexão com a rede pública de fornecimento de energia.\nDiagrama de blocos do sistema fotovoltaico instalado na residência\nPainel fotovoltaico\nX\nBateria\nRede\npública\nY Residência\nQuadro\nde\ndistribuição\nNesse sistema, em relação ao dispositivo X, ligado ao painel fotovoltaico, e ao dispositivo Y, ligado ao quadro de distribuição, é correto afirmar que",
+    "alternativas": {
+      "A": "X pode ser suprimido, e a energia do painel fotovoltaico pode ser ligada diretamente na bateria para carregá-la; Y pode ser suprimido, e a energia do painel fotovoltaico pode ser distribuída diretamente à residência por meio do quadro de distribuição.",
+      "B": "X corresponde a um controlador de carga responsável por controlar o carregamento e o descarregamento da bateria; e Y corresponde a outro controlador de carga responsável por distribuir a energia da bateria à residência por meio do quadro de distribuição.",
+      "C": "X corresponde a um controlador de carga responsável por controlar o carregamento e o descarregamento da bateria; e Y pode ser suprimido, assim, a energia proveniente do controlador de carga pode ser ligada diretamente na residência por meio do quadro de distribuição.",
+      "D": "X pode ser suprimido, e a energia do painel fotovoltaico pode ser ligada diretamente na bateria para carregá-la; e Y corresponde a um inversor de frequência responsável por converter a energia do painel fotovoltaico de corrente contínua em corrente alternada (CC-CA), para ser distribuída à residência por meio do quadro de distribuição.",
+      "E": "X corresponde a um controlador de carga responsável por controlar o carregamento e o descarregamento da bateria; e Y corresponde a um inversor de frequência responsável por converter a energia proveniente da bateria de corrente contínua em corrente alternada (CC-CA), para ser distribuída à residência por meio do quadro de distribuição."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 26 \nA figura a seguir apresenta um sistema fotovoltaico que visa a suprir uma parcela da demanda \nenergética de uma residência, a qual também possui conexão com a rede pública de fornecimento \nde energia.\nDiagrama de blocos do sistema fotovoltaico instalado na residência\nPainel fotovoltaico\nX\nBateria\nRede\npública\nY Residência\nQuadro\nde\ndistribuição\nNesse sistema, em relação ao dispositivo X, ligado ao painel fotovoltaico, e ao dispositivo Y , ligado ao \nquadro de distribuição, é correto afirmar que\nA X pode ser suprimido, e a energia do painel fotovoltaico pode ser ligada diretamente na bateria para \ncarregá-la; Y pode ser suprimido, e a energia do painel fotovoltaico pode ser distribuída diretamente \nà residência por meio do quadro de distribuição.\nB X corresponde a um controlador de carga responsável por controlar o carregamento e o \ndescarregamento da bateria; e Y corresponde a outro controlador de carga responsável por distribuir \na energia da bateria à residência por meio do quadro de distribuição.\nC X corresponde a um controlador de carga responsável por controlar o carregamento e o \ndescarregamento da bateria; e Y pode ser suprimido, assim, a energia proveniente do controlador de \ncarga pode ser ligada diretamente na residência por meio do quadro de distribuição.\nD X pode ser suprimido, e a energia do painel fotovoltaico pode ser ligada diretamente na bateria \npara carregá-la; e Y corresponde a um inversor de frequência responsável por converter a energia \ndo painel fotovoltaico de corrente contínua em corrente alternada (CC-CA), para ser distribuída à \nresidência por meio do quadro de distribuição.\nE X corresponde a um controlador de carga responsável por controlar o carregamento e o \ndescarregamento da bateria; e Y corresponde a um inversor de frequência responsável por converter \na energia proveniente da bateria de corrente contínua em corrente alternada (CC-CA), para ser \ndistribuída à residência por meio do quadro de distribuição.\n*r11202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 27,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A rede Actuator Sensor Interface (AS-I) é um padrão de comunicação industrial concebido para tornar mais simples e rápida a conexão entre sensores e atuadores com os respectivos controladores. O controle de acesso ao meio dessa rede é do tipo polling e, nela, um terminal-mestre pode controlar até 30 terminais-escravos. Um ciclo completo ocorre após todos os escravos terem sido requisitados uma vez. A sequência binária correspondente à comunicação serial entre o terminal-mestre e cada um dos terminais-escravos é mostrada na figura a seguir.\nSequência binária da comunicação terminal-mestre do protocolo padrão AS-I\nA partir da análise da rede AS-I, após um ciclo completo de comunicação, com a rede em sua configuração máxima, qual será a sequência formada, respectivamente, pela quantidade de bits de informação recebida pelo mestre; pela quantidade de bits de informação transmitida pelo mestre; e pela quantidade total de bits trafegados?",
+    "alternativas": {
+      "A": "4; 5; e 270.",
+      "B": "7; 14; e 630.",
+      "C": "14; 7; e 990.",
+      "D": "120; 150; e 630.",
+      "E": "150; 120; e 990.\nLegenda:\nBI: Bit de início\nBC: Bit de Controle\nA4 - A0: Bits de Endereçamento\nI4 - I0: Bits de Informação\nBP: Bits de Paridade\nBF: Bits de Fim\nMESTRE ESCRAVO\nBI BC A4 A3 A2 A1 A0 I4 I3 I2 I1 I0 BP BI I3 I2 I1 I0 BP BFBF PAUSA PAUSA"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 27 \nA rede Actuator Sensor Interface (AS-I) é um padrão de comunicação industrial concebido para tornar \nmais simples e rápida a conexão entre sensores e atuadores com os respectivos controladores. \nO controle de acesso ao meio dessa rede é do tipo polling e, nela, um terminal-mestre pode controlar \naté 30 terminais-escravos. Um ciclo completo ocorre após todos os escravos terem sido requisitados \numa vez. A sequência binária correspondente à comunicação serial entre o terminal-mestre e cada um \ndos terminais-escravos é mostrada na figura a seguir.\nSequência binária da comunicação terminal-mestre do protocolo padrão AS-I\nA partir da análise da rede AS-I, após um ciclo completo de comunicação, com a rede em sua \nconfiguração máxima, qual será a sequência formada, respectivamente, pela quantidade de bits de \ninformação recebida pelo mestre; pela quantidade de bits de informação transmitida pelo mestre; e \npela quantidade total de bits trafegados?\nA 4; 5; e 270.\nB 7; 14; e 630.\nC 14; 7; e 990.\nD 120; 150; e 630.\nE 150; 120; e 990.\nLegenda:\nBI: Bit de início\nBC: Bit de Controle\nA4 - A0: Bits de Endereçamento\nI4 - I0: Bits de Informação\nBP: Bits de Paridade\nBF: Bits de Fim\nMESTRE ESCRAVO\nBI BC A4 A3 A2 A1 A0 I4 I3 I2 I1 I0 BP BI I3 I2 I1 I0 BP BFBF PAUSA PAUSA\n*r11202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 35",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 28,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "No dia 4 de maio de 2017, o governo brasileiro realizou o lançamento do satélite geoestacionário de defesa e comunicações estratégicas (SGDC), que passou a operar nas bandas de frequência X e Ka. Na banda X, foram disponibilizados recursos de comunicação, tendo em vista o uso exclusivamente militar, para auxiliar a defesa do país. Já na banda Ka, foram disponibilizados canais para o tráfego de dados em alta velocidade, com a finalidade de contribuir para a implementação do Plano Nacional de Banda Larga, o que aumentou a inclusão digital, principalmente em áreas remotas do país. Considerando essas informações, avalie as asserções a seguir e a relação proposta entre elas.\nI. O satélite, em funcionamento pleno, transmite dados em alta velocidade por um período de até 12 horas por dia. PORQUE II. Na órbita geoestacionária, a altitude para a qual o satélite foi projetado para operar é de, aproximadamente, 36 000 Km em relação à superfície da Terra. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 28 \nNo dia 4 de maio de 2017, o governo brasileiro realizou o lançamento do satélite geoestacionário de \ndefesa e comunicações estratégicas (SGDC), que passou a operar nas bandas de frequência X e Ka. \nNa banda X, foram disponibilizados recursos de comunicação, tendo em vista o uso exclusivamente \nmilitar, para auxiliar a defesa do país. Já na banda Ka, foram disponibilizados canais para o tráfego de \ndados em alta velocidade, com a finalidade de contribuir para a implementação do Plano Nacional de \nBanda Larga, o que aumentou a inclusão digital, principalmente em áreas remotas do país.\nDisponível em: http://www.telebras.com.br/inst/?p=7744#more-7744. Acesso em: 18 jul. 2023 (adaptado).\nConsiderando essas informações, avalie as asserções a seguir e a relação proposta entre elas.\nI. O satélite, em funcionamento pleno, transmite dados em alta velocidade por um período de até \n12 horas por dia.\nPORQUE\nII. Na órbita geoestacionária, a altitude para a qual o satélite foi projetado para operar é de, \naproximadamente, 36 000 Km em relação à superfície da Terra.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r11202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Engenharia Elétrica",
+    "observacao": null
+  },
+  {
+    "numero": 29,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Dada a integração cada vez maior de sistemas e de processos industriais, o engenheiro deve ser capaz de lidar com a modelagem e com o controle de sistemas modernos, complexos e interligados.\nNesse contexto, considere que a equação de diferenças de um sistema seja a seguinte.\n6y[n] - y[n-1] - y[n-2] = 18x[n] + x[n-1]\nConsiderando que a transformada z da resposta ao impulso do sistema apresentado (H(z)) possa assumir diferentes regiões de convergência (RDC), Avalie as afirmações a seguir.\nI. A função de transferência do sistema é\n/nobreakspace()\n() ()\nHz\nz\nzz\n=\n+\n−+\n−\n−−\n3 1\n1 1\n3 1 1.\nII. Se |z| > 1/3 for uma região de convergência possível, o sistema será estável.\nIII. Se |z| > 1/2 for uma região de convergência possível, a resposta ao impulso do sistema causal será dada por\n/nobreakspace[][() ()][]hn unnn=− +1\n3 2 1\n2. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 29 \nDada a integração cada vez maior de sistemas e de processos industriais, o engenheiro deve ser capaz \nde lidar com a modelagem e com o controle de sistemas modernos, complexos e interligados.\nNesse contexto, considere que a equação de diferenças de um sistema seja a seguinte.\n6y[n] - y[n-1] - y[n-2] = 18x[n] + x[n-1]\nConsiderando que a transformada z da resposta ao impulso do sistema apresentado (H(z)) possa \nassumir diferentes regiões de convergência (RDC), avalie as afirmações a seguir.\nI. A função de transferência do sistema é\n/nobreakspace()\n() ()\nHz\nz\nzz\n=\n+\n−+\n−\n−−\n3 1\n6\n1 1\n3 1 1\n2\n1\n11\n.\nII. Se |z| > 1/3 for uma região de convergência possível, o sistema será estável.\nIII. Se |z| > 1/2 for uma região de convergência possível, a resposta ao impulso do sistema causal \nserá dada por\n/nobreakspace[][ () () ][ ]hn unnn=− +1\n3 2 1\n2 .\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r11202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 37",
+    "observacao": null
+  },
+  {
+    "numero": 30,
+    "gabarito": null,
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A teoria de controle clássico é fundamentada na relação entrada-saída ou função de transferência; por sua vez, a teoria de controle moderno é baseada na descrição de um sistema de equações em termos de um conjunto de equações diferenciais de primeira ordem, as quais podem ser combinadas em uma equação diferencial vetorial-matricial de primeira ordem. O uso de uma notação vetorial-matricial simplifica bastante a representação matemática do sistema de equações. O aumento no número das variáveis de estado, no número de entradas ou no número de saídas não aumenta a complexidade das equações. OGATA, K. Engenharia de controle moderno. 5. ed. São Paulo: Pearson Prentice Hall, 2010 (adaptado).\nA partir dessa temática, Avalie as afirmações a seguir.\nI. O filtro RC em espaço de estados pode ser descrito por uma equação diferencial de primeira ordem na qual o espaço de estados possui ordem 2.\nII. Para a determinação da controlabilidade e da observabilidade de um projeto em sistemas em espaço de estados, é necessário conhecimento tanto da equação de estados quanto da equação de saída.\nIII. Na representação em espaço de estados, a ordem do vetor de estados e a ordem do vetor de saída devem ser iguais. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 30 \nA teoria de controle clássico é fundamentada na relação entrada-saída ou função de transferência; por \nsua vez, a teoria de controle moderno é baseada na descrição de um sistema de equações em termos \nde um conjunto de equações diferenciais de primeira ordem, as quais podem ser combinadas em uma \nequação diferencial vetorial-matricial de primeira ordem. O uso de uma notação vetorial-matricial \nsimplifica bastante a representação matemática do sistema de equações. O aumento no número das \nvariáveis de estado, no número de entradas ou no número de saídas não aumenta a complexidade \ndas equações.\n OGATA, K. Engenharia de controle moderno. 5. ed. São Paulo: Pearson Prentice Hall, 2010 (adaptado).\nA partir dessa temática, avalie as afirmações a seguir.\nI. O filtro RC em espaço de estados pode ser descrito por uma equação diferencial de primeira \nordem na qual o espaço de estados possui ordem 2.\nII. Para a determinação da controlabilidade e da observabilidade de um projeto em sistemas em \nespaço de estados, é necessário conhecimento tanto da equação de estados quanto da equação \nde saída.\nIII. Na representação em espaço de estados, a ordem do vetor de estados e a ordem do vetor de \nsaída devem ser iguais.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r11202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Engenharia Elétrica",
+    "observacao": "QUESTAO ANULADA NO GABARITO OFICIAL"
+  },
+  {
+    "numero": 31,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O diagrama unifilar a seguir pertence a um projeto de instalação elétrica de baixa tensão, no qual o circuito C1 alimenta um fogão elétrico (220 V); o C2 alimenta um chuveiro (220 V); o C3 é um circuito de iluminação (127 V); o C4 é um circuito de tomada de uso geral (127 V); e o C5 é, também, um circuito de tomada de uso geral (127 V). Todos os circuitos estão em eletrodutos exclusivos. Sabe-se que a concessionária de energia elétrica local fornece eletricidade com níveis de tensão linha-linha de 220 V e tensão linha-neutro de 127\nV. Considerando-se esses dados e analisando-se o diagrama elaborado, nota-se que ele apresenta alguns erros.\nDiagrama unifilar do projeto da instalação\nMedidor\nDisjuntor monopolar\nDisjuntor bipolar\nDisjuntor tripolar\nM\nM\nConcessionária\nPadrão de entrada\nABC ABC\nAlimentador\n#10 mm260 A\nQDC\nfases\nA B\nA C\nB C\nA\nB\nC1\nC2\nC3\nC4\nC5\nCircuitos\nPotência Bitola\n4,0 kVA #2,5 mm2\n4,5 kVA #4,0 mm2\n1,5 kVA #1,5 mm2\n2,0 kVA #1,5 mm2\n1,8 kVA #1,5 mm2\nLegenda:\nCAVALIN, G.; CERVELIN, S. Instalações elétricas prediais. São Paulo: editora Érica, 2006 (adaptado). Considerando as informações apresentadas, Avalie as afirmações a seguir com relação aos erros cometidos na elaboração do diagrama unifilar.\nI. A bitola do circuito C4 e o número de fases do circuito C5 estão errados.\nII. O tipo de disjuntor (bipolar) do circuito C3 e o número de fases do circuito C2 estão errados.\nIII. O tipo de disjuntor (bipolar) do circuito C5 e o número de fases do circuito C5 estão errados.\nIV. O número de condutores que vêm da concessionária e o número de fases do circuito C2 estão errados.\nV. A corrente do disjuntor do circuito C1 e o tipo de disjuntor (bipolar) do circuito C3 estão errados. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I, II e IV.",
+      "B": "I, III e IV.",
+      "C": "I, III e V.",
+      "D": "II, III e V.",
+      "E": "II, IV e V."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 31 \nO diagrama unifilar a seguir pertence a um projeto de instalação elétrica de baixa tensão, no qual o \ncircuito C1 alimenta um fogão elétrico (220 V); o C2 alimenta um chuveiro (220 V); o C3 é um circuito de \niluminação (127 V); o C4 é um circuito de tomada de uso geral (127 V); e o C5 é, também, um circuito \nde tomada de uso geral (127 V). Todos os circuitos estão em eletrodutos exclusivos. Sabe-se que a \nconcessionária de energia elétrica local fornece eletricidade com níveis de tensão linha-linha de 220 V \ne tensão linha-neutro de 127 V. Considerando-se esses dados e analisando-se o diagrama elaborado, \nnota-se que ele apresenta alguns erros.\nDiagrama unifilar do projeto da instalação\nMedidor\nDisjuntor monopolar\nDisjuntor bipolar\nDisjuntor tripolar\nM\nM\nConcessionária\nPadrão de entrada\nABC ABC\nAlimentador\n#10 mm260 A\nQDC\n13 A\n13 A\n20 A\n20 A\n25 A\nfases\nA B\nA C\nB C\nA\nB\nC1\nC2\nC3\nC4\nC5\nCircuitos\nPotência Bitola\n4,0 kVA #2,5 mm2\n4,5 kVA #4,0 mm2\n1,5 kVA #1,5 mm2\n2,0 kVA #1,5 mm2\n1,8 kVA #1,5 mm2\nLegenda:\nCAVALIN, G.; CERVELIN, S. Instalações elétricas prediais. São Paulo: editora Érica, 2006 (adaptado).\n*r11202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 39\nConsiderando as informações apresentadas, avalie as afirmações a seguir com relação aos erros \ncometidos na elaboração do diagrama unifilar.\nI. A bitola do circuito C4 e o número de fases do circuito C5 estão errados.\nII. O tipo de disjuntor (bipolar) do circuito C3 e o número de fases do circuito C2 estão errados.\nIII. O tipo de disjuntor (bipolar) do circuito C5 e o número de fases do circuito C5 estão errados.\nIV. O número de condutores que vêm da concessionária e o número de fases do circuito C2 estão errados.\nV. A corrente do disjuntor do circuito C1 e o tipo de disjuntor (bipolar) do circuito C3 estão errados.\nÉ correto apenas o que se afirma em\nA I, II e IV.\nB I, III e IV.\nC I, III e V.\nD II, III e V.\nE II, IV e V.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 32,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Uma indústria, alimentada por uma rede elétrica trifásica de 380 V e 60 Hz, possui dois motores elétricos trifásicos: um de 12 kW com fator de potência de 0,8 atrasado e outro de 9 kW com fator de potência de 0,6 atrasado. A fim de atender à Resolução Normativa n. 1 000/2021, da Agência Nacional de Energia Elétrica (ANEEL), que regula o fator de potência de referência igual a 0,92 para unidades consumidoras conectadas em níveis de tensão inferiores a 69 kV, realizou-se a compensação do fator de potência da referida instalação por meio de um banco de capacitores.\nBRASIL. Agência Nacional de Energia Elétrica (ANEEL). Resolução n. 1.000, de 7 de dezembro de 2021.\nConsiderando essa situação, Avalie as afirmações a seguir.\nI. A capacitância do banco de capacitores é superior a 220 μF.\nII. A diferença entre as correntes fornecidas pela fonte no circuito compensado e no circuito não compensado é inferior a 20 A.\nIII. A soma da potência aparente dos dois motores, sem a correção do fator de potência para 0,92 atrasado, é inferior a 27 kVA.\nIV. A potência do banco de capacitores a ser utilizado a fim de obter o fator de potência de 0,92 para o circuito da indústria em questão deve ser inferior a 10 kVAr. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "II e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "I, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 32 \nUma indústria, alimentada por uma rede elétrica trifásica de 380 V e 60 Hz, possui dois motores \nelétricos trifásicos: um de 12 kW com fator de potência de 0,8 atrasado e outro de 9 kW com fator de \npotência de 0,6 atrasado. A fim de atender à Resolução Normativa n. 1 000/2021, da Agência Nacional \nde Energia Elétrica (ANEEL), que regula o fator de potência de referência igual a 0,92 para unidades \nconsumidoras conectadas em níveis de tensão inferiores a 69 kV, realizou-se a compensação do fator de \npotência da referida instalação por meio de um banco de capacitores.\nBRASIL. Agência Nacional de Energia Elétrica (ANEEL). Resolução n. 1.000, de 7 de dezembro de 2021.\nConsiderando essa situação, avalie as afirmações a seguir.\nI. A capacitância do banco de capacitores é superior a 220 μF.\nII. A diferença entre as correntes fornecidas pela fonte no circuito compensado e no circuito não \ncompensado é inferior a 20 A.\nIII. A soma da potência aparente dos dois motores, sem a correção do fator de potência para \n0,92 atrasado, é inferior a 27 kVA.\nIV. A potência do banco de capacitores a ser utilizado a fim de obter o fator de potência de 0,92 para \no circuito da indústria em questão deve ser inferior a 10 kVAr.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*r11202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n40 Engenharia Elétrica",
+    "observacao": null
+  },
+  {
+    "numero": 33,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere que seja necessário utilizar um algoritmo para resolver um determinado problema. Diante disso, vários profissionais propõem diferentes soluções. Nesse cenário, um possível critério para a escolha do algoritmo é que ele otimize a necessidade de recursos computacionais, como, por exemplo, de tempo de processamento.\nSabe-se que a notação O-grande (big O notation) é usada para classificar a resposta de algoritmos à variação no tamanho dos dados de entrada. Por exemplo, um algoritmo será classificado como O(N) se, ao receber um vetor de tamanho N, tiver tempo de processamento proporcional a N. Outro algoritmo será classificado como O(N2) se o tempo de processamento variar proporcionalmente a N2.\nA seguir, são reproduzidos dois algoritmos como funções na linguagem C:\nA1: retorna 1 se um dado elemento está presente em um vetor de tamanho N e retorna 0, caso contrário.\nA2: soma matriz m1 com matriz m2 e armazena resultado na matriz m3, matrizes com N linhas e N colunas.\n#define N 8\nint A1(int vetor[], int elem) { int i; for(i = 0; i < N; i++) { if (vetor[i] == elem) return 1; } return 0;\n}\nvoid A2(int m1[][N], int m2[][N], int m3[][N]) { int i, j; for(i = 0; i < N; i++) { for(j = 0; j < N; j++) { m3[i][j] = m1[i][j] + m2[i][j]; } }\n}\nDiante dessas informações, é correto afirmar que as classificações O-grande dos algoritmos A1 e A2 são, respectivamente,",
+    "alternativas": {
+      "A": "O(1) e O(N).",
+      "B": "O(1) e O(N2).",
+      "C": "O(N) e O(N).",
+      "D": "O(N) e O(N2).",
+      "E": "O(N2) e O(N2)."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 33 \nConsidere que seja necessário utilizar um algoritmo para resolver um determinado problema. \nDiante disso, vários profissionais propõem diferentes soluções. Nesse cenário, um possível critério \npara a escolha do algoritmo é que ele otimize a necessidade de recursos computacionais, como, \npor exemplo, de tempo de processamento.\nSabe-se que a notação O-grande (big O notation ) é usada para classificar a resposta de algoritmos à \nvariação no tamanho dos dados de entrada. Por exemplo, um algoritmo será classificado como O(N) se, \nao receber um vetor de tamanho N, tiver tempo de processamento proporcional a N. Outro algoritmo \nserá classificado como O(N2) se o tempo de processamento variar proporcionalmente a N2.\nA seguir, são reproduzidos dois algoritmos como funções na linguagem C:\nA1: retorna 1 se um dado elemento está presente em um vetor de tamanho N e retorna 0, \ncaso contrário.\nA2: soma matriz m1 com matriz m2 e armazena resultado na matriz m3, matrizes com N linhas e N colunas.\n#define N 8\nint A1(int vetor[], int elem) {\n int i;\n for(i = 0; i < N; i++) {\n if (vetor[i] == elem)\n return 1;\n }\n return 0;\n}\nvoid A2(int m1[][N], int m2[][N], int m3[][N]) {\n int i, j;\n for(i = 0; i < N; i++) {\n for(j = 0; j < N; j++) {\n m3[i][j] = m1[i][j] + m2[i][j];\n }\n }\n}\nDiante dessas informações, é correto afirmar que as classificações O-grande dos algoritmos A1 e A2 são, \nrespectivamente,\nA O(1) e O(N).\nB O(1) e O(N2).\nC O(N) e O(N).\nD O(N) e O(N2).\nE O(N2) e O(N2).\n*r11202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 41",
+    "observacao": null
+  },
+  {
+    "numero": 34,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Circuitos conversores de energia, os quais são importantes nas mais diversas formas de processamento de energia elétrica, são amplamente encontrados em bens de consumo eletroeletrônicos. Exemplos conhecidos são os conversores DC-DC (corrente contínua para corrente contínua), buck e boost.\nA figura a seguir ilustra um conversor buck DC-DC, cuja chave é acionada por um sinal PWM e converte o sinal de entrada VDC de amplitude A1 em um sinal de amplitude A2 na carga resistiva R. Considerando as informações e a figura apresentadas, assinale a opção correta.",
+    "alternativas": {
+      "A": "No ciclo de trabalho do sinal PWM, situação em que a chave é acionada, a corrente é fornecida pela fonte VDC, ao passo que, fora do ciclo de trabalho do sinal PWM, quando a chave é desligada, a corrente é fornecida somente pela energia armazenada no capacitor.",
+      "B": "A partir da frequência de chaveamento e do ciclo de trabalho do sinal PWM, controla-se a amplitude do sinal de saída sobre o resistor R, mantendo-se a relação A1 < A2.",
+      "C": "A função do conversor buck é converter um sinal contínuo da entrada, representado por V DC, em outro sinal contínuo sobre a carga, tal que A1 < A2.",
+      "D": "No ciclo de trabalho do sinal PWM, o diodo conduz corrente mantendo a tensão da fonte de alimentação estável com amplitude A1.",
+      "E": "A implementação da chave é realizada com o emprego de dispositivos semicondutores, como BJT, MOSFET e IGBT.\nCHAVE\nVDC D\nL\nC R"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 34 \nCircuitos conversores de energia, os quais são importantes nas mais diversas formas de processamento \nde energia elétrica, são amplamente encontrados em bens de consumo eletroeletrônicos. Exemplos \nconhecidos são os conversores DC-DC (corrente contínua para corrente contínua), buck e boost.\nA figura a seguir ilustra um conversor buck DC-DC, cuja chave é acionada por um sinal PWM e converte \no sinal de entrada VDC de amplitude A1 em um sinal de amplitude A2 na carga resistiva R.\nConsiderando as informações e a figura apresentadas, assinale a opção correta.\nA No ciclo de trabalho do sinal PWM, situação em que a chave é acionada, a corrente é fornecida \npela fonte VDC, ao passo que, fora do ciclo de trabalho do sinal PWM, quando a chave é desligada, \na corrente é fornecida somente pela energia armazenada no capacitor.\nB A partir da frequência de chaveamento e do ciclo de trabalho do sinal PWM, controla-se a amplitude \ndo sinal de saída sobre o resistor R, mantendo-se a relação A1 < A2.\nC A função do conversor buck é converter um sinal contínuo da entrada, representado por V DC, \nem outro sinal contínuo sobre a carga, tal que A1 < A2.\nD No ciclo de trabalho do sinal PWM, o diodo conduz corrente mantendo a tensão da fonte de \nalimentação estável com amplitude A1.\nE A implementação da chave é realizada com o emprego de dispositivos semicondutores, como BJT, \nMOSFET e IGBT.\nCHAVE\nVDC D\nL\nC R\n*r11202341*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n42 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 35,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A análise de oferta e de demanda de produtos é de fundamental importância para o entendimento elementar do funcionamento do mercado consumidor. O preço de um produto na economia de mercado é determinado tanto pela oferta quanto pela procura.\nO gráfico a seguir ilustra curvas de demanda (D 1, D 2 e D 3) interceptadas pela curva de oferta O1. O ponto (Q0, P0) representa o ponto de equilíbrio dado pela intersecção da curva de demanda D2 com a curva de oferta O1. Os eixos representam a quantidade (Q) e o preço (P).\nQ0\nD1\nD2\nD3\nO1\nPreço\nP0\nQuantidade\nPINHO, D. B.; VASCONCELLOS, M.\nA S. Manual de Economia. 5. ed. Local: Saraiva, 2004 (adaptado).\nCom base nessas informações, considere que um fator externo provoque um aumento de renda real dos consumidores e que, consequentemente, ocorra uma mudança da curva de demanda, obtendo-se, assim, um novo ponto de equilíbrio (QX, PX) para esse mercado.\nNesse caso, as condições que representam o novo ponto de equilíbrio (QX, PX) são",
+    "alternativas": {
+      "A": "QX < Q0; PX > P0",
+      "B": "QX > Q0; PX < P0",
+      "C": "QX > Q0; PX > P0",
+      "D": "QX < Q0; PX < P0",
+      "E": "QX = Q0; PX = P0"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 35 \nA análise de oferta e de demanda de produtos é de fundamental importância para o entendimento \nelementar do funcionamento do mercado consumidor. O preço de um produto na economia de \nmercado é determinado tanto pela oferta quanto pela procura.\nO gráfico a seguir ilustra curvas de demanda (D 1, D 2 e D 3) interceptadas pela curva de oferta O1. \nO ponto (Q0 , P0) representa o ponto de equilíbrio dado pela intersecção da curva de demanda D2 com a \ncurva de oferta O1. Os eixos representam a quantidade (Q) e o preço (P).\nQ0\nD1\nD2\nD3\nO1\nPreço\nP0\nQuantidade\nPINHO, D. B.; VASCONCELLOS, M. A. S. Manual de Economia. 5. ed. Local: Saraiva, 2004 (adaptado).\nCom base nessas informações, considere que um fator externo provoque um aumento de renda real \ndos consumidores e que, consequentemente, ocorra uma mudança da curva de demanda, obtendo-se, \nassim, um novo ponto de equilíbrio (QX, PX) para esse mercado.\nNesse caso, as condições que representam o novo ponto de equilíbrio (QX, PX) são\nA QX < Q0; PX > P0\nB QX > Q0; PX < P0\nC QX > Q0; PX > P0\nD QX < Q0; PX < P0\nE QX = Q0; PX = P0\n*r11202342*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 43",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 36,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O conversor analógico-digital (A/D) é um dos componentes dos modernos sistemas de processamento digitais de sinais. É essencial em aplicações de comunicações e de controle e automação, pois transforma um sinal analógico em uma sequência digital. A respeito disso, tem-se que a entrada de um conversor A/D, xa(t) é uma função real de uma variável contínua, t. A saída do conversor A/D, por sua vez, é um fluxo de bits que corresponde a uma sequência de tempo discreto x[n], em que, para cada valor de n, a amplitude é quantizada com um valor de um conjunto finito de valores possíveis.\nOs componentes de um conversor A/D são apresentados na figura a seguir. A primeira etapa é o amostrador, referido algumas vezes como conversor contínuo-discreto (C/D). O conversor C/D extrai amostras do sinal contínuo a cada período de tempo, definido como período de amostragem. A segunda etapa é o quantizador, que atribui valores discretos predefinidos a essas amostras do sinal. Por fim, na terceira etapa, os valores quantizados são codificados em sequência de palavras binárias.\nxa(t) x[n] x[n] c[n]^\nC/D Quantizador Codiﬁcador\nHAYES, M. H. Teoria e problemas de processamento digital de sinais. Porto Alegre: Bookman, 2006 (adaptado).\nConsidere um conversor analógico-digital unipolar de 8 bits, com intervalos de quantização uniforme, cujo sinal de entrada está na faixa entre 0,00 e 5,10 V, em que a tensão 0,00 V corresponde ao número binário 000000002 e a tensão 5,10 V corresponde ao binário 111111112.\nNessa situação, caso uma das amostras tenha valor de tensão de 2,00 V, qual será o número binário apresentado, na saída, após a conversão?",
+    "alternativas": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 36 \nO conversor analógico-digital (A/D) é um dos componentes dos modernos sistemas de processamento \ndigitais de sinais. É essencial em aplicações de comunicações e de controle e automação, pois transforma \num sinal analógico em uma sequência digital. A respeito disso, tem-se que a entrada de um conversor \nA/D, xa(t) é uma função real de uma variável contínua, t. A saída do conversor A/D, por sua vez, é um \nfluxo de bits que corresponde a uma sequência de tempo discreto x[n], em que, para cada valor de n, \na amplitude é quantizada com um valor de um conjunto finito de valores possíveis.\nOs componentes de um conversor A/D são apresentados na figura a seguir. A primeira etapa é \no amostrador, referido algumas vezes como conversor contínuo-discreto (C/D). O conversor C/D \nextrai amostras do sinal contínuo a cada período de tempo, definido como período de amostragem. \nA segunda etapa é o quantizador, que atribui valores discretos predefinidos a essas amostras do sinal. \nPor fim, na terceira etapa, os valores quantizados são codificados em sequência de palavras binárias.\nxa(t) x[n] x[n] c[n]^\nC/D Quantizador Codiﬁcador\nHAYES, M. H. Teoria e problemas de processamento digital de sinais. Porto Alegre: Bookman, 2006 (adaptado).\nConsidere um conversor analógico-digital unipolar de 8 bits , com intervalos de quantização uniforme, \ncujo sinal de entrada está na faixa entre 0,00 e 5,10 V, em que a tensão 0,00 V corresponde ao número \nbinário 000000002 e a tensão 5,10 V corresponde ao binário 111111112.\nNessa situação, caso uma das amostras tenha valor de tensão de 2,00 V, qual será o número binário \napresentado, na saída, após a conversão?\nA 011001002\nB 011000102\nC 011001012\nD 011000112\nE 011001102\n*r11202343*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n44 Engenharia Elétrica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 37,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A energia fotovoltaica apresenta muitas vantagens, entretanto, para sua ampla utilização, ainda devem ser vencidos alguns desafios, principalmente a baixa eficiência de conversão dos painéis fotovoltaicos. Além do desenvolvimento de novos materiais, continua sendo muito importante aumentar a eficiência de conversão desses painéis por meio da maximização da entrada de radiação solar e da otimização do ponto de operação do painel fotovoltaico.\nUma topologia simples, que pode ser utilizada em sistemas fotovoltaicos, é apresentada na figura 1, no qual, basicamente, são inseridos conversores em série entre o painel solar e a carga.\nFigura 1 – Conversores em série\nBateria Carga\nConversor 2Conversor 1\nO conversor 1, normalmente, é um conversor buck, cuja função é rastrear o ponto de máxima potência do painel, realizando o controle de carga da bateria. O conversor 2 é um elevador de tensão, cuja função é adequar o nível de tensão CC conforme a necessidade da carga.\nCom o objetivo de rastrear o ponto de máxima potência e de elevar a tensão de saída para 20 V, elaborou-se um projeto no qual se propõe utilizar o conversor CC-CC boost, apresentado na figura 2.\nFigura 2 – Projeto de conversor boost\nL D\nC RSWVin\nA Tabela 1 apresenta os dados de entrada para o projeto do conversor, de acordo com o conjunto de painéis solares a serem utilizados.\nTabela 1 – Dados para o projeto do conversor boost\nAbreviação Descrição Especificação\nVin min Tensão mínima de entrada 10 V\nVmp Tensão no ponto de máxima potência 12 V\nVin max Tensão máxima de entrada 15 V\nImp Corrente no ponto de máxima potência 6 V\nlin max Corrente máxima de entrada 10 A\nPin max Máxima potência de entrada 100 W\nVout Tensão de saída 20 V\nfsw Frequência de chaveamento 8 kHz\nΔIL Ondulação de corrente de entrada < 20%\nΔVout Ondulação da tensão de saída < 1%\nNesse caso, o valor de indutância crítica (condução contínua) é determinado pela expressão:\nL DR D\nfcr\nsw\n= −⋅ ⋅\n⋅\n()1\nem que: Lcr é a indutância crítica (H); D é o ciclo de trabalho da chave; R é a resistência da carga (ohms); e fsw é a frequência de chaveamento (Hz).\nConsiderando esse contexto e as informações apresentadas, Avalie as afirmações a seguir.\nI. A razão cíclica do conversor para tensão e corrente no ponto de máxima potência deve ser igual a 0,4.\nII. A corrente máxima de saída do conversor proposto é de 5 A.\nIII. A indutância crítica do circuito é de 36 µH. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 37 \nA energia fotovoltaica apresenta muitas vantagens, entretanto, para sua ampla utilização, ainda devem \nser vencidos alguns desafios, principalmente a baixa eficiência de conversão dos painéis fotovoltaicos. \nAlém do desenvolvimento de novos materiais, continua sendo muito importante aumentar a eficiência \nde conversão desses painéis por meio da maximização da entrada de radiação solar e da otimização do \nponto de operação do painel fotovoltaico.\nUma topologia simples, que pode ser utilizada em sistemas fotovoltaicos, é apresentada na figura 1, \nno qual, basicamente, são inseridos conversores em série entre o painel solar e a carga.\nFigura 1 – Conversores em série\nBateria Carga\nConversor 2Conversor 1\nO conversor 1, normalmente, é um conversor buck, cuja função é rastrear o ponto de máxima potência \ndo painel, realizando o controle de carga da bateria. O conversor 2 é um elevador de tensão, cuja função \né adequar o nível de tensão CC conforme a necessidade da carga.\nCom o objetivo de rastrear o ponto de máxima potência e de elevar a tensão de saída para 20 V, \nelaborou-se um projeto no qual se propõe utilizar o conversor CC-CC boost, apresentado na figura 2.\nFigura 2 – Projeto de conversor boost\nL D\nC RSWVin\nA Tabela 1 apresenta os dados de entrada para o projeto do conversor, de acordo com o conjunto de \npainéis solares a serem utilizados.\nTabela 1 – Dados para o projeto do conversor boost\nAbreviação Descrição Especificação\nVin min Tensão mínima de entrada 10 V\nVmp Tensão no ponto de máxima potência 12 V\nVin max Tensão máxima de entrada 15 V\nImp Corrente no ponto de máxima potência 6 V\nlin max Corrente máxima de entrada 10 A\nPin max Máxima potência de entrada 100 W\nVout Tensão de saída 20 V\nfsw Frequência de chaveamento 8 kHz\nΔIL Ondulação de corrente de entrada < 20%\nΔVout Ondulação da tensão de saída < 1%\n*r11202344*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Elétrica 45\nNesse caso, o valor de indutância crítica (condução contínua) é determinado pela expressão:\nL DR D\nfcr\nsw\n= −⋅ ⋅\n⋅\n()1\n2\n2\nem que: Lcr é a indutância crítica (H); D é o ciclo de trabalho da chave; R é a resistência da carga (ohms); \ne fsw é a frequência de chaveamento (Hz).\nConsiderando esse contexto e as informações apresentadas, avalie as afirmações a seguir.\nI. A razão cíclica do conversor para tensão e corrente no ponto de máxima potência deve ser igual a 0,4.\nII. A corrente máxima de saída do conversor proposto é de 5 A.\nIII. A indutância crítica do circuito é de 36 µH.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 38,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere que uma cidade possua, em atividade, duas lojas de materiais elétricos, quais sejam, A e B. Estima-se que 50% dos clientes em potencial faz negócios com a loja A, que 40% dos clientes em potencial faz negócios com a loja B e que 20% dos clientes em potencial não faz negócios com nenhuma das duas lojas.\nCom base nas informações apresentadas, qual é a probabilidade, entre 0 e 1, de um cliente aleatório fazer negócios somente com a loja B?",
+    "alternativas": {
+      "A": "0,1.",
+      "B": "0,3.",
+      "C": "0,4.",
+      "D": "0,6.",
+      "E": "0,7."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 38 \nConsidere que uma cidade possua, em atividade, duas lojas de materiais elétricos, quais sejam, A e B. \nEstima-se que 50% dos clientes em potencial faz negócios com a loja A, que 40% dos clientes em \npotencial faz negócios com a loja B e que 20% dos clientes em potencial não faz negócios com nenhuma \ndas duas lojas.\nCom base nas informações apresentadas, qual é a probabilidade, entre 0 e 1, de um cliente aleatório \nfazer negócios somente com a loja B?\nA 0,1.\nB 0,3.\nC 0,4.\nD 0,6.\nE 0,7.\n*r11202345*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n46\n*r11202346*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA",
+    "observacao": null
+  }
+]

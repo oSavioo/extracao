@@ -1,0 +1,434 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conﬂ itos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos conﬂ itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de conﬂ itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2720233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Radiologia\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R2720234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos reﬂ etem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos reﬂ etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2720236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reﬂ exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reﬂ exão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma reﬂ exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reﬂ exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 10,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Nos exames de imagem do abdome, a visualização dos principais órgãos, incluindo localização, morfologia e densidade, é muito importante para a elucidação diagnóstica. O tecnólogo em radiologia que atua na área do diagnóstico por imagem, ao realizar um exame dessa região, precisa certificar-se de que a imagem contempla todas as áreas de interesse. Assim, o campo de visão deve incluir as estruturas que vão desde o diafragma até a sínfise púbica. A figura a seguir retrata uma tomografia do abdome, evidenciando os órgãos da região.\nCom base na imagem e em seus conhecimentos sobre fisiologia, anatomia e quadrantes abdominais, Avalie as afirmações a seguir.\nI. O estômago, localizado no quadrante superior esquerdo, é dividido em quatro partes: cárdia, fundo, corpo e piloro.\nII. O fígado, localizado no quadrante superior direito, é responsável pelo metabolismo dos carboidratos, das proteínas e dos lipídios, além de produzir a bile.\nIII. O intestino grosso, que começa no quadrante inferior direito, é dividido em ceco, cólons, reto e canal anal; sua função é realizar a maior parte da digestão e da absorção de água e sais minerais.\nIV. O intestino delgado é dividido em três segmentos: duodeno, jejuno e íleo; o duodeno, primeira porção do intestino delgado, recebe o suco pancreático e a bile. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e III.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 10 \nNos exames de imagem do abdome, a visualização dos principais órgãos, incluindo localização, \nmorfologia e densidade, é muito importante para a elucidação diagnóstica. O tecnólogo em radiologia \nque atua na área do diagnóstico por imagem, ao realizar um exame dessa região, precisa certificar-se de \nque a imagem contempla todas as áreas de interesse. Assim, o campo de visão deve incluir as estruturas \nque vão desde o diafragma até a sínfise púbica. A figura a seguir retrata uma tomografia do abdome, \nevidenciando os órgãos da região.\nCom base na imagem e em seus conhecimentos sobre fisiologia, anatomia e quadrantes abdominais, \navalie as afirmações a seguir.\nI. O estômago, localizado no quadrante superior esquerdo, é dividido em quatro partes: cárdia, \nfundo, corpo e piloro.\nII. O fígado, localizado no quadrante superior direito, é responsável pelo metabolismo dos \ncarboidratos, das proteínas e dos lipídios, além de produzir a bile.\nIII. O intestino grosso, que começa no quadrante inferior direito, é dividido em ceco, cólons, reto e \ncanal anal; sua função é realizar a maior parte da digestão e da absorção de água e sais minerais.\nIV. O intestino delgado é dividido em três segmentos: duodeno, jejuno e íleo; o duodeno, primeira \nporção do intestino delgado, recebe o suco pancreático e a bile.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*R27202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Tecnologia em Radiologia",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 11,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os exames tomográficos do abdome são comuns entre os procedimentos de diagnóstico por imagem, pois permitem a identificação das estruturas anatômicas dessa região. O uso de meios de contraste, em muitas situações, faz-se necessário para diferenciar estruturas que possuem densidades semelhantes. Nesse sentido, conhecer a anatomia é importante para realização e interpretação da imagem tomográfica. A figura a seguir apresenta uma tomografia do abdome superior com fase de contraste arterial. Considerando as informações e a figura apresentadas, assinale a opção que correlaciona corretamente os pontos anatômicos destacados na tomografia do abdome superior.",
+    "alternativas": {
+      "A": "1. fígado; 2. veia cava inferior; 3. baço; 4. rim esquerdo; e 5. pâncreas.",
+      "B": "1. fígado; 2. aorta abdominal; 3. rim esquerdo; 4. baço; e 5. pâncreas.",
+      "C": "1. baço; 2. aorta abdominal; 3. pâncreas; 4. rim esquerdo; e 5. fígado.",
+      "D": "1. fígado; 2. veia cava inferior; 3. rim esquerdo; 4. baço; e 5. estômago.",
+      "E": "1. baço; 2. aorta abdominal; 3. pâncreas; 4. rim esquerdo; e 5. estômago."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 11 \nOs exames tomográficos do abdome são comuns entre os procedimentos de diagnóstico por imagem, \npois permitem a identificação das estruturas anatômicas dessa região. O uso de meios de contraste, em \nmuitas situações, faz-se necessário para diferenciar estruturas que possuem densidades semelhantes. \nNesse sentido, conhecer a anatomia é importante para realização e interpretação da imagem tomográfica. \nA figura a seguir apresenta uma tomografia do abdome superior com fase de contraste arterial.\nConsiderando as informações e a figura apresentadas, assinale a opção que correlaciona corretamente \nos pontos anatômicos destacados na tomografia do abdome superior.\nA 1. fígado; 2. veia cava inferior; 3. baço; 4. rim esquerdo; e 5. pâncreas.\nB 1. fígado; 2. aorta abdominal; 3. rim esquerdo; 4. baço; e 5. pâncreas.\nC 1. baço; 2. aorta abdominal; 3. pâncreas; 4. rim esquerdo; e 5. fígado.\nD 1. fígado; 2. veia cava inferior; 3. rim esquerdo; 4. baço; e 5. estômago.\nE 1. baço; 2. aorta abdominal; 3. pâncreas; 4. rim esquerdo; e 5. estômago.\n*R27202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 15",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 12,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A incidência radiológica em perfil da face, seja esquerdo ou direito, exige o correto alinhamento do plano sagital médio (PSM) e da linha interpupilar ou interorbital (LIP) para a adequada visualização das estruturas anatômicas no receptor de imagem (RI), conforme exemplificado na figura a seguir.\nBONTRAGER, K. L.; LAMPIGNANO, J. P. Tratado do posicionamento radiográfico e anatomia associada. 8. ed. Rio de Janeiro: Elsevier, 2015 (adaptado).\nEm relação ao posicionamento e à imagem radiográfica resultante, assinale a opção correta.",
+    "alternativas": {
+      "A": "A seta indica a sela turca e o paciente deve estar posicionado de forma que o PSM esteja paralelo ao RI e que a LIP esteja alinhada perpendicularmente ao R\nI.",
+      "B": "A seta indica a sela turca e o paciente deve estar posicionado de forma que o PSM esteja perpendicular ao RI e que a LIP esteja alinhada paralelamente ao R\nI.",
+      "C": "A seta indica o côndilo mandibular e o paciente deve estar posicionado de forma que o PSM esteja paralelo ao RI e que a LIP esteja alinhada perpendicularmente ao R\nI.",
+      "D": "A seta indica o meato acústico externo e o paciente deve estar posicionado de forma que o PSM esteja perpendicular ao RI e que a LIP esteja alinhada paralelamente ao R\nI.",
+      "E": "A seta indica o meato acústico externo e o paciente deve estar posicionado de forma que o PSM esteja paralelo ao RI e que a LIP esteja alinhada perpendicularmente ao R\nI."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 12 \nA incidência radiológica em perfil da face, seja esquerdo ou direito, exige o correto alinhamento do \nplano sagital médio (PSM) e da linha interpupilar ou interorbital (LIP) para a adequada visualização das \nestruturas anatômicas no receptor de imagem (RI), conforme exemplificado na figura a seguir.\nBONTRAGER, K. L.; LAMPIGNANO, J. P . Tratado do posicionamento radiográfico e anatomia associada. \n8. ed. Rio de Janeiro: Elsevier, 2015 (adaptado).\nEm relação ao posicionamento e à imagem radiográfica resultante, assinale a opção correta.\nA A seta indica a sela turca e o paciente deve estar posicionado de forma que o PSM esteja paralelo ao \nRI e que a LIP esteja alinhada perpendicularmente ao RI.\nB A seta indica a sela turca e o paciente deve estar posicionado de forma que o PSM esteja \nperpendicular ao RI e que a LIP esteja alinhada paralelamente ao RI.\nC A seta indica o côndilo mandibular e o paciente deve estar posicionado de forma que o PSM esteja \nparalelo ao RI e que a LIP esteja alinhada perpendicularmente ao RI.\nD A seta indica o meato acústico externo e o paciente deve estar posicionado de forma que o PSM \nesteja perpendicular ao RI e que a LIP esteja alinhada paralelamente ao RI.\nE A seta indica o meato acústico externo e o paciente deve estar posicionado de forma que o PSM \nesteja paralelo ao RI e que a LIP esteja alinhada perpendicularmente ao RI.\n*R27202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Tecnologia em Radiologia",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 19,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Observe a imagem a seguir, que demonstra uma radiografia póstero anterior (PA) de tórax.\nBONTRAGER, K. L.; LAMPIGNANO P. J. Tratado de posicionamento radiográfico e anatomia associada. 8. ed. Rio de Janeiro: Elsevier, 2015 (adaptado).\nConsiderando os critérios radiográficos de produção de uma imagem com qualidade diagnóstica, acerca dessa radiografia é correto afirmar que",
+    "alternativas": {
+      "A": "os ápices pulmonares não estão visíveis.",
+      "B": "a movimentação durante a inspiração está visível.",
+      "C": "a traqueia está preenchida por ar apenas de T3 para baixo.",
+      "D": "o contraste é de curta escala para visualização do interior pulmonar.",
+      "E": "o diafragma, as bordas cardíacas e as tramas pulmonares estão nítidos."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 19 \nObserve a imagem a seguir, que demonstra uma radiografia póstero anterior (PA) de tórax.\nBONTRAGER, K. L.; LAMPIGNANO P . J. Tratado de posicionamento radiográfico e anatomia associada. \n8. ed. Rio de Janeiro: Elsevier, 2015 (adaptado).\nConsiderando os critérios radiográficos de produção de uma imagem com qualidade diagnóstica, acerca \ndessa radiografia é correto afirmar que\nA os ápices pulmonares não estão visíveis.\nB a movimentação durante a inspiração está visível.\nC a traqueia está preenchida por ar apenas de T3 para baixo.\nD o contraste é de curta escala para visualização do interior pulmonar.\nE o diafragma, as bordas cardíacas e as tramas pulmonares estão nítidos.\n*R27202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Tecnologia em Radiologia",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 20,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "As radiografias da pelve são realizadas para avaliar fraturas, luxações articulares, doença degenerativa e lesões ósseas. A incidência bilateral Antero Posterior (AP), em “posição de rã”, tem a finalidade de demonstrar o quadril sem trauma ou displasia de desenvolvimento do quadril, também denominada de luxação congênita do quadril. Essa incidência é apresentada na figura a seguir.\nAcerca desse tema, para a incidência apresentada na imagem, é correto afirmar que o paciente deve estar na posição de decúbito dorsal, com os braços cruzados sobre o tórax, com as superfícies plantares dos pés juntos, além de",
+    "alternativas": {
+      "A": "abduzir os fêmures 10° a 15° da vertical; com o raio central perpendicular ao receptor de imagem, direcionado 5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).",
+      "B": "abduzir os fêmures 40° a 45° da vertical; com o raio central perpendicular ao receptor de imagem, direcionado 7,5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).",
+      "C": "abduzir os fêmures 10° a 15° da vertical; com o raio central angulado 10° caudal em relação ao receptor de imagem, direcionado 5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).",
+      "D": "abduzir os fêmures 40° a 45° da vertical; com o raio central angulado cefalicamente 20° em relação ao receptor de imagem, direcionado 3 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).",
+      "E": "abduzir os fêmures 40° a 45° da vertical; com o raio central angulado cefalicamente 10° em relação ao receptor de imagem, direcionado 7,5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS)."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 20 \nAs radiografias da pelve são realizadas para avaliar fraturas, luxações articulares, doença degenerativa \ne lesões ósseas. A incidência bilateral Antero Posterior (AP), em “posição de rã”, tem a finalidade de \ndemonstrar o quadril sem trauma ou displasia de desenvolvimento do quadril, também denominada \nde luxação congênita do quadril. Essa incidência é apresentada na figura a seguir.\nAcerca desse tema, para a incidência apresentada na imagem, é correto afirmar que o paciente deve \nestar na posição de decúbito dorsal, com os braços cruzados sobre o tórax, com as superfícies plantares \ndos pés juntos, além de\nA abduzir os fêmures 10° a 15° da vertical; com o raio central perpendicular ao receptor de imagem, \ndirecionado 5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).\nB abduzir os fêmures 40° a 45° da vertical; com o raio central perpendicular ao receptor de imagem, \ndirecionado 7,5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).\nC abduzir os fêmures 10° a 15° da vertical; com o raio central angulado 10° caudal em relação ao \nreceptor de imagem, direcionado 5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).\nD abduzir os fêmures 40° a 45° da vertical; com o raio central angulado cefalicamente 20° em relação \nao receptor de imagem, direcionado 3 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).\nE abduzir os fêmures 40° a 45° da vertical; com o raio central angulado cefalicamente 10° em relação \nao receptor de imagem, direcionado 7,5 cm abaixo do nível da espinha ilíaca ântero-superior (EIAS).\n*R27202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 23",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 21,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Um homem com 24 anos de idade, com leucoderma, realizou uma radiografia panorâmica de rotina em que foi observada a presença de um dente supranumerário, quarto molar, em posição transversal na região inferior do lado direito. Como não foi possível verificar a formação radicular, devido ao seu posicionamento no osso alveolar — além de a radiografia panorâmica não se apresentar nítida —, foi sugerida a aplicação da técnica de Miller-Winter. Na radiografia periapical, observou-se a proximidade do canal mandibular com o dente, além de confirmar sua posição transversal. O exame tomográfico confirmou o diagnóstico obtido por meio das radiografias convencionais e possibilitou o planejamento cirúrgico para a remoção do dente. Os resultados dos exames realizados pelo paciente podem ser observados nas imagens a seguir. Considerando o quadro descrito e os resultados dos exames apresentados, assinale a opção que corresponde aos métodos utilizados para obtenção das imagens 1, 2 e 3, respectivamente.",
+    "alternativas": {
+      "A": "Tomografia computadorizada Cone Beam; radiografia periapical; e radiografia panorâmica.",
+      "B": "Radiografia periapical; tomografia computadorizada Cone Beam; e radiografia panorâmica.",
+      "C": "Radiografia periapical; radiografia panorâmica; e tomografia computadorizada Cone Beam.",
+      "D": "Radiografia panorâmica; radiografia periapical; e tomografia computadorizada Cone Beam.",
+      "E": "Radiografia panorâmica; tomografia computadorizada Cone Beam; e radiografia periapical."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 21 \nUm homem com 24 anos de idade, com leucoderma, realizou uma radiografia panorâmica de rotina em \nque foi observada a presença de um dente supranumerário, quarto molar, em posição transversal na região \ninferior do lado direito. Como não foi possível verificar a formação radicular, devido ao seu posicionamento \nno osso alveolar — além de a radiografia panorâmica não se apresentar nítida —, foi sugerida a \naplicação da técnica de Miller-Winter. Na radiografia periapical, observou-se a proximidade do canal \nmandibular com o dente, além de confirmar sua posição transversal. O exame tomográfico confirmou \no diagnóstico obtido por meio das radiografias convencionais e possibilitou o planejamento cirúrgico \npara a remoção do dente. Os resultados dos exames realizados pelo paciente podem ser observados \nnas imagens a seguir.\nDisponível em: http://periodicos.pucminas.br/index.php/Arquivobrasileirodontologia. \nAcesso em: 19 jun. 2023 (adaptado).\nConsiderando o quadro descrito e os resultados dos exames apresentados, assinale a opção que \ncorresponde aos métodos utilizados para obtenção das imagens 1, 2 e 3, respectivamente.\nA Tomografia computadorizada Cone Beam; radiografia periapical; e radiografia panorâmica.\nB Radiografia periapical; tomografia computadorizada Cone Beam; e radiografia panorâmica.\nC Radiografia periapical; radiografia panorâmica; e tomografia computadorizada Cone Beam.\nD Radiografia panorâmica; radiografia periapical; e tomografia computadorizada Cone Beam.\nE Radiografia panorâmica; tomografia computadorizada Cone Beam; e radiografia periapical.\n*R27202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Tecnologia em Radiologia",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 22,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A mamografia se apresenta como o método padrão de imagem para o rastreamento do câncer da mama. Como um critério geral, a mama deve ser comprimida até que o tecido fique uniformemente espalhado.\nBRASIL. Ministério da Saúde. Instituto Nacional de Câncer. Atualização em mamografia para técnicos em radiologia. Rio de Janeiro: INCA, 2019 (adaptado).\nConsiderando as técnicas para obtenção de imagens mamográficas, Avalie as afirmações a seguir.\nI. A compressão adequada da mama a imobiliza e evita borramentos de movimento na imagem, fato que minimiza as repetições de exames, reduzindo o nível de radiação na paciente.\nII. A compressão adequada da mama gera redução de sua espessura, o que contribui para uma dose menor de radiação recebida pela paciente, mas provoca redução do contraste e da nitidez da imagem.\nIII. A compressão adequada da mama separa as estruturas mamárias sobrepostas, evitando formação de falsas imagens, uma vez que as lesões reais se sobressaem, tornando-se mais evidentes.\nIV. A compressão da mama causa desconforto na paciente, sendo uma contraindicação para pacientes com prótese mamária, que devem optar por outras modalidades de imagens. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 22 \nA mamografia se apresenta como o método padrão de imagem para o rastreamento do câncer da mama. \nComo um critério geral, a mama deve ser comprimida até que o tecido fique uniformemente espalhado.\nBRASIL. Ministério da Saúde. Instituto Nacional de Câncer. Atualização em mamografia para técnicos em radiologia. \nRio de Janeiro: INCA, 2019 (adaptado).\nConsiderando as técnicas para obtenção de imagens mamográficas, avalie as afirmações a seguir.\nI. A compressão adequada da mama a imobiliza e evita borramentos de movimento na imagem, \nfato que minimiza as repetições de exames, reduzindo o nível de radiação na paciente.\nII. A compressão adequada da mama gera redução de sua espessura, o que contribui para uma dose \nmenor de radiação recebida pela paciente, mas provoca redução do contraste e da nitidez da imagem.\nIII. A compressão adequada da mama separa as estruturas mamárias sobrepostas, evitando formação \nde falsas imagens, uma vez que as lesões reais se sobressaem, tornando-se mais evidentes.\nIV. A compressão da mama causa desconforto na paciente, sendo uma contraindicação para \npacientes com prótese mamária, que devem optar por outras modalidades de imagens.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 26,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A densitometria óssea (DO) é uma especialidade de diagnóstico por imagem que avalia a densidade mineral óssea de um indivíduo de forma comparada a uma amostra populacional. Na infância, a densidade mineral óssea é baixa, pois a criança está na fase de maturação. Por volta dos 24 anos de idade, o indivíduo apresenta a máxima densidade mineral ossea.\nCom base nessas informações, observe a imagem de um fêmur com as delimitações das várias regiões de interesse (ROI) e o resultado de um exame que utiliza os índices T-Score e Z-Score como base.\nRegião Área\n(cm2)\nBMC\n(g)\nBMD\n(g/cm2) T-Score Z-Score\nColo 4,49 4,32 0,963 1,0 1,9\nTrocânter 10,09 7,59 0,752 0,5 1,0\nIntertrocânter 24,34 32,67 1,342 1,6 1,9\nFêmur total 38,92 44,59 1,146 1,7 2,2\nWard 1,30 1,09 0,837 0,9 2,3 Considerando o texto e a figura apresentados, Avalie as afirmações a seguir.\nI. Os osteoblastos destroem ou absorvem o tecido ósseo para liberar cálcio no meio plasmático.\nII. O ROI do fêmur total é a soma das regiões do colo, do trocânter e do intertrocânter do fêmur.\nIII. A densidade mineral óssea esperada de um indivíduo de 40 anos de idade é inferior a de um indivíduo de 30 anos de idade do mesmo gênero.\nIV. A osteoporose é uma doença metabólica que se caracteriza pela perda mineral óssea e que acomete, principalmente, as mulheres menopáusicas.\nV. O índice T-Score se refere a uma classe de indivíduos de mesmas características, enquanto o Z-Score adota, como referência, a população em geral. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I, II e IV.",
+      "B": "I, II e V.",
+      "C": "I, III e V.",
+      "D": "II, III e IV.",
+      "E": "III, IV e V."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 26 \nA densitometria óssea (DO) é uma especialidade de diagnóstico por imagem que avalia a densidade \nmineral óssea de um indivíduo de forma comparada a uma amostra populacional. Na infância, \na densidade mineral óssea é baixa, pois a criança está na fase de maturação. Por volta dos 24 anos \nde idade, o indivíduo apresenta a máxima densidade mineral ossea.\nCom base nessas informações, observe a imagem de um fêmur com as delimitações das várias regiões \nde interesse (ROI) e o resultado de um exame que utiliza os índices T-Score e Z-Score como base.\n*R27202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 27\nRegião Área\n(cm2)\nBMC\n(g)\nBMD\n(g/cm2) T-Score Z-Score\nColo 4,49 4,32 0,963 1,0 1,9\nTrocânter 10,09 7,59 0,752 0,5 1,0\nIntertrocânter 24,34 32,67 1,342 1,6 1,9\nFêmur total 38,92 44,59 1,146 1,7 2,2\nWard 1,30 1,09 0,837 0,9 2,3\nDisponível em: <http://rle.dainf.ct.utfpr.edu.br/hipermidia/images/documentos/ Densitometria_ossea.pdf>. \n Acesso em: 11 jul. 2016 (adaptado).\nConsiderando o texto e a figura apresentados, avalie as afirmações a seguir.\nI. Os osteoblastos destroem ou absorvem o tecido ósseo para liberar cálcio no meio plasmático.\nII. O ROI do fêmur total é a soma das regiões do colo, do trocânter e do intertrocânter do fêmur. \nIII. A densidade mineral óssea esperada de um indivíduo de 40 anos de idade é inferior a de um \nindivíduo de 30 anos de idade do mesmo gênero. \nIV. A osteoporose é uma doença metabólica que se caracteriza pela perda mineral óssea e que \nacomete, principalmente, as mulheres menopáusicas.\nV. O índice T-Score se refere a uma classe de indivíduos de mesmas características, enquanto o \nZ-Score adota, como referência, a população em geral.\nÉ correto apenas o que se afirma em\nA I, II e IV.\nB I, II e V.\nC I, III e V.\nD II, III e IV.\nE III, IV e V.",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 29,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A seguir, são exibidas imagens de ressonância magnética com diferentes sequências de pulsos do protocolo de avaliação cerebral. Considerando as estruturas visualizadas nas imagens, Avalie as afirmações a seguir.\nI. A imagem (A) corresponde a uma sequência ponderada em difusão, evidenciando área de alto sinal na região cerebral direita, sugerindo restrição à difusão nessa região.\nII. A imagem (B) ilustra a aplicação da sequência de perfusão com utilização de meio de contraste, mostrando uma área de microcirculação encefálica na região cerebral direita.\nIII. A imagem (C) evidencia a aplicação da sequência de gradiente eco incoerente, ponderada em T2*, em que se observa lesão hiperintensa na região cerebral direita.\nIV. A imagem (B) é um pós-processamento da imagem (A), em que é possível analisar a região de restrição à difusão com baixo sinal, ilustrando o aspecto visual do acidente vascular cerebral (AVC) agudo. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e IV.",
+      "B": "II e III.",
+      "C": "III e IV.",
+      "D": "I, II e III.",
+      "E": "I, II e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 29 \nA seguir, são exibidas imagens de ressonância magnética com diferentes sequências de pulsos do \nprotocolo de avaliação cerebral.\nDisponível em: https://radiopaedia.org. Acesso em: 20 jun. 2023 (adaptado).\nConsiderando as estruturas visualizadas nas imagens, avalie as afirmações a seguir.\nI. A imagem (A) corresponde a uma sequência ponderada em difusão, evidenciando área de alto \nsinal na região cerebral direita, sugerindo restrição à difusão nessa região.\nII. A imagem (B) ilustra a aplicação da sequência de perfusão com utilização de meio de contraste, \nmostrando uma área de microcirculação encefálica na região cerebral direita.\nIII. A imagem (C) evidencia a aplicação da sequência de gradiente eco incoerente, ponderada em \nT2*, em que se observa lesão hiperintensa na região cerebral direita.\nIV. A imagem (B) é um pós-processamento da imagem (A), em que é possível analisar a região de restrição \nà difusão com baixo sinal, ilustrando o aspecto visual do acidente vascular cerebral (AVC) agudo.\nÉ correto apenas o que se afirma em\nA I e IV.\nB II e III.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*R27202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Tecnologia em Radiologia",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 35,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Em radiologia analógica existe uma relação entre a quantidade de exposição à luz proveniente do écran e a densidade óptica que o filme apresentará após o processamento. Cada filme apresenta uma curva característica, denominada curva sensitométrica. O intervalo de exposição em que os valores de densidade óptica estão na porção linear da curva sensitométrica é definido como latitude radiográfica. Uma imagem de boa qualidade é obtida quando o tecnólogo em radiologia consegue expor o filme nessa faixa de dose, pois isso otimiza a distribuição dos tons de cinza. Raciocínio similar pode ser feito em relação às imagens digitais, porém a latitude radiográfica para imagens digitais é mais ampla e linear. Assim, os sistemas de aquisição de imagens digitais permitem maiores variações nas doses, produzindo imagens de igual qualidade.\nPINA, D. R. Metodologia para otimização de imagens radiográficas. Ribeirão Preto: Universidade de São Paulo (USP), 2002 (adaptado).\nConsiderando a característica de aquisição e verificação de grandezas das imagens analógicas e digitais, Avalie as afirmações a seguir.\nI. Os parâmetros de tensão de pico (kVp), de corrente elétrica (mA) e de tempo de exposição (s) que produzam um feixe de raios X acima do intervalo útil de dose para a imagem analógica acarretarão em perda de contraste, por deixar a imagem esbranquiçada.\nII. A produção de imagens digitais com qualidade diagnóstica, em função da característica de sua latitude radiográfica aumentada, permite expor o paciente a menores níveis de radiação em comparação à tecnologia analógica.\nIII. A falha no posicionamento de pacientes pode acarretar em erros técnicos que inviabilizam a qualidade diagnóstica da imagem na radiologia analógica; já na radiologia digital, tais falhas podem ser corrigidas por meio de softwares. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 35 \nEm radiologia analógica existe uma relação entre a quantidade de exposição à luz proveniente do \nécran e a densidade óptica que o filme apresentará após o processamento. Cada filme apresenta uma \ncurva característica, denominada curva sensitométrica. O intervalo de exposição em que os valores de \ndensidade óptica estão na porção linear da curva sensitométrica é definido como latitude radiográfica. \nUma imagem de boa qualidade é obtida quando o tecnólogo em radiologia consegue expor o filme \nnessa faixa de dose, pois isso otimiza a distribuição dos tons de cinza. Raciocínio similar pode ser feito \nem relação às imagens digitais, porém a latitude radiográfica para imagens digitais é mais ampla e linear. \nAssim, os sistemas de aquisição de imagens digitais permitem maiores variações nas doses, produzindo \nimagens de igual qualidade.\nPINA, D. R. Metodologia para otimização de imagens radiográficas. Ribeirão Preto: \nUniversidade de São Paulo (USP), 2002 (adaptado).\nConsiderando a característica de aquisição e verificação de grandezas das imagens analógicas e digitais, \navalie as afirmações a seguir.\nI. Os parâmetros de tensão de pico (kVp), de corrente elétrica (mA) e de tempo de exposição (s) \nque produzam um feixe de raios X acima do intervalo útil de dose para a imagem analógica \nacarretarão em perda de contraste, por deixar a imagem esbranquiçada.\nII. A produção de imagens digitais com qualidade diagnóstica, em função da característica de sua \nlatitude radiográfica aumentada, permite expor o paciente a menores níveis de radiação em \ncomparação à tecnologia analógica.\nIII. A falha no posicionamento de pacientes pode acarretar em erros técnicos que inviabilizam \na qualidade diagnóstica da imagem na radiologia analógica; já na radiologia digital, tais falhas \npodem ser corrigidas por meio de softwares.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R27202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 35",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 36,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Os geradores de radioisótopos são utilizados nos serviços de Medicina Nuclear por serem uma forma prática de fornecerem radionuclídeos de meia-vida física curta para execução das técnicas e protocolos. A figura a seguir ilustra o comportamento de um gerador de 99Mo / 99mTc, com atividade nominal no dia zero de 1000 MBq e eluições diárias até o dia quatro.\n1 200\n1 000\n0 1 2 3 4 5\nTempo (d)\nAtividade (MBq)\nIAEA Library Cataloguing in Publication Data. Nuclear medicine physics: a handbook for students and teachers. Vienna: International Atomic Energy Agency, 2014, p. 142 (adaptado). Considerando as informações do texto e do gráfico e seus conhecimentos sobre Medicina Nuclear, Avalie as afirmações a seguir.\nI. A cada 24h, os radionuclídeos 99Mo e 99mTc, que se encontram em equilíbrio transiente, atingem a mesma atividade radioativa.\nII. A meia-vida física do 99mTc é de, aproximadamente, 3 dias, quando a atividade atinge 50% da atividade inicial.\nIII. No teste para avaliar a pureza radionuclídica, realizado a cada eluição do gerador, verifica-se a quantidade de 99mTc presente no eluato.\nIV. O eluato de 99mTc obtido do gerador pode ser utilizado na marcação do metilenodifosfonato (MDP) e este radiofármaco poderá ser empregado na realização da cintilografia óssea. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e IV.",
+      "B": "II e III.",
+      "C": "III e IV.",
+      "D": "I, II e III.",
+      "E": "I, II e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 36 \nOs geradores de radioisótopos são utilizados nos serviços de Medicina Nuclear por serem uma forma \nprática de fornecerem radionuclídeos de meia-vida física curta para execução das técnicas e protocolos. \nA figura a seguir ilustra o comportamento de um gerador de 99Mo / 99mTc, com atividade nominal no dia \nzero de 1000 MBq e eluições diárias até o dia quatro.\n1 200\n1 000\n800\n600\n400\n200\n0\n0 1 2 3 4 5\nTempo (d)\nAtividade (MBq)\n99Mo\n99mTc\nIAEA Library Cataloguing in Publication Data. Nuclear medicine physics: a handbook for students and teachers. \nVienna: International Atomic Energy Agency, 2014, p. 142 (adaptado).\nConsiderando as informações do texto e do gráfico e seus conhecimentos sobre Medicina Nuclear, \navalie as afirmações a seguir.\nI. A cada 24h, os radionuclídeos 99Mo e 99mTc, que se encontram em equilíbrio transiente, atingem \na mesma atividade radioativa.\nII. A meia-vida física do 99mTc é de, aproximadamente, 3 dias, quando a atividade atinge 50% da \natividade inicial.\nIII. No teste para avaliar a pureza radionuclídica, realizado a cada eluição do gerador, verifica-se a \nquantidade de 99mTc presente no eluato.\nIV. O eluato de 99mTc obtido do gerador pode ser utilizado na marcação do metilenodifosfonato (MDP) \ne este radiofármaco poderá ser empregado na realização da cintilografia óssea.\nÉ correto apenas o que se afirma em\nA I e IV.\nB II e III.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*R27202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Tecnologia em Radiologia",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 37,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A Ressonância Magnética (RM) é um método de imagem que utiliza campos magnéticos e ondas de radiofrequência para produzir imagens detalhadas dos órgãos e tecidos biológicos do corpo humano. No entanto, o exame pode ser longo e desconfortável, requerendo conhecimento técnico-científico e habilidades do tecnólogo em radiologia para otimização dos procedimentos. Atualmente, a Inteligência Artificial (IA) tem tornado os processos mais rápidos, inteligentes e conectados. Para acompanhar os desafios dessa nova tecnologia, combina-se o uso de metodologias inteligentes desde o início do procedimento até a disponibilidade dos resultados.\nA partir das informações do texto apresentado, Avalie as afirmações a seguir.\nI. O uso da inteligência artificial pode melhorar a qualidade das imagens com ganho de sinal e redução do nível de ruído e de artefatos de movimentos, os quais prejudicam a interpretação das imagens por RM.\nII. A combinação da inovação tecnológica com o uso softwares específicos na obtenção de imagens permite a redução significativa do tempo do exame, contribuindo para aumentar a segurança e o conforto do paciente.\nIII. A inteligência artificial é uma ferramenta de apoio na medicina diagnóstica que, por acelerar o processo de leitura de dados, pode substituir o profissional médico e o tecnólogo em radiologia. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 37 \nA Ressonância Magnética (RM) é um método de imagem que utiliza campos magnéticos e ondas de \nradiofrequência para produzir imagens detalhadas dos órgãos e tecidos biológicos do corpo humano. \nNo entanto, o exame pode ser longo e desconfortável, requerendo conhecimento técnico-científico e \nhabilidades do tecnólogo em radiologia para otimização dos procedimentos. Atualmente, a Inteligência \nArtificial (IA) tem tornado os processos mais rápidos, inteligentes e conectados. Para acompanhar os \ndesafios dessa nova tecnologia, combina-se o uso de metodologias inteligentes desde o início do \nprocedimento até a disponibilidade dos resultados.\nA partir das informações do texto apresentado, avalie as afirmações a seguir.\nI. O uso da inteligência artificial pode melhorar a qualidade das imagens com ganho de sinal e \nredução do nível de ruído e de artefatos de movimentos, os quais prejudicam a interpretação das \nimagens por RM.\nII. A combinação da inovação tecnológica com o uso softwares específicos na obtenção de imagens \npermite a redução significativa do tempo do exame, contribuindo para aumentar a segurança e o \nconforto do paciente.\nIII. A inteligência artificial é uma ferramenta de apoio na medicina diagnóstica que, por acelerar o \nprocesso de leitura de dados, pode substituir o profissional médico e o tecnólogo em radiologia.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R27202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Radiologia 37",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  }
+]

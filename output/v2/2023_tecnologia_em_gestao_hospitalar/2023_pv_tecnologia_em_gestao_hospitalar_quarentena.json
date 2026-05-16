@@ -1,0 +1,191 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2620233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Gestão Hospitalar\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R2620234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2620236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 16,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Um gestor, insatisfeito com a avaliação do serviço de sua unidade ambulatorial, decidiu avaliar as causas da queixa mais recorrente entre os usuários do serviço, que foi o tempo de espera excessivo para se consultar. Para isso, aplicou uma pesquisa entre profissionais e usuários para saber as opiniões sobre as causas desse atraso e elaborou um gráfico com os dados da pesquisa, apresentado a seguir.\nAnálise das causas do tempo de espera excessivo para consulta agendada em uma unidade de atendimento ambulatorial.\nAtraso do proﬁssional\nAusência de um\ngerenciador de ﬁla\nde espera\nFalhas na\nrecepção\nAtrasos no apoio\nlogístico\nOutros\nN° de respondentes % Acumulado\n80,0\n90,0\n100,0\n70,0\n60,0\n50,0\n40,0\n30,0\n20,0\n10,0\n0,0\n%\nConsiderando que o Diagrama de Pareto é uma ferramenta de gestão da qualidade, avalie as afirmações a seguir.\nI. O uso do gráfico apresentado tem como finalidade identificar o problema principal surgido na unidade ambulatorial, contribuindo, assim, para a definição da missão institucional.\nII. O gráfico aponta as causas mais frequentes de um problema em uma unidade ambulatorial, mas tem como limitação omitir as demais causas, o que gera falta de transparência no processo de planejamento.\nIII. O gráfico pode ser elaborado a partir de outras ferramentas de gestão da qualidade, como a lista de verificação.\nIV. O gráfico se baseia na constatação de que alguns poucos fatores contribuem mais para o problema verificado, ao passo que muitos fatores contribuem de forma incipiente para esse problema.\nV. O atraso do profissional, ausência de um gerenciador de fila de espera e falhas na recepção correspondem a cerca de 70% das observações sobre o tempo de espera excessivo e podem ser escolhidos como prioritários na resolução do problema. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e IV.",
+      "B": "I, II e V.",
+      "C": "II, III e V.",
+      "D": "III, IV e V.",
+      "E": "I, II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 16 \nUm gestor, insatisfeito com a avaliação do serviço de sua unidade ambulatorial, decidiu avaliar as causas da \nqueixa mais recorrente entre os usuários do serviço, que foi o tempo de espera excessivo para se consultar. \nPara isso, aplicou uma pesquisa entre profissionais e usuários para saber as opiniões sobre as causas \ndesse atraso e elaborou um gráfico com os dados da pesquisa, apresentado a seguir.\nAnálise das causas do tempo de espera excessivo para consulta agendada \nem uma unidade de atendimento ambulatorial.\nAtraso do \nproﬁssional\nAusência de um\ngerenciador de ﬁla\nde espera\nFalhas na\nrecepção\nAtrasos no apoio\nlogístico\nOutros\nN° de respondentes % Acumulado\n40\n35\n30\n25\n20\n15\n10\n5\n0\n80,0\n90,0\n100,0\n70,0\n60,0\n50,0\n40,0\n30,0\n20,0\n10,0\n0,0\n%\nConsiderando que o Diagrama de Pareto é uma ferramenta de gestão da qualidade, avalie as afirmações \na seguir.\nI. O uso do gráfico apresentado tem como finalidade identificar o problema principal surgido na \nunidade ambulatorial, contribuindo, assim, para a definição da missão institucional.\nII. O gráfico aponta as causas mais frequentes de um problema em uma unidade ambulatorial, mas \ntem como limitação omitir as demais causas, o que gera falta de transparência no processo de \nplanejamento.\nIII. O gráfico pode ser elaborado a partir de outras ferramentas de gestão da qualidade, como a lista \nde verificação.\nIV. O gráfico se baseia na constatação de que alguns poucos fatores contribuem mais para o problema \nverificado, ao passo que muitos fatores contribuem de forma incipiente para esse problema.\nV. O atraso do profissional, ausência de um gerenciador de fila de espera e falhas na recepção \ncorrespondem a cerca de 70% das observações sobre o tempo de espera excessivo e podem ser \nescolhidos como prioritários na resolução do problema.\n*R26202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 21\nÉ correto apenas o que se afirma em\nA I e IV.\nB I, II e V.\nC II, III e V.\nD III, IV e V.\nE I, II, III e IV.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 18,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura a seguir apresenta o fluxo de higienização das roupas de uma unidade hospitalar.\nCOLETA\nRECEPÇÃO\nIDENTIFICAÇÃO\nBARREIRA\nCENTRIFUGAGEM\nSELEÇÃO\nSELEÇÃO\nDOBRAGEM\nREPOUSO\nDISTRIBUIÇÃO\nCONSERTO\nBAIXA\nTRATAMENTO\nCALANDRAGEM SECAGEM PRENSAGEM PASSAGEM\nÁREA SUJA OU\nSETOR DE\nSEPARAÇÃO E LAVAGEM\nÁREA LIMPA OU\nSETOR DE\nACABAMENTO\nÁREA DE ESTOCAGEM OU SETOR DE\nROUPARIA\nLEGENDA:\nBarreira\nFluxo normal\nFluxo não constante\nPESAGEM\nSEPARAÇÃO\nLAVAGEM\nBRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão Nacional de Organização de Serviços de Saúde. Manual de Lavanderia Hospitalar. Brasília, 1986 (adaptado).\nConsiderando a figura apresentada, Avalie as afirmações a seguir.\nI. A representação gráfica apresentada é uma ferramenta da qualidade que permite ao gestor identificar as atividades críticas dos processos envolvidos na higienização das roupas de uma instituição de saúde, bem como na sua coleta e distribuição.\nII. Os processos se desenvolvem em uma instituição de saúde de forma desvinculada, em tempos diferentes e ultrapassam as fronteiras dos setores, envolvendo várias áreas e pessoas, cabendo ao gestor reunir os diferentes profissionais responsáveis pelos processos, para identificar o que influencia a qualidade do atendimento ao cliente.\nIII. A administração da lavanderia, realizada pelo gestor hospitalar, deve considerar os diversos atores envolvidos no processo e, quando terceirizada, o gestor requer o acompanhamento criterioso da contratação e a fiscalização dos serviços, a fim de que atendam aos objetivos estratégicos institucionais, aos pacientes e aos colaboradores usuários do processo. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas",
+      "B": "II, apenas",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 18 \nA figura a seguir apresenta o fluxo de higienização das roupas de uma unidade hospitalar.\nCOLETA\nRECEPÇÃO\nIDENTIFICAÇÃO\nBARREIRA\nCENTRIFUGAGEM\nSELEÇÃO\nSELEÇÃO\nDOBRAGEM\nREPOUSO\nDISTRIBUIÇÃO\nCONSERTO\nBAIXA\nTRATAMENTO\nCALANDRAGEM SECAGEM PRENSAGEM PASSAGEM\nÁREA SUJA OU\nSETOR DE\nSEPARAÇÃO \nE LAVAGEM\nÁREA \nLIMPA \nOU\nSETOR \nDE\nACABAMENTO\nÁREA \nDE ESTOCAGEM \nOU SETOR DE\nROUPARIA\nLEGENDA:\nBarreira\nFluxo normal\nFluxo não constante\nPESAGEM\nSEPARAÇÃO\nLAVAGEM\nBRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão Nacional de Organização de \n Serviços de Saúde. Manual de Lavanderia Hospitalar. Brasília, 1986 (adaptado).\nConsiderando a figura apresentada, avalie as afirmações a seguir.\nI. A representação gráfica apresentada é uma ferramenta da qualidade que permite ao gestor \nidentificar as atividades críticas dos processos envolvidos na higienização das roupas de uma \ninstituição de saúde, bem como na sua coleta e distribuição.\nII. Os processos se desenvolvem em uma instituição de saúde de forma desvinculada, em tempos \ndiferentes e ultrapassam as fronteiras dos setores, envolvendo várias áreas e pessoas, cabendo \nao gestor reunir os diferentes profissionais responsáveis pelos processos, para identificar o que \ninfluencia a qualidade do atendimento ao cliente.\nIII. A administração da lavanderia, realizada pelo gestor hospitalar, deve considerar os diversos \natores envolvidos no processo e, quando terceirizada, o gestor requer o acompanhamento \ncriterioso da contratação e a fiscalização dos serviços, a fim de que atendam aos objetivos \nestratégicos institucionais, aos pacientes e aos colaboradores usuários do processo.\n*R26202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 23\nÉ correto o que se afirma em\nA I, apenas\nB II, apenas\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 25,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A Portaria Ministerial n. 3.088/2011 instituiu a Rede de Atenção Psicossocial (RAPS) e as normativas subsequentes contribuíram para sua estruturação e ordenamento.\nA figura a seguir apresenta, resumidamente, os princípios que norteiam os serviços desenvolvidos na RAPS.\nRESPEITO AOS DIREITOS HUMANOS\nCUIDADO EM LIBERDADE\nCOMBATE A ESTIGMAS\nE PRECONCEITOS\nCUIDADO INTEGRAL\nDIVERSIFICAÇÃO DAS\nESTRATÉGIAS DE CUIDADO\nPROMOÇÃO DE AUTONOMIA\nESTRATÉGIAS DEREDUÇÃO DE DANOS CONTROLE SOCIAL DOS\nUSUÁRIOS E DE SEUS FAMILIARES\nESTRATÉGIAS DE\nEDUCAÇÃO PERMANENTE\nCONSTRUÇÃO DO PROJETO\nTERAPÊUTICO SINGULARPRINCÍPIOS PARA O CUIDADO NA RAPS\nBRASIL. Secretaria Nacional de Políticas sobre Drogas. Rede de Atenção Psicossocial e o Sistema Único de Saúde (SUS). Ministério da Justiça, Secretaria Nacional de Políticas sobre Drogas. Dados eletrônicos. Florianópolis: NUTE/UFSC, 2016. Considerando as informações apresentadas e o componente de atenção hospitalar no âmbito da RAPS, Avalie as afirmações a seguir.\nI. O processo de desinstitucionalização dos pacientes visa reduzir a ocupação dos leitos em hospitais psiquiátricos enquanto não seja efetivada a ampliação desses hospitais, um dos objetivos da RAPS.\nII. O cuidado ofertado em Hospital Geral, no âmbito da RAPS, deve estar articulado com o Projeto Terapêutico Singular, desenvolvido pelo serviço de referência do usuário, e a internação deve ser de curta duração, até a estabilidade clínica.\nIII. A articulação e integração dos pontos de atenção das redes de saúde no território nacional, qualificando o cuidado por meio do acolhimento, do acompanhamento contínuo e da atenção às urgências é um dos objetivos gerais da RAPS. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 25 \nA Portaria Ministerial n. 3.088/2011 instituiu a Rede de Atenção Psicossocial (RAPS) e as normativas \nsubsequentes contribuíram para sua estruturação e ordenamento.\nA figura a seguir apresenta, resumidamente, os princípios que norteiam os serviços desenvolvidos na RAPS.\nRESPEITO AOS DIREITOS HUMANOS\nCUIDADO EM LIBERDADE\nCOMBATE A ESTIGMAS\nE PRECONCEITOS\nCUIDADO INTEGRAL\nDIVERSIFICAÇÃO DAS\nESTRATÉGIAS DE CUIDADO\nPROMOÇÃO DE AUTONOMIA\nESTRATÉGIAS DEREDUÇÃO DE DANOS \nCONTROLE SOCIAL DOS\nUSUÁRIOS E DE SEUS FAMILIARES\nESTRATÉGIAS DE\nEDUCAÇÃO PERMANENTE\nCONSTRUÇÃO DO PROJETO\nTERAPÊUTICO SINGULARPRINCÍPIOS PARA O CUIDADO NA RAPS\nBRASIL. Secretaria Nacional de Políticas sobre Drogas. Rede de Atenção Psicossocial e o Sistema Único de Saúde (SUS). \nMinistério da Justiça, Secretaria Nacional de Políticas sobre Drogas. Dados eletrônicos. Florianópolis: NUTE/UFSC, 2016.\nConsiderando as informações apresentadas e o componente de atenção hospitalar no âmbito da RAPS, \navalie as afirmações a seguir.\nI. O processo de desinstitucionalização dos pacientes visa reduzir a ocupação dos leitos em hospitais \npsiquiátricos enquanto não seja efetivada a ampliação desses hospitais, um dos objetivos da RAPS.\nII. O cuidado ofertado em Hospital Geral, no âmbito da RAPS, deve estar articulado com o Projeto \nTerapêutico Singular, desenvolvido pelo serviço de referência do usuário, e a internação deve ser \nde curta duração, até a estabilidade clínica.\nIII. A articulação e integração dos pontos de atenção das redes de saúde no território nacional, \nqualificando o cuidado por meio do acolhimento, do acompanhamento contínuo e da atenção às \nurgências é um dos objetivos gerais da RAPS.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 29",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  }
+]

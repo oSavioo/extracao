@@ -1,0 +1,18 @@
+RELATÓRIO DE PROCESSAMENTO V2
+============================================================
+PDF prova: 2023_PV_engenharia_florestal.pdf
+PDF gabarito: 2023_GB_engenharia_florestal.pdf
+Prefixo de saída: 2023_pv_engenharia_florestal
+Tokens de contexto: ['engenharia', 'florestal']
+
+Questões no gabarito: 38
+Questões encontradas: 38
+Questões completas: 24
+Questões incompletas: 0
+Questões fora de escopo: 14
+Questões faltando: 0
+
+Completas: [2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 23, 24, 25, 26, 28, 31, 34, 37, 38]
+Incompletas: []
+Fora de escopo: [1, 3, 5, 6, 16, 17, 22, 27, 29, 30, 32, 33, 35, 36]
+Faltando: []

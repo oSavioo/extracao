@@ -2,9 +2,11 @@
 
 Registro criado em 2026-05-13 para continuar o projeto em outro desktop.
 
-## Estado atual
+> Registro historico. O estado atual foi superado pelo fechamento de 2026-05-14 em `docs/RETOMADA_2026-05-14_FECHAMENTO_2023.md`: 2023 esta com 28 cursos processados, 668 `completa`, 396 `fora_escopo`, 0 `incompleta` e 0 pendentes.
 
-O ano de 2023 esta com 17 cursos processados em `output/v2` e 11 cursos pendentes.
+## Estado historico daquele registro
+
+Naquele momento, o ano de 2023 estava com 17 cursos processados em `output/v2` e 11 cursos pendentes. O estado atual esta no fechamento de 2026-05-14.
 
 Auditoria geral atual:
 

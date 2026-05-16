@@ -1,0 +1,962 @@
+{
+  "1": [
+    {
+      "numero": 1,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2142,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R1420233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Engenharia Química\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 1,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 210,
+      "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
+    },
+    {
+      "numero": 1,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 4326,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R1420232*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 3\nLOGO\n2 MATÉRIA\nQUESTÃO DISCURSIVA 01 \n Na publicação Síntese de Indicadores Sociais, divulgada pelo Insti tuto Brasileiro de Geografi a \ne Estatí sti ca (IBGE) em 2022, é sistemati zado um conjunto de informações sobre a realidade \nsocial brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspecti va das \ndesigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil \nregistraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% \nda população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os \nmaiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador \nque permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu \nvalor elevado e ati ngiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece \nentre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na \nexpansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades \nterritoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, \nmarcada pela estrati fi cação e segregação socioespacial, que se consolida a exclusão da população \nvulnerabilizada socioeconomicamente.\n Disponível em: htt ps://agenciadenoti cias.ibge.gov.br/agencia-noti cias/2012-agencia-de-noti cias/noti cias/\n35687-em-2021-pobreza-tem-aumento-recorde-e-ati nge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012. \nAcesso em: 9 jun. 2023 (adaptado).\n A parti r das ideias apresentadas no texto, faça o que se pede nos itens a seguir.\na) Explique a relação entre o perfi l da população brasileira ati ngida pelas desigualdades sociais nas \ncidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições \nhabitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam \nação governamental e parti cipação da comunidade. (valor: 5,0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nFORMAÇÃO GERAL\n*2* LOGO\nMATÉRIA 3"
+    }
+  ],
+  "2": [
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 142,
+      "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
+    }
+  ],
+  "3": [
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3054,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R1420234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 5\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3050,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R1420235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Engenharia Química\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 236,
+      "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
+    }
+  ],
+  "4": [
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 309,
+      "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
+    }
+  ],
+  "5": [
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2535,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1420236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 7\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2535,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1420237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Engenharia Química\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 352,
+      "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
+    }
+  ],
+  "6": [
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 131,
+      "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "7": [
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2016,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1420239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Engenharia Química\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2014,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1420238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 9\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 199,
+      "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
+    }
+  ],
+  "8": [
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 138,
+      "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "9": [
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1819,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R14202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 11\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 901,
+      "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n14\n*R14202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
+    },
+    {
+      "numero": 9,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3967,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R14202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Engenharia Química\nQUESTÃO DISCURSIVA 02 \nSuponha que uma indústria farmacêutica necessite de um trocador de calor para condensar o vapor de \nágua em um de seus processos. O trocador de calor opera contracorrente. Considere que, nas proximidades \ndessa indústria, existe um rio cuja temperatura média da água é de 20 °C e que esse rio será utilizado \ncomo fonte de fluido de resfriamento para o processo de condensação do vapor. Sabe-se que o vapor está \nà temperatura de 50 °C e deseja-se que o trocador de calor opere de modo a que haja apenas mudança \nde fase, sem mudança de temperatura. A água de resfriamento sai à temperatura de 30 °C. Considere, \nainda, que a área de troca térmica dos tubos corresponde a 40 m2, o coeficiente global de troca térmica do \ntrocador é 2 000 W∙m-2 ∙°C-1, o calor específico da água a 25 °C é de 4 180 kJ∙kg-1∙K-1, o calor de vaporização \nda água a 50 °C é de 23 283 kJ/kg, e que ln(2/3) = –0,40 e ln(3/2) = 0,40.\nNesse contexto, faça o que se pede nos itens a seguir.\na) Represente, em um gráfico, a distribuição de temperaturas em função do comprimento do trocador \nde calor em contracorrente. (valor: 2,0 pontos)\nb) Determine a diferença de temperatura entre os fluidos utilizando o método da média logarítmica. \n(valor: 2,0 pontos)\nc) Calcule a quantidade de calor trocado para ser realizada a condensação. (valor: 2,0 pontos)\nd) Determine a vazão mássica de vapor a ser condensado e a vazão mássica de água do rio necessária. \n(valor: 2,0 pontos)\ne) Explique por que o uso de um trocador de calor com escoamento paralelo não influenciaria, nesse \ncaso, a troca térmica. (valor: 2,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*R14202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 13"
+    }
+  ],
+  "10": [
+    {
+      "numero": 10,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1566,
+      "texto": "QUESTÃO 10 \nO peneiramento é uma das operações mecânicas de separação mais simples e econômica. A tabela a \nseguir apresenta análises granulométricas de um experimento que subsidie o projeto de uma unidade \npara separar minério de maior granulometria de minério de menor granulometria, empregando-se \numa peneira industrial com malha equivalente a 28 mesh Tyler. A unidade precisa ser projetada para \ngerar 1 000 kg/h de minério de maior granulometria. As análises granulométricas da alimentação, \ndo minério de maior granulometria retido na peneira e do minério de menor granulometria, que passa \natravés da peneira, são apresentadas, respectivamente, nas colunas A, B e C.\nTyler \n(mesh)\nFrações mássicas retidas\nA\nAlimentação\nB\nMaterial Grosso\nC\nMaterial Fino\n+3 0,00 0,00 --\n-3 a +4 0,10 0,15 --\n-4 a +8 0,20 0,30 --\n-8 a +14 0,20 0,30 --\n-14 a +28 0,30 0,25 0,40\n-28 a +48 0,10 -- 0,30\n-48 a +100 0,07 -- 0,20\n100 0,03 -- 0,10\nCom base nos dados apresentados, a quantidade produzida de minério de menor granulometria, \nem kg/h, corresponde a\nA 100.\nB 250.\nC 400.\nD 500.\nE 1 000.\n*R14202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Engenharia Química"
+    }
+  ],
+  "11": [
+    {
+      "numero": 11,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1534,
+      "texto": "QUESTÃO 11 \nO alcance de um sistema de controle com bom desempenho depende, inicialmente, da escolha adequada \ndas variáveis controladas e manipuladas. Em uma coluna de destilação, há grande quantidade de possíveis \nestruturas de malhas envolvendo essas variáveis. A operação automática da coluna de destilação por \nmeio de sistema de controle realimentado depende da escolha de cinco variáveis controladas e de cinco \nvariáveis manipuladas.\nAcerca da situação apresentada, assinale a opção em que está expresso um conjunto consistente de \ncinco variáveis controladas.\nA Altura de nível do estágio na base da coluna, fração mássica de um componente na corrente de \ndestilado, pressão do estágio 1, altura de nível do vaso de condensado e temperatura do estágio 3.\nB Altura do nível do estágio na base da coluna, vazão mássica na corrente de destilado, pressão da \ncorrente de alimentação da coluna, altura de nível do vaso de condensado e carga térmica do refervedor.\nC Razão de refluxo, fração mássica de um componente na corrente de destilado, pressão do estágio 1, \ncarga térmica do refervedor e altura de nível do vaso de condensado.\nD Pressão do estágio 1, pressão da corrente de alimentação da coluna, vazão mássica da corrente de \nretirada na base da coluna, temperatura do estágio 3 e vazão mássica da corrente de destilado.\nE Altura de nível do vaso de condensado, razão de refluxo, fração mássica de um componente na corrente \nde destilado, vazão mássica da corrente de retirada na base da coluna e temperatura do estágio 3."
+    }
+  ],
+  "12": [
+    {
+      "numero": 12,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1608,
+      "texto": "QUESTÃO 12 \nEm diversos tipos de indústria, caldeiras aquatubulares são largamente utilizadas em processos que \nrequerem geração de vapor superaquecido. São elementos básicos desse tipo de caldeira a parede tubular, \nconstituída de feixe de tubos, e a fornalha. Essas caldeiras podem ter acessórios, como economizadores, \nsuperaquecedores e preaquecedores. Uma maneira de se reduzir a poluição causada pela queima de \nmadeira em caldeiras é instalar um sistema de exaustão acoplado a um ciclone.\nSupondo-se um processo composto por uma caldeira aquatubular e um ciclone, qual seria a ordem \ncorreta de passagem dos gases que circulam por esse sistema, desde a entrada do ar no sistema até a \nsaída dos gases de combustão pela chaminé?\nA Preaquecedor; superaquecedor; fornalha; parede tubular; exaustor e ciclone.\nB Preaquecedor; superaquecedor; fornalha; parede tubular; ciclone e exaustor.\nC Preaquecedor; fornalha; superaquecedor; parede tubular; ciclone e exaustor.\nD Economizador; parede tubular; fornalha; superaquecedor; ciclone e exaustor.\nE Economizador; fornalha; parede tubular; superaquecedor; exaustor e ciclone.\n*R14202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 15"
+    }
+  ],
+  "13": [
+    {
+      "numero": 13,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1953,
+      "texto": "QUESTÃO 13 \nEm colunas de destilação fracionada, a corrente de alimentação (F) exerce grande influência na \noperação e na eficiência de um equipamento e é uma das variáveis importantes para a otimização \nda operação. Mudanças na condição de alimentação podem perturbar significativamente a coluna \nde destilação e, devido ao elevado tempo de resposta, podem ser necessárias várias horas para se \nrecuperar o estado estacionário desejado do sistema. Dessa forma, é fundamental o entendimento do \nEngenheiro Químico sobre o impacto dessa variável na operação.\nO esquema a seguir representa o prato de alimentação de uma coluna de destilação em que é válida a \nhipótese de fluxo molar constante.\nF\n(1 – q)F\nVn+1 Ln\nVn Ln–1\nqF\nReferência da figura: GEANKOPLIS, C. J. Transport processes and separation process principles (includes unit operations), \n4. ed. Upper Saddle River: Prentice Hall, 2003 (adaptado).\nConsiderando q a razão de líquido na alimentação, L a corrente interna de líquido na coluna e V a \ncorrente interna de vapor na coluna, assinale a opção correta.\nA Caso Ln seja maior que Ln–1, conclui-se que q < 0.\nB Se 0 < q < 1, as correntes Vn e Ln podem não ser iguais.\nC Na condição em que Vn = Vn+1 e Ln = Ln–1, é possível afirmar que q = 0,5.\nD Do ponto de vista operacional, deseja-se promover a alimentação da corrente F com q > 1.\nE Em condições ideais, longo tempo de contato entre as fases e mistura perfeita, Vn+1 e L n–1 \nsão correntes em equilíbrio.\n*R14202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Engenharia Química"
+    }
+  ],
+  "14": [
+    {
+      "numero": 14,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2919,
+      "texto": "QUESTÃO 14 \nUm resíduo orgânico industrial é composto por 25% de fibras, em base seca, que podem ser processadas \ne aproveitadas como um subproduto com valor agregado. Uma pesquisa de mercado indicou que o teor \nde umidade de 10%, em base seca, é aceitável para a comercialização das fibras, uma vez que elas serão, \nprimordialmente, utilizadas na confecção de mantas para contenção de encostas. No entanto, o resíduo \ngerado tem umidade inicial de 80%, em base úmida, e deve ser submetido a um processo de secagem.\nPara tanto, 100 kg/h do resíduo são alimentados continuamente em um secador adiabático do \ntipo tambor rotativo, no qual o ar ambiente é alimentado em contracorrente. Sabe-se que no \nlocal onde a planta de processamento está instalada, o ar apresenta temperatura e umidade \nrelativa médias, respectivamente, de 24 °C e 55%. Para se melhorar o desempenho do secador, um \naquecedor foi instalado a montante, de modo a aquecer o ar até 50 °C antes de sua alimentação \nno equipamento. A carta psicrométrica de ar e vapor de água é apresentada a seguir.\n90 130\nPressão atmosférica = 101,325 kPa\n110\n70\n50\n30\n10\n0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50\n0,036\n0,032\n0,028\n0,024\n0,020\n0,016\n0,012\n0,008\n0,004\n0,000\nTemperatura de bulbo seco (oC)\nV. Esp. 0,88 m3/kg V. Esp. 0,92 m3/kgV. Esp. 0,80 m3/kg V. Esp. 0,84 m3/kg\nUmidade rela�va Entalpia Temperatura de bulbo úmido\nUmidade absoluta (kg de água/kg de ar seco)\n15 °C15 °C\nTemperatura\n de bulbo úmido\nTemperatura\n de bulbo úmido\n20 °C20 °C\nEntalpia\n kJ/kg de ar seco\nEntalpia\n kJ/kg de ar seco\n25 °C25 °C\n90%90%\n70%70%\n50%50%\n30%30%\n10%10%\nUmidade rela�vaUmidade rela�va\n5 °C5 °C\nDisponível em: http://www.demec.ufmg.br/Grupos/Refrigera/arquivos/cartapsicrom.xls. \nAcesso em: 27 jul. 2014 (adaptado).\nAdmitindo que as propriedades do ar são constantes durante a secagem e que, na saída, o ar apresenta \numidade relativa de 90%, avalie as afirmações a seguir.\nI. Na situação apresentada, são removidos do resíduo 78 kg/h de água pelo ar de secagem.\nII. A vazão mássica de ar seco a ser alimentado no secador é de, aproximadamente, 7 800 kg/h.\nIII. Na saída, o ar apresenta temperatura de bulbo seco igual à de bulbo úmido.\nIV. A variação de entalpia do ar de secagem, desde a entrada no aquecedor, é de, aproximadamente, \n27 kJ/kg de ar seco.\n*R14202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 17\nÉ correto apenas o que se afirma em\nA I e III.\nB II e III.\nC II e IV.\nD I, II e IV.\nE I, III e IV."
+    }
+  ],
+  "15": [
+    {
+      "numero": 15,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1773,
+      "texto": "QUESTÃO 15 \nPara a análise da figura apresentada a seguir, considere um leito de sementes de soja, recém-chegadas do \ncampo que começa a ser percolado por ar seco e quente. De acordo com a conveniência do engenheiro, \no ar seco pode ser alimentado no secador isotérmico pela região A ou B. A cada uma das extremidades \ndo leito de soja, está conectado um manômetro de tubo em U com a extremidade oposta aberta à \natmosfera. Considere que a densidade do fluido do manômetro conectado à região A corresponde ao \ndobro da densidade do fluido do manômetro conectado à região B. Considere, ainda, que a altura do \nfluido no manômetro da região B corresponde ao triplo da verificada no manômetro da região A.\nLeito de sementes\nFluido manométrico referente à região A\nFluido manométrico referente à região B\nAr\nh\nA B\nz\nDe acordo com o esquema e as informações apresentados, assinale a opção correta.\nA Se U for a umidade absoluta das sementes de soja em determinada posição axial do secador, \nentão dU/dz > 0.\nB Se T for a temperatura do fluido em determinada posição axial do secador, então dT/dz < 0.\nC A temperatura de bulbo úmido em A é menor que a de bulbo úmido em B.\nD A temperatura de bulbo seco em A é maior que a de bulbo seco em B.\nE O escoamento do fluido ocorre da região A para a B.\n*R14202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Engenharia Química"
+    }
+  ],
+  "16": [
+    {
+      "numero": 16,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2181,
+      "texto": "QUESTÃO 16 \nO fluxograma a seguir representa uma unidade industrial em que é realizada a isomerização de xilenos.\nCARGA\nLÍQUIDA\nTANQUE\nPULMÃO\nREATOR\nTC-01\nTC-02\nTC-03 TIC\nH2 NÃO \nCONSUMIDO\nV-101\nH2\nLegenda: TC: trocador de calor; TIC: controlador e indicador de temperatura; V: vaso.\nConsidere que a referida unidade industrial tenha a função de converter cataliticamente uma mistura \nlíquida cuja composição mássica seja de 20% de etilbenzeno, 21% de paraxileno, 53% de metaxileno e \n6% de ortoxileno em outra mistura cuja composição mássica seja de 12% de etilbenzeno, 21% de paraxileno, \n47% de metaxileno e 20% de ortoxileno. O objetivo de se proceder à reação de conversão catalítica é \nmaximizar a concentração de ortoxileno.\nCom base nas informações e no fluxograma apresentados, assinale a opção correta.\nA O controle da pressão de operação da coluna de destilação deve ser feito com base no ajuste da \nvazão de vapor de aquecimento alimentado à coluna.\nB Como a reação de hidrogenação é altamente exotérmica, realizada em fase gasosa e catalisada, \né recomendado o emprego de reator encamisado do tipo tubular.\nC Na situação de falha no funcionamento da malha de controle da temperatura do forno, a válvula \ninstalada na tubulação de combustível deve falhar na posição aberta, para a proteção do forno.\nD É mais seguro que o controle da vazão de carga líquida e da vazão de hidrogênio alimentadas à \nunidade seja feito por meio de malhas de controle independentes, como mostrado no fluxograma.\nE A temperatura do fluido que circula pela camisa do reator sempre deve ser mantida constante, \nde modo a atender à troca térmica requerida pelo reator quando em operação em regime estacionário.\n*R14202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 19"
+    }
+  ],
+  "17": [
+    {
+      "numero": 17,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1987,
+      "texto": "QUESTÃO 17 \nO diagrama apresentado a seguir mostra um sistema fotovoltaico domiciliar (SFD), onde podem \nser observados dois componentes fundamentais, que o caracterizam: as cargas e o gerador \nfotovoltaico, sendo este denominado painel solar. No projeto de instalação dos painéis solares, \ndevem ser analisados, entre outros itens, o espaço para a instalação, a localização geográfica \nda residência, a intensidade da radiação solar, o custo da energia elétrica convencional e \nos equipamentos e dispositivos que consomem energia elétrica (cargas).\nGerador fotovoltaico\nResidência\nCargas\nControlador de carga\nAcumulador\n(bateria)\nGALDINO, M. A.; PINHO, J. T. Manual de engenharia para sistemas fotovoltaicos. Grupo de Trabalho de energia Solar. \nGTES – CEPEL – DTE – CRESESB, Rio de Janeiro, 2014 (adaptado).\nSuponha que um consumidor, após considerar as cargas de energia elétrica em sua residência, \ntenha verificado que a soma das potências dos elétricos é de 600 W e que existe, no mercado, \num painel solar que opera durante 5 horas por dia e produz 70 miliWatts por 2,5 cm 2 de área \nexposta à radiação solar.\nDiante da situação apresentada, avalie as afirmações a seguir.\nI. A demanda diária de energia elétrica da residência é 0,6 kWh.\nII. O painel solar produz 6,72 kWh por m2 de energia elétrica diária.\nIII. A área necessária para instalar os painéis solares é entre 10 m2 e 11 m2.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R14202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Engenharia Química"
+    }
+  ],
+  "18": [
+    {
+      "numero": 18,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1142,
+      "texto": "QUESTÃO 18 \nSuponha que, em uma indústria química, o vapor é fornecido por uma caldeira que queima gás natural \nà vazão de 2 000 m 3/h, com poder calorífico inferior (PCI) médio de 8 000 kcal/m 3. Nessa indústria, \nhá uma corrente de gás residual rica em hidrogênio, cujo PCI é de 5 000 kcal/m3, e a vazão é de 800 m3/h. \nEssa corrente é vendida por R$ 2,00/m3 a outra empresa, para a recuperação de hidrogênio.\nConsiderando que o sistema de queima existente é adequado para a corrente residual, engenheiros dessa \nindústria sugeriram utilizar-se dessa corrente para substituir parte do gás natural, em vez de vendê-la, \no que foi acatado pelos gestores.\nSabendo que o gás natural é comprado a R$ 10,00/m 3 e a eficiência de queima da corrente residual é \nigual à do gás natural, avalie as afirmações a seguir.\nI. A corrente residual substituiria 40% da vazão atual do gás natural.\nII. A economia prevista, adotando-se a referida medida, é de R$ 3 400/h.\nIII. A corrente do gás residual forneceria 25% da necessidade atual de vapor.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "19": [
+    {
+      "numero": 19,
+      "score": 10,
+      "qtd_alternativas": 0,
+      "alternativas_esperadas": [],
+      "alternativas_completas": false,
+      "strategy": "tail_total",
+      "tamanho": 2424,
+      "texto": "QUESTÃO 19 \nO diagrama a seguir representa um sistema operando em malha fechada, numa situação de servo-controle, \ncom variáveis de entrada e saída yd e y, respectivamente, escritas em forma de desvio. Esse sistema opera \nsob a ação de um controlador proporcional integral (PI), representado pela função de transferência gc. \nO comportamento dinâmico da planta, indicado no bloco gp, segue uma função de transferência de \nprimeira ordem sem tempo morto.\ngc+\n-\nyd ygp\nAs funções de transferência gc e gp são dadas pelas duas expressões a seguir.\ngc K Ts\nTs gp K\nTsc\nI\nI\n= +\n\n\n\n\n = +\n1\n1/nobreakspace/nobreakspace/nobreakspace/nobreakspace/nobreakspace/nobreakspace/nobreakspace\nNa primeira expressão, TI é o tempo integral do controlador, igual a 1 minuto, Kc é o ganho \nproporcional do controlador, igual a 1. Na segunda expressão, o ganho da planta é igual a 1, \ne sua constante de tempo, T, corresponde a 4 minutos.\n*R14202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 21\nConsiderando que houve variação na forma de degrau unitário no valor de yd no instante zero, \nisto é, o setpoint passou de 0 para 1, assinale a opção em que a curva mostra corretamente o \ncomportamento transiente da saída y .\nA\n1,0\n0,9\n0,8\n0,7\n0,6\n0,5\n0,4\n0,3\n0,2\n0,1\n0 5 10 15 20 25\ny\nt/min\nD\n4\n3\n2\n1\n0\n-1\n-2\n-3\n-4\n-5\n-6 0 5 10 15 20 25\ny\nt/min\nB\n1,4\n1,2\n1,0\n0,8\n0,6\n0,4\n0,2\n0 5 10 15 20 25\ny\nt/min\nE\n1,0\n0,8\n0,6\n0,4\n0,2\n0,0\n-0,2\n-0,4 0 5 10 15 20 25\ny\nt/min\nC\n1,0\n0,9\n0,8\n0,7\n0,6\n0,5\n0,4\n0,3\n0,2\n0,1\n0 5 10 15 20 25\ny\nt/min\n*R14202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Engenharia Química"
+    }
+  ],
+  "20": [
+    {
+      "numero": 20,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 3562,
+      "texto": "QUESTÃO 20 \nO esquema apresentado a seguir ilustra um aparato utilizado para se estudar transferência de calor \nem regime transiente. Considere que um banho com água quente, isolado termicamente do ambiente, \ntenha sua temperatura controlada por meio da dissipação de potência no aquecedor, que uma \npeça metálica, de formato esférico e com temperatura inicial igual a do ambiente, seja subitamente \nmergulhada na água, como indicado no esquema, e que a temperatura do banho, T1 , é medida por \num termopar, por meio do qual, também são medidas as temperaturas da superfície da esfera, T2 , \ne do centro da esfera, T3 . Como a peça tem dimensões reduzidas e elevada condutividade térmica, \npode-se assumir a validade do método da capacitância, ou seja, não há variações espaciais de \ntemperatura na esfera, o que faz com que T 2 seja, aproximadamente, igual a T 3 .\nBASE\nBOMBA\nÁGUA\nAQUECEDOR\nTANQUE\nCOM ISOLAMENTO\nTÉRMICO\nSUPORTE\nPEÇA\nT2 T3 T1\nArmfield. HT Series: Heat Transfer and Thermodynamics. Disponível em: <http://discoverarmfield.com/ \nen/products/view/ht17/unsteady-state-heat-transfer>. Acesso em: 10 jul. 2017 (adaptado).\nPara serem avaliados os efeitos de convecção, a bomba de circulação opera com rotação ajustável, \nproporcionando maior ou menor vazão de fluido. Considere, ainda, que foram realizados dois \nexperimentos com rotações diferentes na bomba, partindo-se de uma temperatura inicial, T2,i , da peça \nigual nos dois ensaios e mantendo-se a temperatura, T1 , sempre no mesmo valor. Os dados obtidos são \napresentados na figura a seguir, na qual o tempo t foi medido em segundos. Os dados do experimento (1) \nsão representados por círculos e os do experimento (2), por quadrados.\n*R14202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 23\n0\n0,0\n2 4 6 8 10 12 14 16 18 20\nt/s\n–0,5\n–1,5\n–2,5\n–3,5\nIn((T2 – T1)/T2,i – T1))\n–3,0\n–2,0\n–1,0\n(1)\n(2)\nA respeito da situação apresentada, avalie as afirmações a seguir.\nI. A resistência à convecção é muito maior que a resistência à condução.\nII. O coeficiente de transferência de calor foi mais elevado no experimento (2), porque a bomba \noperava com rotação mais alta que no experimento (1).\nIII. O método da capacitância é válido quando Bi = h ×L/k >> 1, em que h é o coeficiente convectivo, \nL é o comprimento característico e k é o coeficiente de condutividade térmica da esfera.\nIV. O balanço de energia é dado por ln TT\nTT\nhA\nVC t21\n21\n−\n− = ·\n·· ·\n, r( ( pi\n, em que A é a área da esfera, \nr é a densidade da esfera, V é o volume da esfera e Cp é a capacidade calorífica específica.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R14202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Engenharia Química"
+    }
+  ],
+  "21": [
+    {
+      "numero": 21,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2074,
+      "texto": "QUESTÃO 21 \nSuponha que, em um centro de pesquisas, foi desenvolvido um novo catalisador metálico para \nreforma de metano. Estudos preliminares indicaram que o material possui propriedades satisfatórias \nquanto à estabilidade térmica e mecânica e à área superficial. De modo a investigar o desempenho \ncatalítico e determinar quais são os mecanismos físicos que controlam o processo sob diversas \ncondições operacionais, propôs-se uma série de ensaios em um reator de leito fixo em escala piloto, \ndisponível no referido centro de pesquisas.\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. Para avaliar se a transferência de massa externa controla o processo, pode-se variar a velocidade \nda corrente de gás, mantendo-se fixos o tempo de retenção e o diâmetro das partículas, \nde modo que, se a conversão dos reagentes aos produtos sofrer alteração, então, a transferência \nde massa externa é o mecanismo dominante.\nII. Se a velocidade da corrente de gás e o tempo de retenção forem mantidos constantes e o \ndiâmetro das partículas for variado e houver alteração na conversão, então, a cinética intrínseca \nda reação controla o processo e, portanto, o efeito da transferência de massa interna e externa \npode ser desprezado.\nIII. Se a velocidade da corrente de gás, o tempo de retenção e o diâmetro das partículas forem \nmantidos constantes, a variação da temperatura de alimentação do fluido acarretará maior \nimpacto na cinética intrínseca da reação.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R14202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 25"
+    }
+  ],
+  "22": [
+    {
+      "numero": 22,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1894,
+      "texto": "QUESTÃO 22 \nEm uma indústria química, é conduzido determinado processo ao qual deve ser adicionado óleo quente. \nPara o condicionamento desse fluido, dispõe-se de um tanque acumulador agitado contendo uma \ncamisa de aquecimento, conforme demonstrado na figura a seguir.\nQ\nme = 3 kg/s\nms = 3 kg/s\nTe = 20 oC\nVapor\nTv = 120 °C\nCondensado\nm0 = 50 kg\nTs = ?\nInicialmente, esse tanque continha m0 = 50 kg de óleo a 20 °C. Então, as linhas de alimentação e descarga \nforam abertas, o que permitia o fluxo de óleo à vazão de 3 kg/s, mantendo-se, portanto, o nível do tanque \nconstante. O coeficiente global de troca térmica, UC , sugerido pelo fabricante é de 200 W∙m -2∙K-1, \na área da camisa de vapor é de 15 m2 e a capacidade calorífica do óleo, cp,óleo , é de 1,5 kJ∙kg-1∙K-1.\nO balanço de energia de um sistema sem reação, com variação desprezível de energia cinética e \npotencial e sem trabalho de eixo é dado por\ndU\ndt mh mh Qee ss=− +∑∑ ..\nem que: U é a energia interna; m, a vazão mássica; h, a entalpia por unidade de massa; Q , a taxa de calor, \ndefinido por Q = UC ∙ A ∙ (TV – Ts); e os subscritos são e , para a corrente de entrada; e s, para a \ncorrente de saída; TV é a temperatura do vapor; e A é a área de troca térmica.\nCom base nesses dados, assinale a opção que apresenta o valor aproximado da temperatura de saída do \nóleo após 100 s de operação.\nA 25 °C.\nB 50 °C.\nC 60 °C.\nD 100 °C.\nE 120 °C.\n*R14202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Engenharia Química"
+    }
+  ],
+  "23": [
+    {
+      "numero": 23,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1684,
+      "texto": "QUESTÃO 23 \nAs figuras a seguir apresentam cilindros feitos de serragem prensada e úmida que foram postos em \ncontato com ar seco. Nessas figuras, as áreas hachuradas representam as superfícies que foram \nimpermeabilizadas usando-se uma resina especial. Considere as seguintes direções: radial, axial e angular.\n1\n2\n3\n4\n5\nSem impermeabilização.\nCom impermeabilização \napenas na metade superior \ndo corpo do cilindro; \nextremidades não \nimpermeabilizadas.\nCom impermeabilização \nem toda a superfície do\ncilindro, exceto nas duas \nextremidades.\nCom impermeabilização \nem apenas uma das \nextremidades.\nCom impermeabilização \napenas nas duas\nextremidades.\nCom base nesses dados, conclui-se que a concentração de água no interior do cilindro, nas situações \napresentadas nas figuras 1, 2, 3, 4 e 5, respectivamente, é função de\nA unidirecional, bidirecional, tridirecional, bidirecional e bidirecional.\nB unidirecional, tridirecional, bidirecional, bidirecional e unidirecional.\nC bidirecional, tridirecional, bidirecional, unidirecional e unidirecional.\nD bidirecional, tridirecional, unidirecional, bidirecional e unidirecional.\nE tridirecional, bidirecional, unidirecional, bidirecional e bidirecional.\n*R14202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 27"
+    }
+  ],
+  "24": [
+    {
+      "numero": 24,
+      "score": 10,
+      "qtd_alternativas": 0,
+      "alternativas_esperadas": [],
+      "alternativas_completas": false,
+      "strategy": "tail_total",
+      "tamanho": 1899,
+      "texto": "QUESTÃO 24 \nConsidere o desenvolvimento de um produto cuja produção se dê pela reação de um reagente B. \nA reação é processada em um reator tubular empacotado com um catalisador apropriado. \nCom o objetivo de aumento de escala (scale up) do processo, das condições de laboratório para as de \nplanta piloto, está sendo desenvolvido um modelo fenomenológico do reator. Foram consideradas as \nseguintes hipóteses no desenvolvimento do modelo:\n• a reação possui cinética isotérmica com taxa de consumo de B dada por rB = k × CB, \ncom dimensões de mol/(volume x tempo), em que k é a constante da taxa de reação.\n• a variação de concentração se dá apenas na direção axial.\n• ao longo do reator, a concentração do reagente varia por difusão axial, transporte por convecção e \nreação química.\n• para modelar a difusão axial, é usada a Lei de Fick, JD C\nzEE=− ⋅ d\nd\nB , com dimensões de \nmol/(área x tempo), em que DE é a difusividade mássica.\n• a área de seção transversal do tubo é constante.\nCom base nas informações apresentadas, assinale a opção em que está representado o modelo do reator \nobtido aplicando-se a lei da conservação da massa (balanço de massa) à espécie B, ao longo do reator, \nno estado estacionário, em que v0 é a velocidade axial.\nA ()Dv C\nz kCE −− =0 0d\nd\nB\nB\nB ()Dv C\nz kCE −+ =0 0d\nd\nB\nB\nC v C\nz kC0 0d\nd\nB\nB+=\nD D C\nz\nv C\nz kCE\nd\nd\nd\nd\nBB\nB\n2\n2 0 0−− =\nE d\nd\nd\nd\nBB\nB\n2\n2\n0 0C\nz\nv\nD\nC\nz kC\nE\n++ =\n*R14202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Engenharia Química"
+    }
+  ],
+  "25": [
+    {
+      "numero": 25,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1486,
+      "texto": "QUESTÃO 25 \nConsidere que uma torre de absorção reativa será usada na lavagem de um gás tóxico. Nessa torre, \no gás solúvel A reativo dissolve-se numa interface plana de um corpo longo de líquido reagente, \ncom o qual ele reage irreversivelmente, conforme a seguinte equação da taxa de reação.\nrk Cn\nn\nAA= , em que: kn é a constante cinética; CA, a concentração do gás A; e n, a ordem de reação.\nConsidere, ainda, que o líquido que entra na torre de absorção reativa está isento do gás solúvel, A, \na variação da concentração de A com a posição na entrada da torre (z = 0) é igual a 1 mol∙L -1∙m-1, \no balanço de massa no sistema no estado estacionário conduz a D C\nz\nkCn\nd\nd\nA\nA\n2\n2 0−= , em que D é a \ndifusividade mássica, e z, a direção axial.\nCom base nesses dados, avalie as afirmações a seguir.\nI. No desenvolvimento do modelo no estado estacionário, assumiu-se que a reação fosse de \nprimeira ordem.\nII. O modelo desenvolvido é descrito por uma equação diferencial ordinária de segunda ordem, logo, \nsão necessárias duas condições para se obter a solução livre das duas constantes de integração.\nIII. As duas condições iniciais que estão de acordo com o enunciado do problema são \nt = 0: CA = 0 e dCA/dz = 1 mol∙L-1∙m-1.\nIV. No balanço de massa apresentado, a quantidade de gás que se difunde após a solubilização deve \nreagir imediatamente, não havendo transporte por convecção.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV."
+    }
+  ],
+  "26": [
+    {
+      "numero": 26,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1652,
+      "texto": "QUESTÃO 26 \nA refrigeração é uma operação importante no condicionamento do ar em ambientes como indústria, \nedificações comerciais e empresariais. Suponha que, em uma indústria de alimentos, queira-se remover \n10 000 W de uma câmara refrigerada a –10 °C. Foi proposto usar-se, para tal fim, um ciclo de refrigeração \ncom compressão de vapor com expansão em uma válvula de estrangulamento, conforme mostrado \nna figura a seguir.\n1 2\n34\nC-01\nH-01\nV-01\nH-02\n*R14202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 29\nAcerca da figura apresentada e da termodinâmica da refrigeração, avalie as afirmações a seguir.\nI. O calor é absorvido a baixa temperatura e rejeitado para as vizinhanças em temperatura maior, \ncom gasto energético proveniente de uma fonte externa.\nII. O coeficiente de desempenho do ciclo fornecido é dado por (H1 – H4)/(H2 – H1), em que H1, H2, e H4 são, \nrespectivamente, as entalpias das correntes 1, 2 e 4.\nIII. O ciclo de refrigeração representado na figura tem compressão e expansão isentrópicas, pois ele \né equivalente ao ciclo de Carnot.\nIV. O condensador é representado por H-02 e o evaporador por H-01.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV."
+    }
+  ],
+  "27": [
+    {
+      "numero": 27,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1860,
+      "texto": "QUESTÃO 27 \nConsidere que um produto petroquímico B será produzido em um reator de mistura perfeita \ncontinuamente agitado, em fase líquida, a partir de um reagente A, segundo a reação A ® 2B . \nCom o objetivo de se dimensionar o volume do reator necessário para se processar a reação de interesse, \nforam levantados dados, usando-se um ensaio de laboratório, para a taxa de geração rA em função da \nconversão X, conforme mostrado na tabela a seguir.\nX 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,85\n–rA 0,0053 0,0052 0,0050 0,0045 0,0040 0,0033 0,0025 0,0018 0,00125 0,0010\n1/(–rA) 189 192 200 222 250 303 400 556 800 1000\nFOGLER, H. S. Elements of chemical reaction engineering, 3. ed., USA: Prentice Hall, 1999 (adaptado).\nConsiderando as condições fornecidas, faça os cálculos solicitados a seguir:\n1. calcule o volume do reator necessário para a produção de B, caso sejam processados 10 mol/s do \nreagente A no reator e forem produzidos 12 mol/s do produto B.\n2. verifique se o volume do reator tubular será maior, menor ou igual ao volume do reator de \nmistura perfeita, caso seja trocado o reator de mistura perfeita continuamente agitado por um \nreator tubular de escoamento pistonado. \nAssinale a opção que apresenta, correta e respectivamente, a resolução do que foi requerido.\nA 0,015 m3; maior.\nB 0,24 m3; igual.\nC 1 m3; menor.\nD 1,5 m3; maior.\nE 2,4 m3; menor.\n*R14202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Engenharia Química"
+    }
+  ],
+  "28": [
+    {
+      "numero": 28,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2043,
+      "texto": "QUESTÃO 28 \nA figura a seguir mostra o fluxograma de processo para produção de benzeno a partir da hidroalquilação \ndo tolueno.\nFluxograma de processo (PFD, Process Flow Diagram) \npara a produção de benzeno via hidroalquilação do tolueno\nV-104V-101\ncw\nE-104\nT-101\nE-103\nlps\nmps\nE-106\nV-103\nE-102\ncw\nV-102\nC-101A/B\nR-101H-101\nP-101A/B\nE-101\nhps\nHidrogênio\nTolueno Produtos de\ncombustão\nGás\ncombustível\nGás\ncombustível\nAr\n16\n17\n8\n13\n19\nP-102A/B\ncw\nE-105\nBenzeno\n15\n11\n18\n9\n5\n3\n1 2\n4 6\n7\n10 12 14\nTURTON, R.; BAILIE, R. C.; WHITINGW, B.; SHAEIWITZ, J. A.; BHATTACHARYYA, D. Analysis, Synthesis, \nand Design of Chemical Processes. 4. ed., São Paulo: ed. Prentice Hall, p. 10, 2012 (adaptado).\nAcerca do fluxograma apresentado, assinale a opção correta.\nA A corrente 16 sofre expansão, transformando-se na corrente 7 antes de entrar no reator R-101.\nB O trocador de calor é alimentado pela corrente 2, e a descrição P-101A/B representa uma tubulação \ncom diâmetro de 101 mm.\nC O equipamento compreendido entre as correntes 4 e 6 é um aquecedor, e o equipamento R-101, \num registro para controle de vazão.\nD A simbologia P-101A/B identifica que o equipamento é uma bomba, com diâmetro de sucção de \n100 mm, especifica que é a de número 01 na área e que existem duas bombas idênticas, P-101A e P-101B, \nestando apenas uma em operação.\nE A simbologia P-101A/B identifica que o equipamento é uma bomba, localizada na área 100 da planta, \nespecifica que é a de número 01 na área 100 e que existem duas bombas idênticas, P-101A e P-101B, \nestando apenas uma em operação.\n*R14202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 31"
+    }
+  ],
+  "29": [
+    {
+      "numero": 29,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1669,
+      "texto": "QUESTÃO 29 \nConsidere o esquema de um biorreator contínuo sem recirculação celular operando no estado \nestacionário, como mostrado na figura a seguir, em que F representa a vazão de entrada/saída em L/h; \nS0 e S, a concentração de substrato em g/L na entrada e na saída do biorreator; X0 e X, a concentração de \ncélulas na entrada e na saída do biorreator em g/L; e P0 e P, as concentrações de produto na entrada e na \nsaída do biorreator em g/L.\nF\nS0\nX0\nP0\nF\nS\nX\nP\nEm relação aos balanços que ocorrem nesse biorreator, avalie as afirmações a seguir.\nI. A concentração S será superior a S0, pois o substrato é gerado ao longo do bioprocesso pelas \ncélulas presentes.\nII. A concentração de X, S e P são as mesmas que estão no interior do biorreator, visto que \no processo já se encontra em estado estacionário.\nIII. A concentração de células que deixam o biorreator é função do fator de conversão do substrato \nem células.\nIV. A produtividade do biorreator, em função da formação de células, depende da vazão e \ndo volume do biorreator, além da concentração (inicial e final) de células.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*R14202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Engenharia Química"
+    }
+  ],
+  "30": [
+    {
+      "numero": 30,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1853,
+      "texto": "QUESTÃO 30 \nO fluxo de calor que atravessa determinado meio sólido é proporcional à razão entre a diferença de \ntemperatura e a distância. Essa proporcionalidade é mensurada por um parâmetro denominado \ncondutividade térmica. A variação dos valores de condutividade térmica com a temperatura é mostrada \nna figura a seguir.\nPrata\nCobre\nOuroAlumínio\nLiga 2024\nde alumínio\nAço inoxidável,\nAISI 304\nTungstênio\nPla�na\nFerro\nÓxido de alumínio\nPirocerâmica\nQuartzo fundido\n100 300 500 1000 2000 4000\n500\n400\n300\n200\n100\n50\n20\n10\n5\n2\n1\nCondu�vidade térmica (W/(m · K))\nTemperatura (K)\nFonte: BERGMAN, T.L.; LAVINE, A.S.; INCROPERA, F.P .; DEWITT, D.P . Transferência de calor e de massa. \nRio de Janeiro: LTC, 2014 (adaptado).\n*R14202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 33\nA partir da análise da figura apresentada, avalie as afirmações a seguir.\nI. À temperatura ambiente, uma porta fabricada de ferro é um isolante térmico melhor que uma \nparede de aço inoxidável AISI 304, de mesmas dimensões.\nII. Prata e cobre são os melhores materiais para serem utilizados nos tubos internos de um trocador \nde calor.\nIII. Entre os materiais mencionados na figura, o quartzo fundido é o melhor isolante para ser \nutilizado em qualquer temperatura.\nIV. Todos os materiais mencionados tendem a ser piores isolantes térmicos com o aumento \nda temperatura.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD II e IV.\nE I, III e IV."
+    }
+  ],
+  "31": [
+    {
+      "numero": 31,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1619,
+      "texto": "QUESTÃO 31 \nEm 2016, a revista científica Nature apresentou um estudo em que se indicava que a emissão \nde metano, durante a produção e a utilização de gás natural, petróleo e carvão, é de 20% a 60% maior \ndo que se julgava. Dado que o metano é 28 vezes mais eficiente na retenção do calor na atmosfera \nda Terra, constatou-se haver desafios adicionais na luta contra as mudanças climáticas. Nesse sentido, \ntem aumentado o número de pesquisas sobre como utilizar o gás metano, em vez de \"lançá-lo\" \nna atmosfera. Um pesquisador sugeriu que o metano fosse queimado como forma de se atenuar \no problema. A tabela a seguir apresenta os dados de calor de formação padrão a 25 °C.\nSubstância H f\no\n(kJ/mol) Substância H f\no\n(kJ/mol) Substância H f\no\n(kJ/mol) Substância H f\no\n(kJ/mol)\nCO2(g) -393,5 CO(g) -110,3 NH3(g) -46,1 NaCl(s) -412,1\nC2H2(g) +226,8 CH4(g) -74,8 H2O(v) -241,8 H2O(l) -285,8\nO3(g) +143 SO2(g) -296,8 H2O2(l) -187,6 SO3(g) -395,7\nCom base nos dados apresentados, verifica-se que o calor de reação da combustão do metano \ncorresponde a\nA -973,3 kJ/mol.\nB +973,3 kJ/mol.\nC -890,3 kJ/mol.\nD +890,3 kJ/mol.\nE -1 367 kJ/mol.\n*R14202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Engenharia Química"
+    }
+  ],
+  "32": [
+    {
+      "numero": 32,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2159,
+      "texto": "QUESTÃO 32 \nÉ difícil a separação de misturas azeotrópicas por destilação fracionada, tal como ocorre, \npor exemplo, no acetato de etila e etanol. Uma das possibilidades para resolver esse problema é alterar \na pressão de operação, de modo a se conseguir uma diferença na composição da mistura azeotrópica.\nCom base nesse princípio, é sugerido o fluxograma de processo a seguir, com duas colunas \nde destilação. Nesse sistema, é alimentada uma mistura que contém 20% de acetato de etila e \n80% de etanol, em base molar.\n1 2\nAs figuras a seguir apresentam os diagramas de equilíbrio temperatura/composição em duas pressões \ndiferentes (1,0 bar e 0,1 bar). Neles, x e y são frações molares de acetato de etila, e T é a temperatura. \nNota-se a formação de duas misturas azeotrópicas com composições aproximadas de 55% e 72% de \nacetato de etila, em base molar.\n78\n76\n74\n72\n700 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1\nT/oC\n30\n25\n20\n0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1\nx, y\nT/oC\nx, y\np = 1,0 bar\np = 0,1 bar\n*R14202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 35\nCom base nas figuras apresentadas e no que foi descrito, avalie as afirmações a seguir.\nI. Para que se consiga a separação completa de acetato de etila e etanol, é preciso que a coluna de \ndestilação 1 opere sob pressão de 0,1 bar, e a coluna 2, sob pressão de 1,0 bar.\nII. Da análise dos diagramas de equilíbrio, pode-se inferir corretamente que as pressões de vapor \nde acetato de etila e de etanol são baixas, o que os torna inflamáveis.\nIII. Como produtos de fundo das colunas de destilação 1 e 2, tem-se, respectivamente, etanol e acetato \nde etila puros.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "33": [
+    {
+      "numero": 33,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1092,
+      "texto": "QUESTÃO 33 \nA figura a seguir mostra as curvas do diagrama tensão-deformação referentes aos ensaios de tração \nrealizados com dois materiais (A e B).\nσ(MPa)\nmaterial A\nmaterial B\n550\n480\n450\n300\n250\n0,2\nε (%)\nCom base nos dados experimentais apresentados, assinale a opção correta.\nA A tensão de ruptura do material B ocorre na tensão de 480 MPa.\nB O ponto de ruptura do material B ocorre na tensão de 300 MPa.\nC A limitação elástica do material A ocorre na tensão de 550 MPa.\nD O ponto de ruptura do material A ocorre na tensão de 450 MPa.\nE O limite de escoamento do material A ocorre na tensão de 300 MPa.\n*R14202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Engenharia Química"
+    }
+  ],
+  "34": [
+    {
+      "numero": 34,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1860,
+      "texto": "QUESTÃO 34 \nAnalise o pseudocódigo a seguir, em que re corresponde à resistência equivalente, considerando que \nos valores das variáveis r1, r2, r3, esc e nres estejam armazenados na memória.\nInício\n Se esc == 1 e nres == 2\n Então re := r1 + r2\n Se não, se esc == 1 e nres == 3\n Então re := r1 + r2 + r3\n Fim\n Se esc == 2 e nres == 2\n Então re := (r1*r2) / (r1 + r2)\n Se não, se esc == 2 e nres == 3\n Então re := 1 / (1/r1 + 1/r2 + 1/r3)\n Fim\n Escreva re\nFim\nCom base no algoritmo apresentado, assinale a opção correta.\nA Quando esc = 1 e nres = 2, o cálculo da resistência equivalente envolve um laço iterativo, \no resultado é armazenado em re e o seu valor é impresso no console.\nB Quando esc = 1 e nres = 3, é realizado o cálculo da resistência equivalente pela soma de \nr1 e r2, o resultado é armazenado em re e o seu valor é impresso no console.\nC Quando esc = 2 e nres = 2, é realizado o cálculo da resistência equivalente pela soma de \nr1, r2 e r3, o resultado é armazenado em re e o seu valor é impresso no console.\nD Quando esc = 2 e nres = 3, é realizado o cálculo da resistência equivalente pela soma de \nr1, r2 e r3, o resultado é armazenado em re e o seu valor é impresso no console.\nE Quando esc = 2 e nres = 2, é realizado o cálculo da resistência equivalente por meio de \n(r1*r2) / (r1 + r2), o resultado é armazenado em re e o seu valor é impresso no console.\n*R14202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 37"
+    }
+  ],
+  "35": [
+    {
+      "numero": 35,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2429,
+      "texto": "QUESTÃO 35 \nUm dos métodos para a obtenção do fator de atrito (f) é o uso do diagrama de Moody. Utilizando-se \nesse diagrama, é possível obter o fator de atrito para qualquer tipo de escoamento, fluido e rugosidade \nde uma tubulação. Para tal, é necessário o conhecimento da rugosidade relativa do tubo e do tipo \nde escoamento, por meio do número de Reynolds.\nNo diagrama de Moody, apresentado a seguir, estão evidenciados os regimes de escoamento e os \nvalores de rugosidade para alguns materiais.\n0,1\n0,09\n0,08\n0,07\n0,06\n0,05\n0,04\n0,03\n0,02\n0,015\n0,01\n103 104 105 106 107 108\nDiagrama de Moody\n0,05\n0,04\n0,03\n0,02\n0,015\n0,01\n0,005\n0,002\n0,001\n5×10-4\n2×10-4\n5×10-5\n5×10-6\n10-4\n10-5\n10-6\nMaterial ε (mm)\nAço rebitado\nConcreto\nMadeira\nFerro fundido\nFerro galvanizado\nFerro fundido asfaltado\nAço comercial ou ferro\nVidro, acrilíco\nTreﬁlado\n0,9-9\n0,3-3\n0,2-0,9\n0,26\n0,15\n0,12\n0,046\n0,0025\n0,0015\nNúmero de Reynolds Re = ρVD\nμ\n64\nRef =\nRugosidade Relativaε\nD\nFator de Atrito f\nEscoamento laminarEscoamento laminar\nTurbulência completaTurbulência completa\nTubos lisosTubos lisos\nRegime plenamente turbulentoRegime plenamente turbulento\nRegime de transiçãoRegime de transição\nMORAN, M. J. et al. Principles of engineering thermodynamics. 8. ed. Hoboken, Nova Jersey (EUA): \nJohn Wiley & Sons, 2015 (adaptado).\nCom base no diagrama de Moody e admitindo a densidade e a viscosidade dinâmica da água \na 20 °C iguais, respectivamente, a 1 000 kg/m3 e 1,0∙10-3 Pa∙s, avalie as afirmações a seguir.\nI. A água escoa em uma tubulação de ferro fundido com 50 cm de diâmetro à velocidade de 2 m/s, \ne o regime desse escoamento é turbulento.\nII. Em um tubo de 20 cm de diâmetro, passa água a 0,005 m/s, o regime é laminar e o fator de \natrito é 0,064.\nIII. A água escoa em um tubo liso de 10 cm de diâmetro a 2 m/s, e o regime é plenamente turbulento.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R14202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Engenharia Química"
+    }
+  ],
+  "36": [
+    {
+      "numero": 36,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1368,
+      "texto": "QUESTÃO 36 \nSuponha que, em uma unidade fabril, sejam geradas 40 t/h de uma corrente aquosa (densidade = 1 g/mL) \ncontaminada com produtos orgânicos que dão DQO (demanda química de oxigênio) de 25 000 mg/L. \nO custo de tratamento realizado por uma empresa especializada é de R$ 2,00/kg de DQO.\nUma possibilidade de redução desse custo é a remoção de parte da carga orgânica usando-se \ndestilação (stripper). A simulação desse processo indicou que a DQO é reduzida para 5 000 mg/L, \nhavendo recuperação de 1 000 kg/h de um líquido combustível que, valorado ao preço energético do \ngás natural, custaria R$ 1 200,00/t, e o consumo de vapor de 10 t/h, R$ 120,00/t.\nA estimativa do investimento para a instalação de todo o sistema do stripper é de R$ 25 000 000,00. \nA empresa considera 1 ano como o tempo de retorno do investimento máximo para projetos dessa \ngrandeza. Os custos operacionais de manutenção e de pessoal são desprezíveis, já que são absorvidos \npor outras unidades.\nAcerca do projeto apresentado, avalie as afirmações a seguir.\nI. O projeto é viável, segundo o critério estabelecido pela empresa.\nII. O ganho com a instalação do stripper será de R$ 1 610,00/h.\nIII. A despesa da empresa com o tratamento de efluente será reduzida em mais de 80%.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "37": [
+    {
+      "numero": 37,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1515,
+      "texto": "QUESTÃO 37 \nA atividade catalítica de enzimas envolve a ligação aos seus substratos para formar o complexo \nenzima-substrato. O substrato se liga a uma região específica da enzima, chamada sítio ativo. Quando ligado \nao sítio ativo, o substrato é convertido em produto da reação, o qual é, então, liberado da enzima. \nA reação catalisada por enzimas pode ser esquematizada da forma apresentada a seguir.\nSubstratos Enzima\nEstado de\ntransição\nSítio catalítico\n(ocupado) Sítio catalítico\n(vazio)\nProduto\nComplexo\nenzima-substrato\nCOOPER, G. M. The Cell: a molecular approach. 2. ed. (MA): Sinauer Associates, 2000 (adaptado).\n*R14202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Química 39\nCom base no modelo chave-fechadura, sabe-se que os centros ativos de uma enzima encaixam-se \nperfeitamente em seus substratos específicos. Nesse modelo, as enzimas reconhecem seus substratos \natravés da\nA energia de ativação.\nB temperatura e do pH do meio.\nC irreversibilidade da reação enzimática.\nD forma tridimensional das moléculas do substrato.\nE concentração de sais presentes na solução de substrato."
+    }
+  ],
+  "38": [
+    {
+      "numero": 38,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1952,
+      "texto": "QUESTÃO 38 \nA utilização de filtro de pedras no polimento de lagoas de estabilização vem sendo estudada e \napresentada em vários eventos da área ambiental. Em um estudo sobre o tratamento de dejetos suínos, \nvisando-se ao reuso do efluente na irrigação, foi verificada a influência de determinados parâmetros na \neficiência do filtro de pedras.\nEm relação ao pH e à temperatura, foram obtidos os dados de entrada do filtro de pedras (EFP) e de \nsaída do filtro de pedras (SFP), conforme mostram os gráficos de boxplot, apresentados a seguir.\n30\n28\n26\n24\n22\n20\n18\n16\n14 EFP SFP\n Temperatura (°C)\n9,1\n8,9\n8,7\n8,5\n8,3\n8,1\n7,9\n7,7\n7,5 EFP SFP\npH\nOLIVEIRA, J. L. R.; ARAUJO, I. S.; ALVES, R. G. C. M.; BELLI FILHO, P .; COSTA, R. H. R. Utilização de filtro de pedras no polimento \nde lagoas de estabilização para o tratamento de dejetos de suínos visando ao reuso do efluente na irrigação. \nIn: ANAIS DO 24o CONGRESSO BRASILEIRO DE ENGENHARIA SANITÁRIA E AMBIENTAL, ABES. \nBelo Horizonte (MG), 2007.\nCom base nos resultados apresentados nos gráficos, assinale a opção correta.\nA A eficiência do filtro de pedras sofre efeito significativo do pH.\nB 50% dos valores de pH na saída do filtro ficaram entre 8,2 e 8,6.\nC A eficiência do filtro de pedras não sofre efeito significativo da temperatura.\nD 25% das temperaturas medidas na entrada do filtro eram superiores a 19 °C.\nE O valor da mediana, na entrada e na saída do filtro, para o pH foi reduzido de 9,1 para 8,8.\n*R14202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
+    }
+  ]
+}

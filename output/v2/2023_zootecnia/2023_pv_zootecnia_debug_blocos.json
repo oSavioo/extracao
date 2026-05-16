@@ -1,0 +1,974 @@
+{
+  "1": [
+    {
+      "numero": 1,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2133,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2220233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Zootecnia\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 1,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 210,
+      "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
+    },
+    {
+      "numero": 1,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 4317,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2220232*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 3\nLOGO\n2 MATÉRIA\nQUESTÃO DISCURSIVA 01 \n Na publicação Síntese de Indicadores Sociais, divulgada pelo Insti tuto Brasileiro de Geografi a \ne Estatí sti ca (IBGE) em 2022, é sistemati zado um conjunto de informações sobre a realidade \nsocial brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspecti va das \ndesigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil \nregistraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% \nda população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os \nmaiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador \nque permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu \nvalor elevado e ati ngiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece \nentre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na \nexpansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades \nterritoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, \nmarcada pela estrati fi cação e segregação socioespacial, que se consolida a exclusão da população \nvulnerabilizada socioeconomicamente.\n Disponível em: htt ps://agenciadenoti cias.ibge.gov.br/agencia-noti cias/2012-agencia-de-noti cias/noti cias/\n35687-em-2021-pobreza-tem-aumento-recorde-e-ati nge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012. \nAcesso em: 9 jun. 2023 (adaptado).\n A parti r das ideias apresentadas no texto, faça o que se pede nos itens a seguir.\na) Explique a relação entre o perfi l da população brasileira ati ngida pelas desigualdades sociais nas \ncidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições \nhabitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam \nação governamental e parti cipação da comunidade. (valor: 5,0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nFORMAÇÃO GERAL\n*2* LOGO\nMATÉRIA 3"
+    }
+  ],
+  "2": [
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 142,
+      "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
+    }
+  ],
+  "3": [
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3045,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R2220234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 5\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3041,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R2220235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Zootecnia\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 236,
+      "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
+    }
+  ],
+  "4": [
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 309,
+      "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
+    }
+  ],
+  "5": [
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2526,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2220236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 7\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2526,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2220237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Zootecnia\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 352,
+      "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
+    }
+  ],
+  "6": [
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 131,
+      "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "7": [
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2007,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R2220239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Zootecnia\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2005,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R2220238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 9\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 199,
+      "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
+    }
+  ],
+  "8": [
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 138,
+      "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "9": [
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1810,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R22202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 11\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1386,
+      "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n*R22202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nMINISTÉRIO DA\nEDUCAÇÃO\n22\n*R22202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
+    },
+    {
+      "numero": 9,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3609,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R22202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Zootecnia\nQUESTÃO DISCURSIVA 02 \nA influenza aviária, também conhecida como gripe aviária, é considerada uma doença de alto risco \npara aves quando causada por subtipos de vírus altamente patogênicos. Até o momento, apenas os \nvírus com as hemaglutininas identificadas como H5 e H7 têm sido altamente patogênicos a galinhas \ne a algumas outras espécies de aves domésticas e de aves aquáticas. Em 22 de maio de 2023, \no Ministério da Agricultura e Pecuária declarou estado de emergência zoossanitária em todo o território \nnacional, por 180 dias, em função da detecção da infecção pelo vírus da influenza aviária H5N1 de alta \npatogenicidade (IAAP) em aves silvestres no Brasil.\nDisponível em: https://www.embrapa.br/suinos-e-aves/influenza-aviaria. Acesso em: 16 jun. 2023 (adaptado).\nConsiderando a importância da gripe aviária relatada no texto, faça o que se pede nos itens a seguir.\na) Cite quatro práticas de biosseguridade que visam à prevenção dessa doença em granjas comerciais. \n(valor: 4,0 pontos)\nb) Explique qual é a conduta imediata a ser tomada em caso de constatação de uma ave com suspeita \nda doença. (valor: 3,0 pontos)\nc) Aponte qual seria o principal prejuízo para a avicultura brasileira em caso de surto dessa doença em \ngranjas comerciais. (valor: 3,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*R22202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 13"
+    }
+  ],
+  "10": [
+    {
+      "numero": 10,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2081,
+      "texto": "QUESTÃO 10 \nO Brasil possui diversas raças de animais domésticos que se desenvolveram a partir de raças trazidas \npelos colonizadores na época do descobrimento. Ao longo dos séculos, essas raças vêm sendo \nsubmetidas à seleção natural nos ambientes em que vivem a ponto de apresentarem características \nespecíficas de adequação a tais condições. Contudo, muitas estão ameaçadas de extinção, pois, \nao longo dos séculos, foram substituídas por outras consideradas mais produtivas. Atualmente, \nno entanto, as primeiras raças denominadas \"naturalizadas\" vêm sendo consideradas verdadeiros \ntesouros genéticos.\nDisponível em: https://www.embrapa.br/cafe/busca-de-projetos/-/projeto/21890/conservacao-de-recursos-geneticos-\nanimais-ex-situ. Acesso em: 28 jun. 2023 (adaptado).\nConsiderando as informações expressas no texto, é correto afirmar que a inserção de raças \n\"naturalizadas\" na produção animal\nA melhora a genealogia das progênies atuais, quando utilizada em programas de seleção de rebanhos \nque vêm sendo submetidos a intenso processo de melhoramento genético.\nB favorece a expressão de características relacionadas à rusticidade e à adaptabilidade, as quais são \nimportantes para a otimização da produção animal.\nC produz maior progresso genético em cruzamentos, embora exija muitos insumos e alta tecnologia \npara que, de fato, tais ganhos sejam manifestados.\nD imprime baixa variabilidade genética em rebanhos melhorados, favorecendo futuros programas de \nmelhoramento genético.\nE gera aumento da endogamia, fato que pode favorecer rebanhos que passam por intenso processo \nde seleção artificial.\n*R22202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Zootecnia"
+    }
+  ],
+  "11": [
+    {
+      "numero": 11,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1512,
+      "texto": "QUESTÃO 11 \nO conhecimento das avaliações genéticas é necessário para a seleção de animais superiores, que \nserão utilizados nos rebanhos. Entre os parâmetros utilizados nessas avaliações, pode-se destacar a \ncapacidade prevista de transmissão (PTA).\nAcerca da PTA, avalie as afirmações a seguir.\nI. Se a PTA de um touro for de -400 kg de leite, as filhas desse animal produzirão 400 kg de leite a \nmenos que suas companheiras de rebanho.\nII. A PTA corresponde à metade do valor genético dos animais avaliados, visto que somente metade \ndo potencial genético é transmissível à sua progênie.\nIII. A PTA é uma medida de comparação entre touros de acordo com seu mérito genético, sendo \nmaior a confiabilidade da PTA quanto maior for o número de filhas avaliadas.\nIV. A PTA de um touro tende a mudar na medida em que mais filhas desse touro vão sendo \navaliadas, ou seja, quanto maior a PTA, maior a quantidade de filhas que um touro possui.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*R22202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 15"
+    }
+  ],
+  "12": [
+    {
+      "numero": 12,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1699,
+      "texto": "QUESTÃO 12 \nEm programas de melhoramento genético, a correta interpretação das estimativas dos parâmetros \ngenéticos das características de um animal auxilia a nortear os programas de seleção das raças, além de \nprojetar os ganhos genéticos a serem alcançados.\nA esse respeito, avalie as afirmações a seguir.\nI. A herdabilidade, medida que indica a proporção da variância genética em relação à variância \nfenotípica, varia de 0 a 1 e desempenha papel importante na predição dos valores genéticos.\nII. A repetibilidade, medida de relação entre registros repetidos (valores fenotípicos repetidos) \npara uma característica de uma população, estima a correlação média entre produções de um \nmesmo indivíduo.\nIII. A correlação genética, medida da intensidade de relação entre os valores genéticos de uma \ncaracterística com os valores genéticos de outra característica, é favorável quando positiva \ne desfavorável quando negativa ou próxima a zero.\nIV. Se a estimativa da correlação genética entre duas características de importância econômica for \nalta, a seleção praticada em uma delas poderá promover mudança genética na outra.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*R22202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Zootecnia"
+    }
+  ],
+  "13": [
+    {
+      "numero": 13,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1690,
+      "texto": "QUESTÃO 13 \nUm zootecnista foi consultado para elaborar o planejamento nutricional, durante o período da seca, para \num lote de 200 bovinos machos não castrados, criados a pasto. Os animais têm peso médio de 300 Kg, \napresentam ganho médio diário de 0,500 Kg, realizam consumo de matéria seca de 2% do peso corporal \ne têm exigência de proteína bruta (PB) de 0,580 Kg ao dia. Esses animais serão manejados em pastagem \ncom 6% de PB na matéria seca e, se necessário, serão suplementados com sal proteico energético \ncontendo 50% de PB.\nCom base nessa situação, considerando o planejamento nutricional por animal, assinale a opção correta.\nA A pastagem fornece toda a exigência de PB, não sendo necessário realizar a suplementação.\nB A pastagem fornece 0,240 Kg de PB, sendo necessário realizar a suplementação com 0,2% do peso \ncorporal ao dia.\nC A pastagem fornece 0,360 Kg de PB, sendo necessário realizar a suplementação com 0,2% do peso \ncorporal ao dia.\nD A pastagem fornece 0,240 Kg de PB, sendo necessário realizar a suplementação com 0,680 Kg de sal \nproteico energético por dia.\nE A pastagem fornece 0,360 Kg de PB, sendo necessário realizar a suplementação com 0,440 Kg de sal \nproteico energético por dia.\n*R22202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 17"
+    }
+  ],
+  "14": [
+    {
+      "numero": 14,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2053,
+      "texto": "QUESTÃO 14 \nAs matrizes de corte, quando alimentadas ad libitum, tendem a consumir mais ração do que o previsto \npara as necessidades energéticas de produção e mantença. O excesso no consumo de energia é \npredominantemente armazenado como gordura, o que resulta gradualmente em incremento do peso \ncorporal e redução da fertilidade, eclodibilidade e produção de ovos.\nSAKOMURA, N. K.; SANTOS, A. L.; FREITAS, E. R.; RABELLO, C. B. Programas de alimentação para matrizes \npesadas após o pico de postura, com base em modelos para predizer a exigência energética. \n Revista Brasileira de Zootecnia, v. 33, n. 5, p.1197-1208, 2004 (adaptado).\nConsiderando o texto apresentado, avalie as afirmações a seguir, relativas ao manejo alimentar aplicado \nas aves durante a fase de recria.\nI. A fim de se evitar o incremento de peso corporal, pode ser empregado o método de restrição \nalimentar 5/2, ou seja, as aves consomem em dois dias o equivalente ao consumo da semana toda.\nII. O método da restrição diária, em que as aves consomem quantidade limitada de ração \ndiariamente, é eficiente para evitar o incremento do peso corporal dos animais.\nIII. A limitação do tempo de ingestão de ração é um método ineficaz, uma vez que as aves se \ncondicionam a comer cada vez mais ração em menor espaço de tempo.\nIV. O método de restrição alimentar qualitativo é contraindicado, visto que, para compensarem a \ndeficiência da ração, as aves aumentam o consumo, o que torna essa prática ineficiente.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R22202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Zootecnia"
+    }
+  ],
+  "15": [
+    {
+      "numero": 15,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2225,
+      "texto": "QUESTÃO 15 \nA produção média das matrizes suínas, nos últimos anos, aumentou de forma expressiva devido \na melhorias na nutrição e manejo dos animais e, principalmente, devido aos avanços genéticos \nrelacionados ao tamanho da leitegada, levando a um maior número de leitões nascidos. Contudo, \nesse progresso trouxe desafios, como os de adequar os leitões ao número de tetas disponíveis nas \nmatrizes, garantir o peso mínimo ao desmame e reduzir os índices de mortalidade e de leitões refugos. \nPara maximizar a quantidade de leitões viáveis, o uso do manejo de “mãe de leite” tem sido aplicado, \npermitindo o desmame de uma leitegada adicional à matriz após o desmame de sua própria leitegada.\nBRUNN, T. S.; AMDI, C.; VINTHER, J.; SCHOP , M.; STRATHE, A. B.; HANSEN, C. F. Reproductive performance of “nurse sows” \nin Danish piggeries. Theriogenology, v. 86, n. 4, p. 981-87, 2016 (adaptado).\nAcerca do tema apresentado, avalie as afirmações a seguir.\nI. As “mães de leite” devem ficar com os animais oriundos de outras leitegadas que possuam \nleitões leves ou em grande quantidade.\nII. A vantagem do manejo da “mãe de leite” é a oportunidade de desmamar duas leitegadas por \nmatriz e, consequentemente, mais leitões em cada lactação.\nIII. As matrizes que desmamam uma leitegada adicional na mesma lactação são submetidas à \nlactação prolongada e, consequentemente, à possível perda da condição corporal e de maior \nintervalo entre o desmame e o cio.\nIV. A escolha de “mães de leite” é realizada por meio da busca de matrizes de menor leitegada \ne menor condição corporal em relação ao grupo contemporâneo, a fim de se otimizar o \ndesempenho do lote.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD I, II e III.\nE II, III e IV.\n*R22202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 19"
+    }
+  ],
+  "16": [
+    {
+      "numero": 16,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2205,
+      "texto": "QUESTÃO 16 \nDiversos sistemas de criação de cordeiros têm sido propostos e nota-se tendência à divulgação de \ntecnologias com uso de concentrados, o que se aplicaria a ovinocultores com nível mais alto de \ngerenciamento e investimento. Entretanto, o que se verifica, geralmente, é a utilização de pastagens \ncom baixo nível tecnológico, subestimando-se essa fonte de nutrientes e favorecendo-se a ocorrência \nde infecções parasitárias.\nPOLI, C. H. E. C.; MONTEIRO, A. L. G.; BARROS, C. S.; MORAES, A.; FERNANDES, M. A. M.; PIAZZETTA, H. V. L. \nProdução de ovinos de corte em quatro sistemas de produção. \nRevista Brasileira de Zootecnia, v. 37, n. 4, 2008 (adaptado).\nSobre a produção de ovinos em pastagens, avalie as asserções a seguir e a relação proposta entre elas.\nI. O ganho de peso por animal e por área, em sistemas de produção de cordeiros em pastagens, é \nfortemente influenciado pela disponibilidade diária de matéria seca, pela capacidade de lotação \ndos pastos, pela qualidade da forragem e pelo consumo animal.\nPORQUE\nII. A terminação de cordeiros, quando realizada em pastagens e sem suplementação, deve ocorrer \nem um pasto que proporcione oferta de forragem para seleção de dieta constituída sobretudo \npor folhas, para que haja alto desempenho e reduzida idade de abate.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R22202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Zootecnia"
+    }
+  ],
+  "17": [
+    {
+      "numero": 17,
+      "score": 125,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 758,
+      "texto": "QUESTÃO 17 \nJuntamente com a genética e o ambiente, a nutrição é responsável por garantir boa produção de leite. \nA nutrição inadequada é um dos fatores que impedem que o animal expresse seu potencial produtivo, \nalém de causar impactos negativos em sua saúde. A nutrição equilibrada deve conter níveis adequados \nde proteína, energia e fibras de boa digestibilidade, além de minerais e vitaminas.\nDisponível em: www.prodap.com.br. Acesso em: 28 jun. 2023 (adaptado).\nConsiderando a influência da nutrição sobre a fisiologia da lactação, é correto afirmar que o maior \nfornecimento de proteínas degradáveis no rúmen e a redução na quantidade de concentrado de grãos \nvisa aumentar, no leite, o teor de\nA gordura.\nB caseína.\nC glicose.\nD proteína.\nE minerais."
+    }
+  ],
+  "18": [
+    {
+      "numero": 18,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1774,
+      "texto": "QUESTÃO 18 \nNo manejo de vacas leiteiras, o período de transição ganhou destaque nos últimos tempos ao se \ndemonstrar que é nessa fase que ocorre a maioria dos problemas metabólicos e infecciosos nos \nrebanhos, e que a saúde do animal nesse período influencia significativamente a lactação que se segue. \nSão várias as mudanças pelas quais os animais devem passar e se adaptar para que possam se manter \nsaudáveis e produtivos.\nCom relação a esse contexto, avalie as afirmações a seguir.\nI. As vacas, no período de transição e, sobretudo, na semana que antecede o parto, apresentam \nqueda no consumo voluntário, justamente quando sua necessidade de nutrientes é crescente.\nII. O balanço energético negativo severo no pré-parto aumenta a mobilização de reservas de \ngordura, causando excessivo fluxo de ácidos graxos não esterificados para o fígado, o que pode \nlevar ao aparecimento do distúrbio metabólico conhecido por hipocalcemia ou febre do leite.\nIII. O excesso de corpos cetônicos no sangue é patológico e responsável pelo quadro de acidose, que \né um importante mecanismo de adaptação metabólica no início da lactação, uma vez que eles \nservem como precursores da gordura do leite.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R22202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 21"
+    }
+  ],
+  "19": [
+    {
+      "numero": 19,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1460,
+      "texto": "QUESTÃO 19 \nO conhecimento da composição bromatológica dos alimentos é relevante para a formulação das dietas, \na fim de se atender as exigências nutricionais dos animais de acordo com sua espécie, categoria e \ncondição fisiológica.\nConsiderando o tema tratado no texto, avalie as afirmações a seguir.\nI. A determinação da proteína bruta dos alimentos mantém relação direta com a concentração de \nnitrogênio da amostra.\nII. A desvantagem da análise de fibra bruta nos alimentos é que parte dos componentes da parede \ncelular (hemicelulose e lignina) é solubilizada durante o processo.\nIII. A lignina é um componente da parede celular que limita a digestibilidade de carboidratos dos \nalimentos para os herbívoros.\nIV. A análise de extrato etéreo utiliza solventes orgânicos, como éter de petróleo e éter etílico, que \nsolubilizam apenas a fração lipídica presente nos alimentos e dietas.\nÉ correto apenas o que se afirma em\nA II.\nB I e IV.\nC I, II e III.\nD I, III e IV.\nE II, III e IV.\n*R22202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Zootecnia"
+    }
+  ],
+  "20": [
+    {
+      "numero": 20,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2260,
+      "texto": "QUESTÃO 20 \nAs agroindústrias brasileiras têm utilizado a bonificação como estratégia de remuneração de \ncarcaças suínas a fim de adequar-se à demanda do mercado consumidor por mais carne e menos \ngordura. As seguintes equações de bonificação (1) e de rendimento de carne (2) são utilizadas \npara este fim.\n(1) BONIFICAÇÃO = 23,6 + (0,286 x PCARQ) + PCMF;\n(2) PCMF (%) = 65,92 - [(0,685 x ET) + (0,094 x PM) - (0,026 x PCARF)];\nem que: PCARQ = peso de carcaça quente (Kg); PCMF = porcentagem de carne magra estimada na \ncarcaça fria (%); ET = espessura de toucinho (mm); PM = profundidade de músculo (mm); PCARF = peso \nde carcaça fria (Kg)\nGUIDONI, A. L. Melhoria de Processos para a tipificação e valorização de carcaças suínas no Brasil. In: Conferência \nInternacional Virtual Sobre a Qualidade de Carne Suína, 2000. Concórdia: EMBRAPA -CNSA, 2000. p. 221- 234.\nNesse contexto, ao considerar as estratégias de produção de suínos, a classificação e remuneração de \ncarcaças e sua relação com o mercado consumidor, avalie as afirmações a seguir.\nI. As carcaças com maior peso e com maior porcentagem de carne serão mais bonificadas.\nII. O peso de carcaça tem maior importância que a porcentagem de carne magra para gerar o índice \nde bonificação.\nIII. Os sistemas que produzem suínos com menor teor de gordura na carcaça serão prejudicados \npelo índice bonificação.\nIV. A bonificação é um fator percentual e deve ser aplicado à equação de pagamento, podendo \npenalizar, premiar ou não alterar o valor final da carcaça.\nV. O percentual de carne magra pode ser estimado por meio de pistolas eletrônicas que mensuram \na profundidade muscular e a espessura de toucinho na carcaça.\nÉ correto apenas o que se afirma em\nA I, II e III.\nB I, III e IV.\nC I, IV e V.\nD II, III e V.\nE II, IV e V.\n*R22202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 23"
+    }
+  ],
+  "21": [
+    {
+      "numero": 21,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1383,
+      "texto": "QUESTÃO 21 \nEm um dia de campo sobre conservação de forragem, o zootecnista palestrante foi questionado sobre \no momento ideal para a colheita do milho para ensilar. Ele esclareceu que o milho para silagem deve \nser colhido quando apresentar entre 30% e 35% de matéria seca. Também esclareceu sobre outras \nmetodologias que podem ser utilizadas para a ensilagem.\nAcerca do momento ideal para a ensilagem do milho, avalie as afirmações a seguir.\nI. As quantidades de grãos e de espigas devem ser consideradas para se determinar o momento de \ncolheita para ensilagem.\nII. O momento de corte da lavoura pode ser determinado verificando-se o ponto leitoso/farináceo \ndo grão de milho.\nIII. O tamanho da partícula a ser ensilada deve ser considerado para se determinar o momento da \ncolheita da lavoura.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*R22202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Zootecnia"
+    }
+  ],
+  "22": [
+    {
+      "numero": 22,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1644,
+      "texto": "QUESTÃO 22 \nNos sistemas de produção de ovos, para se alcançar a qualidade do produto, deve-se atentar não só \npara o manejo alimentar e nutricional, mas também para a ambiência e, consequentemente, o conforto \ntérmico das aves.\nA respeito da produção de ovos para fins comerciais, avalie as afirmações a seguir.\nI. As aves de postura, quando expostas a estresse térmico por calor, podem produzir ovos com \ncasca fina ou sem casca.\nII. As aves de postura, quando submetidas a estresse térmico por calor, necessitam de maior \nquantidade de cálcio na ração, a fim de se garantir a qualidade da casca do ovo.\nIII. As aves de postura, após aumentarem a frequência respiratória em razão do estresse térmico \npor calor, desenvolvem acidose metabólica, problema que afeta diretamente a formação e a \nqualidade da casca do ovo.\nIV. As aves de postura, ao aumentarem o número de respirações por minuto, para resfriamento \ne dissipação de calor, diminuem a quantidade de CO 2 e a concentração de íons de hidrogênio \nsanguíneo, o que afeta a formação e a qualidade da casca do ovo.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*R22202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 25"
+    }
+  ],
+  "23": [
+    {
+      "numero": 23,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2122,
+      "texto": "QUESTÃO 23 \nUm apiário fixo é caracterizado pela permanência das colmeias durante todo o ano em um local \npreviamente escolhido, onde as abelhas possam explorar as fontes florais disponíveis em seu raio \nde ação. O emprego de técnicas de manejo racionais, como a fumigação, promove segurança ao \ntrabalho do apicultor, sendo essencial para o sucesso da atividade apícola.\nSobre esse tema, avalie as afirmações a seguir.\nI. A fonte de alimento deve estar o mais próximo possível da colmeia, para tornar o transporte \nmais rápido e, assim, possibilitar que as abelhas realizem maior número de viagens, o que \ncontribui para o aumento da produção de mel.\nII. A proteção contra ventos fortes é fundamental para se melhorar a produtividade de um apiário, \npois regiões descampadas, afetadas pela ação do vento, dificultam o voo das abelhas, causando \ndesgaste energético adicional para as operárias.\nIII. O apicultor deve procurar instalar seu apiário em área sombreada e úmida, de forma a evitar \nos efeitos nocivos das altas temperaturas na qualidade do mel e propiciar o desenvolvimento \nnormal das crias.\nIV. A utilização, no fumigador, de material que possa contaminar o mel ou que apresente forte odor \né contraindicada, sendo preferível o uso de resíduos de origem vegetal, como a maravalha ou a \nserragem de madeira não tratada.\nV. A fumaça do fumigador deve ser direcionada inteiramente para os favos, a fim de se promover a \nsaída das abelhas, possibilitando a coleta do mel de boa qualidade e a manutenção da segurança \ndo apicultor.\nÉ correto apenas o que se afirma em\nA I, II e III.\nB I, II e IV.\nC I, III e V.\nD II, IV e V.\nE III, IV e V.\n*R22202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Zootecnia"
+    }
+  ],
+  "24": [
+    {
+      "numero": 24,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1219,
+      "texto": "QUESTÃO 24 \nO uso de baias coletivas por fêmeas suínas em gestação tem sido sugerido como alternativa à gaiola \nindividual, tradicionalmente utilizada na suinocultura. No entanto, esse sistema precisa ser bem \nmanejado para evitar problemas e comprometimento no bem-estar desses animais.\nSobre esse tema, avalie as afirmações a seguir.\nI. Os lotes devem ser formados, preferencialmente, por grupos com no máximo cinco indivíduos, \npois os suínos interagem melhor nessa caracterização coletiva.\nII. A área coletiva deve ser totalmente livre, sem barreiras físicas, para se permitir ampla interação \nentre os indivíduos e maiores áreas de caminhada para as fêmeas.\nIII. O alojamento coletivo dos animais pode gerar brigas decorrentes das disputas hierárquicas \nnos grupos recém-formados ou da introdução de novos indivíduos, o que representa uma \ndesvantagem para o bem-estar dos animais.\nIV. O agrupamento de fêmeas cobertas durante a mesma semana, definido como agrupamento \núnico, ou seja, sem introdução de outros animais ao longo da gestação, é uma opção de manejo \npara evitar brigas entre indivíduos do mesmo grupo.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV."
+    }
+  ],
+  "25": [
+    {
+      "numero": 25,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1349,
+      "texto": "QUESTÃO 25 \nO solo dos viveiros de piscicultura tem influência na produtividade por estar em contato direto com \na água, interferindo diretamente na concentração de nutrientes, no pH, nos sólidos em suspensão e \nem inúmeras outras propriedades que são importantes para a boa produção aquícola. Portanto, \né necessária a adoção de boas práticas de manejo, a fim de se garantir não só a credibilidade da \natividade, mas também a utilização sustentável dos recursos hídricos pela aquicultura.\nNesse contexto, a aplicação de calcário no solo dos viveiros de piscicultura é uma prática \nrecomendada para\nA diminuir a alcalinidade e dureza da água.\nB aumentar a fertilização do solo e da água.\nC aumentar a retenção de fósforo no sedimento.\nD diminuir a turbidez e a quantidade de sólidos suspensos na água.\nE diminuir a quantidade de gás carbônico disponível para a fotossíntese.\n*R22202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 27"
+    }
+  ],
+  "26": [
+    {
+      "numero": 26,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1856,
+      "texto": "QUESTÃO 26 \nA intensificação dos sistemas de terminação de bovinos em confinamento contempla dietas com ausência \nde fontes de fibra longa e se caracteriza pela grande praticidade em fornecer aos animais confinados \nsomente dois ingredientes: milho grão inteiro e pellet concentrado proteico-vitamínico-mineral, \nna proporção de 85% de milho inteiro e 15% de pellet concentrado. Esse tipo de dieta deve ser \nimplementado de forma gradual, a fim de se evitar problemas relacionados ao metabolismo ruminal.\nPAULINO, P . V. R. et al. Dietas em Forragem para Terminação de Animais Ruminantes. \n Revista Científica de Produção Animal, v. 15, n. 2, p.161-72, 2013 (adaptado).\nConsiderando o metabolismo ruminal, avalie as afirmações a seguir.\nI. A oxidação do piruvato a acetato e butirato produz NADH e liberação de H2.\nII. O gás H2 disponível no fluido ruminal é utilizado para a redução do dióxido de carbono a metano, \no que resulta na produção de ATP .\nIII. O piruvato é intermediário do catabolismo dos carboidratos, podendo ser utilizado em diversas \nrotas metabólicas até a formação dos ácidos graxos de cadeia curta.\nIV. As maiores concentrações molares de acetato, em dietas com grandes proporções de \ncarboidratos fermentescíveis, como o amido, produzem NADH e liberação de H2.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD I, II e III.\nE II, III e IV.\n*R22202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Zootecnia"
+    }
+  ],
+  "27": [
+    {
+      "numero": 27,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2436,
+      "texto": "QUESTÃO 27 \nUm Zootecnista foi contratado para implantar uma pastagem irrigada com Megathrysus maximus cv BRS Zuri, \nespécie forrageira classificada como exigente quanto à fertilidade do solo. Para tanto, ele dispunha dos dados \napresentados nas Tabelas 1, 2 e 3 a seguir.\nTabela 1. Análise de solo.\npH P K CTC V Argila Silte Areia\nH2O mg/dm3 cmol/dm3 % g/kg\n5,1 2,5 11,0 4,72 25,6 257 34 709\npH em água, fósforo (P), potássio (K), CTC em pH 7,0, saturação de bases (V). P e K - extrator Mehlich 1.\nTabela 2. Análise do teor de fósforo no solo e recomendação de adubação de plantio, \n utilizando o método de extração Mehlich 1.\nTeor de argila no solo\nNível de fósforo no solo\nMuito Baixo Baixo Médio Adequado\n% Teor de fósforo no solo - mg/dm3\n≤15 0 a 4,0 4,1 a 7,0 7,1 a 11,0 > 11,0\n16 a 35 0 a 3,0 3,1 a 6,0 6,1 a 9,0 > 9,0\n36 a 60 0 a 1,5 1,6 a 2,5 3,6 a 5,0 > 5,0\n> 60 0 a 1,0 1,1 a 2,0 2,1 a 2,5 > 2,5\nTeor de argila no solo\nInterpretação da análise de solo\nMuito Baixo Baixo Médio Adequado\n% kg/ha de P2O5 que deverá aplicar no solo\n≤15 50 25 15 0\n16 a 35 70 35 20 0\n36 a 60 100 50 25 0\n> 60 140 70 35 0\nTabela 3. Análise da quantidade de potássio para o plantio de pastagem consorciada e \nsolteira em decorrência do teor de K e CTC do solo.\nTeor de K no solo – Análise de solo Doses de potássio a serem aplicadas no solo\nCTC – cmolc/dm3\nPastagem consorciada Pastagem solteira\n< 4 > 4\nmg/dm3 kg de K2O/ha\n< 15 < 25 60 50\n15 a 40 25 a 50 40 30\n> 40 > 50 30 0\nMARTHA JR, G. B.; VILELA, L.; SOUSA, D. M. G. Cerrado: uso eficiente de corretivos e fertilizantes em pastagens. Planaltina (DF): \nEmbrapa Cerrados, 2007. Disponível em: ainfo.cnptia.embrapa.br. Acesso em: 28 jun. 2023 (adaptado).\n*R22202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 29\nSabendo que, no plantio, se optou por não realizar a adubação com ureia, para evitar perdas de \nnitrogênio (N) por volatilização, recomenda-se, para esse solo, a adubação com N-P-K de\nA 0-70-50 kg/ha.\nB 0-70-0 kg/ha.\nC 0-50-30 kg/ha.\nD 0-35-50 kg/ha.\nE 0-0-50 kg/ha."
+    }
+  ],
+  "28": [
+    {
+      "numero": 28,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1923,
+      "texto": "QUESTÃO 28 \nA qualidade da carne bovina é definida de acordo com suas propriedades físico-químicas (maciez, \nsabor, cor, odor e suculência), sendo essas propriedades determinadas por muitos fatores inerentes ao \nindivíduo (genética, idade, sexo), ao clima (radiação solar, temperatura, umidade), ao manejo alimentar, \nmanejo pré-abate, abate e pós-abate, que atuam de forma independente, ou não, na transformação do \nmúsculo em carne, o que resulta na qualidade final do produto.\nDisponível em: http://www.fecilcam.br/anais/vii_eepa/. Acesso em: 23 jun. 2023 (adaptado).\nConsiderando as informações apresentadas no texto, avalie as afirmações a seguir.\nI. A variável pH, de extrema importância na transformação do músculo em carne, está associada à \nconcentração de glicogênio.\nII. O sistema enzimático calpaína/calpastatina é responsável pela degradação das proteínas \nmiofibrilares, processo relacionado à maciez da carne.\nIII. O manejo pré-abate é importante na transformação do músculo em carne, uma vez que a \nliberação de adrenalina e de glucagon promove a retenção de glicogênio, necessário para a \nformação de ácido lático post mortem.\nIV. A carne de cor escura, textura firme e com grande capacidade de retenção de água é \nconsequência de pH acima do ideal, pelo uso antecipado do glicogênio muscular e pela redução \nda formação de lactato.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R22202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Zootecnia"
+    }
+  ],
+  "29": [
+    {
+      "numero": 29,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1660,
+      "texto": "QUESTÃO 29 \nOs cavalos são herbívoros não ruminantes adaptados para comer dietas à base de fibras vegetais em \ncontínuas e pequenas porções de alimento entre 10 e 15 horas por dia. Historicamente, o fornecimento \napenas de forragens não é suficiente para suprir as demandas energéticas desses animais, especialmente \nos de alto desempenho. Um aumento na ingestão de amido, muitas vezes em combinação com uma \nredução na quantidade de forragem fornecida, pode comprometer a saúde, o bem-estar e o desempenho \ndesses animais.\nHARRIS, P . A. et al. Review: Feeding conserved forage to horses: recent advances and recommendations. \n Animal, v. 11, n. 6, p. 958–967, 2017 (adaptado).\nA respeito da alimentação e da nutrição dos equinos, assinale a opção correta.\nA A utilização da monensina em dietas com alta concentração de amido é indicada para evitar a \nocorrência de acidose lática, de cólicas e de laminite nos equinos.\nB Os principais substratos utilizados como fonte de energia para equinos, sobretudo para cavalos \natletas, são as proteínas e, em menor grau, os carboidratos e as gorduras.\nC O fornecimento de altas porcentagens de grãos na dieta de equinos aumenta a eficiência de \nutilização da fibra, pois modula a microbiota fibrolítica do ceco e do cólon dos cavalos.\nD O uso de óleo em substituição ao carboidrato em dietas de equinos ocasiona aumento do \nincremento calórico durante a prática de exercício, com consequente elevação do estresse térmico.\nE Os lipídeos têm reconhecido valor como fonte de energia, pois elevam a densidade energética da \ndieta de equinos e diminuem os transtornos gastrintestinais frequentemente produzidos pelos grãos."
+    }
+  ],
+  "30": [
+    {
+      "numero": 30,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2219,
+      "texto": "QUESTÃO 30 \nA seleção de gado de corte, atualmente, está equipada com um amplo ferramental. Modelos \nmatemático-estatísticos avançados trabalham com bases de dados que permitem conhecer, com \nrelativa precisão, o valor genético do indivíduo para determinadas características, desde que elas sejam \nmedidas e modeladas adequadamente. Entretanto, nem todas as características podem ser medidas \ncom essas ferramentas, seja por apresentarem uma relação custo-benefício desfavorável, seja pela \nsimples falta de um instrumento que realize essas medições.\nPor essas razões, as avaliações visuais ainda são consideradas importantes instrumentos \ncomplementares de seleção, até porque, durante muito tempo, essa foi a única ferramenta disponível \npara a humanidade. Utilizado desde o início do processo de domesticação dos animais, o olho humano \né a mais antiga ferramenta de seleção de bovinos e, para algumas características morfológicas, a mais \nrecomendada forma de avaliação desses animais.\nJOSAHKIAN, L. A. Avaliação Zootécnica e Funcional em Gado de Corte. In: ROSA, A. N. et al. Melhoramento genético aplicado \nem gado de corte. Programa Geneplus-Embrapa. Brasília, DF: Embrapa, 2013 (adaptado).\nNesse contexto, entre as características morfológicas avaliadas visualmente para a obtenção de bovinos \nde corte com biotipos adequados, incluem-se\nA a largura entre os ísquios, a largura entre os íleos e o tamanho de perna.\nB o frame, a musculatura, o comprimento de corpo e a circunferência escrotal.\nC a estrutura, a conformação, a precocidade de acabamento e a musculatura.\nD a circunferência torácica, a circunferência escrotal e o comprimento de corpo.\nE a inclinação da garupa, a circunferência torácica, o umbigo e o comprimento do corpo.\n*R22202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 31"
+    }
+  ],
+  "31": [
+    {
+      "numero": 31,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2056,
+      "texto": "QUESTÃO 31 \nNo mercado de alimentação animal existem diferentes tipos de rações para as espécies domésticas, \nfabricadas a partir de diferentes formas de processamento, sendo as rações fareladas, peletizadas e \nextrusadas as mais usuais. Cada tipo de processamento difere em suas etapas e oferece vantagens e \ndesvantagens, dependendo da espécie animal a qual a ração se destina.\nCRUZ, F. G. G.; RUFINO, J. P . F. Formulação e fabricação de rações. Manaus: EDUA, 2017 (adaptado).\nConsiderando as informações apresentadas e os diferentes tipos de processamento de rações, avalie as \nafirmações a seguir.\nI. As rações fareladas são preparadas por meio de moagem de grãos e são misturadas, de forma \nhomogênea, a outras matérias-primas sem utilizar nenhum processo de umidificação.\nII. As rações peletizadas apresentam as seguintes vantagens em relação às fareladas: redução de \nagentes de contaminação microbiana, melhoria da eficiência alimentar e redução da escolha \nseletiva por parte dos animais.\nIII. As rações extrusadas são submetidas a um processo de cozimento em alta temperatura, pressão \ne umidade, o que melhora sua digestibilidade; no entanto, devido ao alto custo de produção, \nessas rações se limitam à alimentação de peixes, cães e gatos.\nIV. As rações extrusadas apresentam, na piscicultura, alta estabilidade na água, excelente \nflutuabilidade, baixa possibilidade de perdas de nutrientes, excelente aceitabilidade pelos peixes \ne baixo impacto na qualidade da água.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R22202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Zootecnia"
+    }
+  ],
+  "32": [
+    {
+      "numero": 32,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2406,
+      "texto": "QUESTÃO 32 \nQuando se fala de sistemas de produção em piscicultura, é importante salientar que cada sistema \nserá mais adequado para diferentes situações. Por isso, deve-se ter em mente os objetivos do \nempreendimento, o mercado a ser atingido, a espécie de cultivo, a disponibilidade de água e de energia \nelétrica, a área disponível, o custo dessa área, as características climáticas da região e os aspectos legais \ne socioculturais.\nCREPALDI, D. V. et al. Sistemas de produção na piscicultura. Rev. Bras. Reprod. Anim., \nv. 30, n. 3/4, p.86-99, jul./dez. 2006 (adaptado).\nA partir dessas informações, em relação à piscicultura e a seu manejo, assinale a opção correta.\nA Os sistemas de cultivo em viveiros precisam ser fertilizados com o objetivo de aumentar a produção natural \nde alimentos e de compor os alimentos oferecidos aos peixes, devendo-se optar, preferencialmente, \npela adubação orgânica.\nB A recirculação é a forma de cultivo em que a água, após passar pelos tanques de produção, segue \npara tratamento em filtros mecânicos e biológicos, retornando ao sistema por bombeamento, na \nqual não existe entrada de água nova.\nC Os peixes produzidos em tanques-rede ficam confinados em estruturas flutuantes, o que permite \na elevação da densidade de criação sem alterar a qualidade da água em seu interior, diminuindo a \nmortalidade desses animais e a incidência de doenças no recinto.\nD Os viveiros são áreas escavadas, obrigatoriamente revestidas, utilizadas de forma semi-intensiva \ne extensiva, que possuem variado grau de tecnificação, nas quais são utilizados equipamentos de \nsuporte e de aspectos construtivos, como caixas de despesca e monges.\nE Os sistemas abertos são aqueles em que o meio é utilizado como local de cultivo, sem a necessidade \nde bombeamento de água; já nos semi-fechados, a água é direcionada de uma fonte até um local de \nprodução, sendo parte dessa água recirculada por meio de bombeamento.\n*R22202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 33"
+    }
+  ],
+  "33": [
+    {
+      "numero": 33,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2539,
+      "texto": "QUESTÃO 33 \nO desenvolvimento sustentável é assunto discutido mundialmente e também de grande relevância \nno Brasil no que diz respeito, principalmente, à produção agropecuária, rotulada muitas vezes como \nextrativista. Entretanto, de acordo com o documento elaborado pela Embrapa \"Visão 2023: o futuro da \nagricultura brasileira\", dados e números comprovam que os produtores rurais brasileiros, juntamente com \nas empresas e indústrias, têm, nos últimos anos, adotado diversas ferramentas e tecnologias para reduzir \no impacto e os danos ambientais. Segundo dados do Ministério da Agricultura e Pecuária, em 40 anos, por \nexemplo, enquanto a área ocupada pela agricultura aumentou 33%, a produção cresceu em torno de 386%, \nisso graças à adoção de inovações associadas à sustentabilidade.\nDisponível em: https://www.embrapa.br/busca-de-noticias/-/noticia/65714422/estudo-aponta-2828-milhoes-de-hectares-\nem-areas-destinadas-a-preservacao-da-vegetacao-nativa-no-mundo-rural. Acesso em: 18 jun. 2023 (adaptado).\nNesse contexto, avalie as afirmações a seguir.\nI. A implantação dos sistemas de integração lavoura-pecuária (ILP) e de lavoura-pecuária-floresta (IFLP) \né uma das soluções que auxilia na redução das emissões de gases de efeito estufa na pecuária.\nII. A integração lavoura-pecuária-floresta é um sistema de produção fundamentado no conceito da \nsustentabilidade, no entanto, costuma acarretar aumento do consumo de água, tendo em vista a \ninclusão da floresta no sistema produtivo.\nIII. A pecuária regenerativa, que preza por sistemas produtivos equilibrados, com foco na \ndiversificação da produção por meio do respeito aos ciclos naturais da sucessão vegetal, é uma \ndas tecnologias da pecuária aliada ao desenvolvimento sustentável.\nIV. A zootecnia busca trabalhar a partir do conceito de pecuária sustentável, por meio do \ndesenvolvimento de técnicas que possibilitam a produção de alimentos, equilibrando os \nprocessos naturais com a produção animal.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*R22202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Zootecnia"
+    }
+  ],
+  "34": [
+    {
+      "numero": 34,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2226,
+      "texto": "QUESTÃO 34 \nExiste uma deficiência na área de estudos em nutrição e em manejo de animais silvestres, uma vez \nque as pesquisas sempre estiveram mais concentradas em animais domésticos, buscando a melhoria e \neficiência da produção. No entanto, com as mudanças nas necessidades de mercado, algumas pesquisas \ntêm se voltado para as espécies silvestres com interesse zootécnico.\nLIMA, F. C. S.; MENEZES, B. B. Princípios de alimentação, nutrição e fatores interferentes no consumo de dietas em animais \nsilvestres cativos. Anais da IX Mostra Científica Famez, UFMS, Campo Grande, 2018 (adaptado).\nSobre o manejo e a nutrição de animais silvestres, avalie as afirmações a seguir.\nI. Por apresentarem hábitos alimentares e exigências nutricionais semelhantes, recomenda-se \nutilizar o manejo alimentar das aves comerciais de produção para as aves silvestres, como os \npsitacídeos e os rapinantes.\nII. Para minimizar o estresse dos animais silvestres mantidos em cativeiro, uma alternativa é a \nutilização de elementos de enriquecimento ambiental, como cupinzeiros, troncos de árvore, \ncordas suspensas, entre outros.\nIII. Nos centros de manutenção de animais silvestres, os animais costumam chegar com um \nalto nível de estresse; nesses casos, o consumo de alimento sólido é o fator mais importante, \ndevendo ser oferecida ração nas primeiras duas horas após o recebimento dos animais, a fim de \ngarantir a ingestão de energia.\nIV. Os fatores que devem ser levados em consideração para tornar a dieta o mais próximo do ideal \npara o animal silvestre são a palatabilidade, a digestibilidade, a segurança microbiológica e o \natendimento das exigências nutricionais.\nÉ correto o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*R22202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 35"
+    }
+  ],
+  "35": [
+    {
+      "numero": 35,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2158,
+      "texto": "QUESTÃO 35 \nA aplicação da zootecnia de precisão vem sendo viabilizada na suinocultura, especialmente por meio \nda adoção do sistema eletrônico de alimentação aplicado às matrizes suínas em gestação. A partir da \nidentificação eletrônica de cada animal, é possível fornecer a quantidade de ração específica por meio \nde equipamentos de alimentação automatizados. Logo, o atendimento das necessidades nutricionais e a \nredução da mão de obra e do desperdício de alimento são pontos fortes dessa tecnologia.\nGAILLARD, C.; DURAND, M.; LARGOUET, C.; DOURMAD, J.; TALLET, C. Effects of the environment and animal behavior on \nnutrient requirements for gestating sows: Future improvements in precision feeding. \n Animal Feed Science and Technology, 2021 (adaptado).\nAcerca das características do sistema eletrônico de alimentação, avalie as afirmações a seguir.\nI. A identificação eletrônica dos animais não permite o agrupamento de matrizes de diferentes \nordens de parto.\nII. A aplicação de microchip em cada matriz é necessária para que seja possível realizar a \nidentificação eletrônica dos animais.\nIII. A identificação eletrônica permite fácil acesso dos animais aos comedouros e reduz a competição \nentre eles, além de atender a boas práticas de manejo e de bem-estar animal.\nIV. O sistema eletrônico de alimentação prevê que a matriz deverá realizar o consumo diário de \nração em uma ou duas refeições ao longo do dia.\nV. O alojamento das matrizes no sistema eletrônico de alimentação permite a redução de \ncomportamentos anômalos, sem restringir os movimentos dos animais.\nÉ correto apenas o que se afirma em\nA I, II e III.\nB I, II e IV.\nC I, IV e V.\nD II, III e V.\nE III, IV e V.\n*R22202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Zootecnia"
+    }
+  ],
+  "36": [
+    {
+      "numero": 36,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1869,
+      "texto": "QUESTÃO 36 \nO interesse por alternativas alimentares para cães e gatos, em relação às rações comerciais \nconvencionais, é crescente no Brasil. Nesse sentido, surgem, no mercado, produtos diferenciados \ncom o apelo de serem naturais. Uma dieta natural para cães e gatos pode ser composta por \nalimentos de origem animal e vegetal, crus ou cozidos, e não devem conter aditivos artificiais, como \ncorantes, conservantes, flavorizantes, aromatizantes, palatabilizantes e umectantes, nem óleos e \ngorduras sintéticos.\nSAAD, F. M. O. B.; FRANÇA, J. Alimentação natural para cães e gatos. \nRevista Brasileira de Zootecnia, v. 39, n. 1, p. 52-59, 2010 (adaptado).\nEm relação a dietas naturais de cães e gatos, avalie as afirmações a seguir.\nI. Os ingredientes utilizados nas dietas naturais são predominantemente frescos, congelados ou \ndesidratados e devem passar pelo processo de extrusão.\nII. O risco de contaminação biológica é considerado um ponto fraco das dietas naturais cruas, \ndevendo ser objeto de atenção por parte dos tutores.\nIII. A utilização de alimentos naturais de origem vegetal e animal dispensa o uso de suplementação \nvitamínico-mineral.\nIV. O pH gástrico dos carnívoros é mais ácido que o de outros animais, fato que os torna mais aptos \nà digestão de ossos, proteínas e gorduras.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD I, II e III.\nE II, III e IV.\n*R22202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nZootecnia 37"
+    }
+  ],
+  "37": [
+    {
+      "numero": 37,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2247,
+      "texto": "QUESTÃO 37 \nCom a intensificação dos sistemas de produção animal, a questão de qual deve ser o destino dos \nrejeitos dessa atividade acabou tornando-se ponto central de discussões acerca de, praticamente, \ntoda a cadeia produtiva, tanto em âmbito nacional como internacional. No passado, os resíduos não \neram considerados componentes do sistema produtivo e, dessa forma, acabaram tornando-se uma \nimportante fonte de poluição, principalmente quando despejados diretamente nos corpos d’água \nou no solo.\nORRICO JÚNIOR, M. A. P . et al. Produção animal e o meio ambiente: uma comparação entre potencial de emissão \nde metano dos dejetos e a quantidade de alimento produzido. Engenharia Agrícola. \nJaboticabal, v. 31, n. 2, p. 399-410. 2011 (adaptado).\nConsiderando a importância de tratar, de armazenar e de reutilizar os dejetos derivados da produção \nanimal, avalie as afirmações a seguir.\nI. A implantação de lagoas de estabilização para armazenar e tratar os efluentes, com a finalidade de \nposterior utilização no sistema agrícola, é uma das formas de manejo dos dejetos da produção animal.\nII. Os dejetos, quando manipulados de forma incorreta, podem acarretar impactos ambientais \nnegativos, tais como a proliferação mais rápida de insetos e de bactérias e a acumulação de \nelementos tóxicos.\nIII. As lagoas de estabilização reduzem a emissão do gás metano para a atmosfera, uma das grandes \npreocupações da atualidade, uma vez que esse gás é considerado um agente poluidor.\nIV. O uso de biodigestores nos sistemas de produção animal promove o tratamento de resíduos e o \nretorno ao sistema produtivo de parte da energia que seria perdida, por meio da queima de gás.\nÉ correto apenas o que ser afirma em\nA I e IV.\nB II e III.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*R22202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Zootecnia"
+    }
+  ],
+  "38": [
+    {
+      "numero": 38,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2201,
+      "texto": "QUESTÃO 38 \nA nutrição de poedeiras influencia a qualidade nutricional (composição química) e física dos ovos \n(tamanho, resistência etc.), sendo a qualidade da casca a principal preocupação da indústria de \npostura, uma vez que o surgimento de ovos quebrados e/ou trincados pode acarretar grandes prejuízos \neconômicos. Diante disso, o uso de cálcio deve receber atenção especial, pois a deposição diária desse \nmineral na casca do ovo corresponde a 10% do total de cálcio estocado no corpo da ave.\nCom relação à qualidade dos produtos de origem animal e aos efeitos da nutrição na qualidade dos \novos, avalie as afirmações a seguir.\nI. O cálcio, um dos maiores constituintes plasmáticos, é regulado eficientemente nas aves pela \nação dos hormônios paratormônio (PTH) e calcitonina (CT), e de 1,25-dihidroxivitamina (D3).\nII. As necessidades de cálcio para matrizes devem ser relacionadas com outros nutrientes, \nespecialmente o fósforo e a vitamina D3, dado que o cálcio em excesso pode interferir no \nmetabolismo do zinco, do manganês e do ferro.\nIII. O fósforo que é depositado no período final de formação do ovo está presente na casca em \ngrande quantidade, com distribuição homogênea em todas as suas camadas.\nIV. O uso de betacaroteno, como aditivo, é indicado para aumentar a coloração amarela na gema \ndos ovos, não tendo influência na cor da casca dos ovos.\nV. Os ovos vermelhos são, do ponto de vista nutricional, de melhor qualidade que os ovos brancos, \npor apresentarem maiores teores de proteínas, vitaminas e minerais, o que justifica o preço mais \nalto deste produto nos supermercados.\nÉ correto apenas o que se afirma em\nA I, II e III.\nB I, II e IV.\nC I, III e V.\nD II, IV e V.\nE III, IV e V.\n*R22202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
+    }
+  ]
+}

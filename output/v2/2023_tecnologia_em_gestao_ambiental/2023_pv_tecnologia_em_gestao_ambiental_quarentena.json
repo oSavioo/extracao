@@ -1,0 +1,326 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2520233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Gestão Ambiental\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R2520234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2520236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 12,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que o quadro a seguir apresente os dados sobre oxigênio dissolvido (OD) nas águas de abastecimento e em pontos de despejo de esgotos de um município e que os dados expressem os valores médios dos últimos 30 dias, nos cinco pontos de coleta do município.\nPontos de Coleta OD (mg/L)\nP01 7,8\nP02 8,0\nP03 3,5\nP04 12,0\nP05 6,5\nCom base na situação apresentada, assinale a opção correta.",
+    "alternativas": {
+      "A": "O ponto de coleta P04 apresenta a água de ótima qualidade, pois quanto maior for o teor de oxigênio dissolvido, melhor será a qualidade da água.",
+      "B": "As águas dos pontos de coleta P01 e P02 apresentam valores de OD muito acima do esperado em águas naturais e ao nível do mar a 25 °C, estando, portanto, comprometidas para o consumo.",
+      "C": "As águas eutrofizadas (ricas em nutrientes) podem apresentar concentrações de oxigênio superiores a 10 mg/L, situação conhecida como supersaturação, semelhante ao que ocorre nas águas do ponto de coleta P04.",
+      "D": "O excessivo crescimento de algas, em lagos e represas, pode fazer com que, durante o dia, devido à fotossíntese, os valores de oxigênio fiquem mais baixos, diminuindo sua DBO, atingindo valores semelhantes aos encontrados no ponto de coleta P03.",
+      "E": "A fotossíntese diurna e a respiração noturna das algas presentes nas águas de lagos e represas eutrofizados não produzem efeito nas águas e o valor de OD permanece constante, indicando comportamento semelhante aos valores encontrados no ponto de coleta P05."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 12 \nSuponha que o quadro a seguir apresente os dados sobre oxigênio dissolvido (OD) nas águas de \nabastecimento e em pontos de despejo de esgotos de um município e que os dados expressem os \nvalores médios dos últimos 30 dias, nos cinco pontos de coleta do município.\nPontos de Coleta OD (mg/L)\nP01 7,8\nP02 8,0\nP03 3,5\nP04 12,0\nP05 6,5\nCom base na situação apresentada, assinale a opção correta.\nA O ponto de coleta P04 apresenta a água de ótima qualidade, pois quanto maior for o teor de \noxigênio dissolvido, melhor será a qualidade da água.\nB As águas dos pontos de coleta P01 e P02 apresentam valores de OD muito acima do esperado em \náguas naturais e ao nível do mar a 25 °C, estando, portanto, comprometidas para o consumo.\nC As águas eutrofizadas (ricas em nutrientes) podem apresentar concentrações de oxigênio superiores \na 10 mg/L, situação conhecida como supersaturação, semelhante ao que ocorre nas águas do ponto \nde coleta P04.\nD O excessivo crescimento de algas, em lagos e represas, pode fazer com que, durante o dia, devido \nà fotossíntese, os valores de oxigênio fiquem mais baixos, diminuindo sua DBO, atingindo valores \nsemelhantes aos encontrados no ponto de coleta P03.\nE A fotossíntese diurna e a respiração noturna das algas presentes nas águas de lagos e represas \neutrofizados não produzem efeito nas águas e o valor de OD permanece constante, indicando \ncomportamento semelhante aos valores encontrados no ponto de coleta P05.\n*R25202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Tecnologia em Gestão Ambiental",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 13,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Na figura a seguir, são apresentadas as etapas de um sistema de abastecimento de água.\nBombeamento\nRepresa\nSulfato de Alumínio\nCal\nCalCloroFlúor\nDistribuição\nReservatório\ndos BairrosCarvão\nAreia\nCascalho\nFloculação Decantação Filtração\nReservatório\nÁgua Final\n(ETA)\n3 4 5 Acerca da figura apresentada, Avalie as afirmações a seguir.\nI. Na etapa 2, coagulação, é adicionado sulfato de alumínio ou outro coagulante, seguido de agitação violenta da água, ficando as partículas de sujeira eletricamente desestabilizadas e mais fáceis de se agregarem.\nII. Na etapa 3, floculação, há forte agitação da água, que provoca a formação de flocos com as partículas.\nIII. Na etapa 4, decantação, a água passa por grandes tanques para serem separados os flocos de sujeira formados na etapa anterior.\nIV. Na etapa 6, desinfecção e fluoretação, é realizada a última adição de cloro na água, antes de sua saída da estação de tratamento, sendo facultada a adição de flúor às condições químicas da água. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 13 \nNa figura a seguir, são apresentadas as etapas de um sistema de abastecimento de água.\nBombeamento\nRepresa\nSulfato de Alumínio\nCal\nCalCloroFlúor\nDistribuição\nReservatório\ndos BairrosCarvão\nAreia\nCascalho\nFloculação Decantação Filtração\nReservatório\nÁgua Final\n(ETA)\n1\n3 4 5\n6\n7\n9\n2\n8\nDisponível em: https://site.sabesp.com.br/site/interna/Default.aspx?secaoId=47. Acesso em: 29 ago. 2023 (adaptado).\nAcerca da figura apresentada, avalie as afirmações a seguir.\nI. Na etapa 2, coagulação, é adicionado sulfato de alumínio ou outro coagulante, seguido de \nagitação violenta da água, ficando as partículas de sujeira eletricamente desestabilizadas e mais \nfáceis de se agregarem.\nII. Na etapa 3, floculação, há forte agitação da água, que provoca a formação de flocos com as partículas.\nIII. Na etapa 4, decantação, a água passa por grandes tanques para serem separados os flocos de \nsujeira formados na etapa anterior.\nIV. Na etapa 6, desinfecção e fluoretação, é realizada a última adição de cloro na água, antes de sua \nsaída da estação de tratamento, sendo facultada a adição de flúor às condições químicas da água.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*R25202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 17",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 18,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Uma escola promoveu ações de educação ambiental com os alunos, após uma série de doenças ter afetado a região. Os professores organizaram um conjunto de atividades a serem desenvolvidas pelos alunos, com o envolvimento dos responsáveis legais das crianças e dos profissionais de saúde.\nUma professora sugeriu tratar de doenças transmitidas por meio de defecação, inseto, água, entre outros, e solicitou à turma que fizesse uma pesquisa a respeito dessas doenças, cujo resultado é apresentado na figura a seguir.\nCategoria e doenças\nDoenças de transmissão feco-oral\nDiarreias\nFebres entéricas\nHepatite A\nDoenças transmitidas por inseto vetor\nDengue\nFebre amarela\nLeishmanioses (L. tegumentar e L. visceral)\nFilariose linfática\nMalária\nDoença de Chagas\nDoenças transmitidas por meio do contato com a água\nEsquistossomose\nLeptospirose\nDoenças relacionadas com a higiene\nTracoma\nConjuntivites\nMicoses superficiais\nGeo-helmintos e teníases\nHelmintíases\nTeníases\nOs responsáveis legais participaram do projeto fazendo o levantamento das doenças que a família já havia tido. As doenças mais frequentes foram dengue, febre amarela e conjuntivite. Durante a semana de mobilização, foram registradas mais de 1 000 participações, e as ações resultaram em diminuição de 10% dos casos registrados no bairro em que foi feita a pesquisa.\nConsiderando a situação hipotética apresentada, Avalie as afirmações a seguir.\nI. Na situação apresentada, as iniciativas realizadas em conjunto, por diferentes agentes, resultaram na diminuição efetiva dos problemas enfrentados no referido bairro.\nII. Na figura apresentada, as categorias identificadas permitem a visualização de cada uma das doenças e as respectivas formas e transmissão.\nIII. No projeto de educação ambiental realizado pela escola, é possível reconhecer um resultado satisfatório, que pode ser replicado em outros locais, desde que sejam cidades de pequeno porte. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 18 \nUma escola promoveu ações de educação ambiental com os alunos, após uma série de doenças \nter afetado a região. Os professores organizaram um conjunto de atividades a serem desenvolvidas \npelos alunos, com o envolvimento dos responsáveis legais das crianças e dos profissionais de saúde.\nUma professora sugeriu tratar de doenças transmitidas por meio de defecação, inseto, água, entre outros, \ne solicitou à turma que fizesse uma pesquisa a respeito dessas doenças, cujo resultado é apresentado \nna figura a seguir.\nCategoria e doenças\nDoenças de transmissão feco-oral\nDiarreias\nFebres entéricas\nHepatite A\nDoenças transmitidas por inseto vetor\nDengue\nFebre amarela\nLeishmanioses (L. tegumentar e L. visceral)\nFilariose linfática\nMalária\nDoença de Chagas\nDoenças transmitidas por meio do contato com a água\nEsquistossomose\nLeptospirose\nDoenças relacionadas com a higiene\nTracoma\nConjuntivites\nMicoses superficiais\nGeo-helmintos e teníases\nHelmintíases\nTeníases\n*R25202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 21\nOs responsáveis legais participaram do projeto fazendo o levantamento das doenças que a família já \nhavia tido. As doenças mais frequentes foram dengue, febre amarela e conjuntivite. Durante a semana \nde mobilização, foram registradas mais de 1 000 participações, e as ações resultaram em diminuição de \n10% dos casos registrados no bairro em que foi feita a pesquisa.\nConsiderando a situação hipotética apresentada, avalie as afirmações a seguir.\nI. Na situação apresentada, as iniciativas realizadas em conjunto, por diferentes agentes, \nresultaram na diminuição efetiva dos problemas enfrentados no referido bairro.\nII. Na figura apresentada, as categorias identificadas permitem a visualização de cada uma das \ndoenças e as respectivas formas e transmissão.\nIII. No projeto de educação ambiental realizado pela escola, é possível reconhecer um resultado \nsatisfatório, que pode ser replicado em outros locais, desde que sejam cidades de pequeno \nporte.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 20,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O dióxido de nitrogênio (NO 2) é um gás poluente com ação altamente oxidante. Altas concentrações de NO2 podem levar ao aumento de internações hospitalares decorrentes de problemas respiratórios, problemas pulmonares e agravamento da resposta das pessoas sensíveis a alérgenos.\nO gráfico a seguir apresenta a evolução dos teores de NO 2 atmosférico em uma cidade, ao longo de cinco anos.\nDióxido de Nitrogênio NO2 - Médias Anuais\nAno 1 Ano 2 Ano 3 Ano 4 Ano 5\nµg/m3\n50 51 48 46 Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. Os dados apresentados no gráfico retratam a tendência positiva do comportamento do indicador de qualidade de NO2. PORQUE II. Verifica-se, nas amostras de ar analisadas, uma diminuição de 17,8% nos valores de NO 2 encontrados, reduzindo em 10 μg/m3. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 20 \nO dióxido de nitrogênio (NO 2) é um gás poluente com ação altamente oxidante. Altas concentrações \nde NO2 podem levar ao aumento de internações hospitalares decorrentes de problemas respiratórios, \nproblemas pulmonares e agravamento da resposta das pessoas sensíveis a alérgenos.\nO gráfico a seguir apresenta a evolução dos teores de NO 2 atmosférico em uma cidade, ao longo \nde cinco anos.\nDióxido de Nitrogênio NO2 - Médias Anuais\n56\nAno 1 Ano 2 Ano 3 Ano 4 Ano 5\n60\n50\n40\n30\n20\n10\n0\nµg/m3\n50 51 48 46\nDisponível em: http://www.mma.gov.br/informacoes-ambientais/indicadores-ambientais/item/11348.html. \nAcesso em: 16 jul. 2023 (adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. Os dados apresentados no gráfico retratam a tendência positiva do comportamento do indicador \nde qualidade de NO2.\nPORQUE\nII. Verifica-se, nas amostras de ar analisadas, uma diminuição de 17,8% nos valores de NO 2 \nencontrados, reduzindo em 10 μg/m3.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R25202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 23",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 24,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura a seguir mostra a relação existente entre o tamanho da população humana e a manutenção de serviços ecossistêmicos em diferentes categorias de unidades de conservação (UCs).\n100%\n0%\nQUANTIDADE /\nEFETIVIDADE\nPOPULAÇÃO\nSERVIÇOS\nECOSSISTÊMICOS\nCATEGORIAS DE UNIDADES DE CONSERVAÇÃO\nPARNA\nREBIO\nESEC\nRESEX\nRDS\nFLONA\nAPA\nARIE\nLegendas: PARNA: Parque Nacional; REBIO: Reserva Biológica; ESEC: Estação Ecológica; RESEX: Reserva Extrativista; RDS: Reserva de Desenvolvimento Sustentável; FLONA: Floresta Nacional; APA: Área de Proteção Ambiental; ARIE: Área de Relevante Interesse Ecológico. Considerando as informações apresentadas, relativas à temática das unidades de conservação, Avalie as afirmações a seguir.\nI. Nas UCs de proteção integral, os serviços ecossistêmicos são promovidos pela natureza de forma ampla, pois estão menos expostas aos efeitos negativos causados pela presença constante da população humana.\nII. Nas UCs de uso sustentável, o aumento da população humana interfere diretamente na manutenção dos serviços ecossistêmicos.\nIII. Nas RESEX e nas FLONAS, tem-se a possibilidade de conciliar a exploração dos recursos ambientais sem afetar totalmente a manutenção dos serviços ecossistêmicos.\nIV. As APAs são as unidades de conservação que melhor conciliam a manutenção dos serviços ecossistêmicos com o aumento populacional. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e III.",
+      "B": "II e IV.",
+      "C": "III e IV.",
+      "D": "I, II e III.",
+      "E": "I, II e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 24 \nA figura a seguir mostra a relação existente entre o tamanho da população humana e a manutenção de \nserviços ecossistêmicos em diferentes categorias de unidades de conservação (UCs).\n100%\n0%\nQUANTIDADE /\nEFETIVIDADE\nPOPULAÇÃO\nSERVIÇOS\nECOSSISTÊMICOS\nCATEGORIAS DE UNIDADES DE CONSERVAÇÃO\nPARNA\nREBIO\nESEC\nRESEX\nRDS\nFLONA\nAPA\nARIE\nLegendas: PARNA: Parque Nacional; REBIO: Reserva Biológica; ESEC: Estação Ecológica; RESEX: Reserva \nExtrativista; RDS: Reserva de Desenvolvimento Sustentável; FLONA: Floresta Nacional; \nAPA: Área de Proteção Ambiental; ARIE: Área de Relevante Interesse Ecológico.\nConsiderando as informações apresentadas, relativas à temática das unidades de conservação, \navalie as afirmações a seguir.\nI. Nas UCs de proteção integral, os serviços ecossistêmicos são promovidos pela natureza de forma \nampla, pois estão menos expostas aos efeitos negativos causados pela presença constante da \npopulação humana.\nII. Nas UCs de uso sustentável, o aumento da população humana interfere diretamente na \nmanutenção dos serviços ecossistêmicos.\nIII. Nas RESEX e nas FLONAS, tem-se a possibilidade de conciliar a exploração dos recursos \nambientais sem afetar totalmente a manutenção dos serviços ecossistêmicos.\nIV. As APAs são as unidades de conservação que melhor conciliam a manutenção dos serviços \necossistêmicos com o aumento populacional.\nÉ correto apenas o que se afirma em\nA I e III.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*R25202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 27",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 27,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A charge apresentada a seguir proporciona reflexões sobre a cidade onde vivemos e a cidade que queremos. A Organização das Nações Unidas (ONU), por meio do Programa para o Meio Ambiente (PNUMA), criado em 1972, vem publicando, ao longo dos últimos anos, informes sobre a necessidade de serem implementadas infraestruturas sustentáveis nos meios urbanos, reforçando-se o papel estratégico do planejamento e do desenho urbano na abordagem das questões ambientais, sociais, econômicas e culturais para que os benefícios possam atingir toda a população. Considerando as informações apresentadas e a importância das questões ambientais no planejamento das cidades, Avalie as afirmações a seguir.\nI. A reutilização e a regeneração de áreas verdes abandonadas ou socialmente degradadas são ações que devem ser incentivadas no planejamento das cidades.\nII. A adoção de critérios de construções sustentáveis, respeitando-se e considerando-se os recursos e fenômenos naturais, deve ser uma iniciativa prevista no planejamento das cidades.\nIII. Os modelos de planejamento das cidades devem assegurar compatibilidade com os usos do solo, oferecendo-se adequado equilíbrio entre emprego, habitação e transporte. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 27 \nA charge apresentada a seguir proporciona reflexões sobre a cidade onde vivemos e a cidade que queremos.\nDisponível em: http://cinabrio.over-blog.es/tag/ecologia%20planetaria/35. Acesso em: 12 jul. 2023 (adaptado).\nA Organização das Nações Unidas (ONU), por meio do Programa para o Meio Ambiente (PNUMA), \ncriado em 1972, vem publicando, ao longo dos últimos anos, informes sobre a necessidade de serem \nimplementadas infraestruturas sustentáveis nos meios urbanos, reforçando-se o papel estratégico \ndo planejamento e do desenho urbano na abordagem das questões ambientais, sociais, econômicas e \nculturais para que os benefícios possam atingir toda a população.\nConsiderando as informações apresentadas e a importância das questões ambientais no planejamento \ndas cidades, avalie as afirmações a seguir.\nI. A reutilização e a regeneração de áreas verdes abandonadas ou socialmente degradadas são \nações que devem ser incentivadas no planejamento das cidades.\nII. A adoção de critérios de construções sustentáveis, respeitando-se e considerando-se os recursos \ne fenômenos naturais, deve ser uma iniciativa prevista no planejamento das cidades.\nIII. Os modelos de planejamento das cidades devem assegurar compatibilidade com os usos do solo, \noferecendo-se adequado equilíbrio entre emprego, habitação e transporte.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R25202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 29",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 32,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O esquema a seguir mostra a relação entre ações humanas, aspectos ambientais e impactos ambientais.\nAs ações humanas são as causas, os impactos ambientais, as consequências, ao passo que os aspectos ambientais são os mecanismos, ou processos, por meio dos quais ocorrem as consequências.\nAções humanas:\nAtividades\nProdutos\nServiços\nImpactos\nAmbientaisAspectos Ambientais\nSANCHÉZ, L. E. Avaliação de impacto ambiental: conceitos e métodos. 2. Ed., São Paulo: Oficina de Textos, 2013 (adaptado).\nConsiderando o esquema apresentado, Avalie as afirmações a seguir.\nI. A emissão de ruídos por caminhões é considerada um impacto ambiental.\nII. O consumo de água na construção civil é considerado um aspecto ambiental.\nIII. A contaminação do solo devido ao vazamento de combustível é considerada um aspecto ambiental.\nIV. A emissão de gases e partículas e a deterioração da qualidade do ar são consideradas impactos ambientais. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "I e III.",
+      "C": "I, II e IV.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 32 \nO esquema a seguir mostra a relação entre ações humanas, aspectos ambientais e impactos ambientais.\nAs ações humanas são as causas, os impactos ambientais, as consequências, ao passo que os aspectos \nambientais são os mecanismos, ou processos, por meio dos quais ocorrem as consequências.\nAções humanas:\nAtividades\nProdutos\nServiços\nImpactos\nAmbientaisAspectos Ambientais\nSANCHÉZ, L. E. Avaliação de impacto ambiental: conceitos e métodos. 2. Ed., São Paulo: Oficina de Textos, 2013 (adaptado).\nConsiderando o esquema apresentado, avalie as afirmações a seguir.\nI. A emissão de ruídos por caminhões é considerada um impacto ambiental.\nII. O consumo de água na construção civil é considerado um aspecto ambiental.\nIII. A contaminação do solo devido ao vazamento de combustível é considerada um aspecto ambiental.\nIV. A emissão de gases e partículas e a deterioração da qualidade do ar são consideradas \nimpactos ambientais.\nÉ correto apenas o que se afirma em\nA II. \nB I e III. \nC I, II e IV. \nD I, III e IV. \nE II, III e IV.",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 37,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O uso do solo é uma questão complexa, que interfere significativamente nos riscos de escorregamento. Em um estudo realizado pelo Instituto de Pesquisas Tecnológicas (IPT), na Região Metropolitana de São Paulo (RMSP), para entender a situação dos riscos de deslizamento, em associação com o uso do solo, especialistas usaram como base um mapa de ocupação do solo fornecido pela Empresa Paulista de Planejamento Metropolitano (EMPLASA). As análises foram baseadas em uma árvore de decisão, ou seja, para cada uso do solo considerado, foi realizada a associação com os respectivos fatores deflagradores (chuva e declividade). Desse modo, para cada uso do solo, foram associadas diferentes declividades e compartimentações de chuva (de 100 mm/dia), cuja integração permitiu identificar as áreas com maiores possibilidades de riscos de deslizamentos.\nOs mapas a seguir apresentam informações sobre classes de uso e ocupação, chuvas e declividades da RMSP.\nLegenda\nRisco Chuvas de 100 mm/dia\n0 < N < 0,25 (não recorrente a 4 anos)\n0,25 < N < 0,75 (4 a 1,5 anos)\n0,75 < N 1,5 (1,5 anos a 9 meses)\n1,5 < N < inﬁnito (< 9 meses) 0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\nLegenda\nClasses de declividade\n5 a 15 graus\n15 a 30 graus\n> 30 graus\n0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\nLegenda\nRisco a parr das classes de uso do solo\nbaixo\nmédio\nalto\n0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\n0 4 8 16 24 32\nKilometers\nN\nLW\nS\nLEVANTAMENTO DE USO DO SOLO\nMata; vegetação de várzea;\nReservatórios de retenção\nCapoeira; Áreas de\nreﬂorestamento\nChácaras; Campos;\nHorfrugranjeiro\nMineração\nIndústrias\nGrandes equipamentos\nurbanos\nFavelas\nLoteamento desocupado\nÁrea com movimentação de terra\nAterro sanitário\nLixão Considerando as informações do texto e dos mapas, Avalie as afirmações a seguir.\nI. A possibilidade de deslizamentos, sob ação da água da chuva como agente deflagrador, é maior nas áreas com declividades elevadas, que coincidem com as da classe de ocupação mais intensa.\nII. Chuvas associadas a relevos coincidentes com os de áreas de solos mais frágeis (como colúvios, mantos espessos de alteração ou solos mais friáveis e arenosos, de rochas como granitos ou gnaisses) são mais suscetíveis a movimentos de massa.\nIII. O uso do solo típico de assentamentos precários identificados na região central da ocupação urbana indica áreas mais suscetíveis a processos de deslizamento.\nIV. Não é possível desenvolver ações de mitigação de riscos de ocorrência de processos geológicos associados a declividades críticas sob efeito de chuvas intensas e ocupados por edificações de baixo padrão construtivo. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "I e II, apenas.",
+      "C": "III e IV, apenas.",
+      "D": "I, III e IV, apenas.",
+      "E": "I, II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 37 \nO uso do solo é uma questão complexa, que interfere significativamente nos riscos de escorregamento. \nEm um estudo realizado pelo Instituto de Pesquisas Tecnológicas (IPT), na Região Metropolitana de \nSão Paulo (RMSP), para entender a situação dos riscos de deslizamento, em associação com o uso do solo, \nespecialistas usaram como base um mapa de ocupação do solo fornecido pela Empresa Paulista de \nPlanejamento Metropolitano (EMPLASA). As análises foram baseadas em uma árvore de decisão, \nou seja, para cada uso do solo considerado, foi realizada a associação com os respectivos fatores \ndeflagradores (chuva e declividade). Desse modo, para cada uso do solo, foram associadas diferentes \ndeclividades e compartimentações de chuva (de 100 mm/dia), cuja integração permitiu identificar as \náreas com maiores possibilidades de riscos de deslizamentos.\nOs mapas a seguir apresentam informações sobre classes de uso e ocupação, chuvas e declividades da RMSP .\nLegenda\nRisco Chuvas de 100 mm/dia\n0 < N < 0,25 (não recorrente a 4 anos)\n0,25 < N < 0,75 (4 a 1,5 anos)\n0,75 < N 1,5 (1,5 anos a 9 meses)\n1,5 < N < inﬁnito (< 9 meses) \n0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\nLegenda\nClasses de declividade\n5 a 15 graus\n15 a 30 graus\n> 30 graus\n0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\nLegenda\nRisco a par�r das classes de uso do solo\nbaixo\nmédio\nalto\n0 4 8 16 24 32\nQuilômetros\nN\nLW\nS\n*R25202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Ambiental 35\n0 4 8 16 24 32\nKilometers\nN\nLW\nS\nLEVANTAMENTO DE\n USO DO SOLO\nMata; vegetação de várzea;\nReservatórios de retenção\nCapoeira; Áreas de\nreﬂorestamento\nChácaras; Campos;\nHor�fru�granjeiro\nMineração\nIndústrias\nGrandes equipamentos\nurbanos\nFavelas\nLoteamento desocupado\nÁrea com movimentação \nde terra\nAterro sanitário\nLixão\nFonte: Emplasa, 2007 - 2010.\nBase Cartográﬁca: MDC/SMDU: Emplasa, 2007\nElaboração: SMDU / PMSP , 2016\n0 5 10 20 km\nConsiderando as informações do texto e dos mapas, avalie as afirmações a seguir.\nI. A possibilidade de deslizamentos, sob ação da água da chuva como agente deflagrador, é maior \nnas áreas com declividades elevadas, que coincidem com as da classe de ocupação mais intensa.\nII. Chuvas associadas a relevos coincidentes com os de áreas de solos mais frágeis (como colúvios, \nmantos espessos de alteração ou solos mais friáveis e arenosos, de rochas como granitos ou gnaisses) \nsão mais suscetíveis a movimentos de massa.\nIII. O uso do solo típico de assentamentos precários identificados na região central da ocupação \nurbana indica áreas mais suscetíveis a processos de deslizamento.\nIV. Não é possível desenvolver ações de mitigação de riscos de ocorrência de processos geológicos \nassociados a declividades críticas sob efeito de chuvas intensas e ocupados por edificações de \nbaixo padrão construtivo.\nÉ correto o que se afirma em\nA II, apenas.\nB I e II, apenas.\nC III e IV, apenas.\nD I, III e IV, apenas.\nE I, II, III e IV.\n*R25202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Tecnologia em Gestão Ambiental",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  }
+]

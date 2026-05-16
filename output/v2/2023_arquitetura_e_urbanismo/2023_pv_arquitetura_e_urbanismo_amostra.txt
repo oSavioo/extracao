@@ -4,6 +4,7 @@ GABARITO: D
 STATUS: fora_escopo
 CONFIANÇA: alta
 ESTRATÉGIA: corte_por_comando
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO EM PAGINA COM ELEMENTO VISUAL
 
@@ -57,7 +58,8 @@ QUESTÃO 2
 GABARITO: D
 STATUS: completa
 CONFIANÇA: alta
-ESTRATÉGIA: sequencia_abcde_global
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
 
 ENUNCIADO:
@@ -112,7 +114,8 @@ QUESTÃO 3
 GABARITO: B
 STATUS: fora_escopo
 CONFIANÇA: alta
-ESTRATÉGIA: sequencia_abcde_global
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 
@@ -275,7 +278,8 @@ QUESTÃO 4
 GABARITO: A
 STATUS: completa
 CONFIANÇA: alta
-ESTRATÉGIA: sequencia_abcde_global
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
 
 ENUNCIADO:
@@ -328,7 +332,8 @@ QUESTÃO 5
 GABARITO: E
 STATUS: fora_escopo
 CONFIANÇA: alta
-ESTRATÉGIA: sequencia_abcde_global
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
 OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
 

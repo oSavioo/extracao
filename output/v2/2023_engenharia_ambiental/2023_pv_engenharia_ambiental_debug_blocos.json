@@ -4,6 +4,13 @@
       "numero": 1,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2144,
@@ -13,8 +20,15 @@
       "numero": 1,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 210,
       "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
     },
@@ -22,6 +36,13 @@
       "numero": 1,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 4328,
@@ -33,8 +54,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -42,8 +70,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -51,8 +86,15 @@
       "numero": 2,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 142,
       "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
     }
@@ -62,8 +104,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3057,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R0520234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 5\nLOGO\n4 MATÉRIA"
     },
@@ -71,8 +120,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3053,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R0520235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Engenharia Ambiental\nLOGO\n6 MATÉRIA"
     },
@@ -80,8 +136,15 @@
       "numero": 3,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 236,
       "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
     }
@@ -91,8 +154,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -100,8 +170,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -109,8 +186,15 @@
       "numero": 4,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 309,
       "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
     }
@@ -120,8 +204,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2537,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R0520236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 7\nLOGO\n6 MATÉRIA"
     },
@@ -129,8 +220,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2537,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R0520237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Engenharia Ambiental\nLOGO\n8 MATÉRIA"
     },
@@ -138,8 +236,15 @@
       "numero": 5,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 352,
       "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
     }
@@ -149,8 +254,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -158,8 +270,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -167,8 +286,15 @@
       "numero": 6,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 131,
       "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -178,8 +304,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2018,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R0520239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Engenharia Ambiental\nLOGO\n10 MATÉRIA"
     },
@@ -187,8 +320,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2016,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R0520238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 9\nLOGO\n8 MATÉRIA"
     },
@@ -196,8 +336,15 @@
       "numero": 7,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 199,
       "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
     }
@@ -207,6 +354,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -216,6 +370,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -225,8 +386,15 @@
       "numero": 8,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 138,
       "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -236,8 +404,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1821,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R05202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 11\nLOGO\n10 MATÉRIA"
     },
@@ -245,8 +420,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1386,
       "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n*R05202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nMINISTÉRIO DA\nEDUCAÇÃO\n05\n*R05202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
     },
@@ -254,8 +436,15 @@
       "numero": 9,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3553,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R05202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Engenharia Ambiental\nQUESTÃO DISCURSIVA 02 \nEstudos apontam que empresas com maior desempenho nos aspectos sociais, ambientais e de \ngovernança (ESG) são mais propensas a se dedicarem aos compromissos propostos pelos Objetivos de \nDesenvolvimento Sustentável (ODS). Apontam, ainda, que os ODS contribuem para que as empresas \nadotem comportamentos corporativos responsáveis e reduzam riscos socioambientais atrelados \naos objetivos organizacionais. O engajamento com os ODS mostrou-se um fator preponderante \npara melhorar a reputação de empresas e, em geral, os resultados sinalizam o impacto das práticas \nambientais, sociais e de governança sobre a reputação de empresas e seu valor de mercado.\nMAZZIONI, S.; ASCARI, C.; RODOLFO, N. M.; DAL MAGRO, C. B. Reflexos das práticas ESG e da adesão aos ODS na reputação \ncorporativa e no valor de mercado. Revista Gestão Organizacional, n. 3, p. 59-77, 2023 (adaptado).\nSabendo que o ODS 8 traz a questão do trabalho digno para a população de todo o mundo e do \ncrescimento econômico das nações, e considerando os temas mencionados no texto, descreva os \nconceitos de ESG e de ODS e os relacione com ao menos uma questão trabalhista da atualidade. \n(valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*R05202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 13"
     }
@@ -265,6 +454,13 @@
       "numero": 10,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1176,
@@ -276,6 +472,13 @@
       "numero": 11,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1629,
@@ -287,6 +490,13 @@
       "numero": 12,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2028,
@@ -298,6 +508,13 @@
       "numero": 13,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2420,
@@ -309,6 +526,13 @@
       "numero": 14,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2370,
@@ -320,6 +544,13 @@
       "numero": 15,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1372,
@@ -331,8 +562,15 @@
       "numero": 16,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1589,
       "texto": "QUESTÃO 16 \nO Índice de Qualidade das Águas (IQA), criado em 1970 nos Estados Unidos, pela National Sanitation \nFoundation, começou a ser utilizado, a partir de 1975, pela Companhia Ambiental do Estado de São Paulo \n(Cetesb). Nas décadas seguintes, outros estados brasileiros adotaram o IQA, que hoje é o principal índice \nde qualidade da água utilizado no país. Foi desenvolvido para avaliar a qualidade da água bruta, visando \nseu uso para o abastecimento público, após tratamento. Os parâmetros utilizados no cálculo do IQA são, \nna maioria, indicadores de contaminação causada pelo lançamento de esgotos domésticos.\nDisponível em: http://pnqa.ana.gov.br/indicadores-indice-aguas.aspx. Acesso em: 10 jul. 2023 (adaptado).\nConsiderando-se esse contexto, é correto afirmar que são parâmetros avaliados na determinação do IQA:\nA oxigênio dissolvido (OD), pH e fósforo total.\nB turbidez, mercúrio e oxigênio dissolvido (OD).\nC demanda química de oxigênio (DQO), cádmio e atrazina.\nD resíduo total, demanda química de oxigênio (DQO) e atrazina.\nE demanda bioquímica de oxigênio (DBO), chumbo e endosulfan.\n*R05202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Engenharia Ambiental"
     }
@@ -342,6 +580,13 @@
       "numero": 17,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2534,
@@ -353,6 +598,13 @@
       "numero": 18,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2453,
@@ -364,6 +616,13 @@
       "numero": 19,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 3811,
@@ -375,6 +634,13 @@
       "numero": 20,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1819,
@@ -386,6 +652,13 @@
       "numero": 21,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2625,
@@ -397,6 +670,13 @@
       "numero": 22,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1642,
@@ -408,8 +688,15 @@
       "numero": 23,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2346,
       "texto": "QUESTÃO 23 \nNos sistemas de abastecimento de água, tem-se como objetivo final disponibilizar água potável aos \nusuários, de forma contínua, em quantidade e pressão adequadas. Durante o processo de tratamento \nde água, podem ser utilizados diferentes produtos químicos, como os oxidantes (cloro, hipoclorito de \nsódio, ozônio), alcalinizantes (cal, hidróxido de sódio), coagulantes (cloreto férrico, sulfato de alumínio, \npolicloreto de alumínio), desinfetantes (cloro, ozônio), produtos para remoção de dureza (cal hidratada, \ncarbonato de sódio e resina catiônica), produtos para controle da corrosão (cal hidratada, carbonato de sódio, \npolifosfatos de sódio) e carvão ativado, para adsorção de contaminantes. As operações e os processos \nem estação de tratamento de água (ETA) são necessários para adequação da água ao consumo humano.\nHELLER, L.; PADUA, V. L. Abastecimento de água para consumo humano. Belo Horizonte: Editora UFMG, 2010 (adaptado).\nCom relação aos processos e operações unitárias que podem ocorrer em uma ETA para abastecimento \npúblico, assinale a opção correta.\nA A coagulação envolve a aplicação de produto químico, com a finalidade de reduzir as forças eletrostáticas \nde repulsão, que mantém separadas as partículas em suspensão, as coloidais e as dissolvidas.\nB A decantação é a etapa de agitação da água realizada após a coagulação, com o objetivo de \npromover o contato entre as impurezas e aumentar o tamanho das partículas sólidas.\nC A estabilização química é destinada a remover contaminantes inorgânicos presentes na água, \nfazendo-a passar por uma coluna contendo material resinoso.\nD A troca iônica tem a finalidade de atenuar, no sistema abastecedor e no gradeamento, \nefeitos corrosivos ou incrustantes.\nE O abrandamento é o processo destinado à clarificação e desidratação de lamas, procedentes dos \ntanques de decantação.\n*R05202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Engenharia Ambiental"
     }
@@ -419,8 +706,15 @@
       "numero": 24,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2336,
       "texto": "QUESTÃO 24 \nNos últimos anos, algumas regiões do Brasil passaram por um período prolongado de estiagem. Diante de \ntal situação, a população se deparou com a necessidade de encontrar soluções alternativas para os \nproblemas de abastecimento de água. Dentre elas destaca-se a construção de reservatórios para \narmazenar a água da chuva e utilizá-la para diversos fins. Essa água pode ser coletada nos telhados das \nresidências. Para se determinar o tamanho do reservatório a ser construído, é necessário considerar as \ndimensões do telhado e a altura total de precipitação na região.\nA Figura 1 apresenta um esquema com as dimensões da área de contribuição do telhado do qual será \nfeita a captação, cujos incrementos, devido à inclinação do telhado, deverão ser calculados de acordo \ncom a equação Aa b=+ h\n2\n\n\n\n\n\n\n\n\n\n\n\n\n⋅  , em que a é a projeção horizontal da aresta inclinada do telhado, em m; \nb é o comprimento do telhado, em m; h é a altura da cumeeira em relação à base do telhado, em m; \ne A é a área de contribuição total do telhado inclinado apresentado na figura abaixo, em m2.\nFigura 1 – Área de contribuição do telhado\n8\n3,9\n1,6\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICA. ABNT NBR 10 844: instalações prediais de águas pluviais. \nRio de Janeiro: ABNT, 1989 (adaptado).\nA Figura 2 mostra o hietograma da quantidade média mensal de chuva na região, em milímetros.\nFigura 2: Chuva média mensal\n300\n280\n260\n240\n220\n200\n180\n160\n140\n120\n100\n80\n60\n40\n20\n0\nJAN FEV MAR ABR MAI JUN JUL AGO SET OUT NOV DEZ\nMeses\nPrecipitação (mm)\n*R05202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 27\nSabendo-se que 1 milímetro de chuva equivale ao acúmulo de 1 litro de água em uma superfície \nhorizontal plana de 1 m 2, é correto afirmar que o volume do reservatório a ser construído para captar \n65% da chuva média acumulada anual é de\nA 37,60 m3.\nB 26,40 m3.\nC 24,09 m3.\nD 16,62 m3.\nE 8,87 m3."
     }
@@ -430,6 +724,13 @@
       "numero": 25,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2235,
@@ -441,6 +742,13 @@
       "numero": 26,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1880,
@@ -452,8 +760,15 @@
       "numero": 27,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2825,
       "texto": "QUESTÃO 27 \nA mineração é uma atividade econômica e industrial que consiste na pesquisa, exploração, extração \ne no beneficiamento de minérios presentes em depósitos no subsolo. Apesar de ser considerada \nsinônimo de desenvolvimento socioeconômico e essencial à sociedade, a atividade mineradora \napresenta alto potencial de impactos ambientais. As barragens de rejeitos são construções formadas \npor barramentos maciços impermeáveis e com dispositivos de drenagem, destinadas ao depósito de \nresíduos gerados pelo beneficiamento dos minérios.\nDisponível em: https://uol.com.br/geografia/os-problemas-gerados-pela-mineracao.htm. \nAcesso em: 18 jun. 2023 (adaptado).\nConsiderando esse contexto, assinale a opção correta a respeito dos principais impactos ambientais \ncausados pela mineração e seus rejeitos.\nA Poluição do solo: uma das etapas da mineração é a retirada do solo fértil e seu posterior recorte. \nAo deixar o solo desnudo, pode haver compactação e aumento de sua fertilidade. Ao longo da \nextração de minérios, os solos podem ser contaminados, como é o caso das minerações de chumbo \ne zinco, as quais possuem grande concentração de arsênio em seus rejeitos.\nB Desmatamento: a mineração mais comum no Brasil é a lavra a céu aberto. A exploração de minério \ndessa forma requer desmatar determinada área e retirar o solo infértil – também chamado pelas \nmineradoras de solo estéril, por possui baixo teor de minério. A área é \"recortada\", modificando-se, \nentão, toda a paisagem.\nC Poluição sonora: o preparo das áreas para mineração ocorre, muitas vezes, por meio de explosões. \nMaciços rochosos muito compactados passam pelo processo de desmonte com o auxílio de \nexplosivos – o que provoca ruídos que perturbam a biodiversidade e, muitas vezes, atraem novas \nespécies para essas áreas.\nD Poluição da água: caracterizada pelo alto consumo de água para beneficiamento do minério e por \nmeio da elevação do lençol freático durante a etapa de extração do minério, diminuindo o fluxo de \nágua dos rios e impactando, também, a recarga dos aquíferos.\nE Poluição atmosférica: durante os processos de construção da infraestrutura necessária, bem como \nna fase de transporte dos minérios, há emissão de material particulado e poluentes na atmosfera. \nEsses poluentes causam sérios danos à saúde dos mineradores e da população adjacente.\n*R05202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Engenharia Ambiental"
     }
@@ -463,6 +778,13 @@
       "numero": 28,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1026,
@@ -474,8 +796,15 @@
       "numero": 29,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2106,
       "texto": "QUESTÃO 29 \nA seguir é apresentada uma simulação da concentração de demanda bioquímica de oxigênio de \n5 dias (DBO 5) e de oxigênio dissolvido (OD ou O 2) em um corpo hídrico. Em um ponto de volume zero, \né percebido o despejo de uma estação de tratamento de efluentes (ETE). É apresentado, também, \no comportamento da vazão volumétrica em função do volume do corpo hídrico percorrido, que foi \nutilizado como variável independente. A simulação foi realizada por meio do modelo clássico de \nStreeter e Phelps.\nNo gráfico, é apontada a concentração de OD limite de 5 mg/L, a partir da qual ocorre mortandade da \nvida aquática, especialmente de peixes.\nVolume\nDespejo\nCorpo hídrico\nZona 4\nZona 2\nZona 3Zona 1\n0\n*R05202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 31\nDBO5 original do corpo hídrico\nx 106Volume (m3)\nDBO5 inicial (após mistura)O2 mínimo\nConcentração de oxigênio dissolvido, mg O2/L\nConcentração de DBO5, mg O2/L\nO2 inicial\n8\n7\n6\n5\n4\n3\n2\n1\n60\n50\n40\n30\n20\n10\n0\n-10-0.8 0 0.8 1.6 2.4 3.2 4\nO2 no corpo hídrico original\nO2 saturaçãoDespejo de eﬂuente\nO2 limite\nOxigênio Dissolvido (OD)\nMatéria Orgânica (MO)\nSTREETER, H. W.; PHELPS, E. B. A Study of the Pollution and Natural Purification of the Ohio River. \n Washington: Public Health Bulletin, 1925 (adaptado).\nCom base nas informações apresentadas, é correto afirmar que a\nA concentração de matéria orgânica [DBO5]D no despejo de efluente é de 14,9 mg/L.\nB concentração de O2 no despejo de efluente [O2]D é inferior a 0,2 mg/L.\nC concentração de O2 no despejo de efluente [O2]D é de 5 mg/L.\nD vazão volumétrica de despejo do efluente (QD) é de 6,2 m3/s.\nE vazão volumétrica de despejo do efluente (QD) é de 5 m3/s."
     }
@@ -485,8 +814,15 @@
       "numero": 30,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1465,
       "texto": "QUESTÃO 30 \nA contaminação do solo por metais pesados é um dos grandes desafios ambientais que os profissionais \nda área de engenharia enfrentam. Resíduos domésticos, como pilhas, baterias e eletroeletrônicos, \nsendo inadequadamente descartados, assim como os descartes industriais não tratados, ou tratados de \nforma errada, acabam contaminando o solo, o que resulta em passivos ambientais.\nUma vez constatada a contaminação do solo por metais pesados, a equipe gestora da área deverá usar a \ntécnica de\nA fitorremediação, que consiste no uso de vegetação para absorção desses poluentes.\nB injeção de oxigênio úmido no solo, o que causa a oxidação completa desses poluentes.\nC biorremediação, que é o uso de microrganismos vivos para eliminar os metais pesados.\nD mobilização in situ, que consiste em lavagem do solo e extração dos poluentes por solvente.\nE foto-Fenton, que consiste na adição de cátions de ferro no solo e uso de radiação UV para eliminação \ndos contaminantes.\n*R05202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Engenharia Ambiental"
     }
@@ -496,8 +832,15 @@
       "numero": 31,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3404,
       "texto": "QUESTÃO 31 \nA constatação dos efeitos, em geral, negativos, causados ao meio ambiente por meio de atividades antrópicas, \nfez com que fossem criadas normas e condições básicas para que um empreendimento pudesse apropriar-se \nde uma área em determinado espaço, visando não causar significativas modificações no meio ambiente bem \ncomo preservar os recursos naturais.\nNesse contexto, formularam-se os métodos de Avaliação de Impacto Ambiental (AIA), que, por excelência, \nse dedicam a fazer predições dos efeitos de determinado empreendimento em curto, médio e longo prazo.\nDisponível em: https://periodicos.ufsm.br/index.php/remoa/article/view/14689. Acesso em: 10 jul. 2023 (adaptado).\nSabendo que os métodos de avaliação dos impactos ambientais existentes possuem particularidades \ne são utilizados conforme as necessidades, a disponibilidade de dados ou o tipo de empreendimento, \nassinale a opção em que se descreve corretamente o método identificado.\nA Ad hoc: inicia-se com uma reunião de especialistas, para avaliações rápidas, sendo de baixo custo e \nde alto grau de subjetividade; é elaborado especificamente para cada projeto, no qual os impactos \nsão verificados por meio de brainstorming, isto é, de uma “tempestade de ideias” promovida pelos \nenvolvidos no estudo, utilizando-se de ferramentas como tabelas e matrizes.\nB Check-list: listagem dos fatores e impactos ambientais para realizar o diagnóstico ambiental e \nas comparações com possíveis ações alternativas; tem como principal vantagem a identificação \ndos impactos diretos, expostos de forma concisa, organizada e compreensiva, contudo, apresenta \nalgumas desvantagens, como a interação entre os fatores ambientais e a não identificação dos \nimpactos secundários.\nC Matrizes de interação: consistem em uma listagem de controle bidimensional, para identificação de \nimpactos indiretos; como principal vantagem, apresenta a fácil compreensão na comunicação dos \nresultados e, como desvantagem, a não identificação das inter-relações, o que favorece a ocorrência \nde dupla contagem ou de subestimativas dos impactos.\nD Sobreposição de cartas (overlay mapping): é útil para estudos que envolvem alternativas de localização \ne outras questões de dimensão espacial; vem sendo muito utilizada para AIA de projetos lineares; \napresenta como vantagens a visualização da relação espacial dos fatores ambientais e a identificação \ndos impactos, além da apresentação de impactos de segunda e terceira ordens; e, como desvantagem, \no uso limitado pela superposição de vários mapas.\nE Modelos matemáticos: são utilizados para diagnósticos e prognósticos da qualidade ambiental; \nde caráter qualitativo, o método apresenta como vantagem o fornecimento de boas informações \npara caracterizar as situações ambientais e a previsão dos impactos; entre as desvantagens, estão o \nexcessivo trabalho preparatório e os problemas na identificação de impactos secundários.\n*R05202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 33"
     }
@@ -507,8 +850,15 @@
       "numero": 32,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1244,
       "texto": "QUESTÃO 32 \nA Política Nacional de Recursos Hídricos (PNRH) determina que todos os usos que alterarem a \nqualidade, a quantidade e o regime existente nos corpos d’água estão sujeitos à outorga. Dispõe, ainda, \nque cabe ao Poder Executivo Federal, aos estados ou ao Distrito Federal a emissão da outorga, por \nmeio de entidades competentes para tal fim. Com a publicação da Lei n. 9 984, de 17 de julho de 2000, \nfoi criada a Agência Nacional de Águas (ANA), como a entidade responsável pela implementação da PNRH.\nDisponível em: https://dibrarq.arquivonacional.gov.br/index.php/agencia-nacional-de-aguas. \nAcesso em: 12 jun. 2023 (adaptado).\nDe acordo com as informações apresentadas e o disposto na Lei Federal n. 9 433/1997, que instituiu a \nPNRH, é correto afirmar que independe de outorga\nA o uso de recursos hídricos para aproveitamento hidrelétrico.\nB a extração de água subterrânea (poço tubular profundo) para uso industrial.\nC o uso de água subterrânea para pequenos núcleos populacionais em meio rural.\nD a derivação ou captação de água superficial (rio, córrego, mina ou nascente) para qualquer finalidade.\nE o lançamento de pequenas vazões de esgotos e demais resíduos líquidos em corpos d’água superficiais, \ncom o fim de diluição."
     }
@@ -518,6 +868,13 @@
       "numero": 33,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1722,
@@ -529,8 +886,15 @@
       "numero": 34,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1919,
       "texto": "QUESTÃO 34 \nA degradação da fração orgânica dos resíduos sólidos urbanos (RSU) ocorre por meio de diversos \nprocessos químicos, físicos e biológicos; e é determinada por vários fatores, como: temperatura, \numidade, reações químicas, cinética, geração de gases e líquidos.\nO gráfico a seguir apresenta esquematicamente a produção de gases a partir de RSU em função do tempo.\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nComposição do gás (% em volume)\nTempo decorrido após a disposição\n55%\n40%\n5%\nI II III IV\nCO2\nCH4\nN2\nH2\nO2\nBOSCOV, M. E. G. Geotecnia Ambiental. São Paulo: Oficina de Textos, 2008, p. 40.\nCom base nos dados apresentados, considerando a composição dos gases gerados a partir da \ndecomposição da matéria orgânica, avalie as afirmações a seguir, a respeito das fases do processo \nindicadas no gráfico.\nA I – aeróbia; II – anaeróbia metanogênica não estabilizada; III – anaeróbia ácida; IV – anaeróbia \nmetanogênica estabilizada.\nB I – aeróbia; II – anaeróbia metanogênica não estabilizada; III – anaeróbia metanogênica estabilizada; \nIV – aeróbia ácida.\nC I – aeróbia; II – anaeróbia ácida; III – anaeróbia metanogênica não estabilizada; IV – anaeróbia \nmetanogênica estabilizada.\nD I – anaeróbia metanogênica não estabilizada; II – aeróbia; III – aeróbia ácida; IV – anaeróbia \nmetanogênica estabilizada.\nE I – aeróbia ácida; II – aeróbia; III – anaeróbia metanogênica estabilizada; IV – anaeróbia \nmetanogênica não estabilizada.\n*R05202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Ambiental 35"
     }
@@ -540,8 +904,15 @@
       "numero": 35,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2740,
       "texto": "QUESTÃO 35 \nA escolha do processo de tratamento de esgoto a ser adotado deve considerar aspectos técnicos \ne financeiros, objetivando o atendimento da realidade local.\nA tabela a seguir apresenta uma comparação entre diferentes etapas e sistemas de tratamento de \nesgoto e suas características típicas.\nEficiência de remoção (%) Requisitos\nEtapas e \nsistemas de tratamento Matéria orgânica Patógenos\nÁrea Potência\n(m2 hab-1) (W hab-1)\nTratamento preliminar 0-5 ~0 <0,001 ~0\nTratamento primário 35-40 30-40 0,03-0,05 ~0\nLagoas sem aeração 80-90 60-99,9 1,5-5,0 ~0\nDisposição no solo 85-99 90-99 1-50 ~0\nSistemas anaeróbios 60-90 60-90 0,05-0,4 ~0\nLagoas com aeração 70-90 60-99 0,2-2,5 1-1,7\nFiltros biológicos 80-93 60-90 0,15-0,7 0,2-1,6\nLodos ativados 85-98 60-90 0,2-0,35 1,5-4,0\nVON SPERLING, M; COSTA, A. M. L. M; CASTRO, A. A. Esgotos Sanitários. In: BARROS, R. T. V; CHERNICHARO, C. A. L.; HELLER, \nL.; VON SPERLING, M. Manual de saneamento e proteção ambiental para os municípios. \n Belo Horizonte: Editora UFMG, 1995 (adaptado).\nCom base nas informações apresentadas, é correto afirmar que os sistemas\nA de lagoas com aeração são adequados para as situações em que a população a ser atendida \npossui poucos recursos financeiros e de mão-de-obra especializada, e alta disponibilidade de área; \nquando se tem pouca disponibilidade de área, os filtros biológicos devem substituir tais sistemas.\nB de lodos ativados devem ser seguidos por sistemas anaeróbios para melhorar sua capacidade \nde remoção de organismos patogênicos; os dois sistemas apresentam baixa demanda de área: \no primeiro requer alta demanda de energia, e o segundo, baixa demanda de energia, o que explica a \nvantagem dessa combinação.\nC anaeróbios são, geralmente, mais baratos em termos energéticos e demandam pouca área, \nporém necessitam de sistema complementar de tratamento para a remoção de matéria orgânica.\nD de tratamento preliminar são inadequados para tratamento de esgoto porque apresentam baixa \neficiência de remoção de matéria orgânica, sendo necessário combiná-los com os sistemas de \ntratamento primário, mediante os quais a remoção dessa matéria é suficiente.\nE de disposição no solo demandam pouca área quando comparados com os sistemas de lagoas \nsem aeração.\n*R05202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Engenharia Ambiental"
     }
@@ -551,6 +922,13 @@
       "numero": 36,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2802,
@@ -562,8 +940,15 @@
       "numero": 37,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1724,
       "texto": "QUESTÃO 37 \nA Lei n. 12 305, de 2 de agosto de 2010, que instituiu a Política Nacional de Resíduos Sólidos (PNRS), \ninstituída pelo Decreto n. 10 936/2022, define Logística Reversa como um instrumento de desenvolvimento \neconômico e social caracterizado por um conjunto de ações, procedimentos e meios destinados a viabilizar \na coleta e a restituição dos resíduos sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou \nem outros ciclos produtivos, ou para outra destinação final ambientalmente adequada.\nDisponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm. \nAcesso em: 1º jul. 2023 (adaptado).\nCom relação ao sistema de Logística Reversa, assinale a opção correta.\nA Todos os resíduos sólidos estão sujeitos ao sistema de Logística Reversa.\nB A economia linear e a economia circular são compatíveis com o conceito de Logística Reversa.\nC As cooperativas de catadores que praticam a economia solidária devem estar inseridas nos sistemas \nde Logística Reversa.\nD Os materiais reciclados por catadores não são compatíveis com os objetivos dos sistemas de \nLogística Reversa.\nE Na Logística Reversa, o retorno de produtos, após o uso pelo consumidor, deve incluir o serviço \npúblico de manejo de resíduos sólidos.\n*R05202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38"
     }
@@ -573,8 +958,15 @@
       "numero": 38,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2615,
       "texto": "QUESTÃO 38 \nO território do Brasil abriga aproximadamente um terço das florestas tropicais do planeta e mais de um \nmilhão e meio de espécies em seus biomas. A formação dos biomas do Brasil, conforme figura a seguir, \nrepresenta o conjunto das espécies animal e vegetal que predominam nesses ambientes.\nBENEDICTO, M. Biodiversidade brasileira. Revista Retratos, Rio de Janeiro, n. 6, p. 1-28, dez. 2017 (adaptado).\nBiomas\nAmazônia\nCaa�nga\nCerrado\nMata Atlân�ca\nPampa\nPantanal\nEsc. 1:12.000.000\nProteção Policênica\nDatum SIRGAS 2000\nMeridiano de retratação: 54°W. Gr.\nParalelo de Retenção: 0°\n0 200 400 600 800 1.000\nKm\nMTRO\nPA\nAPRR\nAM\nPerú\nUruguay\nParaguay\nColombia\nVenezuela Guyana Guyane\nSuriname\nAC\nMA CE RN\nPB\nPEALSE\nBA\nTO\nGO\nDFDF\nMG\nRJ\nES\nSP\nMS\nPR\nSC\nRS\nPI\nDisponível em: https://geoftp.ibge.gov.br/estudos_ambientais/biomas/mapas/biomas \n_e_sistemas_costeiro_marinho_250mil. Acesso em: 24 ago. 2023 (adaptado).\nConsiderando a contextualização e a figura apresentada sobre os biomas do território nacional, \nassinale a opção correta.\nA O Cerrado é reconhecido como a Savana mais rica do mundo em biodiversidade, ainda que a cobertura \nvegetal natural tenha dado lugar à pecuária e à agricultura intensiva, depois da transferência da capital \nfederal do Rio de Janeiro para Brasília e da abertura de uma nova rede rodoviária.\nB A Mata Atlântica é reconhecida por se localizar na região litorânea, ocupada por mais de 50% \nda população brasileira, e é o bioma do Brasil com cobertura florestal original mais preservada.\nC O Pampa é o único bioma exclusivo do Brasil, ocupa aproximadamente 2% do território nacional e se \ncaracteriza por clima chuvoso, sem período seco, com baixas temperaturas no inverno, o que influencia \na vegetação.\nD A Caatinga é o segundo maior bioma do Brasil, com uma vegetação adaptada ao clima árido, \ne possui uma biodiversidade restrita porque parte de sua variedade biológica não é encontrada em \nnenhum outro lugar do mundo.\nE O Pantanal é um dos biomas brasileiros mais alterados porque a criação de gado é uma das \natividades economicamente importantes para a região, aliada às de turismo.\n*R05202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
     }

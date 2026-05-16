@@ -1,0 +1,428 @@
+====================================================================================================
+QUESTÃO 1
+GABARITO: D
+STATUS: fora_escopo
+CONFIANÇA: alta
+ESTRATÉGIA: corte_por_comando
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
+ALTERNATIVAS COMPLETAS: True
+OBSERVAÇÃO: QUESTAO EM PAGINA COM ELEMENTO VISUAL
+
+ENUNCIADO:
+A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
+I. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta
+
+ALTERNATIVAS:
+A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da
+I.
+B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da
+I.
+C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E) As asserções I e II são proposições falsas.
+
+TEXTO BRUTO:
+QUESTÃO 01 
+ A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com 
+elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem 
+multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas 
+e ambientais envolvidas na produção e na distribuição de alimentos.
+Foto: Unicef/Sayed Bidel. Impacto dos confl itos sobre 
+pessoas mais vulneráveis.
+Foto: FAO/Anatolii Stepanov. Colheita de trigo perto 
+da vila de Krasne, na Ucrânia.
+ 
+ Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.
+ Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.
+ Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
+I. A fome no mundo é um fenômeno biológico e sociológico inevitável.
+ PORQUE
+II. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação 
+de cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a 
+segurança alimentar de um grande número de populações.
+ A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas. 
+*3**R2220233*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP
+4 Zootecnia
+LOGO
+4 MATÉRIA
+
+====================================================================================================
+QUESTÃO 2
+GABARITO: D
+STATUS: completa
+CONFIANÇA: alta
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
+ALTERNATIVAS COMPLETAS: True
+
+ENUNCIADO:
+O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.
+I. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.
+II. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.
+III. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.
+IV. O aumento da incidência de doenças transmitidas pela água resulta não somente da inadequação dos serviços de saneamento, mas também da precariedade das condições de moradia da população em situação de vulnerabilidade. É correto apenas o que se afirma em
+
+ALTERNATIVAS:
+A) I e II.
+B) I e IV.
+C) II e III.
+D) I, III e IV.
+E) II, III e IV.
+
+TEXTO BRUTO:
+QUESTÃO 02 
+ O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento 
+sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo 
+de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais 
+e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são 
+acessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os 
+segmentos populacionais em situação de vulnerabilidade.
+ O atendimento integral e universalizado junto às populações periféricas e em situação de 
+vulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos 
+subsidiados e permanentes.
+Disponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. 
+Acesso em: 22 jun. 2023 (adaptado) .
+ Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.
+I. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das 
+barreiras para a universalização do acesso aos serviços de saneamento básico.
+II. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de 
+infraestrutura que o sistema de coleta e tratamento do esgoto.
+III. A universalização do acesso aos serviços de saneamento básico requer investi mentos em 
+políti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às 
+populações em situação de vulnerabilidade.
+IV. O aumento da incidência de doenças transmiti das pela água resulta não somente da 
+inadequação dos serviços de saneamento, mas também da precariedade das condições de 
+moradia da população em situação de vulnerabilidade.
+ É correto apenas o que se afi rma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.
+*4* LOGO
+MATÉRIA 5
+
+====================================================================================================
+QUESTÃO 3
+GABARITO: B
+STATUS: fora_escopo
+CONFIANÇA: alta
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
+ALTERNATIVAS COMPLETAS: True
+OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
+
+ENUNCIADO:
+Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante
+90%
+95%
+95%
+95%
+95%
+95%
+95%
+Meta de
+vacinação
+BCG
+Tríplice Viral D1
+Tríplice Viral D2
+Tetraviral (SRC+VZ)
+Poliomielite
+Febre Amarela
+Hepate A
+Percentual de vacinação em crianças menores de 1 ano
+99,72
+97,98
+92,61
+86,24
+76,89
+72,94
+33,26
+35,44
+89,54
+84,24
+59,50
+47,37
+82,69
+78,94
+2018 2019 2020 2021
+86,67
+74,03
+65,93
+76,05
+67,13
+55,56
+64,50
+57,20
+75,02
+93,12
+79,57
+70,94
+62,82
+49,62
+20,71
+5,70
+81,55
+34,24
+84,19
+62,41
+85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.
+
+ALTERNATIVAS:
+A) O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.
+B) A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.
+C) A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.
+D) O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
+E) A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico.
+
+TEXTO BRUTO:
+QUESTÃO 03 
+ Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a 
+Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de 
+vacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se 
+crianças com menos de um ano de idade.
+ Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que 
+já estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação 
+para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as 
+crianças, como a poliomielite, a meningite, a rubéola e a di� eria.
+ O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, 
+no período de 2017 a 2021.
+ 
+Imunizante
+90%
+95%
+95%
+95%
+95%
+95%
+95%
+Meta de
+vacinação
+BCG
+Tríplice Viral D1
+Tríplice Viral D2
+Tetraviral (SRC+VZ)
+Poliomielite
+Febre Amarela
+Hepa�te A
+Percentual de vacinação 
+em crianças menores de 1 ano
+2017
+99,72
+97,98
+92,61
+86,24
+76,89
+72,94
+33,26
+35,44
+89,54
+84,24
+59,50
+47,37
+82,69
+78,94
+2018 2019 2020 2021
+86,67
+74,03
+65,93
+76,05
+67,13
+55,56
+64,50
+57,20
+75,02
+93,12
+79,57
+70,94
+62,82
+49,62
+20,71
+5,70
+81,55
+34,24
+84,19
+62,41
+85,02
+Disponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. 
+Acesso em: 23 de jun. 2023 (adaptado).
+ Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.
+A O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte 
+do período de 2017 a 2021.
+B A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo 
+desempenho das políti cas públicas de atenção primária em saúde.
+C A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice 
+vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.
+D O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o 
+índice registrado em 2017, revela que as campanhas de conscienti zação da população foram 
+bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
+E A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter 
+alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o 
+aumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .
+*5**R2220234*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+Zootecnia 5
+LOGO
+4 MATÉRIA
+
+====================================================================================================
+QUESTÃO 4
+GABARITO: A
+STATUS: completa
+CONFIANÇA: alta
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
+ALTERNATIVAS COMPLETAS: True
+
+ENUNCIADO:
+TEXTO 1
+A Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa
+
+ALTERNATIVAS:
+A) proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.
+B) restringe o aprendizado ao que é legalmente estabelecido e útil ao ser humano, o que facilita seu modo de agir no mundo do conhecimento e do trabalho.
+C) promove a igualdade econômico-social ao substituir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.
+D) gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.
+E) estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas.
+
+TEXTO BRUTO:
+QUESTÃO 04 
+ TEXTO 1
+ A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender 
+por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de 
+intervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e 
+textos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar 
+modelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, 
+auxiliar no diagnósti co de doenças.
+ Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-
+como-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).
+ TEXTO 2
+ Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente 
+a maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar 
+importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão 
+ser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões 
+éti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto 
+entre indivíduos da mesma nação.
+ Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. 
+Acesso em: 2 ago. 2023 (adaptado).
+ Considerando os textos apresentados, é correto afi rmar que a IA generati va
+A proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações 
+próprias dos seres humanos.
+B restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu 
+modo de agir no mundo do conhecimento e do trabalho.
+C promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas 
+ati vidades sejam repeti ti vas e exijam pouco conhecimento.
+D gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, 
+neles, os processos de criação e inovação já estão bem consolidados.
+E esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do 
+conhecimento, resolvendo problemas antes delegados apenas a especialistas.
+*6* LOGO
+MATÉRIA 7
+
+====================================================================================================
+QUESTÃO 5
+GABARITO: E
+STATUS: fora_escopo
+CONFIANÇA: alta
+ESTRATÉGIA: sequencia_alternativas_global
+ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
+ALTERNATIVAS COMPLETAS: True
+OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL
+
+ENUNCIADO:
+Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.
+Atenta Desconfortável
+Livre
+Apertada Em alerta
+Observada
+Um pouco mais segura
+Atenta aos assédios
+Nem ﬁco, tenho medo
+Ansiosa Péssima
+Cansada
+Insegura
+não ando
+Insegura
+Desconﬁada
+Passo correndoEm pânico
+Ando a pé
+Ando de bicicleta
+Pego o ônibus
+Ando de Metrô
+Ando de trem
+Frequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.
+I. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.
+II. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.
+III. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em
+
+ALTERNATIVAS:
+A) I, apenas.
+B) III, apenas.
+C) I e II, apenas.
+D) II e III, apenas.
+E) I, II e III.
+
+TEXTO BRUTO:
+QUESTÃO 05 
+ Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de 
+monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, 
+perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. 
+As respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.
+Atenta Desconfortável
+Livre
+Apertada Em alerta
+Observada
+Um pouco mais segura
+Atenta aos assédios
+Nem ﬁco, tenho medo
+Ansiosa Péssima
+Cansada
+Insegura
+Não ando
+Insegura
+Desconﬁada
+Passo correndoEm pânico
+Ando a pé
+Ando de bicicleta
+Pego o ônibus
+Ando de Metrô
+Ando de trem
+Frequento o 
+espaço público
+ Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, 
+Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero 
+e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).
+ Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das 
+necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as 
+afi rmações a seguir.
+I. A predominância de comentários negati vos indica o medo generalizado que as mulheres 
+sentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no 
+espaço urbano.
+II. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação 
+nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco 
+mais seguro para as mulheres, em comparação com outras formas de mobilidade.
+III. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem 
+e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a 
+parti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das 
+mulheres no espaço urbano.
+ É correto o que se afi rma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.
+*7**R2220236*
+VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023
+VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP
+Zootecnia 7
+LOGO
+6 MATÉRIA
+

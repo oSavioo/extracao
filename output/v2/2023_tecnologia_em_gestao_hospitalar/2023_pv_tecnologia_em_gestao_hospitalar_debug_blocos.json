@@ -1,0 +1,974 @@
+{
+  "1": [
+    {
+      "numero": 1,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2155,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2620233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Gestão Hospitalar\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 1,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 210,
+      "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
+    },
+    {
+      "numero": 1,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 4339,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R2620232*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 3\nLOGO\n2 MATÉRIA\nQUESTÃO DISCURSIVA 01 \n Na publicação Síntese de Indicadores Sociais, divulgada pelo Insti tuto Brasileiro de Geografi a \ne Estatí sti ca (IBGE) em 2022, é sistemati zado um conjunto de informações sobre a realidade \nsocial brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspecti va das \ndesigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil \nregistraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% \nda população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os \nmaiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador \nque permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu \nvalor elevado e ati ngiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece \nentre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na \nexpansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades \nterritoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, \nmarcada pela estrati fi cação e segregação socioespacial, que se consolida a exclusão da população \nvulnerabilizada socioeconomicamente.\n Disponível em: htt ps://agenciadenoti cias.ibge.gov.br/agencia-noti cias/2012-agencia-de-noti cias/noti cias/\n35687-em-2021-pobreza-tem-aumento-recorde-e-ati nge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012. \nAcesso em: 9 jun. 2023 (adaptado).\n A parti r das ideias apresentadas no texto, faça o que se pede nos itens a seguir.\na) Explique a relação entre o perfi l da população brasileira ati ngida pelas desigualdades sociais nas \ncidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições \nhabitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam \nação governamental e parti cipação da comunidade. (valor: 5,0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nFORMAÇÃO GERAL\n*2* LOGO\nMATÉRIA 3"
+    }
+  ],
+  "2": [
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 142,
+      "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
+    }
+  ],
+  "3": [
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3067,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R2620234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 5\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3063,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R2620235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Tecnologia em Gestão Hospitalar\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 236,
+      "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
+    }
+  ],
+  "4": [
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 309,
+      "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
+    }
+  ],
+  "5": [
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2548,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2620236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 7\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2548,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R2620237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Tecnologia em Gestão Hospitalar\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 352,
+      "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
+    }
+  ],
+  "6": [
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 131,
+      "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "7": [
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2029,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R2620239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Tecnologia em Gestão Hospitalar\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2027,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R2620238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 9\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 199,
+      "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
+    }
+  ],
+  "8": [
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 138,
+      "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "9": [
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1832,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R26202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 11\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 901,
+      "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n26\n*R26202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
+    },
+    {
+      "numero": 9,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 4009,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R26202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Tecnologia em Gestão Hospitalar\nQUESTÃO DISCURSIVA 02 \nA pandemia de Covid-19 exigiu que, no mundo, as autoridades de saúde construíssem mecanismos \nde monitoramento da doença, os quais orientariam o planejamento das ações de combate e controle \ndessa enfermidade.\nA introdução de estratégias e tecnologias em saúde para o combate à Covid-19 requereu um contínuo \nprocesso de gestão e avaliação dessas tecnologias, envolvendo a análise de segurança, eficácia, \nefetividade, custo-efetividade, implicações éticas e sociais dos produtos, equipamentos, procedimentos \nterapêuticos e sistemas de apoio à tomada de decisão acerca das soluções desenhadas.\nA figura a seguir apresenta o ciclo de vida da Tecnologia em Saúde.\nConsiderando o texto e a imagem apresentados, faça o que se pede nos itens a seguir\na) Explique as fases do processo de aceitação de uma tecnologia em saúde (valor: 5,0 pontos).\nb) Descreva uma tecnologia digital utilizada na Atenção Primária para o controle epidemiológico da \nCovid-19 e as contribuições advindas de seu uso (valor: 5,0 pontos).\nIntensidade\nde uso\nTempo\nInovação\nDifusão inicial\nIncorporação\nAbandono\nUtilização em\nlarga escala\nCOMPONENTE ESPECÍFICO\n*R26202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 13\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R26202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "10": [
+    {
+      "numero": 10,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2932,
+      "texto": "QUESTÃO 10 \nO novo diretor geral de um hospital, que teve início em uma clínica pediátrica, com objetivo de \nenfrentar a crise financeira da organização, constatou que a instituição gerenciava os custos da \nprestação de serviços de forma global, ou seja, administrava os gastos de cada setor a partir do \nresultado geral da organização. Desse modo, criou centros de custos, que abrangiam os 9 600 m 2 do \nprédio e alocou todos os locais do hospital nestes centros de custos.\nCentros de custo, locais e respectiva metragem\nCentro de custo Local m2\nAdministração Administração 250\nAdministração Alojamento de Funcionários 100\nAdministração Refeitório dos funcionários 350\nCentro de Imagem Radiologia 50\nCentro de Imagem Eletrocardiografia 100\nCentro de Imagem Eletroencefalografia 110\nCentro de Imagem Tomografia 80\nCentro de Imagem Ultrassonografia 80\nPróteses e Órteses Almoxarifado 100\nPróteses e Órteses Atendimento 50\nPróteses e Órteses Administração 80\nPediatria Unidade de Internação 400\nPediatria Ambulatório 250\nLavanderia Rouparia 80\nLavanderia Costura 30\nServiço de Arquivo Médico e \nEstatístico (SAME) Arquivo 50\nServiço de Arquivo Médico e \nEstatístico (SAME) Atendimento 30\nMaternidade Berçário 150\nMaternidade Centro Obstétrico 210\nMaternidade Unidade de Internação 600\nOutros Centros de Custos Diversos 6 450\nTotal da metragem dos Centros de Custos 9 600\n*R26202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 15\nCom base na utilização do método por absorção de gestão de custos e tendo como direcionador dos \ncálculos a metragem física dos centros de custos, avalie as afirmações a seguir\nI. A maternidade teria que suprir, com suas receitas, o valor de R$ 18 000,00 da fatura mensal de \nenergia elétrica, considerando que a fatura do mês do hospital foi de R$ 180 000,00.\nII. As despesas com material de limpeza do local onde se aloja a administração do hospital foram \ncontabilizadas, no último mês, com o valor de R$ 71,91, considerando que as despesas globais do \nhospital com material de limpeza totalizaram R$ 2 766,00.\nIII. A decisão da direção de destinar 15% da verba de manutenção estética para a pediatria deve \nser refutada, pois o hospital foi iniciado com a clínica pediátrica, merecendo esse centro os \n40% dessa verba, mesmo que a decisão tivesse como fundamento o fato de o centro de custo em \nquestão ter contribuído com 15% das receitas do hospital.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "11": [
+    {
+      "numero": 11,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2027,
+      "texto": "QUESTÃO 11 \nDiante do cenário de pandemia da Covid-19, a importância da gestão de custos tornou-se evidente para \no setor hospitalar. Ter uma estratégia para organizar os gastos hospitalares contribui para a manutenção \ne eficiência do sistema das organizações de saúde pública e privada.\nOLIVEIRA, R. B.; OLIVEIRA, C. E.; OLIVEIRA, R. M. Reflexos da Covid-19 na gestão dos custos hospitalares. \n XXIX Congresso Brasileiro de Custos, João Pessoa, Brasil, 16 a 18 de novembro de 2022 (adaptado).\nCompreendendo que o faturamento hospitalar constitui um processo que auxilia no gerenciamento dos \nrecursos financeiros e da sustentabilidade econômica, avalie as afirmações a seguir.\nI. A captura de dados para a cobrança deve ser feita diretamente do prontuário do paciente, \npelo setor de faturamento, evitando-se cobranças indevidas e utilização inadequada de recursos.\nII. As condições que resultem em glosas inadequadas podem ser analisadas, preventivamente, \nno processo de faturamento, evitando-se que o repasse financeiro à instituição prestadora de \nserviço seja menor que a produção de tal instituição.\nIII. O faturamento em média e alta complexidade, no Sistema Único de Saúde (SUS), \npode ser realizado por meio de Autorização de Internação Hospitalar (AIH), Boletim de Pronto \nAtendimento (BPA) e Autorização de Procedimento de Alta Complexidade (APAC), a serem \npreenchidos pelos profissionais da área da saúde.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "12": [
+    {
+      "numero": 12,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2344,
+      "texto": "QUESTÃO 12 \nA atuação da Agência Nacional de Saúde Suplementar (ANS) visa não somente à garantia da prestação \ne de qualidade dos serviços contratados, mas também o desenvolvimento do mercado como um todo. \nNo que tange aos preços praticados, vale destacar que a regulação a esse respeito não prevê sua \nfixação pela agência. Além do acompanhamento dos preços, a ANS tem mandato para definir o reajuste \nmáximo do preço dos planos de saúde individuais, por exemplo: preços e reajustes são livres no caso \ndos planos coletivos.\nSILVA, G. L.; ROCHA, C. H.; BRITTO, P . A. P . de. Performance financeira no setor de saúde suplementar: uma análise da variância \nda rentabilidade das operadoras de saúde no Brasil. Revista Gestão & Saúde, v. 12, n. 1, p. 53-67, 2021 (adaptado).\nAcerca do tema apresentado, avalie as afirmações a seguir.\nI. As operadoras de saúde precisam lidar com beneficiários que contestam reajustes, questionam \ncláusulas e solicitam reembolsos a qualquer tempo, o que impacta o fechamento das contas, \npois os resultados dessas ações implicam receitas ou despesas da operadora.\nII. Os canais de comunicação entre operadora de saúde e prestadores de serviço devem ser abertos \napós o período de carência, visto que a operadora estabelece os limites de cobertura e fornece \ninformações e alertas, de forma educativa, a seus prestadores de serviço, o que evita gastos \ndesnecessários ou não previstos em contrato.\nIII. Os dados complementares de qualquer beneficiário que se submete a consultas, exames ou \noutro procedimento devem ser informados pela operadora de saúde, no intuito de se verificar \nse a justificativa para o serviço solicitado é coerente e aceitável nos limites dos contratos \nestabelecidos pelas partes.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 17"
+    }
+  ],
+  "13": [
+    {
+      "numero": 13,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2031,
+      "texto": "QUESTÃO 13 \nNo contexto do Sistema Único de Saúde (SUS), a Rede de Atenção Psicossocial (RAPS) tem como \nobjetivos estabelecer, expandir e articular os pontos de atenção à saúde de pessoas que enfrentam \nsofrimento ou transtorno mental, bem como daqueles com necessidades relacionadas ao uso de \nsubstâncias como crack, álcool e outras drogas. Nesse sentido, as diretrizes e as estratégias de atuação no \ncampo da assistência à saúde mental no Brasil envolvem o Governo Federal, os Estados e os Municípios.\nDisponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/ \nrede-de-atencao-psicossocial-raps. Acesso em: 29 jun. 2023(adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. Uma das diretrizes da Rede de Atenção Psicossocial (RAPS) é a promoção da universalidade, \nreconhecendo-se os determinantes sociais da saúde.\nPORQUE\nII. A promoção da universalidade é um dos princípios fundamentais do Sistema Único de Saúde \n(SUS) e está intrinsecamente ligada aos conceitos de igualdade e justiça social.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R26202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "14": [
+    {
+      "numero": 14,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 3608,
+      "texto": "QUESTÃO 14 \nTEXTO 1\nA administração é profundamente influenciada pelas pressuposições implícitas ou explícitas a respeito \nda natureza das pessoas, sendo a disciplina e a motivação decorrentes dessas ideias. McGregor \nidentificou dois conjuntos de pressuposições, os quais denominou Teoria X e Teoria Y . A Teoria X, \ndenominada abordagem tradicional, abrange convicções negativas a respeito das pessoas e influencia \no estilo de administração dos gerentes, moldando-os em características autocráticas e impositivas. Em \noposição, a Teoria Y , conhecida como a abordagem moderna, possui convicções positivas que levam os \ngerentes a assumirem uma postura democrática e consultiva.\nCHIAVENATO, I. Gestão de pessoas: o novo papel dos recursos humanos nas organizações. 4. ed. \nSão Paulo: Manole, 2014 (adaptado).\nTEXTO 2\nEficácia: o conceito está relacionado ao atingimento dos objetivos desejados.\nEficiência: mais importante que o alcance dos objetivos estabelecidos é deixar explícito como esses \nforam atingidos.\nEfetividade: a preocupação central é averiguar a real necessidade e oportunidade de determinadas \nações estatais, deixando claro quais setores são beneficiados em detrimento de outros atores sociais. \nEste conceito não se relaciona estritamente com a ideia de eficiência, que tem conotação econômica \nmuito forte, haja vista que nada mais impróprio para a administração pública do que fazer com \neficiência o que simplesmente não precisa ser feito.\nTORRES, M. D. F. Estado, democracia e administração pública no Brasil. Rio de Janeiro: Editora FGV, 2004 (adaptado).\nConsiderando os textos apresentados, avalie as afirmações a seguir.\nI. A gerência de enfermagem do setor B de um hospital, adepta da Teoria X, considera que os \ntécnicos de enfermagem são pessoas com pouca motivação e, portanto, precisam ser dirigidos, \ncoagidos e ameaçados para realizarem os registros em prontuários, sendo essa situação um \nexemplo de gestão focada na eficácia, pois os prontuários não apresentam erros ou omissões.\nII. A gerência da farmácia central de um hospital, adepta da Teoria X, realiza o monitoramento \ne o controle rigorosos das ações dos técnicos do setor, pois acredita que eles não podem ser \ndeixados sem supervisão, uma vez que remédios são caros e precisam de controle total, sendo essa \nsituação um exemplo de eficiência, já que não há registros de extravios de medicamentos.\nIII. A direção clínica de um hospital, adepta da Teoria Y , determina que o trabalho dos médicos \nresidentes deve ser esquematizado e fragmentado, para proporcionar a simplificação das tarefas, \no que demonstra linhas claras de autoridade e comando hierárquico, sendo essa situação um \nexemplo de efetividade.\nIV. A supervisão da lavanderia de um hospital, adepta da Teoria Y , incentiva seus subordinados a \nserem criativos e assumirem responsabilidades, o que faz com que predomine visão mais aberta \ne humana das pessoas e da atividade laboral, sendo essa situação um exemplo de eficiência.\nÉ correto o que se afirma em\nA I e III, apenas.\nB I e IV, apenas.\nC II e III, apenas.\nD II e IV, apenas.\nE I, II, III e IV.\n*R26202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 19"
+    }
+  ],
+  "15": [
+    {
+      "numero": 15,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2317,
+      "texto": "QUESTÃO 15 \nA saúde dos cidadãos economicamente ativos é compreendida a partir das relações estabelecidas pelo \nprocesso de saúde-doença resultante das condições de trabalho e de vida de cada um. O cenário em \nque se expressam a saúde e a atividade laboral vem sofrendo transformações, e as determinações que \nincidem no bem-estar do trabalhador estão, na contemporaneidade, fundamentalmente relacionadas \nàs novas modalidades de trabalho e aos processos mais dinâmicos de produção implementados pelas \ninovações tecnológicas e pelas atuais formas de organização e de gestão.\nMENDES, J. M. R. et al. Saúde do trabalhador: desafios na efetivação do direito à saúde. \n Argumentum, Vitória, v. 7, n. 2, p. 194-207, jul./dez. 2015 (adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. Um gestor deve organizar os recursos disponíveis da melhor forma possível para alcançar a \nqualidade dos processos e dos serviços oferecidos aos clientes/pacientes em uma instituição de \nsaúde e, ao mesmo tempo, atender aos objetivos e às estratégias organizacionais.\nPORQUE\nII. Os recursos humanos são importantes no processo de gestão em uma instituição de saúde e, \nportanto, na forma como o gestor dispõe deles, deve ser considerado integralmente o fato de os \ntrabalhadores executarem suas atividades em meio gerador de doenças.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R26202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "16": [
+    {
+      "numero": 16,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2420,
+      "texto": "QUESTÃO 16 \nUm gestor, insatisfeito com a avaliação do serviço de sua unidade ambulatorial, decidiu avaliar as causas da \nqueixa mais recorrente entre os usuários do serviço, que foi o tempo de espera excessivo para se consultar. \nPara isso, aplicou uma pesquisa entre profissionais e usuários para saber as opiniões sobre as causas \ndesse atraso e elaborou um gráfico com os dados da pesquisa, apresentado a seguir.\nAnálise das causas do tempo de espera excessivo para consulta agendada \nem uma unidade de atendimento ambulatorial.\nAtraso do \nproﬁssional\nAusência de um\ngerenciador de ﬁla\nde espera\nFalhas na\nrecepção\nAtrasos no apoio\nlogístico\nOutros\nN° de respondentes % Acumulado\n40\n35\n30\n25\n20\n15\n10\n5\n0\n80,0\n90,0\n100,0\n70,0\n60,0\n50,0\n40,0\n30,0\n20,0\n10,0\n0,0\n%\nConsiderando que o Diagrama de Pareto é uma ferramenta de gestão da qualidade, avalie as afirmações \na seguir.\nI. O uso do gráfico apresentado tem como finalidade identificar o problema principal surgido na \nunidade ambulatorial, contribuindo, assim, para a definição da missão institucional.\nII. O gráfico aponta as causas mais frequentes de um problema em uma unidade ambulatorial, mas \ntem como limitação omitir as demais causas, o que gera falta de transparência no processo de \nplanejamento.\nIII. O gráfico pode ser elaborado a partir de outras ferramentas de gestão da qualidade, como a lista \nde verificação.\nIV. O gráfico se baseia na constatação de que alguns poucos fatores contribuem mais para o problema \nverificado, ao passo que muitos fatores contribuem de forma incipiente para esse problema.\nV. O atraso do profissional, ausência de um gerenciador de fila de espera e falhas na recepção \ncorrespondem a cerca de 70% das observações sobre o tempo de espera excessivo e podem ser \nescolhidos como prioritários na resolução do problema.\n*R26202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 21\nÉ correto apenas o que se afirma em\nA I e IV.\nB I, II e V.\nC II, III e V.\nD III, IV e V.\nE I, II, III e IV."
+    }
+  ],
+  "17": [
+    {
+      "numero": 17,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2133,
+      "texto": "QUESTÃO 17 \nAs glosas hospitalares consistem em cancelamento do pagamento da fatura da conta hospitalar \nanalisada pelo auditor da operadora, quando este considera que a cobrança é indevida ou ilegal, \nou seja, nos casos em que o auditor não consegue esclarecer dúvidas suscitadas por normas e práticas \ndas instituições de saúde. As glosas são ações frequentes nas rotinas dos auditores das operadoras \nde saúde, visto que estes desenvolvem uma análise retrospectiva dos prontuários.\nRODRIGUES, J.A.R.M.; CUNHA, I.C.K.O, VANNUCHI, M.T.O, HADDAD, M.C.F.L. Glosas em contas hospitalares: \num desafio à gestão. Revista Brasileira de Enfermagem. 2018;71(5):2658-66 (adaptado).\nConsiderando que o gestor em saúde precisa estar preparado para compreender e organizar os \nprocessos de trabalho assistenciais e administrativos, a fim de evitar o surgimento de glosas, \navalie as afirmações a seguir.\nI. As folhas de prescrição, materiais e medicamentos devem estar anexas aos prontuários para a \ncomprovação da assistência e como itens de comprovação legal exigidos.\nII. A instituição de protocolos administrativos e assistenciais, os quais flexibilizam e justificam as ações \ndos profissionais, é uma ação necessária para a diminuição de glosas no ambiente hospitalar.\nIII. Os prontuários devem conter o nome do paciente, por extenso ou com partes abreviadas, \no qual deve ser lançado na Autorização de Internação Hospitalar (AIH), a fim de serem evitados \nproblemas durante o processo de faturamento e, consequentemente, de glosas.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "18": [
+    {
+      "numero": 18,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2278,
+      "texto": "QUESTÃO 18 \nA figura a seguir apresenta o fluxo de higienização das roupas de uma unidade hospitalar.\nCOLETA\nRECEPÇÃO\nIDENTIFICAÇÃO\nBARREIRA\nCENTRIFUGAGEM\nSELEÇÃO\nSELEÇÃO\nDOBRAGEM\nREPOUSO\nDISTRIBUIÇÃO\nCONSERTO\nBAIXA\nTRATAMENTO\nCALANDRAGEM SECAGEM PRENSAGEM PASSAGEM\nÁREA SUJA OU\nSETOR DE\nSEPARAÇÃO \nE LAVAGEM\nÁREA \nLIMPA \nOU\nSETOR \nDE\nACABAMENTO\nÁREA \nDE ESTOCAGEM \nOU SETOR DE\nROUPARIA\nLEGENDA:\nBarreira\nFluxo normal\nFluxo não constante\nPESAGEM\nSEPARAÇÃO\nLAVAGEM\nBRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão Nacional de Organização de \n Serviços de Saúde. Manual de Lavanderia Hospitalar. Brasília, 1986 (adaptado).\nConsiderando a figura apresentada, avalie as afirmações a seguir.\nI. A representação gráfica apresentada é uma ferramenta da qualidade que permite ao gestor \nidentificar as atividades críticas dos processos envolvidos na higienização das roupas de uma \ninstituição de saúde, bem como na sua coleta e distribuição.\nII. Os processos se desenvolvem em uma instituição de saúde de forma desvinculada, em tempos \ndiferentes e ultrapassam as fronteiras dos setores, envolvendo várias áreas e pessoas, cabendo \nao gestor reunir os diferentes profissionais responsáveis pelos processos, para identificar o que \ninfluencia a qualidade do atendimento ao cliente.\nIII. A administração da lavanderia, realizada pelo gestor hospitalar, deve considerar os diversos \natores envolvidos no processo e, quando terceirizada, o gestor requer o acompanhamento \ncriterioso da contratação e a fiscalização dos serviços, a fim de que atendam aos objetivos \nestratégicos institucionais, aos pacientes e aos colaboradores usuários do processo.\n*R26202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 23\nÉ correto o que se afirma em\nA I, apenas\nB II, apenas\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "19": [
+    {
+      "numero": 19,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1646,
+      "texto": "QUESTÃO 19 \nPara que a organização hospitalar tenha sucesso no gerenciamento dos seus recursos financeiros, \né imprescindível que o faturamento dos serviços prestados e as contas médicas sejam reais e \nverdadeiros, pois ter confiabilidade nos custos gerados é passo fundamental para uma gestão eficiente, \ngarantindo-se a sustentabilidade financeira.\nA partir das informações do texto, avalie as afirmações a seguir.\nI. Em um hospital, os profissionais de saúde devem atuar com atenção nos registros, de forma \nlegível e completa, fornecendo todas as informações referentes a cada tratamento aplicado, \nevitando, assim, pagamento incorreto ou ausência de pagamento.\nII. Em uma organização hospitalar, a sequência de atividades deve ocorrer de forma coesa e \neficiente, para que o faturamento seja efetivo e atenda, com êxito, o processo de trabalho.\nIII. Em um hospital, ao se criar infraestrutura digital, visa-se um melhor resultado de informações, \naperfeiçoando-se a comunicação entre os setores e minimizando-se a ocorrência de erros.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "20": [
+    {
+      "numero": 20,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1273,
+      "texto": "QUESTÃO 20 \nO propósito do marketing está em atender e satisfazer as necessidades das organizações e, no setor \nde saúde, o profissional dessa área busca obter respostas nos seguintes sentidos: aumentar a compra \nde produtos; conquistar a preferência dos clientes; aumentar os recursos; mudar comportamentos \nem favor de determinados interesses; aumentar preferências por um produto ou serviço, visando-se à \nsustentabilidade organizacional.\nKOTLER, P .; SHALOWITZ, J.; STEVENS, R. J. Marketing Estratégico para a Área da Saúde. Porto Alegre: Bookman, 2010 (adaptado).\nCom base nas informações apresentadas, avalie as afirmações a seguir.\nI. O marketing aplicado à saúde deve ter claro em seus objetivos que a presença dos clientes nos \nconsultórios e demais organizações do setor traz benefícios para ambas as partes e resulta em \naumento de lucros e estabilidade financeira.\nII. A utilização do marketing melhora o desempenho das empresas de saúde, possibilitando \naumento da atração, preferência, confiança e fidelidade de clientes.\nIII. O marketing em saúde torna a organização mais competitiva e atraente, especialmente em \ncontextos de elevada concorrência.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "21": [
+    {
+      "numero": 21,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1775,
+      "texto": "QUESTÃO 21 \nVinculada à Secretaria de Atenção à Saúde, do Ministério da Saúde, a Política Nacional de Humanização \n(PNH) conta com um núcleo técnico sediado em Brasília e equipes regionais de apoiadores que se \narticulam às secretarias estaduais e municipais de saúde. A partir dessa articulação, constroem-se \nplanos de ação para promover e disseminar inovações em saúde de forma compartilhada.\nDisponível em: http://www.saude.gov.br/acoes-e-programas/. Acesso em: 26 jul. 2023 (adaptado).\nA partir da análise dos problemas e das dificuldades dos serviços de saúde e tomando por referência \nexperiências de humanização, avalie as afirmações a seguir.\nI. A PNH contempla a qualificação da ambiência, com os objetivos de reduzir os custos e de \naumentar o retorno financeiro dos serviços de saúde.\nII. A valorização dos diferentes sujeitos implicados no processo de produção de saúde, como \nusuários, trabalhadores e gestores, é fundamental para o sucesso de programas assistenciais.\nIII. A articulação dos processos de formação com os serviços e as práticas de saúde faz com que os \ntrabalhadores da área inovem e busquem o atendimento de qualidade em qualquer esfera.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 25"
+    }
+  ],
+  "22": [
+    {
+      "numero": 22,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1835,
+      "texto": "QUESTÃO 22 \nUm hospital realizou seu planejamento estratégico e está na fase de verificação do ambiente, utilizando \na análise SWOT. A partir da aplicação dessa ferramenta, percebeu-se certa preocupação da direção do \nhospital, devido à identificação de alguns cenários.\nConsiderando essa situação hipotética e os usos a que se destina a metodologia abordada no texto, \navalie as afirmações a seguir.\nI. A análise SWOT pode focalizar eventuais oportunidades externas, como o fechamento de outro \nhospital na mesma cidade e as possibilidades de ampliação da demanda por serviços hospitalares.\nII. A sustentabilidade financeira e a suficiência de recursos disponíveis em caixa para o custeio da \nrotina hospitalar tendem a ser negligenciados como expressões de força da organização por \nintegrarem o rol de objetos restritos à análise contábil.\nIII. O possível mau desempenho das equipes atuantes na função de gestão de estoques é uma das \nfraquezas internas detectáveis por essa matriz de diagnóstico e planejamento.\nIV. A eventual redução do poder aquisitivo das famílias, decorrente de uma recessão econômica, é \num tipo de fenômeno geral de repercussões difusas e fora da escala de detecção de ameaças \nexternas previstas na matriz SWOT.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*R26202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "23": [
+    {
+      "numero": 23,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2447,
+      "texto": "QUESTÃO 23 \nUm hospital precisa renovar seu contrato de resíduos biológicos com a atual empresa que presta esse \nserviço, a qual tem reputação de idoneidade no mercado, possui responsabilidade socioambiental, \nalém de atender todas as necessidades do espaço hospitalar. Durante o processo de análise das propostas, \no gestor recebeu um orçamento de uma nova empresa que possui um valor 20% menor do que pagam \natualmente. Entretanto, ele verificou que a concorrente sugerida tem reputação duvidosa, pois foi \nautuada três vezes por descarte irregular de resíduos biológicos. Em todos os casos, a responsabilidade \npelo descarte foi atribuída aos motoristas que transportavam os resíduos, o que denota, no mínimo, \nausência de supervisão adequada. Após análise, o gestor decidiu por contratar a empresa que ofereceu \no menor valor, tendo como referência para a sua escolha os seguintes pontos: 1) os serviços da empresa \natenderão às necessidades do hospital; 2) o novo contrato irá gerar redução dos custos; 3) caso ocorra \nalgum descarte irregular, o problema deverá ser resolvido pelas autoridades municipais.\nConsiderando a situação apresentada, o comportamento ético e a responsabilidade socioambiental do \ngestor hospitalar, avalie as afirmações a seguir.\nI. A avaliação de questões bioéticas, realizada pelo gestor ao optar por um contrato de menor \nvalor, evidencia que sua preocupação está voltada para a responsabilidade institucional pautada \nem preceitos bioéticos.\nII. A postura do gestor em optar pelo novo contrato demonstra que a responsabilidade profissional \ncom sua instituição está acima de suas preocupações com a bioética.\nIII. O gestor, antes de optar pelo contrato de menor valor, considerou os interesses do hospital e os \nprincípios de bioética em relação à responsabilidade institucional e aos descartes biológicos.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II apenas.\nD I e III, apenas.\nE I, II e III.\n*R26202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 27"
+    }
+  ],
+  "24": [
+    {
+      "numero": 24,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2182,
+      "texto": "QUESTÃO 24 \nA produção dos serviços de saúde causa impactos ao meio ambiente, pelo fato de, em especial, \nos hospitais serem grandes consumidores de recursos naturais, de produtos e de tecnologias e \nconsequentemente geradores de resíduos. Por isso, existe uma preocupação crescente da área de saúde \ncom a sustentabilidade ambiental. Nesse sentido, é possível observar normativas governamentais e de \norganizações representativas para a incorporação de ações de cuidado ambiental na rotina hospitalar.\nBARBOZA C. D. et al. Sustentabilidade ambiental em hospitais brasileiros: uma revisão narrativa. \n Revista Eletrônica Acervo Saúde, v. 15, n. 8, p. e10890, ago. 2022 (adaptado).\nA respeito da sustentabilidade ambiental no segmento hospitalar, avalie as asserções a seguir e a \nrelação proposta entre elas.\nI. As instituições hospitalares devem criar procedimentos de monitoramento ambiental para \ncoletar dados que fundamentem a criação de programas de racionalização dos recursos naturais.\nPORQUE \nII. Os hospitais desenvolvem atividades similares às das indústrias, como, por exemplo, \nas atividades das lavanderias, que geram grandes quantidades de efluentes com produtos tóxicos, \ninfectantes, que podem contaminar o solo, o ar e a água.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R26202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "25": [
+    {
+      "numero": 25,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2296,
+      "texto": "QUESTÃO 25 \nA Portaria Ministerial n. 3.088/2011 instituiu a Rede de Atenção Psicossocial (RAPS) e as normativas \nsubsequentes contribuíram para sua estruturação e ordenamento.\nA figura a seguir apresenta, resumidamente, os princípios que norteiam os serviços desenvolvidos na RAPS.\nRESPEITO AOS DIREITOS HUMANOS\nCUIDADO EM LIBERDADE\nCOMBATE A ESTIGMAS\nE PRECONCEITOS\nCUIDADO INTEGRAL\nDIVERSIFICAÇÃO DAS\nESTRATÉGIAS DE CUIDADO\nPROMOÇÃO DE AUTONOMIA\nESTRATÉGIAS DEREDUÇÃO DE DANOS \nCONTROLE SOCIAL DOS\nUSUÁRIOS E DE SEUS FAMILIARES\nESTRATÉGIAS DE\nEDUCAÇÃO PERMANENTE\nCONSTRUÇÃO DO PROJETO\nTERAPÊUTICO SINGULARPRINCÍPIOS PARA O CUIDADO NA RAPS\nBRASIL. Secretaria Nacional de Políticas sobre Drogas. Rede de Atenção Psicossocial e o Sistema Único de Saúde (SUS). \nMinistério da Justiça, Secretaria Nacional de Políticas sobre Drogas. Dados eletrônicos. Florianópolis: NUTE/UFSC, 2016.\nConsiderando as informações apresentadas e o componente de atenção hospitalar no âmbito da RAPS, \navalie as afirmações a seguir.\nI. O processo de desinstitucionalização dos pacientes visa reduzir a ocupação dos leitos em hospitais \npsiquiátricos enquanto não seja efetivada a ampliação desses hospitais, um dos objetivos da RAPS.\nII. O cuidado ofertado em Hospital Geral, no âmbito da RAPS, deve estar articulado com o Projeto \nTerapêutico Singular, desenvolvido pelo serviço de referência do usuário, e a internação deve ser \nde curta duração, até a estabilidade clínica.\nIII. A articulação e integração dos pontos de atenção das redes de saúde no território nacional, \nqualificando o cuidado por meio do acolhimento, do acompanhamento contínuo e da atenção às \nurgências é um dos objetivos gerais da RAPS.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 29"
+    }
+  ],
+  "26": [
+    {
+      "numero": 26,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2811,
+      "texto": "QUESTÃO 26 \nTEXTO 1\nAs Organizações Sociais de Saúde (OSSs) foram institucionalizadas no Brasil e regulamentadas na \nforma da Lei n. 9.637/1998, por meio do Programa Nacional de Publicização. Entretanto, as ações \ndesenvolvidas por essas organizações como novo modelo de gestão a partir de novos atores sociais, \ncom objetivo de melhorar a eficiência e desburocratizar as atividades antes desenvolvidas pelo \nEstado, têm resultado em diferentes cenários no que tange ao êxito dessa forma de gerir os serviços \nde saúde.\nGURGEL JUNIOR, G. D. et al. Novos modelos de gestão no SUS e as relações interinstitucionais de controle em foco. \n[recurso eletrônico]. Recife: ed. UFPE, 2021 (adaptado).\nTEXTO 2\nNo ato de formalização de um contrato de gestão entre o setor público e as OSSs, deve-se estabelecer \nos requisitos de qualificação e chamamento dessas organizações, com necessidade de regulamentação \nprópria para as OSSs. As especificidades desse campo demandam controle mais efetivo dos requisitos \nnecessários à qualificação das entidades e aos critérios particulares para o acompanhamento do \ncontrato, como o controle das metas e dos objetivos firmados.\nDisponível em: https://www.goias.gov.br/servico/35-saude/. Acesso em: 08 jul. 2023 (adaptado).\nConsiderando a participação das OSSs na gestão de serviços de saúde e seus dispositivos legais, assinale \na opção correta.\nA O planejamento das ações a serem desenvolvidas deve partir de um plano que, elaborado pelas \nOSSs, contemple metas e objetivos, implementados a partir de uma análise de situação elaborada, \nde forma independente, pela organização.\nB As irregularidades ou ilegalidades na utilização de recursos ou bens de origem pública por OSS \ndeverão ser comunicadas ao conselho administrativo, sob pena de responsabilidade solidária.\nC Os contratos de gestão firmados entre o Estado e as OSSs devem ser analisados periodicamente, e seus \nresultados financeiro e de execução publicados em Diário Oficial.\nD Os resultados atingidos com a execução do contrato de gestão devem ser analisados por uma \ncomissão de avaliação indicada pela OSS e composta por especialistas em gestão.\nE O conselho de administração das OSSs é formado por dirigentes com notória capacidade de gestão e \ntécnica na área de atuação, indicados a assumir o cargo correspondente.\n*R26202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "27": [
+    {
+      "numero": 27,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1427,
+      "texto": "QUESTÃO 27 \nUm gestor de uma unidade hospitalar recebeu duas denúncias acolhidas pela ouvidoria do hospital, \nambas relacionadas à conduta discriminatória de um profissional de saúde da unidade no atendimento \naos pacientes.\nDiante dessa situação, assinale a opção que apresenta corretamente o princípio do Sistema Único de \nSaúde (SUS) que foi descumprido e a respectiva solução que deve ser dada pelo gestor.\nA O princípio da integralidade foi descumprido, devendo o gestor ser ágil em contornar a situação, \na fim de restringir a exposição do problema aos demais funcionários e, principalmente, para não \ndeixar que seja disseminado nas redes sociais.\nB O princípio da equidade foi descumprido, devendo o gestor utilizar uma estratégia de mediação de \nconflitos em que se evidencie o problema, escolher o momento oportuno para intervir e buscar uma \nsolução coletiva.\nC O princípio da integralidade foi descumprido, devendo o gestor optar por identificar o problema, \ndiscutir as possíveis causas e tomar sua decisão, que deve incluir a capacitação do servidor envolvido.\nD O princípio da equidade foi descumprido, devendo o gestor comunicar, imediatamente, o profissional \nenvolvido da mudança de setor de trabalho e dar como encerrado o problema.\nE O princípio da equidade foi descumprido, devendo o gestor optar pela demissão imediata do \nprofissional, para que o caso sirva de exemplo aos demais funcionários da unidade."
+    }
+  ],
+  "28": [
+    {
+      "numero": 28,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1932,
+      "texto": "QUESTÃO 28 \nPor meio da aplicação de diretrizes clínicas embasadas nas mais robustas evidências científicas \ndisponíveis, é viável estabelecer sistemas de monitoramento abrangentes, capazes de acompanhar e \nregular as práticas de assistência, com o objetivo de assegurar a adoção de boas práticas e promover a \nimplementação de aprimoramentos nos serviços de saúde.\nSCHOUT, D. Gestão do cuidado. In: VECINA-NETO, G; MALIK, A.M. Gestão em saúde. \n2. ed. Rio de janeiro: Guanabara Koogan, 2019 (adaptado).\nA boa prática de gestão apresentada é\nA burocrática, dedicada a encontrar uma operação previsível, controlada e eficiente, baseada no \ncontrole, por meio de regras e regulamentos.\nB racional, em que os negócios são uma série de problemas que devem ser prontamente identificados \ne os dados, coletados, para a implementação de soluções.\nC personalista, fundada em valores culturais que guiam a estratégia e a ação, cujo gerenciamento \nenvolve esclarecer, comunicar e reforçar a cultura da empresa.\nD centrada na aprendizagem organizacional, a qual busca modelar a aprendizagem, encorajar a \nexperimentação e promover diálogos construtivos em que toda experiência organizacional é \numa oportunidade de melhoria.\nE focada na estrutura organizacional, em que se inicia a discussão sobre a humanização do \ntrabalho, oferecendo incentivos psicossociais, uma vez que o trabalhador não pode ser reduzido a \nesquemas simples e mecanicistas.\n*R26202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 31"
+    }
+  ],
+  "29": [
+    {
+      "numero": 29,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2253,
+      "texto": "QUESTÃO 29 \nA Saúde Digital compreende o uso de recursos de Tecnologia de Informação e Comunicação (TIC) para \nproduzir e disponibilizar informações confiáveis sobre o estado de saúde aos cidadãos, profissionais \nde saúde e gestores públicos. O termo Saúde Digital é mais abrangente do que e-Saúde e incorpora \nos recentes avanços na tecnologia, como novos conceitos, aplicações de redes sociais, Internet das \nCoisas (IoT), Inteligência Artificial (IA). Em 2019, a Organização Mundial da Saúde (OMS) iniciou a \nelaboração da sua Estratégia Global de Saúde Digital, dispondo que os esforços nacionais podem ser \npotencializados pela colaboração e troca de conhecimento entre países, centros de pesquisa, empresas, \norganizações de saúde e associações de usuários ou cidadãos, com o objetivo de promover a saúde \npara todos, em todos os lugares.\nDisponível em: https://www.gov.br/saude/pt-br/composicao/seidigi/saude-digital. Acesso em: 28 jun. 2023 (adaptado).\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. A pandemia do Coronavírus evidenciou a relevância da informação oportuna e precisa como \ninstrumento de tomada de decisão para as necessidades de curto, médio e longo prazo em saúde.\nII. A Saúde Digital possibilita aos profissionais e às instituições de saúde a ampliação do número de \nclientes, por meio de ferramentas como telemedicina, consultas a distância e emissão de laudos \na distância, implementadas sem que haja aumento de custos em estruturas físicas.\nIII. As TICs são incompatíveis com o atendimento humanizado, visto que inviabilizam o encontro \nfísico entre o paciente e o profissional da saúde.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R26202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "30": [
+    {
+      "numero": 30,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2124,
+      "texto": "QUESTÃO 30 \nO Projeto de Formação e Melhoria da Qualidade de Rede de Atenção à Saúde (QualiSUS Rede) é uma \niniciativa do Ministério da Saúde (MS), desenvolvida com o apoio do Banco Mundial, cujos objetivos \nsão: contribuir para a melhoria da qualidade da atenção e da gestão no âmbito do Sistema Único de \nSaúde (SUS), por meio do desenvolvimento de tecnologias e apoio à organização das Redes de Atenção \nà Saúde (RAS); e melhorar a capacidade do sistema para responder aos atuais desafios sanitários \nassociados ao cenário de crescimento e prevalência das condições crônicas de saúde.\nBRASIL. Ministério da Saúde. Manual Operacional. Monitoramento e Avaliação. v. 7, 2017 (adaptado).\nConsiderando a estratégia de implantação e avaliação dos indicadores da Atenção Primária, avalie as \nafirmações a seguir.\nI. A constituição do Núcleo de Monitoramento e Avaliação, composto por representantes das \nsecretarias municipais de saúde, foi uma das estratégias para a implementação do QualiSUS Rede.\nII. O desenvolvimento e a implantação de sistema informatizado, para a inserção, via web, \nde dados e informações relativos à execução dos subprojetos regionais, é uma das estratégias de \nmonitoramento inserida no projeto QualiSUS Rede.\nIII. A produção, sistematização e difusão dos conhecimentos voltadas à melhoria da qualidade da \natenção e gestão em saúde são objetivos do projeto QualiSUS Rede.\nIV. O investimento prioritário na atenção ambulatorial de baixa complexidade é uma das estratégias \nde implantação do QualiSUS Rede.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*R26202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 33"
+    }
+  ],
+  "31": [
+    {
+      "numero": 31,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2829,
+      "texto": "QUESTÃO 31 \nTEXTO 1\nA gestão do fluxo de pacientes ou do gerenciamento de leitos é uma forma de otimizar os serviços de \nsaúde, ajustando-se a relação entre a capacidade instalada e a demanda, aumentando a segurança do \npaciente e garantindo o atendimento adequado durante toda a internação. A gestão de leitos possibilita \nmelhor distribuição das internações, com otimização da utilização dos leitos e consequente redução não \nsó do tempo médio de permanência hospitalar, mas também da superlotação. Espera-se, ainda, melhor \ninterface com a Rede de Atenção à Saúde (RAS), pactuando-se leitos de retaguarda, quando forem \nnecessários, e controlando a média de permanência e a taxa de ocupação nesses leitos.\nBRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Hospitalar e de Urgência. Manual \nde implantação e implementação: núcleo interno de regulação para Hospitais Gerais e Especializados [recurso eletrônico]. \nBrasília: Ministério da Saúde, 2017 (adaptado).\nTEXTO 2\nA gestão de todas as demandas de produtos e serviços é realizada a curto, médio e longo prazos. \nA longo prazo, as projeções de demanda são necessárias para o planejamento estratégico de \nelementos como as instalações. A médio prazo, o propósito é projetar a demanda agregada para o \nplanejamento da produção/serviços. A curto prazo, a administração da demanda se faz necessária para \no planejamento operacional relacionado às rotinas diárias.\nSILVA, R. B. Logística em organizações de saúde. 2. ed. Rio de Janeiro: Editora FGV, 2016, e-book (adaptado).\nConsiderando as informações apresentadas nos textos, avalie as afirmações a seguir.\nI. A sazonalidade na demanda de leitos corresponde às oscilações periódicas e regulares ao longo \nde um histórico de análise.\nII. O aumento de enfermidades das vias respiratórias, nos meses mais secos do ano, aumenta a \ndemanda por leitos.\nIII. A média móvel aritmética e a média ponderada exponencialmente podem ser usadas para \nprever a demanda de leitos a curto prazo.\nIV. A tendência é um padrão de crescimento, declínio ou estacionalidade da demanda no curto \nprazo e corresponde ao sentido, à direção ou à trajetória da demanda no curto prazo.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*R26202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "32": [
+    {
+      "numero": 32,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2345,
+      "texto": "QUESTÃO 32 \nA experiência do paciente tem ganhado destaque nas discussões e iniciativas relacionadas à qualidade \ndos serviços de saúde. No Brasil, o cuidado centrado no paciente ganhou força com a Política Nacional \nde Humanização (PNH), que, além de atentar à estrutura e aos processos, tem como foco principal o \npaciente, sua experiência nos serviços de saúde e sua participação efetiva na gestão e nas escolhas. \nA experiência do paciente é definida como a somatória de todas as interações, moldadas pela cultura da \norganização, que influenciam a percepção do paciente por meio da continuidade do cuidado. \n WOLF, J. A. et al. Operationalizing and defining the patient experience. \nPatient Experience Journal. v. 1, n. 1, p. 7-19, 2014 (adaptado). \nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. A experiência do paciente é crucial, devido à sua influência na imagem global da instituição de \nsaúde, e se torna um pilar essencial da gestão e do marketing institucional, uma vez que reflete a \nforma como o usuário percebe os cuidados que recebe.\nII. A mensuração da experiência do paciente fornece elementos objetivos para melhorar os \nprocessos, apoiar a tomada de decisão, atender à expectativa dos pacientes e efetivamente \ngerenciar e monitorar o desempenho relativo aos cuidados em saúde.\nIII. A experiência do paciente integra a humanização do atendimento em saúde, que é um conceito \nabrangente e utilizado pelos gestores para avaliar os profissionais de saúde e aplicar-lhes sanções.\nIV. A experiência do paciente abrange sua percepção de todo o processo de cuidado, incluídos a \nrelação estabelecida com os profissionais de saúde, as práticas assistenciais e os recursos ofertados.\nÉ correto o que se afirma em\nA III, apenas.\nB I e IV, apenas.\nC II e III, apenas.\nD I, II e IV, apenas.\nE I, II, III e IV.\n*R26202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 35"
+    }
+  ],
+  "33": [
+    {
+      "numero": 33,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2033,
+      "texto": "QUESTÃO 33 \nEm março de 2020, o Ministério da Saúde publicou uma portaria que regulamentou a telemedicina, \nque prevê o exercício da medicina por meio da utilização de metodologias interativas de \ncomunicação audiovisual e de dados, com o objetivo de prestar assistência, educação e incentivar a \npesquisa em saúde.\nMOROSINI, L. Tecnologia a serviço da saúde: adotada em caráter emergencial na pandemia, entenda o que é telemedicina, \nse ela veio para ficar e como pode ajudar a ampliar o acesso à saúde. RADIS: \nComunicação e Saúde, n. 221, p.24-28, fev. 2021 (adaptado).\nAcerca do tema do texto apresentado, avalie as afirmações a seguir.\nI. A telemedicina no Brasil foi pioneira no mundo, dada a disponibilidade tecnológica universal \ngarantida pelo Sistema Único de Saúde (SUS).\nII. A telemedicina é um tipo de aplicação de serviços de informação, tecnologias e \ntelecomunicações que está inserido em um conceito mais amplo denominado, recentemente, \nSaúde Digital.\nIII. A telemedicina, assim como outras tecnologias empregadas nos serviços de saúde, aumenta \nos custos da prestação de serviços, uma vez que demanda equipamentos caros e aumenta a \nprocura por hospitais e grandes centros de realização de exames.\nIV. A assistência à saúde a distância pode incorporar o serviço de teleducação, capacitando \nprofissionais ao promover conferências, aulas e cursos ministrados por meio das tecnologias de \ninformação e comunicação (TIC).\nÉ correto apenas o que se afirma em\nA I e II.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, III e IV.\n*R26202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "34": [
+    {
+      "numero": 34,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1819,
+      "texto": "QUESTÃO 34 \nA Avaliação de Tecnologias em Saúde (ATS) consiste em uma análise sistemática das propriedades, dos \nefeitos e dos impactos da tecnologia na área da saúde. Seu objetivo primordial é fornecer informações \npara embasar a tomada de decisões, incentivando a adoção de tecnologias com custo-efetividade \ncomprovado e evitando a adoção de tecnologias de valor questionável para o sistema de saúde.\nConsiderando as informações sobre a ATS, avalie as afirmações a seguir.\nI. As vacinas incorporadas ao Plano Nacional de Imunização (PNI) passam por um criterioso \nprocesso de avaliação de eficácia, efetividade, risco e segurança.\nII. A avaliação de risco da ATS é a medida da probabilidade de um efeito adverso ou indesejado e a \ngravidade desse efeito à saúde de indivíduos em uma população definida.\nIII. Os efeitos das tecnologias em saúde abrangem não só a cura ou o conforto dos pacientes, mas \ntambém os aspectos da vida humana e as relações com a família, o trabalho e a sociedade.\nIV. A primeira etapa da ATS é identificar a necessidade de se estudar a eficácia, efetividade, segurança \ne custo das diversas tecnologias em saúde, em comparação com os tratamentos padrão.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*R26202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 37"
+    }
+  ],
+  "35": [
+    {
+      "numero": 35,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1175,
+      "texto": "QUESTÃO 35 \nUm Tecnólogo em Gestão Hospitalar foi contratado por um hospital para gerir a modernização dos \nprocessos do Serviço de Apoio Diagnóstico e Terapêutico (SADT). Para a consecução da política de \nmodernização adotada, o gestor determinou práticas ambientalmente corretas, uma vez que as ações \neram realizadas sem técnicas adequadas e sem padronização.\nA partir do exposto, avalie as asserções a seguir e a relação proposta entre elas.\nI. No gerenciamento de resíduos do SADT, deve-se considerar a reciclagem como uma estratégia de \nboas práticas ambientais.\nPORQUE\nII. Os resíduos de serviços de saúde são compostos por diversos materiais que são classificados \ncomo biológico, químico, radioativo, comum e perfurocortante.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas."
+    }
+  ],
+  "36": [
+    {
+      "numero": 36,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1349,
+      "texto": "QUESTÃO 36 \nUm gestor de um hospital privado, objetivando acompanhar as mudanças de mercado e das relações \ncom os usuários, promove monitoramento rotineiro com os clientes. Os profissionais realizam \numa pesquisa de satisfação com os pacientes, antes da sua alta, e com seus acompanhantes. \nOs resultados são analisados e encaminhados para a direção do hospital, que adota a estratégia \nde fidelização do cliente, por meio de indicadores de atendimento às necessidades dos clientes. \nO gestor repassa os resultados e discute com as lideranças dos setores assistencial e administrativo \nas ações a serem adotadas.\nAcerca da situação hipotética apresentada, conclui-se que a ferramenta de comunicação mercadológica \nutilizada pelo gestor foi a de\nA marketing de relacionamento.\nB promoção de vendas.\nC relações públicas.\nD vendas pessoais.\nE propaganda.\n*R26202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Tecnologia em Gestão Hospitalar"
+    }
+  ],
+  "37": [
+    {
+      "numero": 37,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2323,
+      "texto": "QUESTÃO 37 \nAuditoria é o processo sistemático, documentado e independente de se avaliar objetivamente uma \nsituação ou condição, para determinar a extensão em que critérios são atendidos, obter evidências \nquanto a esse atendimento e relatar os resultados dessa avaliação a um destinatário predeterminado. \nA auditoria interna é realizada por profissionais da própria instituição, devidamente informados \ne treinados, que têm como função examinar os controles e avaliar a eficiência e a eficácia da gestão. \nEssa área da auditoria tem por finalidade promover a melhoria nos controles operacionais e na gestão \nde recursos.\nBRASIL. Instrução Normativa nº 3, de 9 de junho de 2017. Aprova o Referencial Técnico da Atividade \nde Auditoria Interna Governamental do Poder Executivo Federal (adaptado).\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. A auditoria interna hospitalar tem como finalidade básica estabelecer posicionamento de \nmercado e fidelização dos clientes da instituição por meio do endomarketing.\nII. A análise e verificação operativa avalia a qualidade dos processos, sistemas e serviços e a \nnecessidade de melhoria ou de ação preventiva, corretiva ou saneadora.\nIII. A auditoria ordinária é realizada em caráter de rotina, periódica, sistemática e previamente \nprogramada, visando-se à análise e verificação de todas as fases específicas de uma atividade, \numa ação ou um serviço.\nIV. A auditoria na saúde suplementar busca aprimorar o atendimento, prevenir desperdícios \ne auxiliar no controle de custos, por meio da análise detalhada das faturas e cobranças, \nverificando-se as contas, com o objetivo de garantir sua precisão e adequação.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*R26202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Gestão Hospitalar 39"
+    }
+  ],
+  "38": [
+    {
+      "numero": 38,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2494,
+      "texto": "QUESTÃO 38 \nO surto da Covid-19 apresentou à humanidade diversos desafios, lançando-nos em uma verdadeira \nbatalha contra a pandemia. Diante desse contexto, a importância das medidas de biossegurança tem \nsido amplamente discutida, abrangendo tanto aqueles que desempenham atividades profissionais de \nsaúde quanto os usuários/pacientes, bem como o ambiente institucional e social em que tais medidas \nsão aplicadas. As medidas de biossegurança estabelecem barreiras entre os profissionais de saúde e \nos agentes nocivos e a disponibilidade e uso correto de materiais e equipamentos adequados, o que \ncontribui para a proteção coletiva. Essas medidas visam mitigar os riscos e promover a segurança no \nenfrentamento da transmissão de doenças.\nCOSTA, M. A. F.; COSTA, M. F. B. Biossegurança e a pandemia de Covid-19: reflexões sobre os agentes psicossociais de risco \nem profissionais de saúde. Brazilian Journal of Development, Curitiba, v. 7, n. 5, p. 43.899-43.907, 2021 (adaptado).\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. Os jalecos são de uso obrigatório por todos que trabalham nos ambientes laboratoriais em que \nocorram manipulação de microrganismos patogênicos, manejo de animais, lavagem de material, \nesterilização e manipulação de produtos químicos.\nII. O chuveiro de emergência e o lava-olhos são equipamentos utilizados em casos de acidente \nem que haja projeção, sobre o profissional, de sangue, substâncias químicas ou outro material \nbiológico.\nIII. Os óculos têm a função de proteger os olhos de impactos, respingos e aerossóis, sendo \nimportante que sejam de qualidade comprovada, a fim de proporcionarem ao usuário visão \ntransparente, sem distorções e opacidade.\nIV. A máscara PFF (peças faciais filtrantes) foi uma grande aliada na proteção de profissionais da \nárea da saúde durante a pandemia de Covid-19.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*R26202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
+    }
+  ]
+}

@@ -98,7 +98,7 @@ Esses arquivos não são o fluxo principal atual, mas podem servir como referên
 
 ## Cursos 2023 já processados
 
-Resumo após a última auditoria:
+Resumo atual apos a revisao em modo estudante de 2026-05-14:
 
 | Curso | Completas | Fora de escopo | Incompletas | Observação |
 |---|---:|---:|---:|---|
@@ -109,9 +109,13 @@ Resumo após a última auditoria:
 | Engenharia Ambiental | 24 | 14 | 0 | Q6 fora do escopo por regra do projeto |
 | Engenharia Civil | 18 | 20 | 0 | Q17 e Q36 fora do escopo por fórmula/pseudocódigo visual |
 | Engenharia de Alimentos | 23 | 15 | 0 | Q6 fora do escopo por regra do projeto |
-| Engenharia da Computação | 23 | 15 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia da Computação | 22 | 16 | 0 | Q18 fora do escopo por notacao/O-grande quebrada |
 | Engenharia de Controle e Automação | 14 | 24 | 0 | Q22 fora do escopo por circuito/equação visual |
-| Engenharia de Produção | 13 | 25 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia de Produção | 12 | 26 | 0 | Q38 fora do escopo por esquema de ambientes |
+| Engenharia Elétrica | 15 | 23 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia Florestal | 24 | 14 | 0 | Q29 fora do escopo por folha representada visualmente |
+| Engenharia Mecânica | 18 | 20 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia Química | 10 | 28 | 0 | Q16/Q25 fora do escopo por fluxograma/equacoes quebradas |
 | Farmácia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
 | Fisioterapia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
 | Fonoaudiologia | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
@@ -119,6 +123,15 @@ Resumo após a última auditoria:
 | Medicina Veterinária | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
 | Nutrição | 31 | 7 | 0 | Q6 fora do escopo por regra do projeto |
 | Odontologia | 29 | 9 | 0 | Q23, Q25 e Q26 corrigidas como textuais; Q26 anulada no gabarito oficial |
+| Tecnologia em Agronegócio | 29 | 9 | 0 | Q6 fora do escopo por regra do projeto |
+| Tecnologia em Estética e Cosmético | 27 | 11 | 0 | Q6 fora do escopo por regra do projeto |
+| Tecnologia em Gestão Ambiental | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
+| Tecnologia em Gestão Hospitalar | 31 | 7 | 0 | Q6 fora do escopo por regra do projeto |
+| Tecnologia em Radiologia | 22 | 16 | 0 | Q6 fora do escopo por regra do projeto |
+| Tecnologia em Segurança do Trabalho | 31 | 7 | 0 | Q6 fora do escopo por regra do projeto |
+| Zootecnia | 32 | 6 | 0 | Q6 fora do escopo por regra do projeto |
+
+Total atual de 2023: 28 cursos, 1064 questoes, 668 `completa`, 396 `fora_escopo` e 0 `incompleta`.
 
 ## Pendência crítica resolvida
 
@@ -257,21 +270,10 @@ PROBLEMAS_FORTES 0
 
 ## Próximo passo recomendado
 
-1. Revisar manualmente os cursos novos:
-   - Farmácia
-   - Fisioterapia
-   - Fonoaudiologia
-   - Medicina
-   - Medicina Veterinária
-   - Nutrição
-   - Odontologia
-   - Engenharia Civil
-   - Engenharia de Alimentos
-   - Engenharia da Computação
-   - Engenharia de Controle e Automação
-   - Engenharia de Produção
-2. Só depois carregar no banco.
-3. Quando 2023 estiver estável, replicar o fluxo para anos anteriores, começando por 2022 ou 2021 antes de ir até 2015.
+1. Nao ha extracao pendente para 2023.
+2. Fazer olho humano amostral antes da carga final, priorizando cursos com maior descarte visual: `engenharia_quimica`, `engenharia_de_producao`, `engenharia_de_controle_e_automacao`, `engenharia_eletrica`, `arquitetura_e_urbanismo` e `engenharia_mecanica`.
+3. Se a revisao amostral aprovar, carregar staging e popular a camada final somente com `completa`.
+4. Depois de estabilizar 2023 no banco, replicar o fluxo para anos anteriores, comecando por 2022 ou 2021 antes de ir ate 2015.
 
 ## Carga no banco
 
@@ -306,9 +308,9 @@ Depois deste registro, foram adicionados dois utilitarios para reduzir trabalho 
 Comandos recomendados para o proximo chat:
 
 ```powershell
-python scripts/parser/auditar_qualidade.py --falhar-se-problema
-python scripts/parser/processar_lote_2023.py --listar
-python scripts/parser/processar_lote_2023.py --pendentes --listar
+.\.venv\Scripts\python.exe scripts/parser/auditar_qualidade.py --falhar-se-problema
+.\.venv\Scripts\python.exe scripts/parser/processar_lote_2023.py --listar
+.\.venv\Scripts\python.exe scripts/parser/processar_lote_2023.py --pendentes --listar
 ```
 
 Tambem foi criado `docs/PROXIMO_CHAT.md`, que e o guia curto de retomada.
@@ -337,4 +339,22 @@ Lembrete: `popular_final.sql` só leva para a camada final o que está `COMPLETA
 - Engenharia Civil Q17 e Q36 devem ficar `fora_escopo`: Q17 depende de fórmula matemática visual mal preservada na extração; Q36 depende de bloco estruturado de pseudocódigo.
 - Rodapes de cursos com nome composto, como `18 Engenharia Civil` e `34 Engenharia de Alimentos`, passaram a ser removidos das alternativas.
 - Auditoria geral apos o lote: 405 `completa`, 241 `fora_escopo`, 0 `incompleta`.
-- Estado de 2023: 17 cursos processados e 11 cursos pendentes.
+- Estado de 2023 naquele momento historico: 17 cursos processados e 11 cursos pendentes. O estado atual esta no fechamento de 2026-05-14.
+
+## Atualizacao de fechamento - 2026-05-14
+
+- Os 11 cursos restantes de 2023 foram baixados e processados: `engenharia_eletrica`, `engenharia_florestal`, `engenharia_mecanica`, `engenharia_quimica`, `zootecnia`, `tecnologia_em_agronegocio`, `tecnologia_em_estetica_e_cosmetico`, `tecnologia_em_gestao_ambiental`, `tecnologia_em_gestao_hospitalar`, `tecnologia_em_radiologia`, `tecnologia_em_seguranca_do_trabalho`.
+- 2023 agora esta com 28 cursos processados, 0 cursos pendentes, 668 `completa`, 396 `fora_escopo` e 0 `incompleta` apos a revisao em modo estudante.
+- A ultima conferencia com olho humano foi `engenharia_civil`. Depois dela, os demais cursos foram refinados por auditoria automatica e regras conservadoras; ainda devem passar por olho humano antes da carga definitiva no banco.
+- `scripts/parser/processar_lote_2023.py` agora lista todos os 28 cursos em `CURSOS_ATUAIS_2023` e deixa `CURSOS_PENDENTES_2023` vazio.
+- `scripts/parser/pos_processar_exibicao.py` ganhou reforcos para descartar graficos de nivel/tempo, modelo de reator com conservacao de massa e lei de Fick, infografico, mapas, esquemas e figuras textualmente referenciadas.
+- Registro detalhado: `docs/RETOMADA_2026-05-14_FECHAMENTO_2023.md`.
+
+## Atualizacao de revisao em modo estudante - 2026-05-14
+
+- Foi feita uma revisao das questoes `completa` como se um estudante fosse tentar resolver sem consultar o PDF.
+- Foram movidas para `fora_escopo`: `engenharia_da_computacao` Q18, `engenharia_de_producao` Q38, `engenharia_florestal` Q29, `engenharia_quimica` Q16 e `engenharia_quimica` Q25.
+- Motivos: notacao matematica quebrada, esquema de ambientes, folha representada visualmente, fluxograma e equacoes/layout matematico nao confiavel.
+- Foram removidos rodapes soltos de alternativas com nome do curso/numero da pagina e restos de referencias `Disponivel em:`/`Acesso em:`.
+- Auditoria final atualizada: 668 `completa`, 396 `fora_escopo`, 0 `incompleta`.
+- Varreduras finais: 0 artefatos em completas, 0 caracteres invalidos, 0 padroes visuais fortes nao justificados e 0 rodapes finais candidatos.

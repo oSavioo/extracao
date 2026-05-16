@@ -1,0 +1,974 @@
+{
+  "1": [
+    {
+      "numero": 1,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2159,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**r2820233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Segurança no Trabalho\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 1,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 210,
+      "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
+    },
+    {
+      "numero": 1,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 4343,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**r2820232*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 3\nLOGO\n2 MATÉRIA\nQUESTÃO DISCURSIVA 01 \n Na publicação Síntese de Indicadores Sociais, divulgada pelo Insti tuto Brasileiro de Geografi a \ne Estatí sti ca (IBGE) em 2022, é sistemati zado um conjunto de informações sobre a realidade \nsocial brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspecti va das \ndesigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil \nregistraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% \nda população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os \nmaiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador \nque permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu \nvalor elevado e ati ngiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece \nentre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na \nexpansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades \nterritoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, \nmarcada pela estrati fi cação e segregação socioespacial, que se consolida a exclusão da população \nvulnerabilizada socioeconomicamente.\n Disponível em: htt ps://agenciadenoti cias.ibge.gov.br/agencia-noti cias/2012-agencia-de-noti cias/noti cias/\n35687-em-2021-pobreza-tem-aumento-recorde-e-ati nge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012. \nAcesso em: 9 jun. 2023 (adaptado).\n A parti r das ideias apresentadas no texto, faça o que se pede nos itens a seguir.\na) Explique a relação entre o perfi l da população brasileira ati ngida pelas desigualdades sociais nas \ncidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições \nhabitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam \nação governamental e parti cipação da comunidade. (valor: 5,0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nFORMAÇÃO GERAL\n*2* LOGO\nMATÉRIA 3"
+    }
+  ],
+  "2": [
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 142,
+      "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
+    }
+  ],
+  "3": [
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3071,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**r2820234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 5\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3067,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**r2820235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Tecnologia em Segurança no Trabalho\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 236,
+      "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
+    }
+  ],
+  "4": [
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 309,
+      "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
+    }
+  ],
+  "5": [
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2552,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**r2820236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 7\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2552,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**r2820237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Tecnologia em Segurança no Trabalho\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 352,
+      "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
+    }
+  ],
+  "6": [
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 131,
+      "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "7": [
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2033,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**r2820239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Tecnologia em Segurança no Trabalho\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2031,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**r2820238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 9\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 199,
+      "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
+    }
+  ],
+  "8": [
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 138,
+      "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "9": [
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1836,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**r28202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 11\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 901,
+      "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n28\n*r28202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
+    },
+    {
+      "numero": 9,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3582,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**r28202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Tecnologia em Segurança no Trabalho\nQUESTÃO DISCURSIVA 02 \nExplosões em um silo de grãos da C. Vale, em Palotina, no Oeste do Paraná, deixaram oito trabalhadores \nmortos e 11 feridos. Acidentes como esse podem ser provocados pelo acúmulo de pó proveniente dos \ngrãos armazenados. O confinamento em si acaba tornando o pó passível de explosão, ao ter contato \ncom faíscas de equipamentos, por exemplo. “Na realidade, todo pó é passível de ser explosivo, não só \no pó do grão, não só o pó armazenado no silo. O pó precisa estar em suspensão, em local confinado, e, \nao ter uma fonte de ignição (geradores do início de um incêndio), causa a explosão.”\nDisponível em: https://g1.globo.com. Acesso em: 17 ago. 2023 (adaptado).\nConsiderando a possibilidade da ocorrência de acidentes, como o apresentado no texto, e a necessidade \nde gerenciamento de riscos no ambiente de trabalho, faça o que se pede nos itens a seguir.\na) Explique de que forma o cumprimento das normas técnicas e legislações sobre segurança no \ntrabalho atua no gerenciamento de riscos laborais. (valor: 4,0 pontos)\nb) Apresente três exemplos de ações que promovam a segurança dos trabalhadores no ambiente \nde trabalho. Justifique sua resposta. (valor: 6,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*r28202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 13"
+    }
+  ],
+  "10": [
+    {
+      "numero": 10,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1881,
+      "texto": "QUESTÃO 10 \nNo decorrer da jornada diária, quando o trabalhador executar duas ou mais rotinas independentes de \ntrabalho, a avaliação da exposição ocupacional poderá ser feita avaliando-se, separadamente, as condições \nde exposição em cada uma delas e determinando-se a exposição ocupacional diária pela composição \ndos dados obtidos. Havendo dúvidas quanto à representatividade da amostragem, esta deverá envolver \nnecessariamente toda a jornada de trabalho.\nDisponível em: http://arquivosbiblioteca.fundacentro.gov.br. Acesso em: 29 ago. 2023 (adaptado).\nConsiderando as avaliações de ruído e seguindo os procedimentos de medição previstos na Norma de \nHigiene Ocupacional (NHO 1), avalie as afirmações a seguir.\nI. Os grupos homogêneos são aqueles nos quais os trabalhadores apresentam iguais características \nde exposição ao risco.\nII. Os procedimentos de avaliação devem interferir nas características ambientais e operacionais \ndas condições de trabalho.\nIII. As avaliações de ruído podem ser realizadas abrangendo um ou mais trabalhadores cuja situação \ncorresponda à exposição de cada grupo considerado.\nIV. As medições devem ser representativas, abrangendo todas as condições que envolvem o \ntrabalhador no exercício de suas funções (operacionais, ambientais e habituais).\nÉ correto apenas o que se afirma em\nA I e II.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, III e IV.\n*r28202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "11": [
+    {
+      "numero": 11,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1914,
+      "texto": "QUESTÃO 11 \nNo desenvolvimento do trabalho manual sentado ou daquele que tenha de ser realizado em pé, \nas bancadas, mesas, escrivaninhas e os painéis devem proporcionar ao trabalhador condições de boa \npostura, visualização e operação e devem atender aos seguintes requisitos mínimos: a) ter altura e \ncaracterísticas da superfície de trabalho compatíveis com o tipo de atividade, com a distância requerida \ndos olhos ao campo de trabalho e com a altura do assento; b) ter área de trabalho de fácil alcance e \nvisualização pelo trabalhador; e c) ter características dimensionais que possibilitem posicionamento e \nmovimentação adequados dos segmentos corporais.\nDisponível em: https://enit.trabalho.gov.br/revista/index. Acesso em: 29 ago. 2023 (adaptado).\nAcerca dos mobiliários adequados em postos de trabalho conforme o disposto na Norma \nRegulamentadora 17, avalie as afirmações a seguir.\nI. Os assentos utilizados nos postos de trabalho devem possuir altura fixa à estatura do trabalhador \ne à natureza da função exercida.\nII. O posto de trabalho, em que a atividade puder ser executada na posição sentada, deve ser \nplanejado ou adaptado para esta posição.\nIII. Os assentos utilizados nos postos de trabalho devem ter encosto com forma levemente adaptada \nao corpo para proteção da região lombar.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 15"
+    }
+  ],
+  "12": [
+    {
+      "numero": 12,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 990,
+      "texto": "QUESTÃO 12 \nO propósito da análise de risco é compreender a natureza do risco e suas características, incluindo o \nnível de risco, quando apropriado. A análise de risco envolve a consideração detalhada de incertezas, \nfontes de risco, consequências, probabilidades, eventos, cenários, controles e sua eficácia. Um evento \npode ter múltiplas causas e consequências e pode afetar múltiplos objetivos.\nA partir do texto apresentado, avalie as afirmações a seguir.\nI. As técnicas de análises de risco são qualitativas, considerando a natureza do que está sendo \nanalisado e suas consequências.\nII. A elaboração de um plano de emergência contra incêndio deve considerar a realização de análise \npreliminar dos riscos de incêndio.\nIII. A ferramenta a ser utilizada para a análise dos riscos da edificação dependerá da experiência do \nprofissional e dos riscos encontrados na edificação.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "13": [
+    {
+      "numero": 13,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1986,
+      "texto": "QUESTÃO 13 \nA saúde ocupacional é uma área multidisciplinar que tem como finalidade proporcionar a adaptação do \ntrabalho ao homem e de cada homem ao seu próprio trabalho, garantindo, assim, o bem-estar físico, \nmental e social dos trabalhadores. Nesse contexto, diversos programas e novas tecnologias e diretrizes \npodem ser estruturados e utilizados por uma organização para a identificação e o monitoramento dos \nriscos ocupacionais.\nBARSANO, P . R.; BARBOSA, R. P . Controle de riscos: prevenção de acidentes no ambiente ocupacional. \nSão Paulo: Érica, 2014 (adaptado).\nCom base no tema abordado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A adoção de uma posição de prevenção é uma ação necessária para lidar com os riscos \nocupacionais existentes no ambiente de trabalho.\nPORQUE\nII. O gerenciamento de riscos ocupacionais proporciona um ambiente seguro e saudável, que \npromove diversos benefícios, tanto para os trabalhadores quanto para a empresa, como o \naumento da produtividade e da satisfação dos funcionários.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r28202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "14": [
+    {
+      "numero": 14,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1813,
+      "texto": "QUESTÃO 14 \nSuponha que um tecnólogo de segurança no trabalho, que atua há 5 anos em uma empresa de \nfabricação de móveis, foi comunicado a respeito de um acidente com um trabalhador que sofreu uma \nqueda de cerca de 2m de altura, causando-lhe trauma torácico e perda de consciência. O tecnólogo \né bastante experiente, tem treinamento em primeiros socorros e habilidades técnicas para intervir \nno suporte básico à vida em situações emergenciais. Ao chegar ao local do acidente, iniciou um \natendimento pré-hospitalar na vítima.\nDiante da situação apresentada sobre o atendimento pré-hospitalar a ser prestado pelo tecnólogo em \nsegurança no trabalho, avalie as afirmações a seguir.\nI. O tecnólogo, inicialmente, deverá avaliar o cenário do local onde a vítima se encontra, verificando \ninformações da situação, potencialidade de evolução do caso e recursos a serem utilizados.\nII. O tecnólogo deverá realizar uma abordagem primária rápida à vítima, avaliando as condições de \nrisco de morte, responsividade, respiração e frequência cardíaca.\nIII. O tecnólogo deverá assumir integralmente a responsabilidade pelo atendimento da vítima, visto \nque tem experiência em situações de acidentes de trabalho.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 17"
+    }
+  ],
+  "15": [
+    {
+      "numero": 15,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2071,
+      "texto": "QUESTÃO 15 \nNa área da Saúde, a assistência básica em situações emergenciais pode fazer a diferença entre a vida \ne a morte. Nesse cenário, o atendimento pré-hospitalar às vítimas consiste em procedimentos de \nemergência para realizar o atendimento imediato, ainda no local do acidente, providenciando uma \nresposta adequada às ocorrências fora do âmbito hospitalar.\nMARTINI, A. C. T.; ROZOLEN JUNIOR, P . J. Atendimento pré-hospitalar no Brasil e no mundo: histórico. In: Pré-hospitalar / \nGRAU (Grupo de Resgate e Atenção às Urgências e Emergências). 2. ed. Barueri: Manole, 2015 (adaptado).\nConsiderando o atendimento pré-hospitalar, avalie as afirmações a seguir.\nI. A segurança da vítima é prioridade, assim o socorrista deve se preocupar inicialmente com ela, \npodendo sobrepor-se a eventuais riscos pessoais.\nII. As medidas preliminares da segurança em um local de situação de emergência compreendem \na verificação e neutralização dos riscos, a sinalização e o monitoramento das condições de \nperigo existentes.\nIII. A avaliação do cenário de emergência é um estudo rápido e prático dos distintos fatores \nrelacionados aos riscos físicos, químicos, biológicos ou ambientais que incidem na tomada de \ndecisão para o acesso e tratamento da vítima.\nIV. A utilização de equipamentos de proteção individual visa garantir a proteção da integridade física \ndo socorrista durante a realização do atendimento, evitando riscos como o contato com doenças \ninfectocontagiosas.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*r28202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "16": [
+    {
+      "numero": 16,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2259,
+      "texto": "QUESTÃO 16 \nA legislação básica que rege a segurança no trabalho está contida nas normas regulamentadoras, \nna Constituição Federal e na legislação trabalhista. A Norma Regulamentadora 9 (NR-9) busca \nassegurar a adoção de medidas de prevenção de riscos para que não haja prejuízos à saúde do \ntrabalhador ou riscos de queda de desempenho. Tudo isso por meio de uma análise preventiva que \nidentifique um possível risco em potencial.\nMENDONÇA, E. D. S. A importância das normas regulamentadoras de segurança e medicina do trabalho das \natividades do engenheiro agrimensor e seus auxiliares. Universidade Federal de Alagoas, Rio Largo, 2018. \nDisponível em: www.repositorio.ufal.br. Acesso em: 29 ago. 2023. (adaptada)\nConsiderando o texto sobre a NR-9, avalie as asserções a seguir e a relação proposta entre elas.\nI. A NR-9 estabelece a obrigatoriedade da elaboração e implementação do Programa de Controle \nMédico de Saúde Ocupacional – PCMSO pelas instituições empregadoras.\nPORQUE\nII. A norma visa a preservação da saúde e da integridade dos trabalhadores, através da antecipação, \ndo reconhecimento, da avaliação e do consequente controle da ocorrência de riscos ambientais \nexistentes, ou que venham a existir, no ambiente de trabalho, tendo em consideração a proteção \ndo meio ambiente e dos recursos naturais.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r28202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 19"
+    }
+  ],
+  "17": [
+    {
+      "numero": 17,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1780,
+      "texto": "QUESTÃO 17 \nSuponha que um tecnólogo em segurança no trabalho, recém-contratado por uma empresa \nprestadora de serviços, foi designado para desenvolver programas e campanhas na área da saúde e \nsegurança no trabalho. Por causa da preocupação com os altos índices de rotatividade e absenteísmo \ndos funcionários, a direção da organização espera que, com a intervenção do tecnólogo e com o \ndesenvolvimento de treinamentos e capacitações na área, possa melhorar a qualidade de vida no \ntrabalho e reduzir tais índices.\nConsiderando o caso e a atuação do tecnólogo em segurança no trabalho, avalie as afirmações a seguir.\nI. As variáveis sobre a qualidade de vida no trabalho precisam ser analisadas de forma ampla, \nabrangendo o bem-estar dos colaboradores e o clima organizacional.\nII. As condições de trabalho que contribuem para o surgimento do estresse precisam ser \ngerenciadas, pois o estresse ocupacional é fator de influência para a qualidade de vida no trabalho.\nIII. As relações interpessoais entre os colaboradores devem ser acompanhadas, buscando-se o \ndesenvolvimento de comportamentos autônomos e distanciados, evitando-se, assim, problemas \nde convivência.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "18": [
+    {
+      "numero": 18,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1717,
+      "texto": "QUESTÃO 18 \nA qualidade de vida do trabalhador (QVT) está relacionada à oferta de um ambiente laboral em condições \nadequadas ao desenvolvimento de suas atividades com satisfação e bem-estar. A implantação de \nprogramas de QVT incentiva o comprometimento dos trabalhadores, podendo aumentar a possibilidade \ndas empresas atingirem seus objetivos, além de levar em consideração as necessidades e aspirações \nhumanas, tais como o desejo de se ter um empregador socialmente responsável.\nBENEVENUTE, J. M. N.; SOUZA, S. A. D.; CARVALHO, A. M. A. A. Qualidade de vida no trabalho: \na percepção dos servidores públicos. Revista ORG & DEMO. Marília, v. 20, n. 1, 2019 (adaptado).\nConsiderando as informações apresentadas no texto, avalie as afirmações a seguir.\nI. A QVT deve ser inserida no ambiente de trabalho onde o funcionário passa a maior parte do \nseu tempo.\nII. O empregador que se preocupa com a QVT precisa estimular um estilo de vida mais saudável.\nIII. Os programas de QVT devem priorizar o aumento da resistência física do trabalhador, sobretudo \nquando se tratar de trabalho que exija força física.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*r28202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 21"
+    }
+  ],
+  "19": [
+    {
+      "numero": 19,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1752,
+      "texto": "QUESTÃO 19 \nA logística reversa, de forma geral, começa no usuário final, sendo os produtos já usados, retornados, \ncoletados pelos intermediários. Esse processo compreende os esforços para gerenciar o fim da vida \ndesses produtos, por meio de diferentes decisões e obrigações, que podem incluir a reciclagem, \na refabricação e, finalmente, o descarte das partes que não têm mais uso.\nGOVIDAN, K.; SOLEIMANI, H. & KANNAN, D. Reverse logistics and closed-loop supply chain: a comprehensive review to \nexplore the future. European Journal of Operational Research, 240(3), p. 603-626, 2015 (adaptado).\nConsiderando os aspectos acerca da logística reversa apresentados no texto, avalie as afirmações \na seguir.\nI. As empresas devem atender a legislação ambiental vigente, bem como se responsabilizarem \npelos impactos provenientes de sua conduta. \nII. Os profissionais responsáveis pela logística reversa devem garantir o retorno dos bens de \npós-consumo ao ciclo de negócios ou produção.\nIII. O processo de logística reversa pode ser considerado um agregador de valor ecológico, \nentretanto, não influencia a rentabilidade econômica da empresa.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "20": [
+    {
+      "numero": 20,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2181,
+      "texto": "QUESTÃO 20 \nTEXTO 1\nNos últimos dez anos (2012-2021), 22 954 mortes no mercado de trabalho formal foram registradas no Brasil. \nApenas em 2021, foram comunicados 571,8 mil acidentes e 2 487 óbitos associados ao trabalho, \ncom aumento de 30% em relação a 2020, segundo dados atualizados do Observatório de Segurança e \nSaúde no Trabalho (OSST).\nNo gráfico a seguir, são apresentados os percentuais de participação dos diferentes grupos de agentes \ncausadores de acidentes de trabalho.\n15%\n13% 13% 12% 12%\n9%\n8% 7%\n5% 6%\nMáquinas\n e equipamentosAgentes\n químicos\nQuedas\n do\n mesmo\n nível\nAgentes\n biológicos\nVeículos\n de\n transporte\nFerramentas\n manuais\nMotocicletas\nQuedas\n de\n altura\nMobiliários\n e acessórios\nDemais\n agentes\nObservatório de Segurança e Saúde no Trabalho. Disponível em: https://smartlabbr.org. Acesso em: 29 jun. 2023.\nCom base na análise dos dados apresentados, avalie as afirmações a seguir.\nI. As proteções individuais devem ser as primeiras medidas aplicadas ao agente causador de acidentes.\nII. O gerenciamento dos riscos relacionados aos agentes químicos deve ser priorizado nas organizações, \numa vez que apresentaram o maior índice do grupo de agentes causadores de acidentes.\nIII. O diálogo de segurança é uma forma de reforço das informações sobre os riscos ocupacionais e \nsuas medidas de controle.\nIV. Os dados apresentados, apesar de possuírem caráter informativo, raramente poderiam ser \nutilizados para tomar decisões que visem o controle e a minimização dos acidentes de trabalho \nou das doenças ocupacionais notificados no Comunicado de Acidente de Trabalho (CAT).\n*r28202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 23\nÉ correto apenas o que se afirma em\nA II.\nB III.\nC I e III.\nD I e IV.\nE II e IV."
+    }
+  ],
+  "21": [
+    {
+      "numero": 21,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2102,
+      "texto": "QUESTÃO 21 \nMaria é uma enfermeira que trabalha em um hospital de grande porte. Durante a pandemia de \nCovid-19, ela estava executando as suas funções na linha de frente, fornecendo cuidados diretos \na pacientes infectados pelo vírus. Apesar de seguir todas as medidas de proteção recomendadas, \nincluindo o uso adequado de equipamentos de proteção individual (EPIs), Maria foi diagnosticada com \ncoronavírus após apresentar sintomas como febre, tosse e fadiga, levando a instituição a estabelecer \noutra medidas sanitárias.\nA respeito do caso relatado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A presença de portadores do vírus clinicamente assintomáticos no trabalho, cujo potencial \ninfeccioso ainda é desconhecido, dificulta a avaliação do risco de contaminação e o mapeamento \ndo agente biológico.\nPORQUE\nII. O conhecimento dos mecanismos de transmissão do vírus permite caracterizar a potencial \nexposição ocupacional, o que é essencial para a definição de estratégias de prevenção e proteção \ndos trabalhadores suscetíveis, principalmente para estimar a probabilidade de contaminação e \ngradação do risco relacionado ao trabalho.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r28202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "22": [
+    {
+      "numero": 22,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1610,
+      "texto": "QUESTÃO 22 \nUma indústria metalúrgica, preocupada com questões de higiene ocupacional, realizou um teste de \nruídos para verificar se as condições de seu ambiente de trabalho atendem à Norma Regulamentadora \n15 (NR-15), que versa sobre atividades e operações insalubres. Em suas medições, identificou um nível \nde ruído de 80 dB(A) para uma exposição de 8 horas de ruído contínuo.\nA partir da situação apresentada e tendo como base a NR-15, avalie as afirmações a seguir.\nI. A exposição a níveis de ruído acima de 115 dB(A) é autorizada para indivíduos que não estejam \nadequadamente protegidos desde que o período de exposição seja inferior a 8 horas.\nII. O nível de ruído ao qual os trabalhadores estão expostos na empresa, em uma jornada de 8 horas, \nestá dentro do limite de tolerância previsto na NR-15.\nIII. A ocorrência de dois ou mais períodos de exposição a ruídos contínuos de diferentes níveis, \nao longo da jornada de trabalho, torna necessário considerar seus efeitos de modo combinado.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 25"
+    }
+  ],
+  "23": [
+    {
+      "numero": 23,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1535,
+      "texto": "QUESTÃO 23 \nA Norma Regulamentadora 1 (NR-1) trata das Disposições Gerais e Gerenciamento de Riscos \nOcupacionais (GRO) para promover a prevenção de acidentes e doenças ocupacionais, garantindo a \nsegurança e a saúde dos trabalhadores. Uma das determinações da NR-1 é que as empresas têm como \nresponsabilidade desenvolver um Programa de Gerenciamento de Riscos (PGR) de acordo com suas \nnecessidades e características.\nMORAES, M. V. G. Gestão à vista: implementação na área de saúde e segurança do trabalho. \nSão Paulo: Expressa, 2021 (adaptado).\nSobre o PGR, avalie as afirmações a seguir.\nI. O PGR deve conter os documentos de inventário de riscos e plano de ação.\nII. O PGR deve ser implementado na empresa por unidade operacional, sem possibilidade de ser \naplicado por setor ou atividade.\nIII. Os documentos do PGR devem estar disponíveis aos trabalhadores, seus representantes e à \nSecretaria de Inspeção do Trabalho.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "24": [
+    {
+      "numero": 24,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2126,
+      "texto": "QUESTÃO 24 \nTEXTO 1\nA síndrome de Burnout, conhecida também como a Síndrome do Esgotamento Profissional, foi \nrecentemente reconhecida e classificada pela Organização Mundial da Saúde (OMS) como doença \nocupacional.\nTEXTO 2\nUma professora do ensino médio de um tradicional colégio estadual apresenta sinais de exaustão \nemocional, despersonalização e diminuição da realização pessoal em seu trabalho. Ela relata dificuldade \nem lidar com as demandas constantes dos estudantes, as cobranças administrativas e a falta de \nreconhecimento pelo seu esforço. Após procurar ajuda profissional de um psicólogo e de um psiquiatra, \nfoi diagnosticada com síndrome de Burnout.\nConsiderando esse contexto e a situação apresentada, avalie as afirmações a seguir.\nI. O colaborador diagnosticado com síndrome de Burnout tem garantidos direitos trabalhistas e \nprevidenciários especiais diferentes dos diagnósticos de outras doenças ocupacionais e acidentes \ndecorrentes do trabalho.\nII. A empresa é responsável por pagar integralmente o salário do empregado quando \ndiagnosticada a síndrome de Burnout e constatada a necessidade de afastamento do trabalho \npor até 15 dias, depois desse período, submete-se às regras do INSS.\nIII. As empresas estão buscando constituir estratégias como ambientes de trabalho mais flexíveis \ne momentos de recreação para ajudar na prevenção das causas da síndrome de Burnout, \nenfatizando não só a produtividade do colaborador, mas também a qualidade de vida dentro e \nfora do ambiente de trabalho.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 27"
+    }
+  ],
+  "25": [
+    {
+      "numero": 25,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2305,
+      "texto": "QUESTÃO 25 \nUma das preocupações da área de saúde e segurança no trabalho é com a prevenção e combate a \nincêndios. A precaução e proteção contra incêndios no ambiente de trabalho é tão importante que \nhá uma norma regulamentadora (NR) que versa especificamente sobre medidas de prevenção contra \nincêndios nos ambientes laborais, no caso, a Norma Regulamentadora 23 (NR-23). Ela estabelece \ndiretrizes e requisitos mínimos para a prevenção e o combate a incêndios, garantindo que as empresas \nadotem medidas adequadas para evitar a ocorrência de incêndios e minimizar os danos em caso de \nemergência.\nCHIRMICI, A.; OLIVEIRA, E. A. R. Introdução à segurança e saúde no trabalho. \nRio de Janeiro: Guanabara Koogan, 2016 (adaptado).\nSobre medidas de gestão e prevenção de combate a incêndio, avalie as afirmações a seguir.\nI. As organizações devem disponibilizar informações a todos os trabalhadores sobre a utilização de \nequipamentos de combate a incêndio e os dispositivos de alarme existentes.\nII. As aberturas, saídas e vias de passagem de emergência devem ser mantidas desobstruídas, de \nmodo que nenhuma saída de emergência seja fechada à chave ou presa durante o expediente \nde trabalho.\nIII. As organizações de médio e grande porte devem adotar medidas de prevenção contra incêndios \nde acordo com a legislação estadual, enquanto as pequenas e microempresas são isentas, visto o \nbaixo grau de risco a que estão sujeitas.\nIV. As medidas de proteção contra incêndios podem ser ativas ou passivas, sendo que as ativas são \nacionadas manualmente ou automaticamente, como o uso de extintores de incêndio, enquanto \nas passivas reagem de modo independente da ação de um usuário, como paredes corta-fogo.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*r28202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "26": [
+    {
+      "numero": 26,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2612,
+      "texto": "QUESTÃO 26 \nTEXTO 1\nBiossegurança pode ser compreendida como um conjunto de medidas e procedimentos técnicos \nnecessários para a manipulação de agentes e materiais biológicos capazes de prevenir, reduzir, controlar \nou eliminar riscos inerentes às atividades que possam comprometer a saúde humana, animal, vegetal e \no meio ambiente.\nBRASIL. Ministério da Saúde, Secretaria de Ciência, Tecnologia e Insumos Estratégicos, Departamento do \nComplexo Industrial e Inovação em Saúde. Classificação de risco dos agentes biológicos. \n2. ed. Brasília: Editora do Ministério da Saúde, 2010. p. 9.\nTEXTO 2\nA classificação de fatores de risco biológico em áreas de fabricação ou produção de alimentos é uma \nmedida importante para identificar e avaliar os agentes biológicos presentes no ambiente de trabalho, \nvisando à prevenção de doenças e à promoção da segurança dos trabalhadores e dos consumidores.\nOLIVEIRA, A. M. C. de. et al. Adequação de serviços de alimentação às boas práticas de fabricação. \nConexão Ciência e Tecnologia, Fortaleza, v. 14, n. 1, p. 30-36, mar. 2020 (adaptado).\nDiante dos textos apresentados, avalie as afirmações a seguir.\nI. A natureza do agente biológico, a virulência, o modo de transmissão, a estabilidade, a concentração \ne o volume estão entre os critérios utilizados para a avaliação de risco dos agentes biológicos.\nII. Os riscos biológicos consistem nos perigos associados à exposição de substâncias químicas \ne compostos tóxicos presentes no ambiente de trabalho ou nos alimentos, como pesticidas, \naditivos e desinfetantes.\nIII. As boas práticas de fabricação determinadas pela Agência Nacional de Vigilância Sanitária \n(Anvisa) visam o estabelecimento de normas e controle da higiene e saúde tanto para \ntrabalhadores quanto para consumidores.\nIV. A avaliação de risco de agentes biológicos pondera critérios de reconhecimento, identificação \ne probabilidade do dano decorrente destes, determinando sua classificação em classes de risco \ndistintas conforme a gravidade dos danos.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*r28202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 29"
+    }
+  ],
+  "27": [
+    {
+      "numero": 27,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1913,
+      "texto": "QUESTÃO 27 \nUm homem de 55 anos, prestador de serviços de limpeza e conservação de áreas públicas, trabalhou a \nmaior parte de sua vida no centro de uma grande capital. Começou a apresentar um quadro clínico \nque evoluiu por crises diárias de tosse, febre, dor no peito, perda de peso e fraqueza. Relatou que, \nno seu local de trabalho, há uma grande quantidade pombos e que ele teve contato diário com fezes \nsecas desses pássaros ao varrer a praça. Afirmou não utilizar equipamento de proteção individual \n(EPI) no seu dia a dia de trabalho. Após exames laboratoriais e radiológicos, foi diagnosticado com \ncriptococose pulmonar.\nConsiderando o contexto apresentado, avalie as afirmações a seguir.\nI. A contaminação do trabalhador aconteceu devido à inalação de fragmentos disseminados no ar \ndas fezes secas e desidratadas dos pombos que continham os esporos da doença.\nII. O uso de EPIs, sobretudo a máscara de proteção respiratória, em atividades de limpeza de \ngalpões onde há criação de aves e locais onde há aglomerados de pombos, é uma medida de \nprevenção de riscos.\nIII. O controle populacional de pombos deve ser implementado e os locais onde existe acúmulo de \nfezes dessas aves devem estar secos para que os esporos possam ser removidos com segurança, \nevitando a dispersão por aerossóis.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "28": [
+    {
+      "numero": 28,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1182,
+      "texto": "QUESTÃO 28 \nExistem diversas legislações e normas técnicas que versam sobre saúde e segurança no trabalho. \nEntre elas, há a norma ISO 45001:2018, que identifica requisitos para um Sistema de Gestão de \nSegurança e Saúde no Trabalho (SGSST), de modo a viabilizar instruções para o seu uso, para assim as \norganizações disponibilizarem locais de trabalho seguros e saudáveis, com o intuito de prevenir riscos, \nlesões e doenças associadas às atividades laborais.\nLU, L. S.; PAVANELLI, L. (orgs.). Interpretação das normas ISO 9001/ISO 14001/ISO 45001. \nSão Paulo: Pearson Education do Brasil, 2020 (adaptado).\nSobre um SGSST, avalie as afirmações a seguir.\nI. A implementação de um SGSST é uma decisão estratégica e operacional para uma organização.\nII. O sucesso da implementação de um SGSST depende de liderança, compromisso e participação \nde todos os níveis e funções da organização.\nIII. A organização pode mitigar o uso de equipamento de proteção individual (EPI), uma vez que o \nambiente de trabalho será seguro e saudável, com a implementação e sucesso de um SGSST.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "29": [
+    {
+      "numero": 29,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1733,
+      "texto": "QUESTÃO 29 \nO Gerenciamento de Riscos Ocupacionais (GRO) abrange uma série de medidas coordenadas para \nprevenção, visando assegurar condições seguras e saudáveis de trabalho aos colaboradores. Já o Programa \nde Gerenciamento de Riscos (PGR) é a implementação prática do processo de GRO, seja por meio de \ndocumentos físicos ou de um sistema eletrônico. Seu objetivo é aprimorar continuamente as condições de \nexposição dos trabalhadores, por meio de ações multidisciplinares e sistematizadas.\nDe acordo com a Norma Regulamentadora 1 (NR-1), um elemento fundamental a ser considerado na \nelaboração do PGR é a\nA realização do levantamento e da identificação de todos os riscos presentes no ambiente de trabalho.\nB implementação das medidas de controle de risco após a ocorrência de acidentes ou incidentes no \nambiente de trabalho.\nC priorização da análise das atividades consideradas de alto risco, mesmo que sejam responsáveis por \num menor número de acidentes. \nD instituição de um sistema de gestão da qualidade com o intuito de minimizar os acidentes ou \nincidentes no ambiente laboral.\nE contratação de uma consultoria externa para assumir integralmente a responsabilidade da \nelaboração do Programa de Gerenciamento de Risco.\n*r28202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 31"
+    }
+  ],
+  "30": [
+    {
+      "numero": 30,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1874,
+      "texto": "QUESTÃO 30 \nQuando se trata de higiene do trabalho, o uso adequado de equipamentos de proteção individual \n(EPIs) é fundamental para preservar a segurança e saúde dos trabalhadores em diversos setores de \natividade. Os EPIs são dispositivos ou acessórios utilizados por trabalhadores, durante a execução \nde suas atividades laborais, com a finalidade de garantir sua proteção contra os riscos existentes no \nambiente de trabalho.\nMATTOS, U. A. O.; MÁSCULO, F. S. (orgs.). Higiene e segurança do trabalho. 2. ed. Rev. e ampl. \nRio de Janeiro: Elsevier, 2019 (adaptado).\nSobre EPI, avalie as afirmações a seguir.\nI. A organização tem a responsabilidade de orientar e treinar o empregado sobre a utilização dos \nEPIs, bem como exigir seu uso durante as atividades laborais.\nII. O fabricante e o importador têm a responsabilidade de comercializar o equipamento com \nmanual de instruções em língua portuguesa, conscientizando sobre sua utilização, conservação, \nhigienização, restrição e demais recomendações de uso.\nIII. O órgão nacional competente em matéria de segurança e saúde no trabalho tem a \nresponsabilidade de determinar os regulamentos para aprovação de EPI, além de expedir ou \nrenovar o certificado de aprovação e fiscalizar a qualidade dos equipamentos.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "31": [
+    {
+      "numero": 31,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2159,
+      "texto": "QUESTÃO 31 \nPelo menos 40% dos acidentes registrados na indústria da construção civil são causados por quedas \nrelacionadas ao trabalho em alturas elevadas. Em decorrência disso, as autoridades decidiram adotar \nmedidas rigorosas, resultando na criação de normas e leis mais eficazes. A Norma Regulamentadora \n35 (NR-35) estabelece os requisitos mínimos e as medidas de proteção para o trabalho em altura, \nenvolvendo o planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos \ntrabalhadores envolvidos direta ou indiretamente com esta atividade.\nANJOS, M. S. D.; STOCO, F. Segurança do trabalho em construção civil. São Paulo: Érica, 2017 (adaptado).\nConsiderando essas informações, avalie as asserções a seguir e a relação proposta entre elas.\nI. Cabe ao trabalhador em suspensão acima de 2 metros tomar todas as providências e medidas \nprevencionistas para evitar a queda de materiais e isolar a área imediatamente abaixo antes do \ninício das atividades.\nPORQUE\nII. O trabalhador em operação na parte inferior deve respeitar os isolamentos dessa área e os \ntrabalhos devem ser paralisados toda vez que esses isolamentos forem invadidos, permanecendo \nassim até a solução do problema.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r28202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 33"
+    }
+  ],
+  "32": [
+    {
+      "numero": 32,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2002,
+      "texto": "QUESTÃO 32 \nUma das atribuições da saúde e segurança no trabalho é avaliar as situações de insalubridade conforme \na legislação e as normas técnicas vigentes. A identificação e análise dos riscos presentes no ambiente de \ntrabalho associados à insalubridade, bem como a determinação do grau de exposição dos trabalhadores \na esses riscos são fundamentais para preservar a saúde do trabalhador.\nMATTOS, U. Higiene e segurança do trabalho. 2. ed. Rio de Janeiro: Elsevier, 2019 (adaptado).\nSobre situações de insalubridade, avalie as afirmações a seguir.\nI. As situações insalubres compreendem atividades com periculosidade iminente e risco acentuado de \nexposição do trabalhador, como acidentes que possam causar lesões graves ou até mesmo morte.\nII. As atividades podem ser caracterizadas como insalubres a partir de uma avaliação qualitativa ou \nquantitativa, dependendo do agente nocivo ou da condição existente no ambiente de trabalho.\nIII. As ocorrências de ruído contínuo ou intermitente, ruído de impacto, exposição ao calor, \nradiações ionizantes e não ionizantes, frio, umidade e vibrações estão entre os fatores associados \nàs situações de insalubridade.\nIV. As atividades insalubres consideram um limite de tolerância, com a concentração ou intensidade \nmáxima ou mínima, associada à natureza e ao tempo de exposição ao agente que não provocará \ndano à saúde do trabalhador durante sua vida laboral.\nÉ correto o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*r28202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "33": [
+    {
+      "numero": 33,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2946,
+      "texto": "QUESTÃO 33 \nTEXTO 1\nA Norma Regulamentadora 32 (NR-32) – Segurança e Saúde no Trabalho em Serviços de Saúde traz em \nseu anexo III o Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes que tem \ncomo objetivo: “Estabelecer diretrizes para a elaboração e implementação de um plano de prevenção \nde riscos de acidentes com materiais perfurocortantes com probabilidade de exposição a agentes \nbiológicos, visando a proteção, segurança e saúde dos trabalhadores dos serviços de saúde, bem como \ndaqueles que exercem atividades de promoção e assistência à saúde em geral”.\nBRASIL. Ministério de Trabalho. NR-32 – Segurança e Saúde no Trabalho em Serviços de Saúde. Brasília, DF, 2005 (adaptado). \nTEXTO 2\nNo cenário hospitalar, os acidentes de trabalho com risco biológico têm relação estreita com o uso de \nmateriais perfurocortantes, pois estes podem provocar ferimentos que facilitam o contato direto do \nprofissional com algum fluido orgânico potencialmente contaminado. De todos os tipos de acidentes, \naqueles que envolvem risco biológico são os mais frequentes e podem transmitir mais de 20 patógenos \ndiferentes para os profissionais da saúde, sendo que os vírus da hepatite B, hepatite C e o vírus da \nimunodeficiência adquirida (HIV) são os de maior impacto epidemiológico.\nGUIMARÃES, H. M.; et al. Acidentes com perfurocortantes entre profissionais de enfermagem: scoping review. \nRev. Enferm. Atual. In Derme [Internet]. v. 96, n. 38, e-021231, 2022. Disponível em: \nwww.teste.revistaenfermagematual.com. Acesso em: 4 jul. 2023 (adaptado).\nConsiderando os acidentes de trabalho com materiais perfurocortantes, avalie as afirmações a seguir.\nI. Os acidentes de trabalho ocorridos com materiais perfurocortantes, assim como o risco que o \nmesmo representa, devem estar previstos no Programa de Gerenciamento de Risco (PGR) e no \nPrograma de Controle Médico de Saúde Ocupacional (PCMSO).\nII. O monitoramento da exposição dos trabalhadores aos agentes biológicos na utilização de \nmateriais perfurocortantes é importante nos serviços de saúde, podendo ser realizado por meio \nde indicadores de acompanhamento.\nIII. Os trabalhadores expostos a esse risco devem passar por capacitação como forma de prevenção; \nno entanto, para esse tipo de capacitação, é dispensada a comprovação/registro por meio \nde documentos.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 35"
+    }
+  ],
+  "34": [
+    {
+      "numero": 34,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2143,
+      "texto": "QUESTÃO 34 \nUm canteiro de obras é um ambiente que pode conter diversos riscos aos trabalhadores, desde quedas \nde nível, quedas de materiais e choques elétricos até a ocorrência de riscos ergonômicos, como \nlevantamento de peso, postura inadequada e movimentação de carga manual. Diante disso, existem \ndiversas normas técnicas e legislações que versam sobre a saúde e segurança no trabalho nessas \ncondições, como a (NR-17), que trata de ergonomia, e a (NR-11), que normatiza medidas de segurança \nde transporte, movimentação, armazenagem e manuseio de materiais.\nFERREIRA, R. S. O. Guia para gestão de segurança nos canteiros de obra: orientação para a prevenção dos acidentes \ne para o cumprimento das normas de SST. Brasília: CBIC, 2017 (adaptado).\nDisponível em: https://www.santos.sp.gov.br/static/files_www/conteudo/SEDUC/EducaSatos/28-11-18comunicado6_\nrecebimento_e_distribuicao_do_livro_didatico.pdf. Acesso em 19 jun. 2023.\nCom base nas informações apresentadas no texto, avalie as afirmações a seguir.\nI. A ergonomia no trabalho associa-se, prioritariamente, com questões de conforto do trabalhador, \nmas que não resultam em riscos à saúde e à segurança.\nII. O empregador é responsável por avaliar ergonomicamente, de modo preliminar, as situações de \ntrabalho que exigem adaptação às características psicofisiológicas dos trabalhadores.\nIII. A legislação brasileira, em respeito ao princípio da isonomia, não prevê a possibilidade de \nredução da carga suportada quando se trata de trabalhadora ou trabalhador(a) menor.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "35": [
+    {
+      "numero": 35,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2193,
+      "texto": "QUESTÃO 35 \nEm uma indústria de doce de banana em tabletes, para cortar os doces, é utilizada uma prensa pneumática. \nA massa do doce de banana é colocada para secar em formas retangulares. Antes de irem para a etapa \nda embalagem, as placas de doce são cortadas com uma prensa que possui uma matriz de corte com \nas medidas desejadas. Todo o preparo é realizado de forma manual pelos colaboradores da indústria. \nSendo assim, a placa de doce é colocada na prensa por uma pessoa, que também faz o acionamento da \nprensa. Após o corte, os tabletes são encaminhados em uma esteira para a área de embalagem.\nConsiderando o caso apresentado e os comandos de acionamento de máquinas e equipamentos, avalie \nas afirmações a seguir.\nI. A operação da prensa gera um risco de acidente, pois o trabalhador tem acesso à zona de perigo, \nque é a área de corte.\nII. A Norma Regulamentadora 12 (NR-12) determina que máquinas como a apresentada devem \npossuir dispositivos de segurança visando manter as mãos do operador fora da zona de perigo.\nIII. Os riscos de acidentes são considerados como riscos ocupacionais e devem estar presentes no \nPrograma de Gerenciamento de Riscos (PGR), documento que veio substituir o Programa de \nPrevenção de Riscos Ambientais (PPRA), o qual não incluía esse tipo de risco.\nIV. As máquinas que não possuírem barreiras físicas de acesso à zona de perigo devem conter um \nsistema de sensor de pessoas para impedir que o operador ou uma segunda pessoa tenha acesso \nà zona de perigo, mesmo com os dispositivos de segurança implantados.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*r28202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 37"
+    }
+  ],
+  "36": [
+    {
+      "numero": 36,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2386,
+      "texto": "QUESTÃO 36 \nTEXTO 1\nA Norma Regulamentadora 26 (NR-26) estabelece medidas quanto à sinalização e identificação de \nsegurança a serem adotadas nos locais de trabalho. Além da identificação de segurança de produto \nquímico utilizado no local de trabalho, deve ser classificado quanto aos perigos para a segurança e a saúde \ndos trabalhadores, de acordo com os critérios estabelecidos pelo Sistema Globalmente Harmonizado de \nClassificação e Rotulagem de Produtos Químicos (GHS), da Organização das Nações Unidas.\nBRASIL. Ministério de Trabalho. NR-26, Sinalização de Segurança. Brasília, DF, 2022. \nTEXTO 2\nSegundo o GHS, um pictograma é uma composição gráfica que serve para comunicar uma informação \nespecífica. Consta de um símbolo e de outros elementos gráficos, como uma borda, um desenho ou \ncor de fundo.\nSistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos. \nDisponível em: https://ghs-sga.com/rotulagem-de-produtos-quimicos/?lang=pt-br. \nAcesso em: 11 jul. 2023 (adaptado).\nCom base nas informações apresentadas, avalie as afirmações a seguir.\nI. Os pictogramas são utilizados para a rotulagem preventiva dos produtos químicos, respeitando \nsempre a norma técnica oficial, como é o caso da NR-26 e da GHS.\nII. A rotulagem preventiva dos produtos químicos apenas com os pictogramas de perigo é suficiente \npara prevenção.\nIII. A utilização das cores como forma de sinalização de segurança nos ambientes de trabalho deve \nser mínima, a fim de não gerar distração, confusão ou fadiga ao trabalhador.\nIV. As cores podem ser utilizadas como sinalização de segurança para delimitar áreas, assim como \npara identificar as tubulações, conforme o que se encontra dentro das mesmas.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\nToxicidade agudaCorrosivos para metais Perigoso para o meio\nambiente aquático\n*r28202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Tecnologia em Segurança no Trabalho"
+    }
+  ],
+  "37": [
+    {
+      "numero": 37,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1606,
+      "texto": "QUESTÃO 37 \nUma empresa possui grande quantidade de colaboradores e, recentemente, teve um aumento \nconsiderável de acidentes de trabalho e afastamentos por motivos de saúde. Preocupados com a \nsegurança e o bem-estar dos funcionários, bem como com os impactos na produtividade, a diretoria \ndecidiu adotar uma política mais rigorosa em relação aos exames médicos ocupacionais.\nConsiderando o contexto apresentado, avalie as afirmações a seguir.\nI. O exame admissional deve ser realizado antes que o empregado assuma suas funções, e o exame \nperiódico deve ser realizado a cada 3 anos ou em intervalos maiores, a critério do médico responsável.\nII. O exame de retorno ao trabalho deve ser realizado antes que o empregado reassuma suas funções, \nquando ausente por um período igual ou superior a 30 dias por motivo de doença ou acidente.\nIII. O exame de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data \nda mudança, adequando-se o controle médico aos novos riscos.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r28202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Segurança no Trabalho 39"
+    }
+  ],
+  "38": [
+    {
+      "numero": 38,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2112,
+      "texto": "QUESTÃO 38 \nO treinamento tem por objetivo a preparação dos colaboradores para a execução imediata das \natividades laborais, dando oportunidades para o contínuo desenvolvimento pessoal, não apenas no \ncargo atualmente ocupado, mas também em outros que o indivíduo possa vir a exercer. Mudanças nas \natitudes das pessoas têm por finalidade criar entre elas um clima mais satisfatório, aumentando-lhes a \nmotivação e tornando-as mais receptivas às técnicas de supervisão, gestão, saúde e segurança no trabalho.\nMORAES, M. V. G. Treinamento e desenvolvimento: educação corporativa para as áreas de Saúde, Segurança do Trabalho \ne Recursos Humanos. São Paulo: Editora Saraiva, 2011. Disponível em: https://integrada.minhabiblioteca.com.br. \nAcesso em: 29 ago. 2023 (adaptado).\nConsiderando o texto apresentado e o planejamento de treinamentos e capacitações em segurança \nno trabalho, avalie as afirmações a seguir.\nI. A primeira etapa do processo de treinamento e desenvolvimento é o planejamento, quando são \nlevantadas as necessidades de treinamento.\nII. A ficha do programa de treinamento contém todas as informações que compõem o programa, \nseja ele interno ou externo.\nIII. A Comissão Interna de Prevenção de Acidentes (Cipa) é um exemplo de evento de treinamento \ncomum a empresas que desenvolvem formação continuada dos empregados.\nIV. A execução é a terceira etapa do processo de treinamento, seguindo o cronograma aprovado \npela diretoria da empresa para realização do evento.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*r28202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
+    }
+  ]
+}

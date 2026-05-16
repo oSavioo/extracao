@@ -18,6 +18,10 @@ CURSOS_ATUAIS_2023 = [
     "engenharia_da_computacao",
     "engenharia_de_controle_e_automacao",
     "engenharia_de_producao",
+    "engenharia_eletrica",
+    "engenharia_florestal",
+    "engenharia_mecanica",
+    "engenharia_quimica",
     "farmacia",
     "fisioterapia",
     "fonoaudiologia",
@@ -25,21 +29,16 @@ CURSOS_ATUAIS_2023 = [
     "medicina_veterinaria",
     "nutricao",
     "odontologia",
-]
-
-CURSOS_PENDENTES_2023 = [
-    "engenharia_eletrica",
-    "engenharia_florestal",
-    "engenharia_mecanica",
-    "engenharia_quimica",
-    "zootecnia",
     "tecnologia_em_agronegocio",
     "tecnologia_em_estetica_e_cosmetico",
     "tecnologia_em_gestao_ambiental",
     "tecnologia_em_gestao_hospitalar",
     "tecnologia_em_radiologia",
     "tecnologia_em_seguranca_do_trabalho",
+    "zootecnia",
 ]
+
+CURSOS_PENDENTES_2023 = []
 
 
 def configurar_stdout():

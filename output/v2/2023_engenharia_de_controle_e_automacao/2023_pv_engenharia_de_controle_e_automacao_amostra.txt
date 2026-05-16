@@ -19,7 +19,7 @@ B) As asserções I e II são proposições verdadeiras, mas a II não é uma ju
 I.
 C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
-E) As asserções I e II são proposições falsas. 4 Engenharia de Controle e Automação
+E) As asserções I e II são proposições falsas.
 
 TEXTO BRUTO:
 QUESTÃO 01 
@@ -181,7 +181,6 @@ B) A baixa cobertura vacinal de crianças menores de um ano de idade é um dos i
 C) A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.
 D) O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.
 E) A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico.
-Engenharia de Controle e Automação 5
 
 TEXTO BRUTO:
 QUESTÃO 03 
@@ -369,7 +368,7 @@ A) I, apenas.
 B) III, apenas.
 C) I e II, apenas.
 D) II e III, apenas.
-E) I, II e III. Engenharia de Controle e Automação 7
+E) I, II e III.
 
 TEXTO BRUTO:
 QUESTÃO 05 

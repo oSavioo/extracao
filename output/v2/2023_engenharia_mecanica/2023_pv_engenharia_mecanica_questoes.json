@@ -1,0 +1,1016 @@
+[
+  {
+    "numero": 1,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável. PORQUE II. A disponibilidade desigual de alimentos, o acirramento de conflitos geopolíticos, a formação de cadeias agrícolas globais e o aumento das catástrofes climáticas são fatores que impactam a segurança alimentar de um grande número de populações. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R1320233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Engenharia Mecânica\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+  },
+  {
+    "numero": 2,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmitidas pela água resulta não somente da inadequação dos serviços de saneamento, mas também da precariedade das condições de moradia da população em situação de vulnerabilidade. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5",
+    "observacao": null
+  },
+  {
+    "numero": 3,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a dift eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
+    "alternativas": {
+      "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
+      "B": "A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo desempenho das políticas públicas de atenção primária em saúde.",
+      "C": "A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice vacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.",
+      "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
+      "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R1320234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 5\nLOGO\n4 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 4,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1\nA Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa",
+    "alternativas": {
+      "A": "proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.",
+      "B": "restringe o aprendizado ao que é legalmente estabelecido e útil ao ser humano, o que facilita seu modo de agir no mundo do conhecimento e do trabalho.",
+      "C": "promove a igualdade econômico-social ao substituir o ser humano no exercício de profissões cujas atividades sejam repetitivas e exijam pouco conhecimento.",
+      "D": "gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.",
+      "E": "estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7",
+    "observacao": null
+  },
+  {
+    "numero": 5,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1320236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 7\nLOGO\n6 MATÉRIA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 6,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "II.",
+      "B": "IV.",
+      "C": "I e III.",
+      "D": "I e IV.",
+      "E": "II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
+    "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+  },
+  {
+    "numero": 7,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, mesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, são insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi a aprovação da reforma previdenciária de 2019, que modificou as regras de idade e contribuição para o acesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda maior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado atual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa faixa etária, denominado etarismo. Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de trabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua sustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no mercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da qualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de tecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1320239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Engenharia Mecânica\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 8,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. A situação do encarceramento feminino por tráfico de drogas e outras situações que circundam o assunto foi tema de discussão da Secretaria de políticas sobre Drogas do Ministério da Justiça e Segurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com a participação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre drogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de encarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e primeira infância. Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em atividades do tráfico encontra-se em posições hierarquicamente inferiores, sendo classificadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, da divisão sexual do trabalho observada no mercado formal. PORQUE II. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela invisibilização com que as trata, seja por meio da violência institucional que reproduz a violência estrutural das relações sociais patriarcais. A respeito dessas asserções, assinale a opção correta",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11",
+    "observacao": null
+  },
+  {
+    "numero": 9,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. Os seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de desempenho e produção. São empresários de si mesmos. BYUNG-CHUL HAN. Sociedade do Cansaço. Petrópolis: Vozes, 2015 (adaptado). Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. Os recursos tecnológicos, como notificações de mensagens em tempo real e controle da velocidade de áudio em redes de mensagens, são fatores que podem contribuir para a precarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem a desativação de aplicativos e mecanismos de notificações instantâneas, bem como a fixação de horários para uso profissional e uso recreativo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso excessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento digital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no ambiente de trabalho. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R13202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 11\nLOGO\n10 MATÉRIA",
+    "observacao": null
+  },
+  {
+    "numero": 10,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A figura a seguir representa um dos tipos mais comuns de furo, o furo cego.\nNa situação representada na figura, tem-se disponível uma broca helicoidal de aço rápido para usinar o furo com diâmetro Ø = 8 mm e profundidade A = 25 mm num aço de baixo carbono. Para essa situação, a velocidade de corte apropriada é de 35 m/min e o avanço é de 0,18 mm/rotação.\nConsiderando a situação apresentada, Avalie as afirmações a seguir.\nI. Utilizando-se a broca de 8 mm de diâmetro, desconsiderando a ponta da broca para efeito de deslocamento da ferramenta e com avanço automático, o tempo principal de corte será menor que 10 s.\nII. O risco de ocorrer excentricidade no formato do furo é desconsiderado, pois é pequeno o diâmetro da broca utilizada na usinagem da peça.\nIII. No projeto da peça, o furo em questão é considerado de alta precisão, de forma que, após sua furação, haverá a operação de acabamento. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III. A Æ"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 10 \nA figura a seguir representa um dos tipos mais comuns de furo, o furo cego.\nNa situação representada na figura, tem-se disponível uma broca helicoidal de aço rápido para usinar o \nfuro com diâmetro Ø = 8 mm e profundidade A = 25 mm num aço de baixo carbono. Para essa situação, \na velocidade de corte apropriada é de 35 m/min e o avanço é de 0,18 mm/rotação.\nConsiderando a situação apresentada, avalie as afirmações a seguir.\nI. Utilizando-se a broca de 8 mm de diâmetro, desconsiderando a ponta da broca para efeito de \ndeslocamento da ferramenta e com avanço automático, o tempo principal de corte será menor \nque 10 s.\nII. O risco de ocorrer excentricidade no formato do furo é desconsiderado, pois é pequeno o \ndiâmetro da broca utilizada na usinagem da peça.\nIII. No projeto da peça, o furo em questão é considerado de alta precisão, de forma que, \napós sua furação, haverá a operação de acabamento.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\nA\nÆ\n*R13202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 15",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 11,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que uma indústria metalomecânica queira produzir peças com característica de resistência ao desgaste. A empresa tem experiência na fabricação de peças a partir de dois tipos de materiais para a produção do mesmo tipo de componente, conforme descrito a seguir.\nMaterial A Aço com alto teor de carbono Material B Aço com baixo teor de carbono Considere que a rota comum de fabricação para componentes com essa exigência de resistência ao desgaste envolve a usinagem, seguida de tratamento térmico, e que essa empresa possui equipamentos e competência para realizar diferentes operações de tratamento térmico para essa demanda.\nA partir das informações apresentadas, assinale a opção correta.",
+    "alternativas": {
+      "A": "Se o componente for fabricado com o material A, este deve ser aquecido por tempos prolongados de exposição a temperaturas ligeiramente subcríticas, visando-se produzir cementita esferoidal em uma matriz de ferrita e eliminando-se a presença de perlita.",
+      "B": "Se o componente for fabricado com o material A, este deve ser aquecido abaixo da zona crítica, seguido-se o resfriamento prolongado e, após esses procedimentos, deve ser realizado um revenido, para alívio de tensões internas.",
+      "C": "Se o componente for fabricado com o material B, este deve ser aquecido acima da temperatura crítica, acrescentando-se carbono em sua superfície, por certo período de tempo.",
+      "D": "Se o componente for fabricado com qualquer um dos materiais, A ou B, estes devem ser aquecidos acima da zona crítica e, em seguida devem ser retirados do forno e resfriados ao ar natural.",
+      "E": "Se o componente for fabricado com o material B, deve ser aplicado um recozimento, com o objetivo de aumentar a dureza do material e a resistência ao desgaste."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 11 \nSuponha que uma indústria metalomecânica queira produzir peças com característica de resistência \nao desgaste. A empresa tem experiência na fabricação de peças a partir de dois tipos de materiais \npara a produção do mesmo tipo de componente, conforme descrito a seguir.\nMaterial A Aço com alto teor de carbono \nMaterial B Aço com baixo teor de carbono \nConsidere que a rota comum de fabricação para componentes com essa exigência de resistência ao \ndesgaste envolve a usinagem, seguida de tratamento térmico, e que essa empresa possui equipamentos \ne competência para realizar diferentes operações de tratamento térmico para essa demanda.\nA partir das informações apresentadas, assinale a opção correta.\nA Se o componente for fabricado com o material A, este deve ser aquecido por tempos prolongados de \nexposição a temperaturas ligeiramente subcríticas, visando-se produzir cementita esferoidal em uma \nmatriz de ferrita e eliminando-se a presença de perlita.\nB Se o componente for fabricado com o material A, este deve ser aquecido abaixo da zona crítica, \nseguido-se o resfriamento prolongado e, após esses procedimentos, deve ser realizado um revenido, \npara alívio de tensões internas.\nC Se o componente for fabricado com o material B, este deve ser aquecido acima da temperatura \ncrítica, acrescentando-se carbono em sua superfície, por certo período de tempo.\nD Se o componente for fabricado com qualquer um dos materiais, A ou B, estes devem ser aquecidos \nacima da zona crítica e, em seguida devem ser retirados do forno e resfriados ao ar natural.\nE Se o componente for fabricado com o material B, deve ser aplicado um recozimento, com o objetivo de \naumentar a dureza do material e a resistência ao desgaste.\n*R13202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Engenharia Mecânica",
+    "observacao": null
+  },
+  {
+    "numero": 12,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere que, para abastecer uma cidade de 360 000 habitantes, será construída uma nova estação de tratamento de água (ETA), com vazão total de 3 600 m 3/h. O engenheiro responsável pelo projeto da ETA calculou que a bomba hidráulica do tipo centrífuga, responsável pelo processo de filtragem, deve vencer a altura estática de 3 m, a perda de carga deve ser de 42 m e o peso específico da água igual a 10 kN/m 3. A bomba escolhida tem modernas características construtivas e, de acordo com informações técnicas obtidas no manual do fabricante, há a garantia de que o conjunto moto-bomba apresenta rendimento global de 50%.\nConsiderando a situação apresentada, conclui-se que a potência do motor elétrico que acionará a bomba hidráulica da referida ETA corresponde a",
+    "alternativas": {
+      "A": "30 kW.",
+      "B": "60 kW.",
+      "C": "450 kW.",
+      "D": "840 kW.",
+      "E": "900 kW."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 12 \nConsidere que, para abastecer uma cidade de 360 000 habitantes, será construída uma nova estação \nde tratamento de água (ETA), com vazão total de 3 600 m 3/h. O engenheiro responsável pelo projeto \nda ETA calculou que a bomba hidráulica do tipo centrífuga, responsável pelo processo de filtragem, \ndeve vencer a altura estática de 3 m, a perda de carga deve ser de 42 m e o peso específico da água \nigual a 10 kN/m 3. A bomba escolhida tem modernas características construtivas e, de acordo com \ninformações técnicas obtidas no manual do fabricante, há a garantia de que o conjunto moto-bomba \napresenta rendimento global de 50%.\nConsiderando a situação apresentada, conclui-se que a potência do motor elétrico que acionará a \nbomba hidráulica da referida ETA corresponde a\nA 30 kW.\nB 60 kW.\nC 450 kW.\nD 840 kW.\nE 900 kW.",
+    "observacao": null
+  },
+  {
+    "numero": 13,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Uma empresa foi contratada para obter, experimentalmente, a força de arrasto em uma partícula metálica esférica com diâmetro de 1 mm quando submetida a escoamento de ar a 75 m/s. Diante das dificuldades de se trabalhar com um protótipo de pequenas dimensões, a equipe de engenheiros propôs a construção de um modelo em escala 200 vezes maior, o qual será testado em glicerina. Considere que as viscosidades cinemáticas do ar e da glicerina correspondam, respectivamente, a 1,5x10 -5 m2/s e 1,2x10 -3 m2/s.\nDado que existe relação de semelhança entre o modelo e o protótipo, a velocidade de escoamento da glicerina, no referido experimento, deve ser de",
+    "alternativas": {
+      "A": "35 m/s.",
+      "B": "30 m/s.",
+      "C": "25 m/s.",
+      "D": "20 m/s.",
+      "E": "15 m/s."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 13 \nUma empresa foi contratada para obter, experimentalmente, a força de arrasto em uma partícula \nmetálica esférica com diâmetro de 1 mm quando submetida a escoamento de ar a 75 m/s. Diante das \ndificuldades de se trabalhar com um protótipo de pequenas dimensões, a equipe de engenheiros \npropôs a construção de um modelo em escala 200 vezes maior, o qual será testado em glicerina. \nConsidere que as viscosidades cinemáticas do ar e da glicerina correspondam, respectivamente, \na 1,5x10 -5 m2/s e 1,2x10 -3 m2/s.\nDado que existe relação de semelhança entre o modelo e o protótipo, a velocidade de escoamento da \nglicerina, no referido experimento, deve ser de\nA 35 m/s.\nB 30 m/s.\nC 25 m/s.\nD 20 m/s.\nE 15 m/s.\n*R13202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 17",
+    "observacao": null
+  },
+  {
+    "numero": 14,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que um engenheiro tenha analisado o isolamento de um tubo fino que evita a condensação do fluido refrigerante conduzido. Usando um paquímetro, ele verificou que o tubo tem 0,54 cm de raio externo, mas esse raio chega a 0,6 cm com o isolamento de lã de vidro.\nConsiderou-se que a condutividade térmica da lã de vidro é de 0,038 W/(m °C) e, após consulta na literatura, o engenheiro observou que o raio crítico de isolamento é dado por\nr k\nhcrit =\nem que k é a condutividade térmica, e h = 7,0 W/(m 2 °C) é o coeficiente de transferência de calor por convecção.\nO engenheiro analisou também, como material alternativo, o isolamento de silicato de sódio, cuja condutividade térmica é de 0,055 W/(m °C).\nCom base nas análises realizadas, o engenheiro concluiu corretamente que",
+    "alternativas": {
+      "A": "a lã de vidro e o silicato de sódio têm o mesmo fluxo de calor.",
+      "B": "a lã de vidro tem melhor isolamento com o aumento do raio do isolante.",
+      "C": "a lã de vidro tem menor fluxo de calor com a redução do raio do isolante.",
+      "D": "o silicato de sódio tem melhor isolamento com o aumento do raio do isolante.",
+      "E": "o silicato de sódio tem menor fluxo de calor com o aumento do raio do isolante."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 14 \nSuponha que um engenheiro tenha analisado o isolamento de um tubo fino que evita a condensação \ndo fluido refrigerante conduzido. Usando um paquímetro, ele verificou que o tubo tem 0,54 cm de raio \nexterno, mas esse raio chega a 0,6 cm com o isolamento de lã de vidro.\nConsiderou-se que a condutividade térmica da lã de vidro é de 0,038 W/(m °C) e, após consulta na \nliteratura, o engenheiro observou que o raio crítico de isolamento é dado por\nr k\nhcrit =\nem que k é a condutividade térmica, e h = 7,0 W/(m 2 °C) é o coeficiente de transferência de calor \npor convecção.\nO engenheiro analisou também, como material alternativo, o isolamento de silicato de sódio, \ncuja condutividade térmica é de 0,055 W/(m °C).\nCom base nas análises realizadas, o engenheiro concluiu corretamente que\nA a lã de vidro e o silicato de sódio têm o mesmo fluxo de calor.\nB a lã de vidro tem melhor isolamento com o aumento do raio do isolante.\nC a lã de vidro tem menor fluxo de calor com a redução do raio do isolante.\nD o silicato de sódio tem melhor isolamento com o aumento do raio do isolante.\nE o silicato de sódio tem menor fluxo de calor com o aumento do raio do isolante.",
+    "observacao": null
+  },
+  {
+    "numero": 15,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que um sistema de condicionamento de ar é utilizado para manter a temperatura interna de um quarto a 23 °C no verão. Após serem realizadas diversas medidas da temperatura superficial interna de uma parede do quarto, com 5 m de comprimento e 4 m de altura, foi obtido o valor médio de 27 °C.\nConsiderando-se os dados apresentados e que o coeficiente de transferência de calor por convecção no interior do quarto corresponde a 5 W/(m 2 °C), desprezados os efeitos da radiação nesse ambiente, verifica-se que a taxa de transferência de calor que passa pela referida parede é de",
+    "alternativas": {
+      "A": "20 W.",
+      "B": "100 W.",
+      "C": "180 W.",
+      "D": "360 W.",
+      "E": "400 W."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 15 \nSuponha que um sistema de condicionamento de ar é utilizado para manter a temperatura interna de \num quarto a 23 °C no verão. Após serem realizadas diversas medidas da temperatura superficial interna \nde uma parede do quarto, com 5 m de comprimento e 4 m de altura, foi obtido o valor médio de 27 °C.\nConsiderando-se os dados apresentados e que o coeficiente de transferência de calor por convecção \nno interior do quarto corresponde a 5 W/(m 2 °C), desprezados os efeitos da radiação nesse ambiente, \nverifica-se que a taxa de transferência de calor que passa pela referida parede é de\nA 20 W.\nB 100 W.\nC 180 W.\nD 360 W.\nE 400 W.\n*R13202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Engenharia Mecânica",
+    "observacao": null
+  },
+  {
+    "numero": 16,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Conforme a bibliografia de sistemas de geração de potência a vapor, que inclui a norma API-611, a qual trata de turbinas a vapor, ciclos de geração de potência a vapor requerem um título no interior de qualquer parte da turbina acima de 90%, de forma a serem evitados ou minimizados problemas com a erosão das pás.\nO diagrama T ´ s, apresentado a seguir, mostra um ciclo Rankine Irreversível, com vapor saturado na entrada da turbina, tendo a saída um título perto da faixa crítica.\nMORAN, M. J.; SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia. Rio de Janeiro: editora LTC, 2013 (adaptado).\nConsidere a intenção de se aumentar a eficiência desse ciclo mudando parâmetros, como pressão da caldeira, pressão do condensador, condições na entrada da turbina e/ou condições na entrada da bomba.\nAcerca da situação apresentada, assinale a opção que indica a melhor ação para se alcançar o aumento de eficiência desejado, sem reduzir-se o título na saída da turbina.",
+    "alternativas": {
+      "A": "Aumentar a temperatura do vapor na saída da turbina, sem modificar a pressão da caldeira.",
+      "B": "Superaquecer o vapor na caldeira, sem modificar a pressão na caldeira e no condensador.",
+      "C": "Apenas reduzir a pressão no condensador, sem modificar a pressão do vapor saturado na saída da caldeira.",
+      "D": "Apenas aumentar a pressão do vapor saturado na saída da caldeira, sem modificar a pressão no condensador.",
+      "E": "Subresfriar o líquido na entrada da bomba, mantendo a pressão do vapor saturado na saída da caldeira inalterada.\nT\ns\n90%"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 16 \nConforme a bibliografia de sistemas de geração de potência a vapor, que inclui a norma API-611, \na qual trata de turbinas a vapor, ciclos de geração de potência a vapor requerem um título no interior de \nqualquer parte da turbina acima de 90%, de forma a serem evitados ou minimizados problemas com a \nerosão das pás.\nO diagrama T ´ s, apresentado a seguir, mostra um ciclo Rankine Irreversível, com vapor saturado na \nentrada da turbina, tendo a saída um título perto da faixa crítica.\nMORAN, M. J.; SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia. Rio de Janeiro: editora LTC, 2013 (adaptado).\nConsidere a intenção de se aumentar a eficiência desse ciclo mudando parâmetros, como pressão da \ncaldeira, pressão do condensador, condições na entrada da turbina e/ou condições na entrada da bomba.\nAcerca da situação apresentada, assinale a opção que indica a melhor ação para se alcançar o aumento \nde eficiência desejado, sem reduzir-se o título na saída da turbina.\nA Aumentar a temperatura do vapor na saída da turbina, sem modificar a pressão da caldeira.\nB Superaquecer o vapor na caldeira, sem modificar a pressão na caldeira e no condensador.\nC Apenas reduzir a pressão no condensador, sem modificar a pressão do vapor saturado na saída da caldeira.\nD Apenas aumentar a pressão do vapor saturado na saída da caldeira, sem modificar a pressão no condensador.\nE Subresfriar o líquido na entrada da bomba, mantendo a pressão do vapor saturado na saída da \ncaldeira inalterada.\nT\ns\n90%\n4\n3\n2\n1\n4s\n2s\n*R13202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 19",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 17,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "baixa",
+    "score_bloco": 10,
+    "parse_strategy": "tail_total",
+    "enunciado": "",
+    "alternativas": {},
+    "alternativas_esperadas": [],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": false,
+    "texto_bruto": "QUESTÃO 17 \nConsidere que um reservatório cilíndrico armazena água à pressão e à temperatura ambientes. A área da \nbase do reservatório é de 0,5 m 2, e seu nível máximo corresponde a 2 m. No instante inicial, o nível da \nágua no interior do reservatório é de 1 m. Após 10 s, o reservatório passa a ser abastecido com a vazão \nde 5 L/s de água.\nConsiderando essas condições, assinale a opção em que está representado o comportamento dinâmico \ndo nível a ser medido por um sensor.\nA\nTempo (s)\nNível do tanque (m)\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n110\n120\n0\nD\nTempo (s)\nNível do tanque (m)\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n110\n120\n0\nB\nTempo (s)\nNível do tanque (m)\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n110\n120\n0\nE \nTempo (s)\nNível do tanque (m)\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n110\n120\n0\nC \nTempo (s)\nNível do tanque (m)\n2,2\n2,0\n1,8\n1,6\n1,4\n1,2\n1,0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n110\n120\n0\n*R13202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 18,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que uma placa plana retangular esteja sujeita à condução de calor bidimensional em regime permanente, imposta pelas condições de contorno em suas extremidades. Suponha, ainda, que a placa foi dividida em seis elementos quadrados, sendo identificados 12 nós, conforme apresentado na figura a seguir.\n5 6\nDx = Dy = D\n9 10 11 12\nCENGEL, Y. A.; GHAJAR, A. J. Transferência de calor e massa: uma abordagem prática. 4. ed. Porto Alegre: AMGH, 2012 (adaptado).\nConsiderando que o material possa ser modelado como isotrópico, verifica-se que a equação que representa a temperatura do nó 7, obtida com base na equação de diferenças finitas, é",
+    "alternativas": {
+      "A": "T TT TT\n13 91 1\n4= ++ +",
+      "B": "T TT TT\n257 10\n4= ++ +",
+      "C": "T TT TT\n36 81 1\n4= ++ +",
+      "D": "T TT TT\n13 81 1\n2= ++ +",
+      "E": "T T TTT\n24 81 0\n2= +++"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 18 \nSuponha que uma placa plana retangular esteja sujeita à condução de calor bidimensional em regime \npermanente, imposta pelas condições de contorno em suas extremidades. Suponha, ainda, que a placa foi \ndividida em seis elementos quadrados, sendo identificados 12 nós, conforme apresentado na figura a seguir.\n1\n5 6\n2\nDx = Dy = D\n3\n7\n9 10 11 12\n8\n4\nCENGEL, Y . A.; GHAJAR, A. J. Transferência de calor e massa: uma abordagem prática. \n4. ed. Porto Alegre: AMGH, 2012 (adaptado).\nConsiderando que o material possa ser modelado como isotrópico, verifica-se que a equação que \nrepresenta a temperatura do nó 7, obtida com base na equação de diferenças finitas, é\nA T TT TT\n7\n13 91 1\n4= ++ +\nB T TT TT\n7\n257 10\n4= ++ +\nC T TT TT\n7\n36 81 1\n4= ++ +\nD T TT TT\n7\n13 81 1\n2= ++ +\nE T T TTT\n7\n24 81 0\n2= +++\n*R13202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 21",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 19,
+    "gabarito": "B",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "O termo insalubridade tem o seguinte significado: o que é nocivo ou prejudicial à saúde. Um ambiente insalubre é composto por agentes (substâncias ou condições) que podem causar dano ao colaborador. Com base nessas características, a Consolidação das Leis Trabalhistas (CLT) preconiza que as atividades são insalubres quando levam à exposição do colaborador a um nível acima do limite tolerável, predefinidos por normas, conforme sua natureza, intensidade e tempo de exposição. Os parâmetros de insalubridade são definidos pela NR15, em que são apresentadas as disposições gerais acerca das atividades de insalubridade, de acordo com os agentes presentes, sendo eles o químico, o físico, o biológico ou alguma condição adversa. Com base no que é preconizado na NR15, assinale a opção correta.",
+    "alternativas": {
+      "A": "O pagamento do adicional de insalubridade está atrelado a uma condição em que o ambiente não apresentará mais risco.",
+      "B": "A insalubridade é identificada por meio de avaliação do ambiente, a qual deve ser realizada por um profissional qualificado, com formação em segurança do trabalho e, portanto, habilitado a identificar os riscos do ambiente de atuação dos colaboradores.",
+      "C": "O adicional de insalubridade ou periculosidade é um direito adquirido e só deve cessar quando o colaborador fizer uso de equipamentos de proteção individuais apropriados às atividades exercidas ao longo da sua jornada de trabalho.",
+      "D": "O valor acrescido ao salário do colaborador, no caso de ser identificado mais de um fator de insalubridade, corresponderá à média dos valores percentuais que forem determinados pela norma, de acordo com os parâmetros elegíveis.",
+      "E": "Ao se analisar a insalubridade de um ambiente, deve-e proceder à consulta ao colaborador que esteja atuando na condição de risco e, com base na sua experiência, determinar o grau de risco a que ele está exposto, devendo-se, em seguida, informar o profissional superior para que providências possam ser tomadas em prol da saúde da equipe de trabalho."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 19 \nO termo insalubridade tem o seguinte significado: o que é nocivo ou prejudicial à saúde. Um ambiente \ninsalubre é composto por agentes (substâncias ou condições) que podem causar dano ao colaborador. \nCom base nessas características, a Consolidação das Leis Trabalhistas (CLT) preconiza que as atividades são \ninsalubres quando levam à exposição do colaborador a um nível acima do limite tolerável, predefinidos \npor normas, conforme sua natureza, intensidade e tempo de exposição. Os parâmetros de insalubridade \nsão definidos pela NR15, em que são apresentadas as disposições gerais acerca das atividades de \ninsalubridade, de acordo com os agentes presentes, sendo eles o químico, o físico, o biológico ou alguma \ncondição adversa.\nDisponível em: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-\ncolegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-15-atualizada-2022.pdf. \nAcesso em: 8 ago. 2023 (adaptado).\nCom base no que é preconizado na NR15, assinale a opção correta.\nA O pagamento do adicional de insalubridade está atrelado a uma condição em que o ambiente não \napresentará mais risco.\nB A insalubridade é identificada por meio de avaliação do ambiente, a qual deve ser realizada por um \nprofissional qualificado, com formação em segurança do trabalho e, portanto, habilitado a identificar \nos riscos do ambiente de atuação dos colaboradores.\nC O adicional de insalubridade ou periculosidade é um direito adquirido e só deve cessar quando o \ncolaborador fizer uso de equipamentos de proteção individuais apropriados às atividades exercidas \nao longo da sua jornada de trabalho.\nD O valor acrescido ao salário do colaborador, no caso de ser identificado mais de um fator de \ninsalubridade, corresponderá à média dos valores percentuais que forem determinados pela norma, \nde acordo com os parâmetros elegíveis.\nE Ao se analisar a insalubridade de um ambiente, deve-e proceder à consulta ao colaborador que esteja \natuando na condição de risco e, com base na sua experiência, determinar o grau de risco a que ele \nestá exposto, devendo-se, em seguida, informar o profissional superior para que providências possam \nser tomadas em prol da saúde da equipe de trabalho.\n*R13202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Engenharia Mecânica",
+    "observacao": null
+  },
+  {
+    "numero": 20,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Para serem evitadas falhas estruturais em dimensionamento de máquinas e estruturas, é necessária a análise dos elementos de tensões mais críticas. Para a análise das tensões principais e de cisalhamento, um método simples para os cálculos é a utilização do círculo de Mohr, apresentado na figura a seguir.\nt\nsmáx\nsmín\nB O C\nY(sy, +txy)\nX(sx, – txy)\nA txy\ns\n(sx–sy)1\nConsidere um elemento de tensão que apresente tensão normal de tração sx = 60 MPa e sy = 0 MPa, conforme representado na figura a seguir.\nsy\nsx\ntxy\nO\nBEER, F. P. Resistência dos Materiais. São Paulo: Makron Books, 1995 (adaptado).\nSabendo-se que a tensão normal máxima é de 80 MPa, os valores dos módulos de txy e da tensão de cisalhamento máxima serão, respectivamente, iguais a",
+    "alternativas": {
+      "A": "40 MPa e 50 MPa.",
+      "B": "40 MPa e 100MPa.",
+      "C": "50 MPa e 50 MPa.",
+      "D": "50 MPa e 100 MPa.",
+      "E": "100 MPa e 50 MPa."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 20 \nPara serem evitadas falhas estruturais em dimensionamento de máquinas e estruturas, é necessária a \nanálise dos elementos de tensões mais críticas. Para a análise das tensões principais e de cisalhamento, \num método simples para os cálculos é a utilização do círculo de Mohr, apresentado na figura a seguir.\nt\nsmáx\nsmín\nB\nO C\nY(sy , +txy)\nX(sx , – txy)\nA\ntxy\ns\n(sx–sy)1\n2\n2qp\nConsidere um elemento de tensão que apresente tensão normal de tração sx = 60 MPa e sy = 0 MPa, \nconforme representado na figura a seguir.\nsy\nsx\ntxy\nO\nBEER, F. P . Resistência dos Materiais. São Paulo: Makron Books, 1995 (adaptado).\nSabendo-se que a tensão normal máxima é de 80 MPa, os valores dos módulos de txy e da tensão de \ncisalhamento máxima serão, respectivamente, iguais a\nA 40 MPa e 50 MPa.\nB 40 MPa e 100MPa.\nC 50 MPa e 50 MPa.\nD 50 MPa e 100 MPa.\nE 100 MPa e 50 MPa.\n*R13202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 23",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 21,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "A flexão ocorre na grande maioria das estruturas e máquinas existentes, sendo que a demanda da sociedade em projetar equipamentos com menor custo e segurança faz com que o projetista analise todos os elementos estruturais, garantindo que os pontos mais críticos da seção mais crítica sejam avaliados. Para isso, é necessário o conhecimento dos esforços internos das estruturas, os quais, no caso de estruturas planas, são momento fletor, força cortante e força normal axial.\nA figura a seguir representa um elemento de máquina sujeito à aplicação de momentos em dois pontos específicos.\nGERE, J. M. Mecânica dos Materiais, 5. ed. São Paulo: Cengage Learning, 2013 (adaptado). Considerando as informações apresentadas, Avalie as afirmações a seguir.\nI. A soma das reações em A e B são nulas.\nII. A reação em B tem módulo de 3M1/L.\nIII. O momento fletor máximo tem módulo 3M1.\nIV. A força cortante máxima tem módulo (3/2)M1/L. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e II.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, III e IV.",
+      "E": "II, III e IV. A M1 2M1\nL\nL\nL\nB"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 21 \nA flexão ocorre na grande maioria das estruturas e máquinas existentes, sendo que a demanda da \nsociedade em projetar equipamentos com menor custo e segurança faz com que o projetista analise \ntodos os elementos estruturais, garantindo que os pontos mais críticos da seção mais crítica sejam \navaliados. Para isso, é necessário o conhecimento dos esforços internos das estruturas, os quais, no caso \nde estruturas planas, são momento fletor, força cortante e força normal axial.\nA figura a seguir representa um elemento de máquina sujeito à aplicação de momentos em dois pontos \nespecíficos.\nGERE, J. M. Mecânica dos Materiais, 5. ed. São Paulo: Cengage Learning, 2013 (adaptado).\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\nI. A soma das reações em A e B são nulas.\nII. A reação em B tem módulo de 3M1/L.\nIII. O momento fletor máximo tem módulo 3M1.\nIV. A força cortante máxima tem módulo (3/2)M1/L.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\nA\nM1 2M1\nL\n3\nL\n3\nL\n3\nB\n*R13202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 22,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Considere que um momento M de intensidade 180 kN cm seja aplicado na manivela do motor mostrado na figura a seguir. Na posição mostrada, a força F é necessária para manter o sistema em equilíbrio.\nCom base nos dados apresentados, verifica-se que, para a determinação dos esforços de projeto atuantes no pistão e considerando-se os pesos desprezíveis, o valor da força F é igual a",
+    "alternativas": {
+      "A": "30 kN.",
+      "B": "45 kN.",
+      "C": "60 kN.",
+      "D": "90 kN.",
+      "E": "105 kN.\nC F\nA M\nB 4,5 cm 6 cm\nѲ"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 22 \nConsidere que um momento M de intensidade 180 kN cm seja aplicado na manivela do motor mostrado \nna figura a seguir. Na posição mostrada, a força F é necessária para manter o sistema em equilíbrio.\nCom base nos dados apresentados, verifica-se que, para a determinação dos esforços de projeto \natuantes no pistão e considerando-se os pesos desprezíveis, o valor da força F é igual a\nA 30 kN.\nB 45 kN.\nC 60 kN.\nD 90 kN.\nE 105 kN.\nC\nF\nA\nM\nB\n4,5 cm 6 cm\n3 cm\nѲ\n*R13202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 25",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 23,
+    "gabarito": "E",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Suponha que uma indústria de manufatura tenha encomendado um projeto de uma esteira de transporte para alimentação nas células de produção. Durante a implantação, foram analisados dispositivos que, controlados eletronicamente, utilizam servo-motores e sistemas mecânicos com velocidade constante. Utilizando como critério de seleção o custo, a diretoria optou por sistemas mecânicos desenvolvidos pelo departamento de engenharia da própria empresa.\nA figura a seguir representa o dispositivo mecânico de tração de uma esteira, o qual é composto por um motor elétrico, uma caixa de transmissão por engrenagens e uma transmissão por polias e correia, que é, então, acoplada ao cilindro de tração da esteira. As polias apresentam relação de diâmetros d2/d1 = 5 e o motor acoplado à caixa de redução tem potência nominal de 2 cv e opera com rotação fixa de 880 rpm.\nConsiderando que, ao utilizar um tacômetro, o engenheiro verificou que a rotação no eixo de tração da esteira é de 44 rpm, conclui-se que a relação de transmissão da caixa de transmissão por engrenagens é igual a",
+    "alternativas": {
+      "A": "20:1.",
+      "B": "19,8:1.",
+      "C": "9:1.",
+      "D": "5:1.",
+      "E": "4:1.\nCaixa de transmissão\nTração da esteira\nd1\nd2"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 23 \nSuponha que uma indústria de manufatura tenha encomendado um projeto de uma esteira de \ntransporte para alimentação nas células de produção. Durante a implantação, foram analisados \ndispositivos que, controlados eletronicamente, utilizam servo-motores e sistemas mecânicos com \nvelocidade constante. Utilizando como critério de seleção o custo, a diretoria optou por sistemas \nmecânicos desenvolvidos pelo departamento de engenharia da própria empresa.\nA figura a seguir representa o dispositivo mecânico de tração de uma esteira, o qual é composto por \num motor elétrico, uma caixa de transmissão por engrenagens e uma transmissão por polias e correia, \nque é, então, acoplada ao cilindro de tração da esteira. As polias apresentam relação de diâmetros \nd2/d1 = 5 e o motor acoplado à caixa de redução tem potência nominal de 2 cv e opera com rotação \nfixa de 880 rpm.\nConsiderando que, ao utilizar um tacômetro, o engenheiro verificou que a rotação no eixo de tração da \nesteira é de 44 rpm, conclui-se que a relação de transmissão da caixa de transmissão por engrenagens é \nigual a\nA 20:1.\nB 19,8:1.\nC 9:1.\nD 5:1.\nE 4:1.\nCaixa de transmissão\nTração da esteira\nd1\nd2\n*R13202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 24,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Nos projetos de máquinas, os conceitos de dinâmica do corpo rígido são fundamentais para o desenvolvimento de modelos matemáticos, evitando-se a construção de protótipos e, consequentemente, minimizando-se custos.\nA figura a seguir representa um disco com um cordão enrolado em torno de seu centro geométrico, simulando o comportamento de um ioiô. O disco tem massa M, raio R e momento de inércia em relação ao centro de massa igual a I = MR2/2. Considere M = 0,2 kg, R = 10 cm e aceleração da gravidade g = 10 m/s2.\nNessa situação, se o disco é solto a partir do repouso, o valor da velocidade após 9 segundos é",
+    "alternativas": {
+      "A": "4 m/s.",
+      "B": "6 m/s.",
+      "C": "40 m/s.",
+      "D": "60 m/s.",
+      "E": "600 m/s.\nT\nR\nMg"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 24 \nNos projetos de máquinas, os conceitos de dinâmica do corpo rígido são fundamentais para \no desenvolvimento de modelos matemáticos, evitando-se a construção de protótipos e, \nconsequentemente, minimizando-se custos.\nA figura a seguir representa um disco com um cordão enrolado em torno de seu centro geométrico, \nsimulando o comportamento de um ioiô. O disco tem massa M, raio R e momento de inércia em relação ao \ncentro de massa igual a I = MR2/2. Considere M = 0,2 kg, R = 10 cm e aceleração da gravidade g = 10 m/s2.\nNessa situação, se o disco é solto a partir do repouso, o valor da velocidade após 9 segundos é\nA 4 m/s.\nB 6 m/s.\nC 40 m/s.\nD 60 m/s.\nE 600 m/s.\nT\nR\nMg\n*R13202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 27",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 25,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Considere que um mecanismo do tipo Scotch Yoke tenha sido utilizado em uma mesa de vibração em um processo industrial e que ensaios experimentais determinaram o gráfico do deslocamento do êmbolo do mencionado mecanismo, conforme mostra a figura a seguir.\nConsiderando o gráfico desse mecanismo, Avalie as afirmações a seguir.\nI. O tempo para que o movimento se repita, a partir do repouso, é de 4p segundos.\nII. O máximo valor atingido pelo êmbolo, ou seja, sua amplitude, é de 8,0 mm.\nIII. A frequência desse sistema é dada por f = 1\nHz.\nIV. A frequência angular do êmbolo é de 1 rad/s. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I e II, apenas.",
+      "B": "I e IV, apenas.",
+      "C": "II e III, apenas.",
+      "D": "III e IV, apenas.",
+      "E": "I, II, III e IV. -1\n-2\n-3\n-4\n-5\np 2p 3p 4p\nY (mm)\nt (s)"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 25 \nConsidere que um mecanismo do tipo Scotch Yoke tenha sido utilizado em uma mesa de vibração \nem um processo industrial e que ensaios experimentais determinaram o gráfico do deslocamento do \nêmbolo do mencionado mecanismo, conforme mostra a figura a seguir.\nConsiderando o gráfico desse mecanismo, avalie as afirmações a seguir.\nI. O tempo para que o movimento se repita, a partir do repouso, é de 4p segundos.\nII. O máximo valor atingido pelo êmbolo, ou seja, sua amplitude, é de 8,0 mm.\nIII. A frequência desse sistema é dada por f = 1\n2p\nHz.\nIV. A frequência angular do êmbolo é de 1 rad/s.\nÉ correto o que se afirma em\nA I e II, apenas.\nB I e IV, apenas.\nC II e III, apenas.\nD III e IV, apenas.\nE I, II, III e IV.\n5\n4\n3\n2\n1\n0\n-1\n-2\n-3\n-4\n-5\np 2p 3p 4p\nY (mm)\nt (s)\n*R13202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 26,
+    "gabarito": "E",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Um novo tipo de indústria está nascendo devido à “quarta revolução industrial”, o que facilita os processos e as demandas referentes ao setor de manutenção e às atribuições que lhe competem, visto que se favorecem o controle e os acessos remotos, os processos automatizados e os seus dispositivos. Um Planejamento e Controle da Manutenção (PCM) deverá levar a uma configuração por meio da qual se busca a excelência diante dos desafios apresentados, favorecendo-se uma melhor qualidade no processo e na interação entre os setores.\nSILVA, D. S.; LIMA, E.\nV. O Planejamento e Controle da Manutenção na Indústria IX Congresso Brasileiro de Engenharia de Produção. Ponta Grossa, PR, Brasil, 04 a 06 de dezembro de 2019 (adaptado).\nVisando à competitividade mais eficiente e a um processo operacional de melhor qualidade, as organizações têm recorrido à manutenção de forma estratégica, dada sua importância vital para a relação direta entre eficiência e melhoria de gestão. Considerando as informações apresentadas, assinale a opção correta.",
+    "alternativas": {
+      "A": "A manutenção não programada prevê que todas as tarefas sejam realizadas conforme o limitador de tempo estabelecido de forma prévia.",
+      "B": "A manutenção corretiva é planejada de forma programada para que se possa realizar o reparo quando houver falha durante um processo.",
+      "C": "A manutenção efetiva ocorre de acordo com a manutenção realizada, não se levando em conta o tempo de execução em cada uma das etapas.",
+      "D": "A elaboração de um plano de manutenção deverá ser realizada pelo gerente da empresa, visto que ele conhece os colaboradores envolvidos e o ambiente de trabalho em questão.",
+      "E": "A manutenção preditiva garante um processo qualificado em sua execução, baseado na supervisão centralizada e na aplicação de sistematização das técnicas de acompanhamento, reduzindo, assim, a necessidade de manutenção corretiva."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 26 \nUm novo tipo de indústria está nascendo devido à “quarta revolução industrial”, o que facilita os \nprocessos e as demandas referentes ao setor de manutenção e às atribuições que lhe competem, \nvisto que se favorecem o controle e os acessos remotos, os processos automatizados e os seus \ndispositivos. Um Planejamento e Controle da Manutenção (PCM) deverá levar a uma configuração por \nmeio da qual se busca a excelência diante dos desafios apresentados, favorecendo-se uma melhor \nqualidade no processo e na interação entre os setores.\nSILVA, D. S.; LIMA, E. V. O Planejamento e Controle da Manutenção na Indústria 4.0. IX Congresso Brasileiro de \nEngenharia de Produção. Ponta Grossa, PR, Brasil, 04 a 06 de dezembro de 2019 (adaptado).\nVisando à competitividade mais eficiente e a um processo operacional de melhor qualidade, \nas organizações têm recorrido à manutenção de forma estratégica, dada sua importância vital para a \nrelação direta entre eficiência e melhoria de gestão.\nConsiderando as informações apresentadas, assinale a opção correta.\nA A manutenção não programada prevê que todas as tarefas sejam realizadas conforme o limitador de \ntempo estabelecido de forma prévia.\nB A manutenção corretiva é planejada de forma programada para que se possa realizar o reparo \nquando houver falha durante um processo.\nC A manutenção efetiva ocorre de acordo com a manutenção realizada, não se levando em conta o \ntempo de execução em cada uma das etapas.\nD A elaboração de um plano de manutenção deverá ser realizada pelo gerente da empresa, visto que \nele conhece os colaboradores envolvidos e o ambiente de trabalho em questão.\nE A manutenção preditiva garante um processo qualificado em sua execução, baseado na supervisão \ncentralizada e na aplicação de sistematização das técnicas de acompanhamento, reduzindo, assim, \na necessidade de manutenção corretiva.",
+    "observacao": null
+  },
+  {
+    "numero": 27,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "Tolerâncias dimensionais são desvios aceitáveis das dimensões nominais e destinam-se a limitar os erros dimensionais na fabricação de peças. A figura a seguir apresenta o desenho de um conjunto com peças montadas com as representações das cotas, tolerâncias e do ajuste adequado.\n60 H7\np6\nCÉSAR DA SILVA, J. et al. Desenho Técnico Mecânico. 2. ed. Florianópolis: ed. UFSC, 2009 (adaptado).\nPara se avaliar o ajuste recomendado para o conjunto apresentado na figura, é necessário consultar a tabela a seguir.\nTabela: Ajustes recomendados – sistema furo-base H7(parcial). Tolerância em micrometros (µm).\nDimensão nominal Furo af. inf\naf. sup. EIXOS\nafastamento superior\nafastamento inferiormm\nacima de até H7 f7 g6 h6 j6 k6 m6 n6 p6 r6\n0 1 0 - 6 - 2 0 + 4 +6\n-\n+ 10 + 12 + 16\n1 3 + 10 - 16 - 8 - 6 - 2 0 + 4 + 6 + 10\n3 6\n0 - 10 - 4 0 + 6 + 9 + 12 + 16 + 20 + 23\n+ 12 - 22 - 12 - 8 - 2 + 1 + 4 + 8 + 12 + 15\n6 10\n0 - 13 - 5 0 + 7 + 10 + 15 + 19 + 24 + 28\n+ 15 - 28 - 14 - 9 - 2 + 1 + 6 + 10 + 15 + 19\n10 14 0 - 16 - 6 0 + 8 + 12 + 18 + 23 + 29 + 34\n14 18 + 18 - 34 - 17 - 11 - 3 + 1 + 7 + 12 + 18 + 23\n18 24 0 - 20 - 7 0 + 9 + 15 +21 + 28 + 35 + 41\n24 30 + 21 - 41 - 20 - 13 - 4 + 2 + 8 + 15 + 22 + 28\n30 40 0 - 25 - 9 0 + 11 + 18 + 25 + 33 + 42 + 50\n40 50 + 25 - 50 - 25 - 16 - 5 + 2 + 9 + 17 + 26 + 34\n50 65 0 - 30 - 10 0 + 12 + 21 + 30 + 39 + 51\n+ 60\n+ 41\n65 80 +30 - 60 - 29 - 19 - 7 + 2 + 1 + 20 + 32\n+ 62\n+ 43\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6158: Sistema de tolerâncias e ajustes. Rio de Janeiro: ABNT, 1995.\nCom base nas informações apresentadas, assinale a opção correta.",
+    "alternativas": {
+      "A": "A tolerância da peça hachurada é igual a 0,030 mm.",
+      "B": "A interferência mínima verificada no conjunto é 0,002 mm.",
+      "C": "O ajuste da figura é descrito como a situação em que a dimensão mínima do furo é maior que a dimensão máxima do eixo.",
+      "D": "A peça hachurada pode ter a dimensão verificada no controle de qualidade da produção por um calibrador tampão passa/não passa adequado.",
+      "E": "A dimensão real da peça com furo do conjunto representado na figura é igual a 60,15 mm e, portanto, o referido furo está dentro das dimensões da tolerância estipulada."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 27 \nTolerâncias dimensionais são desvios aceitáveis das dimensões nominais e destinam-se a limitar os erros \ndimensionais na fabricação de peças. A figura a seguir apresenta o desenho de um conjunto com peças \nmontadas com as representações das cotas, tolerâncias e do ajuste adequado.\n60 H7\np6\nCÉSAR DA SILVA, J. et al. Desenho Técnico Mecânico. 2. ed. Florianópolis: ed. UFSC, 2009 (adaptado).\n*R13202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 29\nPara se avaliar o ajuste recomendado para o conjunto apresentado na figura, é necessário consultar a \ntabela a seguir.\nTabela: Ajustes recomendados – sistema furo-base H7(parcial). Tolerância em micrometros (µm).\nDimensão nominal Furo af. inf\naf. sup. EIXOS\nafastamento superior\nafastamento inferiormm\nacima de até H7 f7 g6 h6 j6 k6 m6 n6 p6 r6\n0 1 0 - 6 - 2 0 + 4 +6\n-\n+ 10 + 12 + 16\n1 3 + 10 - 16 - 8 - 6 - 2 0 + 4 + 6 + 10\n3 6\n0 - 10 - 4 0 + 6 + 9 + 12 + 16 + 20 + 23\n+ 12 - 22 - 12 - 8 - 2 + 1 + 4 + 8 + 12 + 15\n6 10\n0 - 13 - 5 0 + 7 + 10 + 15 + 19 + 24 + 28\n+ 15 - 28 - 14 - 9 - 2 + 1 + 6 + 10 + 15 + 19\n10 14 0 - 16 - 6 0 + 8 + 12 + 18 + 23 + 29 + 34\n14 18 + 18 - 34 - 17 - 11 - 3 + 1 + 7 + 12 + 18 + 23\n18 24 0 - 20 - 7 0 + 9 + 15 +21 + 28 + 35 + 41\n24 30 + 21 - 41 - 20 - 13 - 4 + 2 + 8 + 15 + 22 + 28\n30 40 0 - 25 - 9 0 + 11 + 18 + 25 + 33 + 42 + 50\n40 50 + 25 - 50 - 25 - 16 - 5 + 2 + 9 + 17 + 26 + 34\n50 65 0 - 30 - 10 0 + 12 + 21 + 30 + 39 + 51\n+ 60\n+ 41\n65 80 +30 - 60 - 29 - 19 - 7 + 2 + 1 + 20 + 32\n+ 62\n+ 43\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6158: Sistema de tolerâncias e ajustes. Rio de Janeiro: ABNT, 1995.\nCom base nas informações apresentadas, assinale a opção correta.\nA A tolerância da peça hachurada é igual a 0,030 mm.\nB A interferência mínima verificada no conjunto é 0,002 mm.\nC O ajuste da figura é descrito como a situação em que a dimensão mínima do furo é maior que a \ndimensão máxima do eixo.\nD A peça hachurada pode ter a dimensão verificada no controle de qualidade da produção por um \ncalibrador tampão passa/não passa adequado.\nE A dimensão real da peça com furo do conjunto representado na figura é igual a 60,15 mm e, \nportanto, o referido furo está dentro das dimensões da tolerância estipulada.\n*R13202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 28,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A galvanização é uma operação de revestimento, obtida por imersão de uma peça de aço em um banho de zinco, por um determinado período de tempo, em que o aço é trazido até a temperatura do banho. Ao ser alcançada essa temperatura, ou próximo dela, forma-se uma camada aderente de liga de zinco-ferro na superfície do aço e outra de zinco puro. Ambas as camadas contribuem para a capacidade de resistência à corrosão e para a vida útil do revestimento aplicado.\nGENTIL,\nV. Corrosão. 7.ed. Rio de Janeiro: LTC, 2022 (adaptado).\nA respeito desse tema, e considerando Fe 2+/Fe = - 0,44 V, conclui-se que o metal a ser reduzido na aplicação da galvanização do ferro corresponde a",
+    "alternativas": {
+      "A": "Ni2+(aq) + 2e- → Ni(s) E0 = - 0,25\nV.",
+      "B": "Cd2+(aq) + 2e- → Cd(s) E0 = - 0,40\nV.",
+      "C": "Zn2+(aq) + 2e- → Zn(s) E0 = - 0,76\nV.",
+      "D": "Pb2+(aq) + 2e- → Pb(s) E0 = - 0,13\nV.",
+      "E": "Cu2+(aq) + 2e- → Cu(s) E0 = - 0,34\nV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 28 \nA galvanização é uma operação de revestimento, obtida por imersão de uma peça de aço em um \nbanho de zinco, por um determinado período de tempo, em que o aço é trazido até a temperatura \ndo banho. Ao ser alcançada essa temperatura, ou próximo dela, forma-se uma camada aderente de \nliga de zinco-ferro na superfície do aço e outra de zinco puro. Ambas as camadas contribuem para a \ncapacidade de resistência à corrosão e para a vida útil do revestimento aplicado.\nGENTIL , V. Corrosão. 7.ed. Rio de Janeiro: LTC, 2022 (adaptado).\nA respeito desse tema, e considerando Fe 2+/Fe = - 0,44 V, conclui-se que o metal a ser reduzido na \naplicação da galvanização do ferro corresponde a\nA Ni2+(aq) + 2e- → Ni(s) E0 = - 0,25 V.\nB Cd2+(aq) + 2e- → Cd(s) E0 = - 0,40 V.\nC Zn2+(aq) + 2e- → Zn(s) E0 = - 0,76 V.\nD Pb2+(aq) + 2e- → Pb(s) E0 = - 0,13 V.\nE Cu2+(aq) + 2e- → Cu(s) E0 = - 0,34 V.",
+    "observacao": null
+  },
+  {
+    "numero": 29,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Atualmente, as bicicletas utilizadas no ciclismo devem ser extremamente leves, para propiciarem melhor desempenho e menor desgaste ao atleta. Nesse sentido, para atender às necessidades dos atletas, diversos materiais foram desenvolvidos em substituição aos materiais metálicos tradicionais (aço e alumínio).\nConsiderando que, entre os materiais desenvolvidos para o ciclismo, incluem-se os materiais compósitos, Avalie as afirmações a seguir.\nI. Os materiais compósitos com fibras de carbono são extremamente leves e resistentes, o que permite a redução do peso da bicicleta e do desgaste sofrido pelo atleta.\nII. Os materiais compósitos com fibras de carbono apresentam baixa densidade, uma vez que são constituídos por fibras de carbono e resina, que são materiais poliméricos.\nIII. Os materiais compósitos com fibras de carbono permitem que as fibras de carbono sejam posicionadas em determinada direção na matriz de resina, o que promove o aumento da resistência mecânica, e a resina, menos resistente, distribui os carregamentos sofridos para as fibras. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 29 \nAtualmente, as bicicletas utilizadas no ciclismo devem ser extremamente leves, para propiciarem melhor \ndesempenho e menor desgaste ao atleta. Nesse sentido, para atender às necessidades dos atletas, \ndiversos materiais foram desenvolvidos em substituição aos materiais metálicos tradicionais (aço e alumínio).\nConsiderando que, entre os materiais desenvolvidos para o ciclismo, incluem-se os materiais \ncompósitos, avalie as afirmações a seguir.\nI. Os materiais compósitos com fibras de carbono são extremamente leves e resistentes, o que \npermite a redução do peso da bicicleta e do desgaste sofrido pelo atleta.\nII. Os materiais compósitos com fibras de carbono apresentam baixa densidade, uma vez que são \nconstituídos por fibras de carbono e resina, que são materiais poliméricos.\nIII. Os materiais compósitos com fibras de carbono permitem que as fibras de carbono sejam \nposicionadas em determinada direção na matriz de resina, o que promove o aumento da resistência \nmecânica, e a resina, menos resistente, distribui os carregamentos sofridos para as fibras.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R13202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 31",
+    "observacao": null
+  },
+  {
+    "numero": 30,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Considere que uma construtora tenha solicitado um projeto de piscina aquecida que apresente ótima eficiência energética, seja ecologicamente correto e economicamente viável. Para atender essas exigências, foi utilizada uma bomba de calor com COP = 4, fornecendo uma taxa de calor de 4 kW para a água da piscina, e cujo compressor consome uma potência de 1 kW, conforme apresentado na figura a seguir.\nMORAN, M. J.; SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia. Rio de Janeiro: editora LTC, 2018 (adaptado).\nConsiderando que, depois de um determinado tempo, a demanda de aquecimento da piscina passou a ser de 6 kW e que é necessário satisfazer essa nova demanda, Avalie as afirmações a seguir.\nI. O calor extraído do ar exterior deve ter um aumento de 2 kW.\nII. A bomba de calor de COP = 4 deve ser substituída por uma de COP = 6.\nIII. O consumo do compressor deve ter aumento de 2 kW. É correto o que se afirma em",
+    "alternativas": {
+      "A": "II, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II e III. Água da\npiscina\nVálvula de\nexpansão\nCondensador Evaporador\nAr\nexterior\nentra\n3 4\n2 1\nQWc\nCompressorsaiQ"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 30 \nConsidere que uma construtora tenha solicitado um projeto de piscina aquecida que apresente ótima \neficiência energética, seja ecologicamente correto e economicamente viável. Para atender essas exigências, \nfoi utilizada uma bomba de calor com COP = 4, fornecendo uma taxa de calor de 4 kW para a água \nda piscina, e cujo compressor consome uma potência de 1 kW, conforme apresentado na figura a seguir.\nMORAN, M. J.; SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia. Rio de Janeiro: editora LTC, 2018 (adaptado).\nConsiderando que, depois de um determinado tempo, a demanda de aquecimento da piscina passou a \nser de 6 kW e que é necessário satisfazer essa nova demanda, avalie as afirmações a seguir.\nI. O calor extraído do ar exterior deve ter um aumento de 2 kW.\nII. A bomba de calor de COP = 4 deve ser substituída por uma de COP = 6.\nIII. O consumo do compressor deve ter aumento de 2 kW.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\nÁgua da\npiscina\nVálvula de\nexpansão\nCondensador Evaporador\nAr\nexterior\nentra\n3 4\n2 1\nQWc\nCompressorsaiQ\n*R13202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 31,
+    "gabarito": "C",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O processo de fabricação por laminação é importante para a fabricação de inúmeros componentes, como, por exemplo, terminais elétricos. Tais componentes são fabricados a partir de chapas laminadas de cobre, que partem de tarugos (espessura de 500 mm) provenientes do processo de lingotamento contínuo. Inicialmente, sofrem processos de laminação a quente e, posteriormente, laminação a frio, até ser atingida a espessura necessária (1,2 mm). Os terminais apresentam encruamento e excelente acabamento superficial, resultantes de processos subsequentes de corte e dobramento.\nCom base nas informações apresentadas, Avalie as afirmações a seguir.\nI. A laminação a frio promove melhor acabamento do produto, garantindo um bom controle dimensional e boa resistência mecânica, resultantes do encruamento.\nII. No processo de laminação a quente, os esforços são menores que no processo de laminação a frio, além de se permitir a eliminação de vazios de solidificação e porosidades inerentes aos produtos brutos de fusão.\nIII. A laminação a quente, que diz respeito à execução do processo em temperatura acima da temperatura de recristalização do material, facilita a deformação plástica (maior trabalhabilidade), mas promove elevado encruamento, gerado pelas grandes deformações. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 31 \nO processo de fabricação por laminação é importante para a fabricação de inúmeros componentes, \ncomo, por exemplo, terminais elétricos. Tais componentes são fabricados a partir de chapas laminadas \nde cobre, que partem de tarugos (espessura de 500 mm) provenientes do processo de lingotamento \ncontínuo. Inicialmente, sofrem processos de laminação a quente e, posteriormente, laminação a frio, \naté ser atingida a espessura necessária (1,2 mm). Os terminais apresentam encruamento e excelente \nacabamento superficial, resultantes de processos subsequentes de corte e dobramento.\nCom base nas informações apresentadas, avalie as afirmações a seguir.\nI. A laminação a frio promove melhor acabamento do produto, garantindo um bom controle \ndimensional e boa resistência mecânica, resultantes do encruamento.\nII. No processo de laminação a quente, os esforços são menores que no processo de laminação \na frio, além de se permitir a eliminação de vazios de solidificação e porosidades inerentes aos \nprodutos brutos de fusão.\nIII. A laminação a quente, que diz respeito à execução do processo em temperatura acima da \ntemperatura de recristalização do material, facilita a deformação plástica (maior trabalhabilidade), \nmas promove elevado encruamento, gerado pelas grandes deformações.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R13202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 33",
+    "observacao": null
+  },
+  {
+    "numero": 32,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "O atual cenário empresarial se caracteriza por rápidas transformações nos mercados, nas tecnologias e nos desenhos organizacionais. Diante desse panorama, as empresas buscam inovação para crescerem e se manterem nos mercados.\nPOSSOLLI, G. E. Gestão da inovação e do conhecimento. Curitiba: InterSaberes, 2012 (adaptado).\nAcerca do processo de inovação, Avalie as afirmações a seguir.\nI. A realização de pequena alteração em um produto ou serviço representa uma inovação incremental.\nII. O desenvolvimento de um novo serviço de internet para acesso a bancos ou sistemas de pagamentos de contas é considerado uma inovação de produto.\nIII. A inovação radical alcança um grau que permite criar mercados e modelos de negócio, apresentando soluções mais eficientes que as existentes até então.\nIV. Um ecossistema de inovação é um ambiente formado por diferentes agentes (empresas, universidades, institutos de pesquisa, entidades governamentais etc.) comprometidos com o estímulo à inovação por meio da interação e cooperação. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I e III.",
+      "B": "I e IV.",
+      "C": "II e III.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 32 \nO atual cenário empresarial se caracteriza por rápidas transformações nos mercados, nas tecnologias e \nnos desenhos organizacionais. Diante desse panorama, as empresas buscam inovação para crescerem e se \nmanterem nos mercados.\nPOSSOLLI, G. E. Gestão da inovação e do conhecimento. Curitiba: InterSaberes, 2012 (adaptado).\nAcerca do processo de inovação, avalie as afirmações a seguir.\nI. A realização de pequena alteração em um produto ou serviço representa uma inovação incremental.\nII. O desenvolvimento de um novo serviço de internet para acesso a bancos ou sistemas de \npagamentos de contas é considerado uma inovação de produto.\nIII. A inovação radical alcança um grau que permite criar mercados e modelos de negócio, \napresentando soluções mais eficientes que as existentes até então.\nIV. Um ecossistema de inovação é um ambiente formado por diferentes agentes (empresas, \nuniversidades, institutos de pesquisa, entidades governamentais etc.) comprometidos com o \nestímulo à inovação por meio da interação e cooperação.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e III.\nD I, II e IV.\nE II, III e IV.\n*R13202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Engenharia Mecânica",
+    "observacao": null
+  },
+  {
+    "numero": 33,
+    "gabarito": "D",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "As falhas contribuem para reduzir a confiabilidade das operações produtivas, e isso pode trazer uma série de implicações: ambientes de trabalho inseguros, perdas de produção, redução da qualidade e, por consequência, menor lucratividade para o negócio. Sendo assim, o planejamento, a organização e o controle da manutenção industrial assumem um papel estratégico na organização.\nGREGÓRIO, G. F. P.; SANTOS, D. F.; PRATA, A. B. Engenharia de Manutenção. Porto Alegre: SAGAH, 2018 (adaptado).\nSabe-se que, na manutenção, deve-se considerar o ativo ao longo de todo o seu ciclo de vida, que corresponde ao período entre a identificação da necessidade do ativo até a desativação dele ou o término de todas as responsabilidades posteriores.\nA respeito do papel da manutenção industrial e considerando as informações apresentadas, Avalie as afirmações a seguir.\nI. O defeito é um evento que faz com que o equipamento pare de funcionar.\nII. A taxa de falhas indica o número médio de falhas de um equipamento em determinado período.\nIII. Na estrutura centralizada, é facilitado o compartilhamento das melhores práticas de trabalho e de experiências entre os membros da equipe de manutenção, pois os profissionais de manutenção ficam alocados em uma oficina central.\nIV. A manutenção preditiva consiste no monitoramento de um ou mais parâmetros de um equipamento com o objetivo de serem realizadas as ações necessárias antes que a falha aconteça, independentemente da condição do item monitorado. É correto apenas o que se afirma em",
+    "alternativas": {
+      "A": "I.",
+      "B": "III.",
+      "C": "I e IV.",
+      "D": "II e III.",
+      "E": "II e IV."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 33 \nAs falhas contribuem para reduzir a confiabilidade das operações produtivas, e isso pode trazer uma \nsérie de implicações: ambientes de trabalho inseguros, perdas de produção, redução da qualidade e, \npor consequência, menor lucratividade para o negócio. Sendo assim, o planejamento, a organização e o \ncontrole da manutenção industrial assumem um papel estratégico na organização.\nGREGÓRIO, G. F. P .; SANTOS, D. F.; PRATA, A. B. Engenharia de Manutenção. Porto Alegre: SAGAH, 2018 (adaptado).\nSabe-se que, na manutenção, deve-se considerar o ativo ao longo de todo o seu ciclo de vida, que \ncorresponde ao período entre a identificação da necessidade do ativo até a desativação dele ou o \ntérmino de todas as responsabilidades posteriores.\nA respeito do papel da manutenção industrial e considerando as informações apresentadas, \navalie as afirmações a seguir.\nI. O defeito é um evento que faz com que o equipamento pare de funcionar.\nII. A taxa de falhas indica o número médio de falhas de um equipamento em determinado período.\nIII. Na estrutura centralizada, é facilitado o compartilhamento das melhores práticas de trabalho \ne de experiências entre os membros da equipe de manutenção, pois os profissionais de \nmanutenção ficam alocados em uma oficina central.\nIV. A manutenção preditiva consiste no monitoramento de um ou mais parâmetros de um \nequipamento com o objetivo de serem realizadas as ações necessárias antes que a falha aconteça, \nindependentemente da condição do item monitorado.\nÉ correto apenas o que se afirma em\nA I.\nB III.\nC I e IV.\nD II e III.\nE II e IV.\n*R13202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 35",
+    "observacao": null
+  },
+  {
+    "numero": 34,
+    "gabarito": "A",
+    "status": "completa",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "sequencia_alternativas_global",
+    "enunciado": "A soldagem a arco submerso é usada em uma larga faixa de aplicações industriais, sendo de grande utilidade em estaleiros, caldeirarias, mineradoras, siderúrgicas e fábricas de perfis e estruturas metálicas. É usada, ainda, na fabricação de vasos de pressão, navios, barcos, vagões e no revestimento ou na recuperação de peças que necessitam de ligas, com propriedades específicas como resistência ao desgaste abrasivo e tenacidade.\nMARQUES, P.\nV.; MODENESI, P. J.; BRACARENSE, A. Q. Soldagem: fundamentos e tecnologia. Belo Horizonte: Editora UFMG, 2005 (adaptado).\nSabe-se que nesse processo de soldagem, o arco elétrico, que aquece e funde o eletrodo nu e a parte do metal de base em contato com o metal de adição, está coberto por uma camada de material granular fusível, conhecido como fluxo. Considerando as informações apresentadas sobre o processo de soldagem a arco submerso, avalie as asserções a seguir e a relação proposta entre elas.\nI. A alta qualidade da solda e sua alteração da composição química são atribuídas à presença do fluxo no processo, inclusive influenciando nas propriedades mecânicas da união soldada. PORQUE II. Os fluxos para soldagem a arco submerso são compostos por uma mistura de óxidos e outros minerais, podendo, ainda, conter ferro-ligas com diversas funções de operações. A respeito dessas asserções, assinale a opção correta.",
+    "alternativas": {
+      "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
+      "B": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da\nI.",
+      "C": "A asserção I é proposição verdadeira, e a II é uma proposição falsa.",
+      "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "E": "As asserções I e II são proposições falsas."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 34 \nA soldagem a arco submerso é usada em uma larga faixa de aplicações industriais, sendo de grande \nutilidade em estaleiros, caldeirarias, mineradoras, siderúrgicas e fábricas de perfis e estruturas metálicas. \nÉ usada, ainda, na fabricação de vasos de pressão, navios, barcos, vagões e no revestimento ou na \nrecuperação de peças que necessitam de ligas, com propriedades específicas como resistência ao desgaste \nabrasivo e tenacidade.\nMARQUES, P . V.; MODENESI, P . J.; BRACARENSE, A. Q. Soldagem: fundamentos e tecnologia. \nBelo Horizonte: Editora UFMG, 2005 (adaptado).\nSabe-se que nesse processo de soldagem, o arco elétrico, que aquece e funde o eletrodo nu e a parte \ndo metal de base em contato com o metal de adição, está coberto por uma camada de material \ngranular fusível, conhecido como fluxo.\nConsiderando as informações apresentadas sobre o processo de soldagem a arco submerso, avalie as \nasserções a seguir e a relação proposta entre elas.\nI. A alta qualidade da solda e sua alteração da composição química são atribuídas à presença do \nfluxo no processo, inclusive influenciando nas propriedades mecânicas da união soldada.\nPORQUE\nII. Os fluxos para soldagem a arco submerso são compostos por uma mistura de óxidos e outros \nminerais, podendo, ainda, conter ferro-ligas com diversas funções de operações.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R13202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Engenharia Mecânica",
+    "observacao": null
+  },
+  {
+    "numero": 35,
+    "gabarito": "B",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Quando um desenho de engenharia é passado ao setor de produção, ele deve conter todas as informações necessárias para se construir a peça ou sistema, sendo acompanhado de dimensões e notas explicativas que descrevam o tamanho e a localização de todos os componentes.\nLEAKE, J. M. Manual de desenho técnico para engenharia: desenho, modelagem e visualização. 2. ed. Rio de Janeiro: LTC, 2015 (adaptado).\nConsidere que o sistema a ser fabricado seja o macaco de parafuso apresentado na figura a seguir, com destaque para a peça 4, denominada corpo do macaco.\nR2\nR70\nR140\nÆ45\nÆ44\nÆ26\nÆ35\nM20\nÆ62\nPROVENZA, F. Desenhista de máquinas. 46. ed. São Paulo: editora F. Provenza, 1991 (adaptado).\nConsiderando a figura apresentada e a respeito da comunicação normativa das informações do desenho técnico-mecânico, para fins de produção do conjunto, Avalie as afirmações a seguir.\nI. O desenho que mostra o dispositivo montado deveria, conforme exigência normativa, apresentar as cotas dimensionais das peças do conjunto.\nII. De acordo com a hachura representada na vista em meio corte da peça 4, sabe-se que o corpo do macaco deverá ser fabricado em liga de ferro fundido.\nIII. Na mesma vista em meio corte da peça 4, a cotagem da rosca indica que o passo desse perfil é normal. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 35 \nQuando um desenho de engenharia é passado ao setor de produção, ele deve conter todas as \ninformações necessárias para se construir a peça ou sistema, sendo acompanhado de dimensões e \nnotas explicativas que descrevam o tamanho e a localização de todos os componentes.\nLEAKE, J. M. Manual de desenho técnico para engenharia: desenho, modelagem e visualização. \n2. ed. Rio de Janeiro: LTC, 2015 (adaptado).\nConsidere que o sistema a ser fabricado seja o macaco de parafuso apresentado na figura a seguir, \ncom destaque para a peça 4, denominada corpo do macaco.\n72\n8\n64\nR2\nR70\nR140\n30\nÆ45\nÆ44\nÆ26\nÆ35\nM20\n1\n2\n3\n4\n5\n4\nÆ62\nPROVENZA, F. Desenhista de máquinas. 46. ed. São Paulo: editora F. Provenza, 1991 (adaptado).\nConsiderando a figura apresentada e a respeito da comunicação normativa das informações do desenho \ntécnico-mecânico, para fins de produção do conjunto, avalie as afirmações a seguir.\nI. O desenho que mostra o dispositivo montado deveria, conforme exigência normativa, apresentar as \ncotas dimensionais das peças do conjunto.\nII. De acordo com a hachura representada na vista em meio corte da peça 4, sabe-se que o corpo \ndo macaco deverá ser fabricado em liga de ferro fundido.\nIII. Na mesma vista em meio corte da peça 4, a cotagem da rosca indica que o passo desse perfil \né normal.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R13202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 37",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 36,
+    "gabarito": "C",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Com o avanço da tecnologia, os materiais da impressora 3D estão se multiplicando, bem como a necessidade de atender às solicitações específicas de aplicações. Inicialmente, os filamentos foram desenvolvidos para um padrão geral de peças, entretanto, verificou-se que, quanto mais funcionais se tornam as peças, maior é a necessidade de os materiais suportarem determinados requisitos de cada projeto.\nO gráfico a seguir ilustra a curva tensão x deformação para três tipos de filamento comuns de impressoras 3D - FDM: o ácido poliláctico (PLA), o acrilonitrila-butadieno-estireno (ABS) e o polietileno tereftalato de etileno glicol (PETG).\nAcerca do gráfico apresentado, Avalie as afirmações a seguir.\nI. O PETG foi o material com a maior tenacidade entre os testados.\nII. O PLA, entre os materiais testados, é o com maior módulo de elasticidade.\nIII. O ABS, comparado ao PLA, suportou uma carga menor até a ruptura, porém se mostrou um material mais frágil entre os testados. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III. Ensaio de tração\nTensão (MPa)46\n32,6\n3,69 7,08 7,74\nDeformação (%)\nABS PLA PETG\nABS\nPLA\nPETG"
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 36 \nCom o avanço da tecnologia, os materiais da impressora 3D estão se multiplicando, bem como a \nnecessidade de atender às solicitações específicas de aplicações. Inicialmente, os filamentos foram \ndesenvolvidos para um padrão geral de peças, entretanto, verificou-se que, quanto mais funcionais \nse tornam as peças, maior é a necessidade de os materiais suportarem determinados requisitos de \ncada projeto.\nO gráfico a seguir ilustra a curva tensão x deformação para três tipos de filamento comuns de \nimpressoras 3D - FDM: o ácido poliláctico (PLA), o acrilonitrila-butadieno-estireno (ABS) e o polietileno \ntereftalato de etileno glicol (PETG).\nAcerca do gráfico apresentado, avalie as afirmações a seguir.\nI. O PETG foi o material com a maior tenacidade entre os testados.\nII. O PLA, entre os materiais testados, é o com maior módulo de elasticidade.\nIII. O ABS, comparado ao PLA, suportou uma carga menor até a ruptura, porém se mostrou um \nmaterial mais frágil entre os testados.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\nEnsaio de tração\nTensão (MPa)46\n29\n32,6\n3,69 7,08 7,74\nDeformação (%)\nABS PLA PETG\nABS\nPLA\nPETG\n*R13202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Engenharia Mecânica",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 37,
+    "gabarito": "D",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Suponha que uma empresa especializada em fabricação de peças cortadas a laser tenha contabilizado um desperdício anual de 40% de toda a prima utilizada. Após uma análise do seu processo produtivo, constatou-se que grande parte do resíduo gerado era oriundo de partes não aproveitadas das chapas de aço utilizadas na produção das peças, conforme exemplificado na figura a seguir. Decidiu-se, então, que a empresa iria buscar alternativas a fim de melhorar sua sustentabilidade e reduzir o impacto ambiental causado pelo resíduo gerado.\nFigura – Exemplo de corte de chapa de aço.\nA partir das informações apresentadas, Avalie as afirmações a seguir.\nI. A implementação de medidas que possibilitem o reuso da sucata podem eliminar o impacto ambiental relacionado à geração de resíduos sólidos resultantes do processo produtivo.\nII. A venda, para empresas de reciclagem, do resíduo gerado no processo de corte de chapas de aço pode ser uma solução para a redução do impacto ambiental e do prejuízo por desperdício de material.\nIII. O desperdício de material é inerente ao processo de corte a laser em chapa de aço, mas pode ser minimizado, por exemplo, pelo uso de técnicas que se baseiam em projeto assistido por computador e que maximizem a área de chapa de aço utilizada na produção de peças. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 37 \nSuponha que uma empresa especializada em fabricação de peças cortadas a laser tenha contabilizado \num desperdício anual de 40% de toda a matéria prima utilizada. Após uma análise do seu processo \nprodutivo, constatou-se que grande parte do resíduo gerado era oriundo de partes não aproveitadas das \nchapas de aço utilizadas na produção das peças, conforme exemplificado na figura a seguir. Decidiu-se, \nentão, que a empresa iria buscar alternativas a fim de melhorar sua sustentabilidade e reduzir o impacto \nambiental causado pelo resíduo gerado.\nFigura – Exemplo de corte de chapa de aço.\nA partir das informações apresentadas, avalie as afirmações a seguir.\nI. A implementação de medidas que possibilitem o reuso da sucata podem eliminar o impacto \nambiental relacionado à geração de resíduos sólidos resultantes do processo produtivo.\nII. A venda, para empresas de reciclagem, do resíduo gerado no processo de corte de chapas de \naço pode ser uma solução para a redução do impacto ambiental e do prejuízo por desperdício \nde material.\nIII. O desperdício de material é inerente ao processo de corte a laser em chapa de aço, mas pode \nser minimizado, por exemplo, pelo uso de técnicas que se baseiam em projeto assistido por \ncomputador e que maximizem a área de chapa de aço utilizada na produção de peças.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R13202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEngenharia Mecânica 39",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  },
+  {
+    "numero": 38,
+    "gabarito": "A",
+    "status": "fora_escopo",
+    "confianca": "alta",
+    "score_bloco": 130,
+    "parse_strategy": "corte_por_comando",
+    "enunciado": "Na manutenção dos sistemas mecânicos, é fundamental a análise dos sistemas elétricos, como, por exemplo, do motor de acionamento de sistemas de engrenamento. Caso haja alguma restrição no giro das engrenagens, a potência exigida do motor poderá aumentar, causando danos ao sistema.\nA seguir, é apresentado um motor elétrico com sistema de engrenamento, sendo os raios das engrenagens B e C iguais a 96 mm e 60 mm, respectivamente. O eixo AB gira a 480 rpm e a potência original é de 96 kW. Considere p = 3.\nM\nA D\nE\nB\nC\nBEER, F. P; JOHNSTON, E. R. Resistência dos Materiais. 3. ed. São Paulo: Makron Book, 1996 (adaptado).\nA respeito do motor apresentado na figura e considerando as informações do texto, avalie as afirmações a seguir.\nI. O torque necessário para acionamento é de 2000 N.m.\nII. A velocidade linear no ponto de engrenamento é nula.\nIII. A velocidade angular da engrenagem C é de 300 rpm. É correto o que se afirma em",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
+    "alternativas_completas": true,
+    "texto_bruto": "QUESTÃO 38 \nNa manutenção dos sistemas mecânicos, é fundamental a análise dos sistemas elétricos, como, por \nexemplo, do motor de acionamento de sistemas de engrenamento. Caso haja alguma restrição no giro \ndas engrenagens, a potência exigida do motor poderá aumentar, causando danos ao sistema.\nA seguir, é apresentado um motor elétrico com sistema de engrenamento, sendo os raios das \nengrenagens B e C iguais a 96 mm e 60 mm, respectivamente. O eixo AB gira a 480 rpm e a potência \noriginal é de 96 kW. Considere p = 3.\nM\nA D\nE\nB\nC\n150 mm\n75 mm\nBEER, F. P; JOHNSTON, E. R. Resistência dos Materiais. 3. ed. São Paulo: Makron Book, 1996 (adaptado).\nA respeito do motor apresentado na figura e considerando as informações do texto, avalie as afirmações \na seguir.\nI. O torque necessário para acionamento é de 2000 N.m.\nII. A velocidade linear no ponto de engrenamento é nula.\nIII. A velocidade angular da engrenagem C é de 300 rpm.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*R13202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA",
+    "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
+  }
+]

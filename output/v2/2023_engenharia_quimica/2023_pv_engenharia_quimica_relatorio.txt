@@ -1,0 +1,18 @@
+RELATÓRIO DE PROCESSAMENTO V2
+============================================================
+PDF prova: 2023_PV_engenharia_quimica.pdf
+PDF gabarito: 2023_GB_engenharia_quimica.pdf
+Prefixo de saída: 2023_pv_engenharia_quimica
+Tokens de contexto: ['engenharia', 'quimica']
+
+Questões no gabarito: 38
+Questões encontradas: 38
+Questões completas: 10
+Questões incompletas: 0
+Questões fora de escopo: 28
+Questões faltando: 0
+
+Completas: [2, 4, 7, 8, 9, 11, 12, 18, 21, 37]
+Incompletas: []
+Fora de escopo: [1, 3, 5, 6, 10, 13, 14, 15, 16, 17, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38]
+Faltando: []

@@ -4,6 +4,13 @@
       "numero": 1,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2134,
@@ -13,8 +20,15 @@
       "numero": 1,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 210,
       "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
     },
@@ -22,6 +36,13 @@
       "numero": 1,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 4318,
@@ -33,8 +54,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -42,8 +70,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -51,8 +86,15 @@
       "numero": 2,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 142,
       "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
     }
@@ -62,8 +104,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3047,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R0420234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 5\nLOGO\n4 MATÉRIA"
     },
@@ -71,8 +120,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3043,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R0420235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Enfermagem\nLOGO\n6 MATÉRIA"
     },
@@ -80,8 +136,15 @@
       "numero": 3,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 236,
       "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
     }
@@ -91,8 +154,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -100,8 +170,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -109,8 +186,15 @@
       "numero": 4,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 309,
       "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
     }
@@ -120,8 +204,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2527,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R0420236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 7\nLOGO\n6 MATÉRIA"
     },
@@ -129,8 +220,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2527,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R0420237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Enfermagem\nLOGO\n8 MATÉRIA"
     },
@@ -138,8 +236,15 @@
       "numero": 5,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 352,
       "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
     }
@@ -149,8 +254,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -158,8 +270,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -167,8 +286,15 @@
       "numero": 6,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 131,
       "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -178,8 +304,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2008,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R0420239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Enfermagem\nLOGO\n10 MATÉRIA"
     },
@@ -187,8 +320,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2006,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R0420238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 9\nLOGO\n8 MATÉRIA"
     },
@@ -196,8 +336,15 @@
       "numero": 7,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 199,
       "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
     }
@@ -207,6 +354,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -216,6 +370,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -225,8 +386,15 @@
       "numero": 8,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 138,
       "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -236,8 +404,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1811,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R04202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 11\nLOGO\n10 MATÉRIA"
     },
@@ -245,8 +420,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 901,
       "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n04\n*R04202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
     },
@@ -254,8 +436,15 @@
       "numero": 9,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3728,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R04202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Enfermagem\nQUESTÃO DISCURSIVA 02 \nUm homem com 32 anos de idade, casado, trabalhador informal, com dois filhos, sofreu um acidente \nautomobilístico que resultou no esmagamento da parte distal do membro inferior esquerdo e em \nescoriações por todo corpo, sem outros traumas graves. Foi atendido pela equipe de urgência do \nmunicípio e levado para o hospital de referência, onde foi submetido à amputação do referido \nmembro na altura do joelho. Encontra-se no terceiro dia de internação na unidade de clínica cirúrgica, \nconsciente, orientado e pouco comunicativo. O paciente está em soroterapia, com acesso venoso periférico \nem membro superior direito e sem sinais de infecção, estável do ponto de vista clínico e hemodinâmico. \nFerida operatória encontra-se sem sinais flogísticos, com presença de dreno de penrose apresentando \nexsudato serossanguinolento em pequena quantidade. Durante a visita da enfermeira, o paciente \nrelatou dor e preocupação com seu retorno ao trabalho, referindo sentir-se um “peso” para sua família.\nConsiderando esse caso clínico hipotético e as questões biológicas, psicológicas e sociais que ele suscita, \nfaça o que se pede nos itens a seguir.\na) Indique cinco diagnósticos de enfermagem para o caso clínico apresentado. (valor: 5,0 pontos)\nb) Apresente uma intervenção de enfermagem para cada diagnóstico de enfermagem indicado no item \nanterior. (valor: 5,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*R04202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 13"
     }
@@ -265,6 +454,13 @@
       "numero": 10,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2318,
@@ -276,6 +472,13 @@
       "numero": 11,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2869,
@@ -287,6 +490,13 @@
       "numero": 12,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2739,
@@ -298,6 +508,13 @@
       "numero": 13,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1968,
@@ -309,8 +526,15 @@
       "numero": 14,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2744,
       "texto": "QUESTÃO 14 \nUma mulher com 56 anos de idade foi internada por apresentar doença pulmonar obstrutiva \ncrônica (DPOC) descompensada por pneumonia em base direita, encontrando-se em tratamento \ncom inalação, broncodilatador, corticoide e antibiótico. Durante a internação, seu acompanhante \nchamou a enfermeira, pois a paciente referia dificuldade para respirar. A profissional realizou exame \nfísico do sistema respiratório e cardíaco e verificou, na inspeção, uso da musculatura acessória, \nfrequência respiratória de 32 irpm e ausência de simetria do pulmão direito; à percussão, observou: \nclaro pulmonar; ausculta diminuída à direita, com roncos e sibilos. Foi realizada gasometria arterial, \nque apresentou os seguintes resultados.\nGasometria arterial\nparâmetro resultado valor de referência\npH 7,238 7,35 a 7,45 \npO2 69,9 mmHg 80 a 90 mmHg \npCO2 60,4 mmHg 31 a 44 mmHg \nHCO3 26 mmol/L 21 a 37 mmol/L \nCO2 total 27,9 mmol/L 21 a 27 mmol/L \nBE -1,1 -2,4 a 2,5 \nSat.O2 89,9% 98% \nConsiderando esse caso clínico hipotético e a análise do resultado da gasometria, a enfermeira deve \nA identificar que ocorreu piora da pneumonia; instalar sensor de saturação de O 2; trocar o antibiótico; \nchamar o médico para solicitar nova radiografia de tórax; e colocar uma máscara de venture a 50%.\nB identificar que a paciente está com alcalose respiratória devido a extravasamento de líquido no \nalvéolo e ao processo inflamatório causado pela pneumonia; elevar o decúbito; aproximar o carro de \nemergência; e instalar sensor de saturação de O2.\nC identificar que a paciente apresenta acidose respiratória, devido à dificuldade de trocas gasosas \ndecorrentes da piora do processo inflamatório causado pela pneumonia; elevar o decúbito; \naproximar o carro de emergência; e instalar sensor de saturação de O2.\nD identificar que a paciente apresenta ruptura pleural com entrada de ar no espaço pleural; elevar o \ndecúbito; instalar sensor de saturação de O2; aproximar o carro de emergência; comunicar o médico; \ne preparar material para drenagem torácica.\nE identificar que a paciente apresenta ruptura das pleuras com entrada de sangue no espaço pleural; \nmanter decúbito elevado; solicitar radiografia de tórax; e preparar material para que o médico \nrealize a drenagem de tórax.\n*R04202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Enfermagem"
     }
@@ -320,8 +544,15 @@
       "numero": 15,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2549,
       "texto": "QUESTÃO 15 \nUma mulher com 73 anos de idade, lúcida e orientada, recebeu visita domiciliar da equipe de saúde \nda família e referiu, entre outras queixas, dor nos membros inferiores. Após acolhimento, a enfermeira \nobservou extensa lesão no membro inferior direito, com bordas irregulares, pulso pedioso presente, \nperfusão adequada, grande quantidade de secreção purulenta e odor fétido. Identificou-se que a \npaciente não havia realizado o cuidado proposto em visitas anteriores, pois se recusa a aceitar a lesão. \nSegundo o filho da paciente, a mãe tem dificuldade para controlar o uso diário dos medicamentos, \nnecessitando de monitoramento dos familiares. Diante disso, a enfermeira fica em dúvida sobre a real \ncapacidade da paciente de se comprometer com o cuidado proposto, e o filho solicita que o tratamento \nda ferida seja realizado, desconsiderando o desejo da mãe. Assim, a enfermeira se encontra em uma \nsituação de conflito, que envolve um princípio ético.\nConsiderando o caso apresentado, bem como os princípios éticos e bioéticos a serem seguidos pela \nenfermeira, avalie as asserções a seguir e a relação proposta entre elas.\nI. A enfermeira deve sugerir à equipe de saúde que o caso seja discutido entre os profissionais, \njuntamente com a usuária e os familiares, no sentido de construir um plano terapêutico singular, \nrespeitando o princípio da autonomia.\nPORQUE\nII. Os princípios bioéticos consideram autonomia versus beneficência/não maleficência, assim, caso \na paciente não apresente comprometimentos cognitivos e(ou) psiquiátricos, sua vontade deverá \nprevalecer e o procedimento não deverá ser realizado.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R04202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 19"
     }
@@ -331,6 +562,13 @@
       "numero": 16,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2271,
@@ -342,8 +580,15 @@
       "numero": 17,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2345,
       "texto": "QUESTÃO 17 \nUm homem com 62 anos de idade, que reside em área de abrangência de uma estratégia da saúde \nda família, recebeu o diagnóstico de diabetes mellitus tipo II e atualmente faz uso de insulina. \nAo ser atendido por um enfermeiro, relatou que gostaria de assumir as aplicações diárias de insulina, \nafirmando que isso o tornaria mais independente, trazendo mais liberdade para viajar e se locomover. \nEntretanto, referiu medo de complicações e reações nos locais de aplicação, por já ter ouvido relatos \ndessas ocorrências. O enfermeiro, então, deu as seguintes orientações ao paciente: monitorar a glicemia \ncapilar três ou mais vezes ao dia; lavar bem as mãos com água e sabão; rolar o frasco de insulina \ngentilmente entre as mãos para misturá-la; limpar a tampa do frasco; e fazer rodízio dos locais de \naplicação, para não causar lipodistrofia.\nNesse caso hipotético, além das instruções já fornecidas, seria correto o enfermeiro orientar o paciente a\nA puxar o êmbolo para verificar a presença de sangue e, caso isso ocorra, retirar a agulha e recolocá-la \nem local próximo.\nB organizar um esquema de administração que garanta a reaplicação de insulina no mesmo local a \ncada dez dias, para evitar a ocorrência de lipodistrofia.\nC reutilizar seringas e agulhas por até, no máximo, 30 dias, uma vez que esse é o prazo considerado \nadequado, embora o fabricante desses materiais possa definir outro período para reutilização. \nD manter os frascos de insulina lacrados e refrigerados entre 2 °C e 8 °C, podendo estes, após abertos, \nser mantidos em temperatura ambiente, entre 15 °C e 30 °C, para minimizar a dor no local da injeção.\nE limpar o local de aplicação de insulina usando algodão com álcool e descartar seringas e agulhas em \numa garrafa PET, levando-a posteriormente para uma unidade de saúde, onde será feito o correto \ndescarte desses materiais.\n*R04202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 21"
     }
@@ -353,6 +598,13 @@
       "numero": 18,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1684,
@@ -364,8 +616,15 @@
       "numero": 19,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1843,
       "texto": "QUESTÃO 19 \nUm homem com 29 anos de idade, com peso estimado de 90 kg, vítima de um acidente automobilístico, \nfoi resgatado pelo Serviço de Atendimento Móvel de Urgência (SAMU) e admitido em unidade \nhospitalar com hipótese diagnóstica de fratura de fêmur e traumatismo toracoabdominal. Ao exame \nfísico, constatou-se: Glasgow = 12; hipotensão (pressão arterial = 90 × 50 mmHg); bulhas rítmicas \ntaquicárdicas (frequência cardíaca = 120 bpm); taquipneia com diminuição dos murmúrios fisiológicos à \nesquerda e presença de enfisema subcutâneo (frequência respiratória = 28 irpm); abdome distendido e \ndoloroso à palpação. O paciente evoluiu com rebaixamento do nível de consciência, hipotensão arterial \ne piora da dispneia. Diante desse quadro clínico, foi submetido a entubação orotraqueal e ventilação \nmecânica invasiva. Foram providenciadas instalação de cateter venoso central em veia jugular \nesquerda, solução de sedação e droga vasoativa em bomba de infusão contínua, além de realização de \ntoracotomia com drenagem de tórax em selo d’água à esquerda.\nNo caso clínico apresentado, a enfermeira deverá, de imediato,\nA monitorizar o ritmo e a hemodinâmica da função cardíaca, bem como avaliar a perfusão tecidual, \numa vez que há risco de o paciente apresentar problemas de perfusão.\nB manter o protocolo de paciente com traumatismo toracoabdominal, observando estado geral, \nequilíbrio hemodinâmico e perfusão dos cateteres a cada 30 minutos.\nC prestar assistência de enfermagem ao paciente com hemodinâmica instável e providenciar \nsondagem nasogástrica para alívio da distensão abdominal.\nD acionar a equipe médica caso persistam a hipotensão arterial sem respostas à ressuscitação \nvolêmica e o aumento da distensão abdominal.\nE prescrever a reposição volêmica, observando sinais de distensão abdominal ou edemas a cada \n30 minutos."
     }
@@ -375,8 +634,15 @@
       "numero": 20,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2039,
       "texto": "QUESTÃO 20 \nUm enfermeiro do Serviço de Controle de Infecção Hospitalar (SCIH) realizou um levantamento dos \nacidentes com material biológico ocorridos entre 2010 e 2022 no hospital em que trabalha, com o \nobjetivo de identificar fragilidades relacionadas à biossegurança. Do total de registros encontrados \n(n = 2 439), 46% ocorreram com membros da equipe de enfermagem. A maior frequência de acidentes \nfoi com material perfurocortante (90%). A agulha com lúmen foi o material envolvido na maioria dos \nacidentes com exposição percutânea (79%).\nConsiderando as boas práticas de gerenciamento dos resíduos de serviços de saúde, o enfermeiro do \nSCIH, a fim de diminuir a frequência de acidentes com perfurocortantes, deve recomendar que\nA as seringas com agulhas conectadas sejam descartadas em recipientes identificados, rígidos, \ncom tampa e resistentes à punctura, à ruptura e ao vazamento, não devendo seu preenchimento \nultrapassar três quartos de sua capacidade.\nB as seringas com agulhas conectadas sejam descartadas em caixa impermeável, resistente e \nespecífica para material perfurocortante, que deve ser preenchida até que se complete toda sua \ncapacidade.\nC o conjunto seringa-agulha seja separado com o auxílio de dispositivos de segurança, podendo-se \nrealizar a desconexão e o reencape manual antes do descarte.\nD as seringas com agulhas conectadas sejam descartadas logo após o uso em caixa permeável e \nresistente, específica para material perfurocortante.\nE as agulhas sejam desconectadas das seringas e não sejam reencapadas antes do descarte.\n*R04202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 23"
     }
@@ -386,6 +652,13 @@
       "numero": 21,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2650,
@@ -397,6 +670,13 @@
       "numero": 22,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2665,
@@ -408,6 +688,13 @@
       "numero": 23,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2930,
@@ -419,6 +706,13 @@
       "numero": 24,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2275,
@@ -430,8 +724,15 @@
       "numero": 25,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1253,
       "texto": "QUESTÃO 25 \nUma mulher com 16 semanas de gestação compareceu à unidade básica de saúde para realizar consulta \nde acompanhamento do pré-natal. Durante a anamnese, a gestante se queixou de prurido, ardência \ndurante a micção e dispareunia. Ao exame físico, observou-se a presença de corrimento branco, \ngrumoso, com aspecto caseoso e inodoro; vagina e colo recobertos por placas brancas, aderidas à mucosa.\nConsiderando o caso clínico apresentado e a abordagem sindrômica do Ministério da Saúde, assinale a \nopção que apresenta, respectivamente, a infecção vaginal e o tratamento preconizado nessa situação.\nA Vaginose bacteriana; metronidazol 2 g, via oral, em dose única, ou metronidazol 400 mg, via oral, de \n12 em 12 horas, por 6 dias.\nB Tricomoníase; metronidazol 400 mg, 5 comprimidos, via oral, em dose única, ou metronidazol \n250 mg, 2 comprimidos, via oral, duas vezes por dia, por 7 dias.\nC Candidíase; miconazol a 2%, creme vaginal, por 7 dias, ou nistatina 100 000 UI, creme vaginal, \npor 14 dias.\nD Gonorreia; ceftriaxona, 250 mg, intramuscular, dose única, ou azitromicina 500 mg, \n2 comprimidos, via oral, dose única.\nE Clamídia; ceftriaxona, 250 mg, intramuscular, dose única, ou azitromicina 500 mg, 2 comprimidos, \nvia oral, dose única."
     }
@@ -441,8 +742,15 @@
       "numero": 26,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1290,
       "texto": "QUESTÃO 26 \nO quarto estágio do parto inicia-se após a dequitação da placenta e estende-se pelas primeiras horas \ndo pós-parto. Nesse período, é importante o cuidado de enfermagem na observação e no controle das \nhemorragias, muito comuns no pós-parto imediato.\nConsiderando-se esse contexto, assinale a opção que apresenta o(s) cuidado(s) de enfermagem que \nevita(m) a hemorragia e suas complicações.\nA Incentivo à amamentação e enfaixamento abdominal.\nB Manutenção da parturiente com hidratação venosa durante todo o trabalho de parto.\nC Suplementação alimentar com sulfato ferroso nas principais refeições e repouso no leito.\nD Avaliação da presença do globo de segurança de Pinard e manutenção da contração uterina.\nE Auxílio na dequitação da placenta por meio de manobras que promovam seu rápido descolamento.\n*R04202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Enfermagem"
     }
@@ -452,6 +760,13 @@
       "numero": 27,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2265,
@@ -463,8 +778,15 @@
       "numero": 28,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3401,
       "texto": "QUESTÃO 28 \nEm uma consulta de enfermagem para coleta de material para realização de Papanicolau, uma \nmulher com 25 anos de idade, casada e mãe de uma criança de 1 ano e 4 meses de idade, relatou à \nenfermeira que não menstrua desde que a criança completou 1 ano de idade. Ao exame físico, a mulher \nencontrava-se eupneica, afebril, com mucosas e pele coradas, linfonodos impalpáveis no pescoço, \nmamas simétricas e indolores à palpação, abdômen globoso, genitália com presença de lesão com \nborda endurecida profunda, fundo macio e indolor. Ao exame especular, apresentou conteúdo vaginal \ntransparente, sem odor, e colo íntegro, sem alterações. A paciente relatou que seu companheiro \né seu único parceiro sexual e teve uma ferida no pênis havia um ano, a qual foi tratada com remédio \ncaseiro e cicatrizou espontaneamente. A impressão geral da enfermeira foi de que a amenorreia \npoderia ser indicativa de uma nova gravidez e que os sinais e sintomas seriam compatíveis com sífilis. \nDesse modo, a profissional realizou o teste rápido de sífilis, com punção digital, cujo resultado foi \npositivo. Foi realizado, ainda, teste rápido de gravidez, que também resultou positivo.\nConsiderando-se os determinantes biológicos, socioculturais, econômicos e políticos de vulnerabilidade, \nbem como o estabelecido no protocolo do Ministério da Saúde para a atenção básica, quais estratégias \nde cuidado enfermeira deve aplicar imediatamente no gerenciamento desse caso?\nA Prosseguir com a abordagem sensível e culturalmente competente na atenção integral à família, \nrealizar a captação da gestante para o pré-natal, solicitar exames de rotina do pré-natal e de \ndeterminação do tipo de sífilis, realizar tratamento imediato da paciente para sífilis, além de \nmonitorar e notificar o caso.\nB Iniciar o pré-natal, encaminhar a paciente para o seguimento no pré-natal de alto risco, implementar \nações de educação em saúde da família e agendar visita domiciliar com médico da equipe para \niniciar o tratamento da sífilis do casal.\nC Encaminhar o casal ao médico da estratégia de saúde da família para solicitação dos exames de \nconfirmação da sífilis e da gravidez, notificar o caso, prescrever penicilina, cadastrar a mulher \nno serviço de pré-natal da unidade básica de saúde e convidar o casal para frequentar o grupo \neducativo na unidade.\nD Estabelecer, com base no quadro clínico, o diagnóstico de sífilis primária para a gestante e de sífilis \nsecundária para o companheiro, iniciar o pré-natal somente após exame de confirmação de gravidez \ne encaminhar a paciente ao médico da estratégia de saúde da família para solicitação de exames e \nrealização do pré-natal.\nE Realizar abordagem sensível e culturalmente competente na atenção à família, solicitar exames \npara confirmação da gravidez e do tipo de sífilis, aguardar o resultado dos exames para iniciar o \ntratamento, realizar o pré-natal e implementar educação em saúde.\n*R04202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Enfermagem"
     }
@@ -474,6 +796,13 @@
       "numero": 29,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2275,
@@ -485,6 +814,13 @@
       "numero": 30,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2675,
@@ -496,6 +832,13 @@
       "numero": 31,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2573,
@@ -507,8 +850,15 @@
       "numero": 32,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2519,
       "texto": "QUESTÃO 32 \nA equidade, como um princípio de justiça, baseia-se na premissa de que é preciso tratar diferentemente \nos desiguais (diferenciação positiva) ou cada um de acordo com a sua necessidade, corrigindo \ndiferenciações injustas e negativas e evitando iatrogenias devido à não observação das diferentes \nnecessidades. Como fazer isso no cotidiano dos serviços de saúde, quando muitas vezes chegam, \nao mesmo tempo, várias pessoas com necessidades distintas para atendimento? Uma estratégia \nimportante de garantia de acesso com equidade é a adoção da avaliação/estratificação de risco e de \nvulnerabilidades como ferramenta, o que possibilita identificar as diferentes gradações de risco e as \nsituações de maior urgência e, com isso, realizar as devidas priorizações.\nBRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Acolhimento à demanda \nespontânea: queixas mais comuns na Atenção Básica. Brasília: Ministério da Saúde, 2013 (adaptado).\nConsiderando as informações do texto, assinale a opção correta, quanto à classificação de risco dos \npacientes/usuários nos serviços de saúde.\nA O usuário ou paciente que se encontra há muito tempo no serviço deve ser atendido com \nprioridade, pois, assim, garante-se uma assistência justa, livre de danos. \nB O tratamento de forma igualitária deve ser priorizado, pois todos têm direitos iguais, \nindependentemente dos riscos ou da vulnerabilidade dos usuários/pacientes. \nC A igualdade do atendimento consiste em avaliar as iatrogenias ocorridas e, dessa forma, possibilitar \num atendimento justo que priorize os pacientes/usuários por ordem de chegada.\nD O acesso prioritário deve ser garantido aos usuários/pacientes com maior risco e vulnerabilidade, \no que possibilita atendimento de forma justa, a fim de evitar prejuízos à saúde desses indivíduos.\nE O atendimento igualitário aos usuários/pacientes é atribuir prioridade aos de menor risco em relação \naos de maior risco, em detrimento da vulnerabilidade, que é um aspecto secundário na avaliação.\n*R04202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Enfermagem"
     }
@@ -518,6 +868,13 @@
       "numero": 33,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2987,
@@ -529,8 +886,15 @@
       "numero": 34,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2514,
       "texto": "QUESTÃO 34 \nTEXTO 1\nUma criança com 4 anos de idade foi admitida em uma unidade de internação pediátrica para realização \nde tratamento quimioterápico devido a recidiva de neuroblastoma após um transplante de medula \nóssea autogênico realizado há cerca de 5 meses. Na primeira semana de internação, o quadro de saúde \nda criança agravou-se e esta foi transferida para unidade de terapia intensiva pediátrica. Durante visita \nmultidisciplinar, a criança encontrava-se hemodinamicamente instável, com prognóstico reservado, \nsendo iniciados os cuidados paliativos. Nos momentos de atendimento da criança, a mãe verbalizava \nconstantemente que não conseguia enxergar sua filha doente e que, quando olhava para ela, via a vida, \ne não a morte. Com a possibilidade de terminalidade, a mãe passou a abordar a equipe multidisciplinar \nfazendo propostas para que curassem sua filha. Nos últimos dias, a mãe afirmou ter lido vários trechos \nda Bíblia e disse que havia compreendido que o que estava faltando era ela conseguir entregar sua filha \na Deus e aceitar os acontecimentos que estavam por vir.\n BOLZE, S. D. A.; CASTOLDI, L. O acompanhamento familiar antes e depois da morte da criança: \numa proposta de intervenção para o psicólogo hospitalar. Aletheia, n. 21, jan./jun. 2005 (adaptado).\nTEXTO 2\nPacientes e familiares que vivenciam a terminalidade ensinam aos profissionais de saúde como \nlidar com o processo da finitude da vida por meio do desenvolvimento de mecanismos de defesa \ne enfrentamento.\nKÜBLER-ROSS, E. Sobre a morte e o morrer. São Paulo: Martins Fontes, 1997 (adaptado).\nConsiderando o caso hipotético apresentado no Texto 1 e os estágios do luto descritos por Elisabeth \nKübler-Ross, é correto afirmar que a mãe da paciente, para aceitar a terminalidade da criança, vivenciou\nA todos os estágios do luto.\nB apenas os estágios de barganha, raiva e aceitação.\nC apenas os estágios de negação, barganha e aceitação.\nD apenas os estágios de raiva, depressão e aceitação.\nE apenas os estágios de negação, depressão e barganha.\n*R04202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Enfermagem"
     }
@@ -540,8 +904,15 @@
       "numero": 35,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2250,
       "texto": "QUESTÃO 35 \nDurante uma consulta de puericultura com uma enfermeira, uma menina com 6 anos de idade \napresentou os seguintes dados antropométricos: peso = 28,3 kg; altura = 1,15 m; e IMC = 21,4 kg/m2.\nO gráfico a seguir apresenta o Índice de Massa Corporal (IMC) para idade de 5 a 10 anos.\nACOMPANHANDO O CRESCIMENTO \nMeses\nAnos\nIdade (meses e anos completos)\nIMC (kg/m)\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n2 4 6 8 10 2 4 6 8 10 2 4 6 8 10 2 4 6 8 10 2 4 6 8 10\n5 6 7 8 9 10\nGráﬁco de IMC para Idade de 5 a 10 Anos\nWorld Health\nOrganiza�on\n3\n-3\n1\n-1\n0\n-2\n2\nConsiderando esse caso clínico e os dados obtidos a partir do preenchimento do gráfico de IMC para a \nidade, de acordo com a recomendação do Ministério da Saúde e com o que está contido na Caderneta \nda Criança, assinale a opção que apresenta, respectivamente, o diagnóstico nutricional da paciente e a \nconduta que deve ser adotada pela enfermeira nessa situação.\nA Eutrofia; orientar sobre a necessidade de uma alimentação mais saudável e variada.\nB Sobrepeso; realizar avaliação clínica da criança e encaminhá-la ao núcleo de apoio à saúde da família. \nC Obesidade; realizar avaliação clínica da criança e encaminhá-la ao núcleo de apoio à saúde da família.\nD Magreza; investigar intercorrências clínicas, solicitar o acompanhamento da criança no núcleo de \napoio à saúde da família, encaminhar a paciente ao serviço social e agendar uma nova consulta, \na ser realizada após 15 dias.\nE Magreza acentuada; investigar as possíveis causas do quadro, tratar as intercorrências clínicas, \nencaminhar a criança para o núcleo de apoio à saúde da família e para o serviço social e agendar \numa nova consulta, a ser realizada após 15 dias.\n*R04202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nEnfermagem 37"
     }
@@ -551,6 +922,13 @@
       "numero": 36,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2395,
@@ -562,6 +940,13 @@
       "numero": 37,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2642,
@@ -573,8 +958,15 @@
       "numero": 38,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3028,
       "texto": "QUESTÃO 38 \nA interação do enfermeiro com os outros profissionais de saúde e com os usuários do serviço de \nsaúde representa potencial fator de tensão, mobilizando sentimentos, percepções e emoções \ndistintas. Manifesta-se de maneira instintiva e pode gerar estresse, violência e conflitos nas relações \nintra e interpessoais. No contexto da pandemia de Covid-19, os riscos de exposição aos diferentes \ntipos de violência se exacerbaram nos âmbitos pessoal, profissional e social. Anteriormente a esse \ncenário, o ciclo da angústia e da dificuldade de enfrentamento já era realidade para o enfermeiro. \nA comunicação não violenta, como tecnologia leve, passou a ser utilizada na enfermagem, \nconfigurando-se como eficiente recurso para potencializar a habilidade de comunicação compassiva e \nempática, permeada pelo respeito, pela ética e pelo empoderamento mútuo na promoção da cultura de \npaz e na mobilização de estratégias para minimizar fatores estressores no trabalho e suas repercussões, \ncomo violência, bullying, rotatividade e absenteísmo, tão evidenciadas na pandemia. Essa crise sanitária \nrevelou os desarranjos das políticas públicas nas diferentes esferas do sistema e dos serviços de saúde, \naumentando a vulnerabilidade do profissional.\nTOBASE, L. et al. Comunicação não violenta como tecnologia leve no contexto da enfermagem: revisão integrativa. \nEnfermagem Brasil, v. 21, n. 5, p. 621-635, 2022 (adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. Os profissionais de enfermagem são expostos, no trabalho, a vários fatores estressores que podem \nafetar sua saúde mental, o que ocasiona o aumento do número de afastamentos e da rotatividade \nde pessoal e, consequentemente, traz prejuízos ao ambiente de trabalho, além de comprometer a \nqualidade do serviço prestado ao usuário.\nPORQUE\nII. A comunicação, a empatia e a atenção com o outro, profissional e paciente, são habilidades \nsociais capazes de promover a harmonia, bem como nutrir e potencializar o apoio nas relações \ninterprofissionais e interpessoais.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R04202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
     }

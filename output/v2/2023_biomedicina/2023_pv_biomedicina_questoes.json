@@ -14,6 +14,14 @@
       "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "E": "As asserções I e II são proposições falsas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**R0320233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Biomedicina\nLOGO\n4 MATÉRIA",
     "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
@@ -24,7 +32,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento sanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo de urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injustiças sociais e econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são acessíveis a uma parcela significativa da população, principalmente àquela em que se concentram os segmentos populacionais em situação de vulnerabilidade. O atendimento integral e universalizado junto às populações periféricas e em situação de vulnerabilidade constitui um grande desafio, por demandar políticas públicas e investimentos subsidiados e permanentes. Acerca do saneamento básico no Brasil, Avalie as afirmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das barreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de infraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investimentos em políticas públicas e em tecnologias sociais que priorizem a democratização e o atendimento às populações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmitidas pela água resulta não somente da inadequação dos serviços de saneamento, mas também da precariedade das condições de moradia da população em situação de vulnerabilidade. É correto apenas o que se afirma em",
     "alternativas": {
       "A": "I e II.",
@@ -33,6 +41,14 @@
       "D": "I, III e IV.",
       "E": "II, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5",
     "observacao": null
@@ -43,7 +59,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a Organização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de vacinação infantil nos últimos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se crianças com menos de um ano de idade. Essa redução da cobertura vacinal deixa a população infantil muito vulnerável e exposta a doenças que já estavam praticamente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação para os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as crianças, como a poliomielite, a meningite, a rubéola e a di eria. O gráfico a seguir mostra as taxas de vacinação infantil, em crianças menores de um ano de idade, no período de 2017 a 2021. Imunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepate A\nPercentual de vacinação em crianças menores de 1 ano\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02 Considerando as informações apresentadas no texto e no gráfico, assinale a opção correta.",
     "alternativas": {
       "A": "O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte do período de 2017 a 2021.",
@@ -52,6 +68,14 @@
       "D": "O aumento da taxa de vacinação infantil contra a febre amarela em 2021, em comparação com o índice registrado em 2017, revela que as campanhas de conscientização da população foram bem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.",
       "E": "A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R0320234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 5\nLOGO\n4 MATÉRIA",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -62,7 +86,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "TEXTO 1\nA Inteligência artificial (IA) generativa é capaz de criar novos dados, únicos, que possibilitam aprender por conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de intervenção humana. Um exemplo da IA generativa é o ChatGPT, que pode gerar imagens, músicas e textos completamente novos. Entre outras coisas, por meio da IA generativa, é possível elaborar modelos de previsão de testes clínicos, realizar a identificação de padrões em exames médicos e, ainda, auxiliar no diagnóstico de doenças. TEXTO 2 Acredita-se que a tecnologia de IA generativa será disruptiva e, portanto, capaz de alterar drasticamente a maneira como o ser humano se relaciona com as máquinas. O uso da IA generativa pode causar importante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão ser maléficas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões éticas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto entre indivíduos da mesma nação. Considerando os textos apresentados, é correto afirmar que a IA generativa",
     "alternativas": {
       "A": "proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações próprias dos seres humanos.",
@@ -71,6 +95,14 @@
       "D": "gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, neles, os processos de criação e inovação já estão bem consolidados.",
       "E": "estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7",
     "observacao": null
@@ -81,7 +113,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Os seguintes ícones foram utilizados em um estudo realizado por um grupo de trabalho de monitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, perguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. As respostas relati vas a cada tipo de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nnão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o espaço público Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, Resultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero e Caminhabilidade Terminal Santana, São Paulo, SP (adaptado). Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das necessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as afirmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres sentem ao se deslocarem ativamente pela cidade, inclusive quanto à percepção de seu corpo no espaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação nesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco mais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refletem a percepção das mulheres quanto ao perigo a que se expõem e sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografia particular nas cidades, em que os meios de transporte afetam os movimentos rotineiros das mulheres no espaço urbano. É correto o que se afirma em",
     "alternativas": {
       "A": "I, apenas.",
@@ -90,6 +122,14 @@
       "D": "II e III, apenas.",
       "E": "I, II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R0320236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 7\nLOGO\n6 MATÉRIA",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -100,7 +140,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "TEXTO 1 Maria Bárbara tinha o verdadeiro tipo das velhas maranhenses criadas na fazenda. Tratava muito dos avós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um mulato dizia “o cabra”. Maria Bárbara tinha grande admiração pelos portugueses, dedicava-lhes um entusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a filha foi pedida por Manuel Pedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que é branco!”\nAZEVEDO, A. O mulato. São Luís: Typografia o Paiz, 1881 (adaptado).\nTEXTO 2 A morte brinca com balas nos dedos gatilhos dos meninos. Dorvi se lembrou do combinado, o juramento feito em voz uníssona, gritado sob o pipocar dos tiros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de filmes da tevê. Morre e mata de mentira. Aqui, não. Às vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é uma fumaça adocicada enchendo o pulmão da gente. EVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. O Cria é uma releitura da pintura “O Mestiço” de Cândido Portinari. Em sua obra, Del Nunes personifica a identidade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de Salvador, o artista transmite em suas produções a essência da cultura preta, cria e recria momentos do povo negro apagados pela história, divulgando-as nas redes sociais.\nA partir das informações apresentadas e tendo em vista a possibilidade das várias manifestações culturais estabelecerem relação com a construção da memória e a definição da identidade cultural de um povo, Avalie as afirmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignificação artística proposta no texto 3 resgatam uma reflexão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de constituição da identidade do povo brasileiro, o convívio cooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às diferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a reflexão sobre a condição social da população negra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente promovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Portinari, apresenta limitação na promoção do empoderamento da população afrodescendente, provocando um acirramento cultural. É correto apenas o que se afirma em",
     "alternativas": {
       "A": "II.",
@@ -109,6 +149,14 @@
       "D": "I e IV.",
       "E": "II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III.",
     "observacao": "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
@@ -119,7 +167,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, mesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, são insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi a aprovação da reforma previdenciária de 2019, que modificou as regras de idade e contribuição para o acesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda maior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado atual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa faixa etária, denominado etarismo. Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de trabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua sustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no mercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da qualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de tecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens. É correto o que se afirma em",
     "alternativas": {
       "A": "II, apenas.",
@@ -128,6 +176,14 @@
       "D": "I e III, apenas.",
       "E": "I, II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R0320239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Biomedicina\nLOGO\n10 MATÉRIA",
     "observacao": null
@@ -147,6 +203,14 @@
       "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "E": "As asserções I e II são proposições falsas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11",
     "observacao": null
@@ -157,7 +221,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. Os seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de desempenho e produção. São empresários de si mesmos. BYUNG-CHUL HAN. Sociedade do Cansaço. Petrópolis: Vozes, 2015 (adaptado). Considerando o texto apresentado, Avalie as afirmações a seguir.\nI. Os recursos tecnológicos, como notificações de mensagens em tempo real e controle da velocidade de áudio em redes de mensagens, são fatores que podem contribuir para a precarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem a desativação de aplicativos e mecanismos de notificações instantâneas, bem como a fixação de horários para uso profissional e uso recreativo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso excessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento digital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no ambiente de trabalho. É correto o que se afirma em",
     "alternativas": {
       "A": "I, apenas.",
@@ -166,6 +230,14 @@
       "D": "II e III, apenas.",
       "E": "I, II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R03202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 11\nLOGO\n10 MATÉRIA",
     "observacao": null
@@ -176,7 +248,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "O preparo de soluções-padrão pode ser realizado de diversas maneiras. Em uma delas, prepara-se uma solução mais concentrada a partir da pesagem do padrão, denominada solução-estoque, enquanto outras soluções são preparadas por diluição, sendo denominadas soluções de trabalho. É ilustrado, a seguir, um esquema da sequência utilizada em um preparo feito a partir de uma solução-estoque de 1 M e de soluções de trabalho diluídas sucessivamente, em que o balão volumétrico 6 tem concentração de 10-5 M.\nSOLUÇÃO ESTOQUE\n10-1 10-2 10-3 10-4 10-5\n1 2 3 4 5 6 Considerando o texto e a imagem apresentados, assinale a opção correta acerca desse procedimento de diluição seriada.",
     "alternativas": {
       "A": "A concentração da solução no balão 6 é de 0,00006 M.",
@@ -185,6 +257,14 @@
       "D": "A solução de trabalho no balão 2 é duas vezes mais diluída do que a solução de estoque no balão 1.",
       "E": "A solução de trabalho no balão 2 é cinco vezes mais diluída do que a solução de estoque no balão 1."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 10 \nO preparo de soluções-padrão pode ser realizado de diversas maneiras. Em uma delas, prepara-se uma \nsolução mais concentrada a partir da pesagem do padrão, denominada solução-estoque, enquanto outras \nsoluções são preparadas por diluição, sendo denominadas soluções de trabalho. É ilustrado, a seguir, \num esquema da sequência utilizada em um preparo feito a partir de uma solução-estoque de 1 M e de \nsoluções de trabalho diluídas sucessivamente, em que o balão volumétrico 6 tem concentração de 10-5 M.\nSOLUÇÃO \nESTOQUE\n10-1 10-2 10-3 10-4 10-5\n1 2 3 4 5 6\nConsiderando o texto e a imagem apresentados, assinale a opção correta acerca desse procedimento de \ndiluição seriada.\nA A concentração da solução no balão 6 é de 0,00006 M.\nB O fator de diluição, na diluição seriada apresentada, é de 10 vezes.\nC A solução de trabalho no balão 6 é mais concentrada do que a solução no balão 2.\nD A solução de trabalho no balão 2 é duas vezes mais diluída do que a solução de estoque no balão 1.\nE A solução de trabalho no balão 2 é cinco vezes mais diluída do que a solução de estoque no balão 1.\n*R03202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 15",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -204,6 +284,14 @@
       "D": "I, II e III.",
       "E": "II, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 11 \nA avaliação do estado ácido-básico do sangue é feita na maioria dos pacientes que são atendidos \nem Unidades de Terapia Intensiva, independentemente da doença de base. Essa avaliação é \nfundamental, pois, além dos desvios do equilíbrio ácido-base apontados, pode fornecer dados sobre \na função respiratória e sobre as condições de perfusão tecidual. A manutenção do pH depende, \nfundamentalmente, da função renal e da função respiratória. A alteração desse equilíbrio, seja no \nsentido da acidose ou da alcalose, é detectada na prática clínica por meio da gasometria arterial.\nÉVORA, P . R. B.; GARCIA, L. V. Equilíbrio ácido-base. Medicina, Ribeirão Preto, 2008, n. 41, v. 3, p. 301-311 (adaptado).\nCom base no texto apresentado, avalie as afirmações a seguir.\nI. O controle renal da acidose metabólica é feito por meio da excreção de ácidos tituláveis e da \nprodução e excreção de amônia.\nII. O mecanismo imediato de controle do equilíbrio ácido-básico é exercido pelos tampões \nsanguíneos.\nIII. O mecanismo de compensação do sistema respiratório, no caso de uma acidose metabólica, \né a hipoventilação.\nIV. O sistema excretório, na produção excessiva de bases, produz urina ácida como mecanismo de \ncompensação da alcalose metabólica.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC III e IV.\nD I, II e III.\nE II, III e IV.\n*R03202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Biomedicina",
     "observacao": null
@@ -214,7 +302,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "A dosagem de glicose no sangue em jejum é o exame usado para a triagem de Diabetes mellitus. Segundo as Diretrizes da Sociedade Brasileira de Diabetes (DSBD) 2023, na dosagem feita em jejum, o termo normoglicemia é utilizado quando a taxa de glicose apresenta-se entre 60 e 100 mg/dL; o termo pré-diabetes, quando a taxa de glicose está entre 100 e 125 mg/dL; e o termo diabetes, quando a taxa de glicose está acima de 126 mg/dL. O gráfico a seguir demonstra a representação esquemática de uma curva-padrão de dosagem de glicose.\nCurva padrão de dosagem de glicose\n1,200\n1,000\n0,800\n0,600\n0,400\n0,200\n0,000\n0 100 Abs.\nConc. (mg/dL)\n200 300 400 500 600 700 800\nPadrão concentração\n(mg/dL) Absorbância\nbranco\n0,000\n0,200\n0,400\n0,600\n0,800\n1,000\n1,100\n1,150\nCom base no texto e na curva-padrão apresentados, assinale a opção correta.",
     "alternativas": {
       "A": "A curva-padrão é considerada linear até o ponto de concentração 400 mg/dL de glicose e de absorbância 0,800.",
@@ -223,6 +311,14 @@
       "D": "Com base na curva-padrão, uma amostra dosada que apresenta absorbância de 0,300 está na faixa de pré-diabetes segundo as DSBD.",
       "E": "A partir do ponto de concentração 600 mg/dL de glicose e absorbância 1,100, a curva-padrão é considerada não linear, mas a dosagem de glicose ainda é considerada pré-diabetes pela DSBD."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 12 \nA dosagem de glicose no sangue em jejum é o exame usado para a triagem de Diabetes mellitus. \nSegundo as Diretrizes da Sociedade Brasileira de Diabetes (DSBD) 2023, na dosagem feita em jejum, \no termo normoglicemia é utilizado quando a taxa de glicose apresenta-se entre 60 e 100 mg/dL; \no termo pré-diabetes, quando a taxa de glicose está entre 100 e 125 mg/dL; e o termo diabetes, \nquando a taxa de glicose está acima de 126 mg/dL.\nDisponível em: https://www.diabetes.org.br. Acesso em: 03 ago. 2023 (adaptado).\nO gráfico a seguir demonstra a representação esquemática de uma curva-padrão de dosagem de glicose.\nCurva padrão de dosagem de glicose\n1,200\n1,000\n0,800\n0,600\n0,400\n0,200\n0,000\n0 100 \nAbs.\nConc. (mg/dL)\n200 300 400 500 600 700 800\nPadrão concentração\n(mg/dL) Absorbância\nbranco\n1\n2\n3\n4\n5\n6\n7\n0\n100\n200\n300\n400\n500\n600\n700\n0,000\n0,200\n0,400\n0,600\n0,800\n1,000\n1,100\n1,150\nCom base no texto e na curva-padrão apresentados, assinale a opção correta.\nA A curva-padrão é considerada linear até o ponto de concentração 400 mg/dL de glicose e de \nabsorbância 0,800.\nB Com base na curva-padrão, uma amostra dosada que apresenta absorbância de 0,150 está na faixa \nde normalidade segundo as DSBD.\nC Com base na curva-padrão, uma amostra dosada que apresenta absorbância de 0,250 está na faixa \nde normalidade segundo as DSBD.\nD Com base na curva-padrão, uma amostra dosada que apresenta absorbância de 0,300 está na faixa \nde pré-diabetes segundo as DSBD.\nE A partir do ponto de concentração 600 mg/dL de glicose e absorbância 1,100, a curva-padrão é \nconsiderada não linear, mas a dosagem de glicose ainda é considerada pré-diabetes pela DSBD.\n*R03202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 17",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -233,7 +329,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "A tabela a seguir apresenta a relação das principais alterações que ocorrem com a urina que não é processada ou armazenada de maneira adequada no laboratório de análises clínicas.\nAlterações frequentes na urina mantida sem conservantes, à temperatura ambiente, por mais de duas horas\nAnalito Alteração Causa\nCor Escurecimento Oxidação ou redução de metabólitos\nAspecto Turvação Crescimento bacteriano e precipitação do material amorfo\nOdor Aumento Multiplicação bacteriana ou metabolização da ureia para amônia\npH Aumento Metabolização da ureia para amônia por bactérias produtoras de urease/perda de CO2\nGlicose Redução Glicólise e consumo bacteriano\nCetonas Redução Volatilização e metabolismo bacteriano\nBilirrubina Redução Foto-oxidação à biliverdina\nUrobilinogênio Redução Oxidação à urobilina\nNitritos Aumento Multiplicação de bactérias redutoras de nitrato\nEritrócitos Redução Desintegração\nLeucócitos Redução Desintegração\nCilindros Redução Dissolução\nBactérias Aumento Multiplicação\nDisponível em:. Com base nas informações apresentadas na tabela, assinale a opção correta.",
     "alternativas": {
       "A": "O aumento de bactérias (Gram + e Gram -) pode ser confirmado pela presença de bilirrubina positiva.",
@@ -242,6 +338,14 @@
       "D": "Os cilindros são formados na porção medial da uretra e sua análise na tira reagente de urina deve ser imediata por serem estruturas bastante lábeis.",
       "E": "A redução na quantidade de eritrócitos e de leucócitos, devido à desintegração, ocorre pela diferença de tonicidade entre essas células e a urina."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 13 \nA tabela a seguir apresenta a relação das principais alterações que ocorrem com a urina que não é \nprocessada ou armazenada de maneira adequada no laboratório de análises clínicas.\nAlterações frequentes na urina mantida sem conservantes, à temperatura ambiente, por mais de duas horas\nAnalito Alteração Causa\nCor Escurecimento Oxidação ou redução de metabólitos\nAspecto Turvação Crescimento bacteriano e precipitação do material amorfo\nOdor Aumento Multiplicação bacteriana ou metabolização da ureia para amônia\npH Aumento Metabolização da ureia para amônia por bactérias produtoras de \nurease/perda de CO2\nGlicose Redução Glicólise e consumo bacteriano\nCetonas Redução Volatilização e metabolismo bacteriano\nBilirrubina Redução Foto-oxidação à biliverdina\nUrobilinogênio Redução Oxidação à urobilina\nNitritos Aumento Multiplicação de bactérias redutoras de nitrato\nEritrócitos Redução Desintegração\nLeucócitos Redução Desintegração\nCilindros Redução Dissolução\nBactérias Aumento Multiplicação\nDisponível em: https://bibliotecasbpc.org.br/pags/view.archive.php?ID=2762&PATH=pdf . \nAcesso em: 03 ago.2023 (adaptado).\nCom base nas informações apresentadas na tabela, assinale a opção correta.\nA O aumento de bactérias (Gram + e Gram -) pode ser confirmado pela presença de bilirrubina positiva.\nB A redução do urobilinogênio e sua oxidação à urobilina podem ocorrer porque o urobilinogênio é \numa substância fotossensível.\nC O aumento do pH, devido à metabolização da ureia em amônia pelas bactérias produtoras de \nurease, torna a urina mais ácida.\nD Os cilindros são formados na porção medial da uretra e sua análise na tira reagente de urina deve \nser imediata por serem estruturas bastante lábeis. \nE A redução na quantidade de eritrócitos e de leucócitos, devido à desintegração, ocorre pela \ndiferença de tonicidade entre essas células e a urina.\n*R03202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -261,6 +365,14 @@
       "D": "II, III e IV, apenas.",
       "E": "I, II, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 14 \nO sarampo é uma doença altamente contagiosa e grave causada por um vírus, para o qual existem \nvacinas seguras e eficazes. Entre 2000 e 2018, a vacinação contra o sarampo evitou cerca de 23,2 milhões \nde mortes em todo o mundo.\nAs Américas foram declaradas livres de sarampo em 2016. Entretanto, com o vírus circulando em outras \npartes do mundo, os países da região relataram um aumento de casos importados entre 2017 e 2019, \ncom os surtos mais significativos no Brasil – onde a circulação endêmica continuou – e na Venezuela.\nDesde então, os casos confirmados diminuíram e em 2022, devido a medidas de distanciamento \nsocial por causa da pandemia da Covid-19, apenas seis países da região relataram casos de sarampo \nimportados: Argentina, Brasil, Canadá, Equador, Paraguai e Estados Unidos.\nDisponível em: https://www.paho.org/pt/noticias. Acesso em: 03 ago. 2023 (adaptado).\nA respeito da prevenção e do controle dos casos de sarampo, avalie as afirmações a seguir.\nI. A eficácia da vacinação pode ser verificada por meio da sorologia para detecção de anticorpos \nIgM específicos.\nII. O sarampo é uma doença infecciosa, viral e contagiosa, que pode ser transmitida entre \nindivíduos por meio de gotículas dispersas pela fala, por tosse ou por espirros.\nIII. A vacinação contra o sarampo é a maneira mais eficaz de prevenir a doença e faz parte do \nprograma nacional de imunizações na forma da vacina tríplice viral, que também protege contra \ncaxumba e contra rubéola.\nIV. A baixa adesão aos programas de imunização contra o sarampo, ou mesmo a resistência global \nao uso de vacinas por parte da população, são fatores importantes que contribuíram para o \naumento mundial do número de casos de sarampo.\nÉ correto o que se afirma em\nA I, II e III, apenas.\nB I, II e IV, apenas.\nC I, III e IV, apenas.\nD II, III e IV, apenas.\nE I, II, III e IV.\n*R03202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 19",
     "observacao": null
@@ -271,7 +383,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "O uso intensivo de compostos xenobióticos em atividades humanas é responsável pela contaminação de vários ambientes, provocando alterações em diferentes níveis ecológicos. O monitoramento das possíveis consequências do uso indiscriminado desse composto é realizado por intermédio de biomarcadores ou bioindicadores, principalmente em ambientes aquáticos. Atualmente, um dos biomarcadores utilizados são as enzimas, uma vez que o aumento ou a inibição da atividade enzimática pode indicar algum tipo de resposta ao estresse ambiental, segundo ensaios realizados in situ ou in vitro. A análise da atividade dessas enzimas permite maior controle do ambiente e funciona como sinal de alerta de contaminação.\nCOGO, A. J. D. et al. Utilização de enzimas do estresse oxidativo como biomarcadoras de impactos ambientais. Natureza on-line, v. 7, n. 1, p. 37-42, 2009 (adaptado).\nNesse contexto, avalie as asserções a seguir e a relação proposta entre elas.\nI. O biomédico que pretende estudar o possível impacto da ingestão de água contaminada, por uma comunidade ribeirinha, de um rio que recebe dejetos de indústrias de metalurgia, poderá dosar a atividade de enzimas envolvidas no estresse oxidativo, extraídas de animais como peixes e moluscos presentes nesse rio. PORQUE II. O estresse oxidativo gera lesão na membrana plasmática, o que altera sua fluidez e aumenta sua permeabilidade, modificando as trocas iônicas, acarretando, portanto, o influxo excessivo de cálcio, o qual ativa enzimas autolíticas e, por consequência, gera proteólise e morte celular. A respeito dessas asserções, assinale a opção correta.",
     "alternativas": {
       "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
@@ -280,6 +392,14 @@
       "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "E": "As asserções I e II são proposições falsas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 15 \nO uso intensivo de compostos xenobióticos em atividades humanas é responsável pela contaminação de \nvários ambientes, provocando alterações em diferentes níveis ecológicos. O monitoramento das possíveis \nconsequências do uso indiscriminado desse composto é realizado por intermédio de biomarcadores ou \nbioindicadores, principalmente em ambientes aquáticos. Atualmente, um dos biomarcadores utilizados \nsão as enzimas, uma vez que o aumento ou a inibição da atividade enzimática pode indicar algum tipo \nde resposta ao estresse ambiental, segundo ensaios realizados in situ ou in vitro. A análise da atividade \ndessas enzimas permite maior controle do ambiente e funciona como sinal de alerta de contaminação.\nCOGO, A. J. D. et al. Utilização de enzimas do estresse oxidativo como biomarcadoras de impactos ambientais. \nNatureza on-line, v. 7, n. 1, p. 37-42, 2009 (adaptado).\nNesse contexto, avalie as asserções a seguir e a relação proposta entre elas.\nI. O biomédico que pretende estudar o possível impacto da ingestão de água contaminada, por uma \ncomunidade ribeirinha, de um rio que recebe dejetos de indústrias de metalurgia, poderá dosar \na atividade de enzimas envolvidas no estresse oxidativo, extraídas de animais como peixes e \nmoluscos presentes nesse rio.\nPORQUE\nII. O estresse oxidativo gera lesão na membrana plasmática, o que altera sua fluidez e aumenta sua \npermeabilidade, modificando as trocas iônicas, acarretando, portanto, o influxo excessivo de \ncálcio, o qual ativa enzimas autolíticas e, por consequência, gera proteólise e morte celular.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R03202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Biomedicina",
     "observacao": null
@@ -299,6 +419,14 @@
       "D": "I, II e IV.",
       "E": "I, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 16 \nEm uma unidade hospitalar, um biomédico de plantão é chamado para realizar exames que possam \nidentificar marcadores cardíacos clínico-laboratoriais em um paciente que chegou ao serviço de \nemergência com sinais e sintomas de infarto agudo do miocárdio. O laboratório de análises clínicas desse \nhospital pode identificar os marcadores cardíacos com as características apresentadas na tabela a seguir.\nCaracterísticas da dinâmica do tempo de elevação, retorno aos níveis basais e especificidades teciduais \nde cada um dos marcadores cardíacos em casos de infarto agudo do miocárdio.\nMarcador cardíaco Tempo de alteração \nInicial\nTempo de retorno ao \nnormal\nEspecificidade \ntecidual\nCK-MB (isoenzima MB da \ncreatina quinase) 4 a 8 horas 72 a 96 horas Alta\nMioglobina 2 a 4 horas 24 horas Média\ncTnl (Troponina cardíaca I) 4 a 6 horas 3 a 10 horas Absoluta\ncTnT (Troponina cardíaca C) 4 a 6 horas 7 a 10 dias Absoluta\nDisponível em: https://www.fleury.com.br/medico/artigos-cientificos/marcadores-bioquimicos-de-lesao-cardiaca. \nAcesso em: 17 jul. 2023 (adaptado).\nCom base nas informações apresentadas, avalie as afirmações a seguir.\nI. A mioglobina é um marcador cardíaco mais sensível para o diagnóstico inicial do infarto agudo do \nmiocárdio do que a CK-MB, a cTnI e a cTnC, porém é menos específico.\nII. A cTnI e a cTnC são marcadores cardíacos mais sensíveis do que a CK-MB para o diagnóstico \ninicial do infarto agudo do miocárdio, porém são menos específicos.\nIII. A cTnI e a cTnC são os marcadores tardios mais indicados para a identificação de infarto agudo \ndo miocárdio do que a mioglobina e a CK-MB, pois permanecem na corrente circulatória por \nmais tempo.\nIV. A cTnI e a cTnC são, de forma geral, os marcadores mais indicados para a identificação de infarto \nagudo do miocárdio, pois possuem alta sensibilidade e absoluta especificidade.\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.\n*R03202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 21",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -309,7 +437,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "A reação em cadeia mediada pela polimerase (PCR) é uma técnica da biologia molecular utilizada para amplificar uma ou poucas cópias de um fragmento de DNA.\nA PCR pode ser utilizada para a detecção de microrganismos infecciosos, em testes de paternidade, na medicina forense ou em qualquer outro procedimento em que se estude um fragmento genético.\nNesse contexto, observe a figura a seguir.\nALBERTS, B.; JOHSON, A.; LEWIS, J.; ROBERTS, K.; WALTER, P.; RAFF, M. Biologia Molecular da Célula. Porto Alegre: ArtMed, 6. ed., 2017, p. 545 (adaptado).\nA partir das informações contidas na figura apresentada, é correto concluir que a PCR é uma técnica de biologia molecular em que",
     "alternativas": {
       "A": "as etapas 1, 2 e 3 não acontecem necessariamente nessa ordem, pois a etapa 2 pode se antepor à etapa 1 em alguns testes.",
@@ -318,6 +446,14 @@
       "D": "o processo de desnaturação do DNA na etapa 1 é realizado por um reagente conhecido como primer (ou iniciadores), que será responsável pela lise da célula e pela separação das fitas.",
       "E": "o resultado da etapa 3 é lido por meio da eletroforese em gel, quando ocorre a separação de moléculas que envolve a migração de partículas, cuja velocidade será de acordo com a sua massa.\nDNA de ﬁta dupla\nAquecimento para\nseparar as ﬁtas\nHibridização dos iniciadores\nSíntese de DNA a partir\ndos iniciadores\nEtapa 1 Etapa 2 Etapa 3\n+DNA-polimerase\n+dATP\n+dGTP\n+dCTP\n+dTTP\n5’\n5’"
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 17 \nA reação em cadeia mediada pela polimerase (PCR) é uma técnica da biologia molecular utilizada para \namplificar uma ou poucas cópias de um fragmento de DNA. A PCR pode ser utilizada para a detecção \nde microrganismos infecciosos, em testes de paternidade, na medicina forense ou em qualquer outro \nprocedimento em que se estude um fragmento genético.\nNesse contexto, observe a figura a seguir.\nALBERTS, B.; JOHSON, A.; LEWIS, J.; ROBERTS, K.; WALTER, P .; RAFF, M. Biologia Molecular da Célula. \nPorto Alegre: ArtMed, 6. ed., 2017, p. 545 (adaptado).\nA partir das informações contidas na figura apresentada, é correto concluir que a PCR é uma técnica de \nbiologia molecular em que\nA as etapas 1, 2 e 3 não acontecem necessariamente nessa ordem, pois a etapa 2 pode se antepor à \netapa 1 em alguns testes.\nB a pesquisa de anticorpos no material biológico do indivíduo ocorre ao longo do processo, por isso \ntambém é conhecida como sorologia.\nC a enzima DNA polimerase, na etapa 2, tem como função realizar a desnaturação do DNA para que \nsuas fitas sejam separadas para futura polimerização.\nD o processo de desnaturação do DNA na etapa 1 é realizado por um reagente conhecido como primer \n(ou iniciadores), que será responsável pela lise da célula e pela separação das fitas.\nE o resultado da etapa 3 é lido por meio da eletroforese em gel, quando ocorre a separação de \nmoléculas que envolve a migração de partículas, cuja velocidade será de acordo com a sua massa.\nDNA de ﬁta dupla\nAquecimento para\nseparar as ﬁtas\nHibridização \ndos iniciadores\nSíntese de \nDNA a partir\ndos iniciadores\nEtapa 1 Etapa 2 Etapa 3\n+DNA-polimerase\n+dATP\n+dGTP\n+dCTP\n+dTTP\n5’\n5’\n*R03202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -337,6 +473,14 @@
       "D": "I, II e III.",
       "E": "I, II e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 18 \nUm recém-nascido, filho de pais africanos que imigraram para o Brasil, passa pela triagem neonatal, \npelo teste do pezinho. O achado mais relevante é a presença de hemoglobina S determinada na \neletroforese de hemoglobina. A investigação clínica revelou que ambos os pais apresentam hemograma \nnormal, morfologia eritrocitária normal, porém apresentam falciteste (teste de falcização) positivo. \nUm novo exame realizado na criança, 12 meses após o primeiro, detectou a presença de 80% da \nhemoglobina S.\nAcerca dessa situação, avalie as afirmações a seguir.\nI. Os pais são homozigotos para o gene da hemoglobina S.\nII. A criança apresentava 25% de chance de não ser portadora do gene da hemoglobina S (HbS).\nIII. A criança não desenvolverá sintomas de anemia hemolítica, pois é apenas portadora do gene \npara hemoglobina S.\nIV. A qualidade de vida do indivíduo com anemia falciforme pode ser melhorada por meio de \nacompanhamento com equipe multiprofissional e por meio de transfusões de sangue.\nÉ correto apenas o que se afirma em\nA I e III.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, II e IV.",
     "observacao": null
@@ -356,6 +500,14 @@
       "D": "I, III e IV.",
       "E": "II, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 19 \nUma mulher de 35 anos de idade foi diagnosticada com câncer de mama, sendo indicada a \nmastectomia unilateral, seguida de poliquimioterapia com uso de inibidores mitóticos e de biossíntese \nde DNA e RNA. Além disso, foi solicitada a realização de investigação de caso de hereditariedade para a \nmutação do gene BRCA1.\nAcerca desse caso, avalie as afirmações a seguir.\nI. O descontrole da proliferação celular está relacionado à inibição de genes supressores de tumor, \ncomo o BRCA1.\nII. Os quimioterápicos inibidores mitóticos indicados para o tratamento dessa paciente atuam, \npreferencialmente, na intérfase.\nIII. A ação de agentes físicos, químicos e biológicos sobre o material genético favorece o \ndesenvolvimento de tumores.\nIV. O desenvolvimento tumoral está intimamente relacionado à atuação dos mecanismos de reparo \ndo DNA durante a fase S.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*R03202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 23",
     "observacao": null
@@ -375,6 +527,14 @@
       "D": "II e III, apenas.",
       "E": "I, II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 20 \nO escore de Framingham, publicado no Framingham Heart Study , estratifica o risco de incidência de \ninfarto do miocárdio e de angina do peito em um período de dez anos. Com base em dados como \nfaixa etária, valores de pressão arterial, valores da razão entre o colesterol total e a fração HDL, \npresença de tabagismo e diagnóstico de diabetes é possível estabelecer a probabilidade de um evento \ncardiovascular ocorrer nesse período. Nesse sentido, a probabilidade de haver qualquer uma das duas \nintercorrências aumenta de maneira proporcional às alterações nesses parâmetros.\nWONG, N. D.; LEVY , D.; NARULA, J. Framingham Heart Study: an enduring legacy. Global Heart, \nv. 8, n. 1, p. 1-2, mar. 2013 (adaptado).\nUm paciente ambulatorial de 45 anos de idade, fumante de cerca de 20 cigarros/dia, pressão arterial \nde 140 × 90 mmHg, realizou, em jejum, alguns exames laboratoriais cujos resultados são descritos a \nseguir.\nExames laboratoriais Resultados Valores de referência\ntriglicérides 318 mg/dL < 150 mg/dL\ncolesterol total 258 mg/dL < 190 mg/dL\nHDL-colesterol 33 mg/dL > 40 mg/dL\nglicemia (em jejum) 135 mg/dL < 99 mg/dL\nCom base nesses achados laboratoriais e no escore de Framingham, avalie as afirmações a seguir.\nI. Os dados apresentados permitem concluir que a concentração sérica de LDL-colesterol está \naumentada no paciente.\nII. O paciente possui alto risco cardiovascular e isso pode ser evidenciado pela elevação da pressão \narterial, pelos altos índices de glicemia em jejum e de colesterol total, pelos baixos níveis de \nHDL-colesterol e pelo consumo de cigarro.\nIII. O aumento crônico na glicemia contribui pouco para a lesão vascular e para o desenvolvimento \nde eventos cardiovasculares.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R03202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -394,6 +554,14 @@
       "D": "II e III, apenas.",
       "E": "I, II e III."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 21 \nAs infecções pulmonares fúngicas podem ser causadas por patógenos primários, como o Histoplasma \ncapsulatum, o Paracoccidioides brasilienses e o Coccidioides immitis, bem como por fungos \noportunistas, como o Cryptococcus sp. e o Aspergillus sp. O diagnóstico precoce e correto deve ser feito \npara dar início à terapia adequada.\nXAVIER, M. O.; OLIVEIRA, F. M.; SEVERO, L. C. Diagnóstico laboratorial das micoses pulmonares. \nJornal Brasileiro de Pneumologia. v. 35, n. 9, São Paulo, 2009 (adaptado).\nEm relação ao diagnóstico fúngico, avalie as afirmações a seguir.\nI. Os procedimentos laboratoriais utilizados para diagnosticar infecções pulmonares fúngicas \nsão baseados em testes diretos para isolamento e identificação fúngica, bem como em testes \nindiretos realizados por meio de exames sorológicos e histológicos.\nII. As amostras de escarro ou lavado brônquico e/ou de lavado broncoalveolar (LBA) são úteis no \ndiagnóstico de infecções pulmonares causadas por patógenos primários, especialmente em \ninfecções primárias; no caso de infecção por fungos oportunistas, deve ser requerida biópsia, \nhemocultura ou exames sorológicos para confirmação.\nIII. O exame direto consiste em avaliar a amostra clínica microscopicamente, o que, na maioria das \nvezes, torna-o conclusivo para o diagnóstico das micoses pulmonares, sendo suficiente para a \nidentificação do agente etiológico.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*R03202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 25",
     "observacao": null
@@ -413,6 +581,14 @@
       "D": "I, II e III.",
       "E": "I, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 22 \nA Resolução RDC/ANVISA n. 786, de 5 de maio de 2023, obriga a implantação de um controle de \nqualidade interno e de um controle de qualidade externo para o laboratório clínico, indicando os \nprocedimentos de controle de qualidade nos resultados laboratoriais.\nAcerca dos procedimentos e das normas de conduta para controle de qualidade no laboratório de \nmicrobiologia, avalie as afirmações a seguir. \nI. O Streptococcus pneumoniae é a bactéria recomendada para controle da formação de beta-\nhemólise no ágar sangue. \nII. Para verificação de funcionalidade dos meios de cultura devem ser utilizadas cepas controle \ncomerciais (ATCC, NTCC etc.) subcultivadas no laboratório. \nIII. Como forma de controle positivo do ágar composto por ureia, pode ser utilizado o \nmicrorganismo Proteus mirabilis, pois essa espécie é classificada como uréase positiva.\nIV. Os meios de cultura devem ser testados apenas com microrganismos que têm a capacidade de \ncrescer adequadamente nesses meios, mesmo aqueles microrganismos que são classificados \ncomo seletivos. \nÉ correto apenas o que se afirma em\nA I e IV.\nB II e III.\nC II e IV.\nD I, II e III.\nE I, III e IV.\n*R03202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Biomedicina",
     "observacao": null
@@ -432,6 +608,14 @@
       "D": "I, II e IV.",
       "E": "I, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 23 \nUm homem de 75 anos de idade, que faz controle de risco cardiovascular intermediário, dirige-se \nao laboratório de análises clínicas, em jejum, para realizar seus exames anuais de avaliação do perfil \nlipídico a pedido do seu médico. Um biomédico realiza as análises laboratoriais seguindo todos os \npadrões de qualidade e de biossegurança exigidos. Ao analisar a amostra, foram obtidos os resultados \ndescritos a seguir.\nExames laboratoriais Resultados\ncolesterol total 210 mg/dL\ntriglicérides 250 mg/dL\nHDL-colesterol 50 mg/dL\nLDL-colesterol 110 mg/dL\nValores referenciais e de alvo terapêutico conforme avaliação de risco cardiovascular estimado pelo \nmédico solicitante do perfil lipídico para adultos > 20 anos.\nLípides Com jejum (mg/dL) Sem jejum (mg/dL) Categoria referencial\ncolesterol total < 190 < 190 Desejável\nHDL-colesterol > 40 > 40 Desejável\ntriglicérides < 150 < 175 Desejável\nCategoria de risco\n< 130 < 130 Baixo\n< 100 < 100 Intermediário\nLDL-colesterol < 70 < 70 Alto\n< 50 < 50 Muito alto\n< 160 < 160 Baixo\n< 130 < 130 Intermediário\nNão HDL-colesterol < 100 < 100 Alto\n< 80 < 80 Muito alto\nCom base nas informações apresentadas, avalie as afirmações a seguir.\nI. As concentrações de colesterol total e de triglicérides encontram-se indesejáveis, enquanto o \nHDL-colesterol, também conhecido como o “bom colesterol”, encontra-se desejável.\nII. A concentração encontrada de LDL-colesterol, também conhecido como “mau colesterol”, pode \nser obtida pela equação de Friedewald quando valores de triglicérides encontram-se < 400 mg/dL.\nIII. A concentração de não HDL- colesterol, obtida por meio de equação específica, foi de \n200 mg/dL, e essa informação deve ser liberada no laudo, pois é utilizada na avaliação de \npacientes com triglicérides < 400 mg/dL.\nIV. As concentrações de colesterol total, de triglicérides, de HDL -colesterol, de LDL -colesterol e de \nnão HDL-colesterol podem ser interpretadas de acordo com os valores de referência, os quais \nestabelecem valores máximos desejáveis que são utilizados como alvos terapêuticos pelo \nmédico solicitante.\n*R03202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 27\nÉ correto apenas o que se afirma em\nA I e II.\nB II e III.\nC III e IV.\nD I, II e IV.\nE I, III e IV.",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -442,7 +626,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Em análises clínicas, o uso de medicamentos por parte dos pacientes assume importante papel na rotina laboratorial por interferir nos ensaios e por modificar o diagnóstico clínico-laboratorial. Muitos fármacos exercem efeitos in vivo, in vitro ou em ambos simultaneamente, alterando os resultados de testes laboratoriais. Quando um medicamento induz mudança de um parâmetro biológico por meio de um mecanismo fisiológico ou farmacológico, tem-se a interferência in vivo ou a reação adversa do organismo ao medicamento. Por outro lado, por interferência puramente analítica do fármaco ou de seu catabólito, é possível, em alguma etapa analítica, haver interação com as substâncias constituintes dos reagentes químicos utilizados, causando um falso resultado da análise. Essa reação indesejada é conhecida como interferência in vitro ou analítica.\nFERREIRA, B. et al. Estudo dos medicamentos utilizados pelos pacientes atendidos em laboratório de análises clínicas e suas interferências em testes laboratoriais: uma revisão da literatura. Revista Eletrônica de Farmácia, [s. l.], v. 6, n. 1, p. 33-43, 2009 (adaptado).\nConsiderando os diversos medicamentos e seus possíveis mecanismos de interferência, assinale a opção correta.",
     "alternativas": {
       "A": "O uso de anti-inflamatórios esteroidais, como a prednisona, pode gerar alteração nos níveis de glicose plasmática, pois o metabolismo glicídico é afetado.",
@@ -451,6 +635,14 @@
       "D": "O uso de fármacos diuréticos, como furosemida ou hidroclorotiazida, não gera alteração nos níveis de potássio plasmático, pois seu uso afeta apenas o volume de água eliminada pelos rins.",
       "E": "O uso de anticoncepcionais orais, contendo análogos do hormônio sexual feminino progesterona, não gera alteração nos níveis de colesterol plasmático, pois sua ação se dá na regulação hormonal do ciclo ovariano."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 24 \nEm análises clínicas, o uso de medicamentos por parte dos pacientes assume importante papel \nna rotina laboratorial por interferir nos ensaios e por modificar o diagnóstico clínico-laboratorial. \nMuitos fármacos exercem efeitos in vivo, in vitro ou em ambos simultaneamente, alterando os \nresultados de testes laboratoriais. Quando um medicamento induz mudança de um parâmetro \nbiológico por meio de um mecanismo fisiológico ou farmacológico, tem-se a interferência in vivo \nou a reação adversa do organismo ao medicamento. Por outro lado, por interferência puramente \nanalítica do fármaco ou de seu catabólito, é possível, em alguma etapa analítica, haver interação \ncom as substâncias constituintes dos reagentes químicos utilizados, causando um falso resultado da \nanálise. Essa reação indesejada é conhecida como interferência in vitro ou analítica.\nFERREIRA, B. et al. Estudo dos medicamentos utilizados pelos pacientes atendidos em laboratório de \nanálises clínicas e suas interferências em testes laboratoriais: uma revisão da literatura. \nRevista Eletrônica de Farmácia, [s. l.], v. 6, n. 1, p. 33-43, 2009 (adaptado).\nConsiderando os diversos medicamentos e seus possíveis mecanismos de interferência, assinale a \nopção correta.\nA O uso de anti-inflamatórios esteroidais, como a prednisona, pode gerar alteração nos níveis de \nglicose plasmática, pois o metabolismo glicídico é afetado.\nB O uso de fármacos como o ácido acetilsalicílico pode levar à alteração do tempo de coagulação, \npois esses fármacos agem na cascata de coagulação, interferindo na ação do cálcio.\nC O uso de fármacos anti-hipertensivos, como o propranolol, antagonista dos receptores β-adrenérgicos, \npode alterar a glicemia, pois leva à redução da secreção de insulina pelo pâncreas.\nD O uso de fármacos diuréticos, como furosemida ou hidroclorotiazida, não gera alteração nos níveis \nde potássio plasmático, pois seu uso afeta apenas o volume de água eliminada pelos rins.\nE O uso de anticoncepcionais orais, contendo análogos do hormônio sexual feminino progesterona, \nnão gera alteração nos níveis de colesterol plasmático, pois sua ação se dá na regulação hormonal \ndo ciclo ovariano.\n*R03202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Biomedicina",
     "observacao": null
@@ -461,7 +653,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Por meio da Portaria SVS/MS n. 29, de 17 de dezembro de 2013, o Ministério da Saúde aprovou o Manual Técnico para Diagnóstico da Infecção pelo HIV com o objetivo de melhorar a qualidade do diagnóstico da infecção recente pelo HIV e, ao mesmo tempo, de fornecer uma base racional para assegurar que o diagnóstico seja seguro e concluído rapidamente. Considerando o estabelecido pelo Manual Técnico para Diagnóstico da Infecção pelo HIV, avalie as asserções a seguir e a relação proposta entre elas.\nI. O diagnóstico sorológico da infecção pelo HIV é realizado com, pelo menos, dois testes: um para a triagem e o outro para confirmar o resultado da triagem; dois resultados reagentes são utilizados para o diagnóstico da infecção. PORQUE II. O primeiro teste deve ser sempre o mais específico, enquanto o segundo teste deve ser mais sensível, a fim de eliminar resultados falso-positivos. A respeito dessas asserções, assinale a opção correta.",
     "alternativas": {
       "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
@@ -470,6 +662,14 @@
       "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "E": "As asserções I e II são proposições falsas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 25 \nPor meio da Portaria SVS/MS n. 29, de 17 de dezembro de 2013, o Ministério da Saúde aprovou \no Manual Técnico para Diagnóstico da Infecção pelo HIV com o objetivo de melhorar a qualidade do \ndiagnóstico da infecção recente pelo HIV e, ao mesmo tempo, de fornecer uma base racional para \nassegurar que o diagnóstico seja seguro e concluído rapidamente.\nDisponível em: https://www.gov.br/aids/pt-br/centrais-de-conteudo/publicacoes/2018/manual_tecnico_hiv_27_11_2018_web.pdf . \nAcesso em: 3 ago. 2023 (adaptado).\nConsiderando o estabelecido pelo Manual Técnico para Diagnóstico da Infecção pelo HIV, avalie as \nasserções a seguir e a relação proposta entre elas.\nI. O diagnóstico sorológico da infecção pelo HIV é realizado com, pelo menos, dois testes: um para a \ntriagem e o outro para confirmar o resultado da triagem; dois resultados reagentes são utilizados \npara o diagnóstico da infecção.\nPORQUE\nII. O primeiro teste deve ser sempre o mais específico, enquanto o segundo teste deve ser mais \nsensível, a fim de eliminar resultados falso-positivos.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R03202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 29",
     "observacao": null
@@ -480,7 +680,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Uma biomédica, com habilitação em patologia clínica há cinco anos, iniciou um novo trabalho em um laboratório de análises clínicas de médio porte, atuando como responsável pelos setores de Imunologia e Hematologia. O proprietário e responsável técnico desse laboratório convocou a biomédica a ir ao seu escritório, a fim de informá-la que, a partir daquela data, os exames sorológicos seriam executados por meio de pool, ou seja, as amostras de soro dos pacientes a serem testados para cada exame seriam misturadas umas às outras, diariamente, e testadas simultaneamente, uma vez. Caso o resultado desse teste seja negativo, todos os pacientes cujas amostras façam parte do pool serão liberados com resultado negativo. O proprietário do laboratório explicou que essa atitude era temporária, a fim de gerar economia para o laboratório. Ao retornar para o seu setor, a biomédica analisou a situação e consultou o Código de Ética da Profissão de Biomédico, a fim de decidir como proceder diante desse caso.\nDe acordo com o Código de Ética da Profissão de Biomédico, nesse caso, a biomédica deverá",
     "alternativas": {
       "A": "exigir aumento de remuneração por seu trabalho, devido ao risco que estará assumindo ao executar os exames da maneira proposta pelo seu empregador.",
@@ -489,6 +689,14 @@
       "D": "negar-se a ser conivente com o erro, pois se trata de procedimento inadequado, e comunicar os órgãos de fiscalização profissional sobre a infração que será executada no laboratório.",
       "E": "deixar de cumprir a solicitação do dono do laboratório, mas exercer seu direito de se omitir de comunicar o fato aos órgãos de fiscalização profissional, a fim de preservar a imagem de seu empregador."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 26 \nUma biomédica, com habilitação em patologia clínica há cinco anos, iniciou um novo trabalho em um \nlaboratório de análises clínicas de médio porte, atuando como responsável pelos setores de Imunologia \ne Hematologia. O proprietário e responsável técnico desse laboratório convocou a biomédica a ir ao \nseu escritório, a fim de informá-la que, a partir daquela data, os exames sorológicos seriam executados \npor meio de pool, ou seja, as amostras de soro dos pacientes a serem testados para cada exame seriam \nmisturadas umas às outras, diariamente, e testadas simultaneamente, uma vez. Caso o resultado desse \nteste seja negativo, todos os pacientes cujas amostras façam parte do pool serão liberados com resultado \nnegativo. O proprietário do laboratório explicou que essa atitude era temporária, a fim de gerar \neconomia para o laboratório. Ao retornar para o seu setor, a biomédica analisou a situação e consultou o \nCódigo de Ética da Profissão de Biomédico, a fim de decidir como proceder diante desse caso.\nDe acordo com o Código de Ética da Profissão de Biomédico, nesse caso, a biomédica deverá\nA exigir aumento de remuneração por seu trabalho, devido ao risco que estará assumindo ao executar \nos exames da maneira proposta pelo seu empregador.\nB aceitar a solicitação do dono do laboratório, pois é obrigação do biomédico prestar assistência \ntécnica efetiva ao estabelecimento com o qual mantém vínculo profissional.\nC aceitar a solicitação do dono do laboratório, pois o procedimento, apesar de pouco usual, não \ncaracteriza erro e é seu direito zelar pela manutenção de seu posto de trabalho.\nD negar-se a ser conivente com o erro, pois se trata de procedimento inadequado, e comunicar os \nórgãos de fiscalização profissional sobre a infração que será executada no laboratório.\nE deixar de cumprir a solicitação do dono do laboratório, mas exercer seu direito de se omitir de \ncomunicar o fato aos órgãos de fiscalização profissional, a fim de preservar a imagem de seu empregador.",
     "observacao": null
@@ -499,7 +707,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Uma paciente de 43 anos de idade relata perda de peso, febre, cansaço, falta de ar, petéquias e sangramentos sem causa aparente. Durante a realização dos exames laboratoriais, o hemograma apresentou anemia normocítica e normocrômica, trombocitopenia e leucocitose as custas de blastos. A análise microscópica revelou blastos de tamanho grande com moderada relação núcleo/citoplasma, cromatina frouxa com nucléolos visíveis, citoplasma com moderada basofilia com granulações finas e bastonetes de Auer. Com suspeita de quadro leucêmico, foi solicitada urgência na internação hospitalar da paciente e foi requerido um mielograma, o qual mostrou 45% de blastos. A imunofenotipagem dos blastos revelou positividade para os marcadores CD13, CD117 e CD33 e o exame citogenético revelou translocação t(8;21)(q22;q22).\nCom base nas informações apresentadas, assinale a opção que apresenta corretamente a patologia correspondente ao quadro dessa paciente.",
     "alternativas": {
       "A": "Mieloma múltiplo.",
@@ -508,6 +716,14 @@
       "D": "Leucemia linfoide crônica.",
       "E": "Leucemia mieloide crônica."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 27 \nUma paciente de 43 anos de idade relata perda de peso, febre, cansaço, falta de ar, petéquias e \nsangramentos sem causa aparente. Durante a realização dos exames laboratoriais, o hemograma \napresentou anemia normocítica e normocrômica, trombocitopenia e leucocitose as custas de blastos. \nA análise microscópica revelou blastos de tamanho grande com moderada relação núcleo/citoplasma, \ncromatina frouxa com nucléolos visíveis, citoplasma com moderada basofilia com granulações finas e \nbastonetes de Auer. Com suspeita de quadro leucêmico, foi solicitada urgência na internação hospitalar \nda paciente e foi requerido um mielograma, o qual mostrou 45% de blastos. A imunofenotipagem dos \nblastos revelou positividade para os marcadores CD13, CD117 e CD33 e o exame citogenético revelou \ntranslocação t(8;21)(q22;q22).\nCom base nas informações apresentadas, assinale a opção que apresenta corretamente a patologia \ncorrespondente ao quadro dessa paciente.\nA Mieloma múltiplo.\nB Leucemia linfoide aguda.\nC Leucemia mieloide aguda.\nD Leucemia linfoide crônica.\nE Leucemia mieloide crônica.\n*R03202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Biomedicina",
     "observacao": null
@@ -527,6 +743,14 @@
       "D": "II e III.",
       "E": "III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 28 \nO hemograma é o principal exame realizado na área de hematologia. Ele é um coadjuvante \nindispensável no diagnóstico e no acompanhamento das anemias, das leucemias, das doenças \ninfecciosas e crônicas em geral, das emergências médicas e da quimioterapia.\nSobre o hemograma, considerando possíveis alterações hematológicas, avalie as afirmações a seguir.\nI. O leucograma é composto pelo número total de leucócitos e de cada célula leucocitária presente \nno sangue, entre elas os neutrófilos, os eosinófilos, os basófilos, os eritroblastos, os linfócitos \ne os monócitos.\nII. O eritrograma, que avalia alterações eritrocitárias quantitativas no sangue, é composto pelo \nnúmero de hemácias, de hemoglobina e de hematócrito e pelos índices hematimétricos VCM, \nHCM, CHCM e RDW, que podem evidenciar alterações eritrocitárias como microcitose ou \nmacrocitose (VCM), hipocromia (CHCM) e anisocitose (RDW).\nIII. As alterações qualitativas dos eritrócitos podem ser visualizadas no esfregaço sanguíneo e \nincluem formas anormais, como hemácias em alvo, eliptócito, esferócitos, drepanócitos, \ndacriócitos e inclusões eritrocitárias, como anel de Cabot e corpúsculos de Howell-Jolly.\nIV. O plaquetograma é composto pelo número total de plaquetas e pode apresentar \nalterações quantitativas, como macroplaquetas e plaquetas gigantes, que podem expressar \ntrombocitopenia e trombocitose, ou alterações qualitativas, como satelitismo plaquetário e \nagregados plaquetários, que podem conduzir a valores falsamente elevados das plaquetas.\nÉ correto apenas o que se afirma em\nA I.\nB IV.\nC I e II.\nD II e III.\nE III e IV.\n*R03202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 31",
     "observacao": null
@@ -546,6 +770,14 @@
       "D": "II e IV.",
       "E": "III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 29 \nO gráfico a seguir apresenta as taxas de detecção de sífilis adquirida (por 100 000 habitantes), de detecção \nde sífilis em gestantes e de incidência de sífilis congênita (por 1 000 nascidos vivos) no Brasil, entre os anos \nde 2011 e 2021.\n3,3 4,0 4,8 5,5 6,6 7,5 8,7 9,1 8,9 8,5 9,9\n90,0\n80,0\n70,0\n60,0\n50,0\n40,0\n30,0\n20,0\n10,0\n0,0\nTaxa\n2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021\n9,3\n4,7\n14,1\n5,7\n19,7\n7,2\n25,1\n8,9\n34,2\n10,9\n44,6\n13,4\n59,4\n17,0\n76,6\n21,5\n77,8\n22,7\n59,1\n24,1 27,1\n78,5\nAno do diagnós�co\nAdquirida Gestantes Congênita\nBRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico de Sífilis, \nBrasília, Número Especial, Ano 6, n. 1, out. 2022 (adaptado).\nA partir das informações apresentadas, avalie as afirmações a seguir.\nI. A sífilis é considerada uma infecção sexualmente transmissível (IST) causada pela bactéria \nTreponema pallidum.\nII. De 2017 a 2021, a prevalência de sífilis adquirida foi menor em 2017 e maior em 2019.\nIII. De 2015 a 2019, a média móvel de sífilis adquirida aumentou e, nesse período, a maior \nincidência de sífilis congênita foi em 2018.\nIV. O teste VDRL (Venereal Disease Laboratory) é utilizado para realizar diagnóstico laboratorial da \nsífilis, apresentando ausência de floculação em caso de diagnóstico positivo da doença.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC I e III.\nD II e IV.\nE III e IV.\n*R03202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -556,7 +788,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Um paciente de 45 anos de idade, que está internado devido a um trauma de médio porte, precisa de uma transfusão de concentrado de hemácias. Antes da transfusão, é necessário que seja realizada tipagem sanguínea tanto do paciente receptor quanto do concentrado de hemácias a ser transfundido (fornecido pelo provável doador). Observe, a seguir, os resultados da tipagem sanguínea do paciente receptor e do provável doador.\nConsiderando os resultados apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. O concentrado de hemácias do provável doador pode ser transfundido para o paciente receptor. PORQUE II. O provável doador possui tipo sanguíneo A+ (positivo) e o paciente receptor possui tipo sanguíneo O- (negativo). A respeito dessas asserções, assinale a opção correta.",
     "alternativas": {
       "A": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da\nI.",
@@ -565,6 +797,14 @@
       "D": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "E": "As asserções I e II são proposições falsas."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 30 \nUm paciente de 45 anos de idade, que está internado devido a um trauma de médio porte, precisa \nde uma transfusão de concentrado de hemácias. Antes da transfusão, é necessário que seja realizada \ntipagem sanguínea tanto do paciente receptor quanto do concentrado de hemácias a ser transfundido \n(fornecido pelo provável doador). Observe, a seguir, os resultados da tipagem sanguínea do paciente \nreceptor e do provável doador.\nConsiderando os resultados apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. O concentrado de hemácias do provável doador pode ser transfundido para o paciente receptor.\nPORQUE\nII. O provável doador possui tipo sanguíneo A+ (positivo) e o paciente receptor possui tipo \nsanguíneo O- (negativo).\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R03202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 33",
     "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
@@ -584,6 +824,14 @@
       "D": "I, III e IV.",
       "E": "II, III e IV. 1 2 3 4 5 6 7 8 9 10\n-3DP\n-2DP\n-1DP\n+1DP\n+2DP\n+3DP\nX\nNúmeros de Ensaios"
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 31 \nUm laboratório de análises clínicas, durante os procedimentos internos de controle de qualidade, \nproduziu o seguinte gráfico de Levey-Jennings, dosando glicose na mesma amostra-controle em vários \nensaios diferentes.\nCom base no gráfico apresentado e nas regras de Westgard, avalie as afirmações a seguir.\nI. A regra 22S foi violada, considerando os ensaios 2 e 3.\nII. Nos ensaios 5 e 6, nenhuma regra foi violada.\nIII. A regra R4S foi violada, considerando os ensaios de 7 a 10.\nIV. Os ensaios de 7 a 10 mostram que o aparelho está impreciso e isso é um erro do tipo sistemático.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n1 2 3 4 5 6 7 8 9 10\n-3DP\n-2DP\n-1DP\n+1DP\n+2DP\n+3DP\nX\nNúmeros de Ensaios\n*R03202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -603,6 +851,14 @@
       "D": "As curvas azul e preta indicam que, após administrações repetidas da droga, ela é metabolizada mais rapidamente, diminuindo, assim, os níveis plasmáticos e levando à necessidade de maior dose da droga para produzir a mesma resposta, sendo esse evento classificado como mecanismo de tolerância.",
       "E": "Os mecanismos metabólicos demonstrados no gráfico ocorrem, habitualmente, no tecido renal, com a droga em questão sendo metabolizada após filtração glomerular por enzimas microssomais renais; por isso, após administrações repetidas, o metabolismo é tão acelerado e os níveis plasmáticos consideravelmente reduzidos."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 32 \nO uso indevido, o abuso e a dependência de drogas tornaram-se um grande problema de saúde pública \nno Brasil e no mundo. Para compreender os efeitos sobre os riscos do abuso das drogas, é importante \nter conhecimento acerca dos mecanismos farmacocinéticos das drogas no organismo. O gráfico a seguir \ndemonstra duas respostas metabólicas à exposição a uma droga psicotrópica, sendo a curva preta \nreferente à administração inicial da droga e a curva azul referente ao período após administrações \nrepetidas da droga.\nConcentração plasmática da droga\nMetabolismo\nnormal\nMetabolismo\nacelerado\nTempo\nSWIFT, R. M.; LEWIS, D. C. Farmacologia da dependência e abuso de drogas. In: GOLAN, D. E. et al. \nPrincípios de farmacologia: a base fisiopatológica da farmacoterapia. 2.ed. \nGuanabara Koogan, 2009 (adaptado).\nCom base nas informações apresentadas e na análise do gráfico, assinale a opção correta.\nA A droga pode causar tolerância por diversos mecanismos e a curva azul demonstra um mecanismo \nde tolerância adquirida, classificada como tolerância farmacodinâmica.\nB A droga demonstrada no gráfico é o álcool, pois, por ser uma droga legalizada e socialmente aceita, \ngrande parte dos indivíduos já foi exposta a ela ao longo da vida, o que induz ao metabolismo mais \nrápido, o qual está indicado na curva azul.\nC O desenvolvimento dos mecanismos de tolerância, ao contrário de outros mecanismos \ndesenvolvidos pelo uso abusivo de drogas, não é multifatorial, sendo causado pela expressão de \ngenes específicos que determinam o metabolismo e consequente excreção da droga.\nD As curvas azul e preta indicam que, após administrações repetidas da droga, ela é metabolizada mais \nrapidamente, diminuindo, assim, os níveis plasmáticos e levando à necessidade de maior dose da \ndroga para produzir a mesma resposta, sendo esse evento classificado como mecanismo de tolerância.\nE Os mecanismos metabólicos demonstrados no gráfico ocorrem, habitualmente, no tecido renal, com \na droga em questão sendo metabolizada após filtração glomerular por enzimas microssomais renais; \npor isso, após administrações repetidas, o metabolismo é tão acelerado e os níveis plasmáticos \nconsideravelmente reduzidos.\n*R03202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 35",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -613,7 +869,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "O câncer de colo uterino pode ser evitado por meio do diagnóstico precoce e do tratamento de suas lesões precursoras. Para esse fim, a citopatologia esfoliativa cervical corada, feita pelo método de Papanicolau, é o instrumento ideal a ser utilizado, considerando sua alta sensibilidade, sua simplicidade e seu baixo custo. No momento da coleta do material, é necessário distinguir as regiões do colo uterino das quais se deve obter as células para análise. Após a identificação das áreas, acontece a coleta, seguida da distensão do material coletado sobre a lâmina, podendo ser uma ou duas lâminas, conforme padronização do serviço. A coleta é realizada de duas regiões específicas e, caso a amostra apresente alguma alteração, deve haver a confirmação por meio da análise histoquímica do material obtido por biópsia. Nas figuras 1 e 2 a seguir estão representadas as regiões da endocérvice, da ectocérvice e do canal endocervical por meio de uma representação gráfica das células que formam essas regiões e de um corte histológico, sendo que, em ambas as imagens, também é possível observar a zona de transição do epitélio uterino.\nARCURI, R. A. et al. Controle interno da qualidade em citopatologia ginecológica: um estudo de 48.355 casos. Rio de Janeiro: J. Bras. Patol. Med. Lab., v. 38, n. 2, p. 41-147, 2002 (adaptado).\nNesse contexto, ao utilizar a citopatologia esfoliativa cervical corada pelo método de Papanicolau, o procedimento de coleta deve ser iniciado com as células da região da",
     "alternativas": {
       "A": "endocérvice, a qual é recoberta por um epitélio colunar, também denominado de epitélio glandular.",
@@ -622,6 +878,14 @@
       "D": "ectocérvice, a qual é formada por uma monocamada de células recoberta por um epitélio escamoso estratificado não queratinizado.",
       "E": "endocérvice, a qual recobre uma extensão variável da ectocérvice, conforme a idade, estado reprodutivo e hormonal da mulher."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 33 \nO câncer de colo uterino pode ser evitado por meio do diagnóstico precoce e do tratamento de suas \nlesões precursoras. Para esse fim, a citopatologia esfoliativa cervical corada, feita pelo método de \nPapanicolau, é o instrumento ideal a ser utilizado, considerando sua alta sensibilidade, sua simplicidade \ne seu baixo custo. No momento da coleta do material, é necessário distinguir as regiões do colo uterino \ndas quais se deve obter as células para análise. Após a identificação das áreas, acontece a coleta, \nseguida da distensão do material coletado sobre a lâmina, podendo ser uma ou duas lâminas, conforme \npadronização do serviço. A coleta é realizada de duas regiões específicas e, caso a amostra apresente \nalguma alteração, deve haver a confirmação por meio da análise histoquímica do material obtido por \nbiópsia. Nas figuras 1 e 2 a seguir estão representadas as regiões da endocérvice, da ectocérvice e do \ncanal endocervical por meio de uma representação gráfica das células que formam essas regiões e de um \ncorte histológico, sendo que, em ambas as imagens, também é possível observar a zona de transição do \nepitélio uterino.\nARCURI, R. A. et al. Controle interno da qualidade em citopatologia ginecológica: um estudo de 48.355 casos. \nRio de Janeiro: J. Bras. Patol. Med. Lab., v. 38, n. 2, p. 41-147, 2002 (adaptado).\nNesse contexto, ao utilizar a citopatologia esfoliativa cervical corada pelo método de Papanicolau, \no procedimento de coleta deve ser iniciado com as células da região da\nA endocérvice, a qual é recoberta por um epitélio colunar, também denominado de epitélio glandular.\nB ectocérvice, a qual é formada por camadas de células denominadas basais, parabasais, \nintermediárias e superficiais.\nC junção escamo-colunar, presente no canal endocervical, a qual apresenta diferença de altura do \nepitélio escamoso e colunar.\nD ectocérvice, a qual é formada por uma monocamada de células recoberta por um epitélio escamoso \nestratificado não queratinizado.\nE endocérvice, a qual recobre uma extensão variável da ectocérvice, conforme a idade, estado \nreprodutivo e hormonal da mulher.\n*R03202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36 Biomedicina",
     "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
@@ -632,7 +896,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Um biomédico recebe, no laboratório, amostras de fezes para a realização de um exame parasitológico. Ele processa o material utilizando o método de Hoffman, Pons e Janer ou Lutz, seguindo todos os padrões de qualidade. Após 2 horas, o biomédico retira uma pequena porção de sedimento formado e o transfere para uma lâmina. Em seguida, ele adiciona uma gota de lugol à fração do sedimento e o recobre com uma lamínula. Na avaliação microscópica da lâmina, o biomédico visualiza as estruturas a seguir. Considerando essas informações, é correto afirmar que, na amostra examinada, foram visualizados, respectivamente,",
     "alternativas": {
       "A": "ovo de Taenia sp., cisto de Entamoeba coli e larva de Ascaris lumbricoides.",
@@ -641,6 +905,14 @@
       "D": "ovo de Ascaris lumbricoides, cisto de Entamoeba coli e larva de Strongyloides stercoralis.",
       "E": "ovo de Enterobius vermiculares, cisto de Entamoeba coli e larva de Strongyloides stercoralis."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 34 \nUm biomédico recebe, no laboratório, amostras de fezes para a realização de um exame parasitológico. \nEle processa o material utilizando o método de Hoffman, Pons e Janer ou Lutz, seguindo todos os \npadrões de qualidade. Após 2 horas, o biomédico retira uma pequena porção de sedimento formado e o \ntransfere para uma lâmina. Em seguida, ele adiciona uma gota de lugol à fração do sedimento e o recobre \ncom uma lamínula. Na avaliação microscópica da lâmina, o biomédico visualiza as estruturas a seguir.\nDisponível em: <https://laces.icb.ufg.br/p/43037-atlas-de-parasitologia>. Acesso em: 23 jul. 2023 (adaptado).\nConsiderando essas informações, é correto afirmar que, na amostra examinada, foram visualizados, \nrespectivamente,\nA ovo de Taenia sp., cisto de Entamoeba coli e larva de Ascaris lumbricoides.\nB ovo de Ancilostomideos, cisto de Endolimax nana e larva de Ascaris lumbricoides.\nC ovo de Trichuris trichiura, cisto de Endolimax nana e larva de Ascaris lumbricoides.\nD ovo de Ascaris lumbricoides, cisto de Entamoeba coli e larva de Strongyloides stercoralis.\nE ovo de Enterobius vermiculares, cisto de Entamoeba coli e larva de Strongyloides stercoralis.\n*R03202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 37",
     "observacao": "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
@@ -651,7 +923,7 @@
     "status": "fora_escopo",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "Uma mulher de 45 anos de idade procurou o serviço de urgência apresentando fraqueza, dor no hipocôndrio direito e icterícia. Foram solicitados exames laboratoriais, os quais apresentaram os seguintes resultados:\nANALITO RESULTADO VALOR DE REFERÊNCIA\nAspartato aminotransferase (AST/TGO) 98 U/L até 35 U/L\nAlanina aminotransferase (ALT/TGP) 143 U/L até 35 U/L\nBilirrubina total 3,1 mg/dL entre 0,3 a 1,0 mg/dL\nBilirrubina indireta 2,8 mg/dL entre 0,2 a 0,7 mg/dL\nGama-glutamiltransferase 25 U/L até 30 U/L\nFosfatase alcalina 51 U/L de 25 a 100 U/L\nProteínas séricas 6,8 g/dL de 6,0 a 8,0 g/dL\nAtividade de protrombina 98 % de 80 a 100 %\nAnti-HAV (IgM) Não reagente Não reagente\nHBsAg Não reagente Não reagente\nAnti-HBc (IgG) Reagente Não reagente\nAnti-HCV Reagente Não reagente\nConsiderando que, diante desses resultados, é necessário realizar pesquisa de marcadores sorológicos adicionais para confirmar a suspeita de hepatite aguda, assinale a opção que apresenta corretamente os marcadores que devem ser pesquisados.",
     "alternativas": {
       "A": "Anti-HBs para verificar a imunidade para a hepatite B; e HCV-RNA qualitativo para confirmar a infecção pelo vírus da hepatite C.",
@@ -660,6 +932,14 @@
       "D": "Anti-HBe para confirmar a infecção aguda pelo vírus da hepatite B; e HCV-RNA qualitativo para confirmar a infecção pelo vírus da hepatite C.",
       "E": "HBeAg e Anti-HBc (IgM) para verificar a imunidade para a hepatite B; e HCV-RNA qualitativo para confirmar a infecção pelo vírus da hepatite C."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 35 \nUma mulher de 45 anos de idade procurou o serviço de urgência apresentando fraqueza, dor no \nhipocôndrio direito e icterícia. Foram solicitados exames laboratoriais, os quais apresentaram os \nseguintes resultados:\nANALITO RESULTADO VALOR DE REFERÊNCIA\nAspartato aminotransferase (AST/TGO) 98 U/L até 35 U/L\nAlanina aminotransferase (ALT/TGP) 143 U/L até 35 U/L\nBilirrubina total 3,1 mg/dL entre 0,3 a 1,0 mg/dL\nBilirrubina indireta 2,8 mg/dL entre 0,2 a 0,7 mg/dL\nGama-glutamiltransferase 25 U/L até 30 U/L\nFosfatase alcalina 51 U/L de 25 a 100 U/L\nProteínas séricas 6,8 g/dL de 6,0 a 8,0 g/dL\nAtividade de protrombina 98 % de 80 a 100 %\nAnti-HAV (IgM) Não reagente Não reagente\nHBsAg Não reagente Não reagente\nAnti-HBc (IgG) Reagente Não reagente\nAnti-HCV Reagente Não reagente\nConsiderando que, diante desses resultados, é necessário realizar pesquisa de marcadores sorológicos \nadicionais para confirmar a suspeita de hepatite aguda, assinale a opção que apresenta corretamente os \nmarcadores que devem ser pesquisados.\nA Anti-HBs para verificar a imunidade para a hepatite B; e HCV-RNA qualitativo para confirmar a \ninfecção pelo vírus da hepatite C.\nB Anti-HBs para verificar a imunidade para a hepatite B; e Anti-HAV (IgG) para confirmar a infecção \naguda pelo vírus da hepatite A.\nC Anti-HBc (IgM) para verificar a imunidade para a hepatite B; e Anti-HAV (IgG) para confirmar a \ninfecção aguda pelo vírus da hepatite A.\nD Anti-HBe para confirmar a infecção aguda pelo vírus da hepatite B; e HCV-RNA qualitativo para \nconfirmar a infecção pelo vírus da hepatite C.\nE HBeAg e Anti-HBc (IgM) para verificar a imunidade para a hepatite B; e HCV-RNA qualitativo para \nconfirmar a infecção pelo vírus da hepatite C.\n*R03202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38 Biomedicina",
     "observacao": "QUESTAO DEPENDE DE ELEMENTO VISUAL"
@@ -670,7 +950,7 @@
     "status": "completa",
     "confianca": "alta",
     "score_bloco": 130,
-    "parse_strategy": "sequencia_abcde_global",
+    "parse_strategy": "sequencia_alternativas_global",
     "enunciado": "As principais causas da doença renal crônica (DRC) são o Diabetes mellitus e a hipertensão. Com a progressão da doença renal, a perda das diversas funções do rim, que são importantes para a homeostase do organismo, leva a sintomas como cansaço, anemia, erupção cutânea, urticaria, entre outros.\nCom base no texto apresentado, é correto afirmar que a anemia na DRC pode ser causada pela.",
     "alternativas": {
       "A": "perda da proteína hemoglobina na urina, que gera proteinúria.",
@@ -679,6 +959,14 @@
       "D": "diminuição na produção de eritropoetina pelo rim, que leva à diminuição na produção de hemácias.",
       "E": "acumulação de produtos de excreção como ureia e creatinina, que leva à diminuição na produção de hemácias."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 36 \nAs principais causas da doença renal crônica (DRC) são o Diabetes mellitus e a hipertensão. Com a \nprogressão da doença renal, a perda das diversas funções do rim, que são importantes para a homeostase \ndo organismo, leva a sintomas como cansaço, anemia, erupção cutânea, urticaria, entre outros.\nCom base no texto apresentado, é correto afirmar que a anemia na DRC pode ser causada pela.\nA perda da proteína hemoglobina na urina, que gera proteinúria.\nB acumulação de toxinas urêmicas em decorrência da perda de função renal.\nC acumulação de líquido corporal decorrente da diminuição na produção de urina.\nD diminuição na produção de eritropoetina pelo rim, que leva à diminuição na produção de hemácias.\nE acumulação de produtos de excreção como ureia e creatinina, que leva à diminuição na produção \nde hemácias.",
     "observacao": null
@@ -698,6 +986,14 @@
       "D": "I, II e III.",
       "E": "I, II e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 37 \nO diagnóstico da tuberculose é realizado de acordo com a recomendação contida no Manual de \nRecomendações para o Controle da Tuberculose no Brasil, sendo subdividido em diagnóstico clínico, \ndiferencial, bacteriológico, histopatológico, por imagem e por outros testes. O diagnóstico laboratorial \nda tuberculose é fundamental tanto para a detecção de casos novos quanto para o controle \nde tratamento.\nDisponível em: <https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/t/tuberculose>. \nAcesso em: 20 jun. 2023 (adaptado).\nCom base no diagnóstico de tuberculose e na resistência de Mycobacterium tuberculosis aos \nantimicrobianos, avalie as afirmações a seguir.\nI. A pesquisa de bacilos álcool-ácido resistentes (BAAR) consiste em um teste laboratorial \nempregado no diagnóstico de M. tuberculosis.\nII. A detecção molecular de mutações no gene rpoB do M. tuberculosis indica resistência às \npenicilinas.\nIII. A cultura de M. tuberculosis utiliza um método de detecção realizado em meio de cultura \nágar sangue.\nIV. O teste rápido molecular para tuberculose (TRM-TB) é um teste baseado na reação em cadeia mediada \npela polimerase (PCR) em tempo real, que amplifica os ácidos nucleicos utilizados na detecção tanto do \ncomplexo M. tuberculosis, quanto dos genes que podem conferir resistência à rifampicina.\nÉ correto apenas o que se afirma em\nA I e IV.\nB II e III.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*R03202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nBiomedicina 39",
     "observacao": null
@@ -717,6 +1013,14 @@
       "D": "I, III e IV.",
       "E": "II, III e IV."
     },
+    "alternativas_esperadas": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "trecho_pos_alternativas": "",
     "alternativas_completas": true,
     "texto_bruto": "QUESTÃO 38 \nA análise proteica faz parte da prática profissional rotineira de um biomédico. Entre as técnicas \nempregadas na detecção de proteínas estão as técnicas ELISA e Western Blot.\nAcerca dessas técnicas, avalie as afirmações a seguir.\nI. As técnicas ELISA e Western Blot são baseadas na interação e quantificação entre antígenos e \nanticorpos.\nII. As proteínas detectadas pela técnica Western Blot são, inicialmente, separadas por meio de \nmigração em um gel de poliacrilamida.\nIII. A proteína a ser detectada pela técnica de Western Blot pode estar em sua estrutura terciária ou \nquaternária.\nIV. O ensaio de ELISA faz uso de radioisótopos, o que deixa o método de detecção mais sensível.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*R03202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA",
     "observacao": null

@@ -120,6 +120,7 @@ PADROES_FORA_ESCOPO_FORTES = [
     "fotografia",
     "ilustracao",
     "esquema",
+    "fluxograma",
     "diagrama",
     "desenho",
     "quadro",
@@ -278,6 +279,39 @@ PADROES_FORA_ESCOPO_DEPENDENCIA.extend([
     "portas logicas originais",
 ])
 
+NOMES_CURSOS_RODAPE = [
+    r"Agronomia",
+    r"Arquitetura e Urbanismo",
+    r"Biomedicina",
+    r"Enfermagem",
+    r"Engenharia Ambiental",
+    r"Engenharia Civil",
+    r"Engenharia de Alimentos",
+    r"Engenharia da Computa\S+",
+    r"Engenharia de Controle e Automa\S+o",
+    r"Engenharia de Produ\S+o",
+    r"Engenharia El\S+trica",
+    r"Engenharia Florestal",
+    r"Engenharia Mec\S+nica",
+    r"Engenharia Qu\S+mica",
+    r"Farm\S+cia",
+    r"Fisioterapia",
+    r"Fonoaudiologia",
+    r"Medicina",
+    r"Medicina Veterin\S+ria",
+    r"Nutri\S+o",
+    r"Odontologia",
+    r"Tecnologia em Agroneg\S+cio",
+    r"Tecnologia em Est\S+tica e Cosm\S+tica",
+    r"Tecnologia em Gest\S+o Ambiental",
+    r"Tecnologia em Gest\S+o Hospitalar",
+    r"Tecnologia em Radiologia",
+    r"Tecnologia em Seguran\S+a do Trabalho",
+    r"Zootecnia",
+]
+
+CURSOS_RODAPE_RE = r"(?:" + "|".join(NOMES_CURSOS_RODAPE) + r")"
+
 def _normalizar_basico(texto: str) -> str:
     texto = texto.replace("\r", "\n").replace("\xa0", " ")
     texto = texto.replace("\ufffd", "")
@@ -353,9 +387,16 @@ def _remover_rodapes_cabecalhos(texto: str) -> str:
         if re.fullmatch(r"\*?\s*\d+\s*\*?\s*LOGO(?:\s+MAT[ÉE]RIA)?(?:\s+\d+)?", l, flags=re.IGNORECASE):
             continue
 
+        if re.fullmatch(
+            rf"\*?\s*(?:\d+\s+)?{CURSOS_RODAPE_RE}(?:\s+\d+)?(?:\s+MAT[ÉE]RIA)?",
+            l,
+            flags=re.IGNORECASE
+        ):
+            continue
+
         if re.fullmatch(r"\*?\s*\d+\s*[A-Za-zÀ-ÿ_ ]*", l):
             # pega sobras como "4 Agronomia"
-            if "Agronomia" in l or len(l.split()) <= 2:
+            if re.search(CURSOS_RODAPE_RE, l, flags=re.IGNORECASE) or len(l.split()) <= 2:
                 continue
 
         linhas_ok.append(linha)
@@ -379,6 +420,10 @@ def _remover_rodape_inline(texto: str) -> str:
         r"\b\d+\s+Engenharia Ambiental\b",
         r"\bEngenharia Ambiental\s+\d+\b",
     ]
+    for nome_curso in NOMES_CURSOS_RODAPE:
+        padroes.append(rf"(?m)(?:^|\s)\d+\s+{nome_curso}(?=\s*$)")
+        padroes.append(rf"(?m)(?:^|\s){nome_curso}\s+\d+(?=\s*$)")
+
     for padrao in padroes:
         texto = re.sub(padrao, " ", texto, flags=re.IGNORECASE)
     return texto
@@ -426,6 +471,16 @@ def _remover_blocos_visuais(texto: str) -> str:
         texto
     )
     texto = re.sub(r"(?im)^\s*acesso em:\s.*$", " ", texto)
+    texto = re.sub(
+        r"(?is)\bdispon[ií]vel em:\s*(?:acesso(?:\s+em)?\s*:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\.?\s*\d{4}\s*)?(?:\([^)]*\)\.?)?\s*(?=(?:TEXTO\s+\d+|Considerando|Com rela[cç][aã]o|Acerca|A partir|Avalie|Assinale)\b)",
+        " ",
+        texto
+    )
+    texto = re.sub(
+        r"(?is)\bacesso(?:\s+em)?\s*:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\.?\s*\d{4}\s*(?:\([^)]*\)\.?)?\s*(?=(?:TEXTO\s+\d+|Considerando|Com rela[cç][aã]o|Acerca|A partir|Avalie|Assinale)\b)",
+        " ",
+        texto
+    )
 
     fim = (
         r"considerando\b|com base\b|a partir\b|avalie\b|assinale\b|"
@@ -511,6 +566,12 @@ def limpar_texto_exibicao(texto: str) -> str:
     texto = _aplicar_substituicoes_fixas(texto)
     texto = _remover_secoes_pos_prova(texto)
     texto = _formatar_blocos_logicos(texto)
+    texto = re.sub(r"(?i)\bdispon.{0,3}vel em:\s*(?:\([^)]*\)\.?)?", " ", texto)
+    texto = re.sub(
+        r"(?i)\bacesso(?:\s+em)?\s*:?\s*\d{1,2}(?:\s+de)?\s+[a-zç.]+\.?\s*\d{4}\s*(?:\([^)]*\)\.?)?",
+        " ",
+        texto
+    )
 
     texto = re.sub(r"\s+([,.;:!?])", r"\1", texto)
     texto = re.sub(r"([(\[]) +", r"\1", texto)
@@ -575,6 +636,45 @@ def eh_fora_escopo_visual(bloco_bruto: str) -> bool:
             or "para i de 1 ate" in t
         )
     ):
+        return True
+
+    if (
+        "comportamento dinamico do nivel" in t
+        and "tempo (s)" in t
+        and "nivel do tanque" in t
+    ):
+        return True
+
+    if (
+        "modelo do reator" in t
+        and "lei da conservacao da massa" in t
+        and "lei de fick" in t
+    ):
+        return True
+
+    if "infografico a seguir" in t or "informacoes do infografico" in t:
+        return True
+
+    if "mapas a seguir" in t or "interpretacao dos mapas" in t:
+        return True
+
+    if (
+        "esquema a seguir representa" in t
+        or "esquema a seguir mostra" in t
+        or "esquema apresentado a seguir" in t
+        or "fluxograma a seguir representa" in t
+        or "referencia da figura" in t
+        or "apresentado na figura" in t
+    ):
+        return True
+
+    if "folha como a representada a seguir" in t:
+        return True
+
+    if "vetores de tamanho dinamico" in t and "qq(" in t:
+        return True
+
+    if "torre de absorcao reativa" in t and "balanco de massa" in t and "d c" in t and "kcn" in t:
         return True
 
     tabela_extraida_sem_rotulo = [

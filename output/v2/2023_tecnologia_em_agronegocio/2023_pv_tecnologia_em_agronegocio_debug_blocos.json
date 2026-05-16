@@ -1,0 +1,974 @@
+{
+  "1": [
+    {
+      "numero": 1,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2149,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**r2320233*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n4 Tecnologia em Agronegócio\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 1,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 210,
+      "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
+    },
+    {
+      "numero": 1,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 4333,
+      "texto": "QUESTÃO 01 \n A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com \nelevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem \nmulti dimensional, que possibilite a interação entre as dimensões sociais, culturais, políti cas, econômicas \ne ambientais envolvidas na produção e na distribuição de alimentos.\nFoto: Unicef/Sayed Bidel. Impacto dos confl itos sobre \npessoas mais vulneráveis.\nFoto: FAO/Anatolii Stepanov. Colheita de trigo perto \nda vila de Krasne, na Ucrânia.\n \n Foto: Unicef/Safi dy Andriananten. Secas em Madagascar colocam o país africano entre aqueles onde há mais fome.\n Disponível em: htt ps://news.un.org/pt/story/2022/05/1788102. Acesso em: 10 jun. 2023.\n Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI. A fome no mundo é um fenômeno biológico e sociológico inevitável.\n PORQUE\nII. A disponibilidade desigual de alimentos, o acirramento de confl itos geopolíti cos, a formação \nde cadeias agrícolas globais e o aumento das catástrofes climáti cas são fatores que impactam a \nsegurança alimentar de um grande número de populações.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas. \n*3**r2320232*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 3\nLOGO\n2 MATÉRIA\nQUESTÃO DISCURSIVA 01 \n Na publicação Síntese de Indicadores Sociais, divulgada pelo Insti tuto Brasileiro de Geografi a \ne Estatí sti ca (IBGE) em 2022, é sistemati zado um conjunto de informações sobre a realidade \nsocial brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspecti va das \ndesigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil \nregistraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% \nda população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os \nmaiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador \nque permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu \nvalor elevado e ati ngiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece \nentre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na \nexpansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades \nterritoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, \nmarcada pela estrati fi cação e segregação socioespacial, que se consolida a exclusão da população \nvulnerabilizada socioeconomicamente.\n Disponível em: htt ps://agenciadenoti cias.ibge.gov.br/agencia-noti cias/2012-agencia-de-noti cias/noti cias/\n35687-em-2021-pobreza-tem-aumento-recorde-e-ati nge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012. \nAcesso em: 9 jun. 2023 (adaptado).\n A parti r das ideias apresentadas no texto, faça o que se pede nos itens a seguir.\na) Explique a relação entre o perfi l da população brasileira ati ngida pelas desigualdades sociais nas \ncidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições \nhabitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam \nação governamental e parti cipação da comunidade. (valor: 5,0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nFORMAÇÃO GERAL\n*2* LOGO\nMATÉRIA 3"
+    }
+  ],
+  "2": [
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1907,
+      "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
+    },
+    {
+      "numero": 2,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 142,
+      "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
+    }
+  ],
+  "3": [
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3061,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**r2320234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 5\nLOGO\n4 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 3057,
+      "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a di� eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**r2320235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Tecnologia em Agronegócio\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 3,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 236,
+      "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
+    }
+  ],
+  "4": [
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2306,
+      "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
+    },
+    {
+      "numero": 4,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 309,
+      "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
+    }
+  ],
+  "5": [
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2542,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**r2320236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 7\nLOGO\n6 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2542,
+      "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**r2320237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Tecnologia em Agronegócio\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 5,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 352,
+      "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
+    }
+  ],
+  "6": [
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2855,
+      "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
+    },
+    {
+      "numero": 6,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 131,
+      "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "7": [
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2023,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**r2320239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Tecnologia em Agronegócio\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2021,
+      "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**r2320238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 9\nLOGO\n8 MATÉRIA"
+    },
+    {
+      "numero": 7,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 199,
+      "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
+    }
+  ],
+  "8": [
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 08 \n Recentemente, a população carcerária feminina do Brasil tornou-se a terceira maior do mundo. \nA situação do encarceramento feminino por tráfi co de drogas e outras situações que circundam \no assunto foi tema de discussão da Secretaria de Políti cas sobre Drogas do Ministério da Justi ça e \nSegurança Pública (Senad/MJSP), em seminário realizado em abril de 2023. O evento contou com \na parti cipação de 23 países. Segundo os dados apresentados pela Senad, a incidência penal sobre \ndrogas no Brasil é uma das principais causas de prisão de mulheres, chegando a 54% dos casos de \nencarceramento, contra 28% dos homens, índice que impacta em aspectos como maternidade e \nprimeira infância.\n Disponível em: htt ps://www.gov.br/mj/pt-br/assuntos/noti cias/senad-discute-situacao-de-mulheres-encarceradas-\nno-contexto-de-drogas-no-brasil. Acesso em: 15 jun. 2023 (adaptado).\n Acerca do tema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A maioria das mulheres envolvidas em ati vidades do tráfi co encontra-se em posições hierarquicamente \ninferiores, sendo classifi cadas como “mulas e aviões”, o que revela a reprodução, no mercado ilegal, \nda divisão sexual do trabalho observada no mercado formal.\n PORQUE\nII. O sistema penal agrava a situação de vulnerabilidade das mulheres encarceradas, seja pela \ninvisibilização com que as trata, seja por meio da violência insti tucional que reproduz a violência \nestrutural das relações sociais patriarcais.\n A respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*10* LOGO\nMATÉRIA 11"
+    },
+    {
+      "numero": 8,
+      "score": 120,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 138,
+      "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
+    }
+  ],
+  "9": [
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1826,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**r23202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 11\nLOGO\n10 MATÉRIA"
+    },
+    {
+      "numero": 9,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1386,
+      "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n*r23202339*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\nMINISTÉRIO DA\nEDUCAÇÃO\n23\n*r23202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
+    },
+    {
+      "numero": 9,
+      "score": 100,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 4252,
+      "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**r23202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Tecnologia em Agronegócio\nQUESTÃO DISCURSIVA 02 \nAté os anos 1960, o Brasil era considerado um país rural. A partir de então, a população urbana não \nparou de crescer, a ponto de isso gerar preocupação com o esvaziamento do campo, que representa \nmais de 40% do território brasileiro, segundo levantamento realizado pelo Instituto Brasileiro de \nGeografia e Estatística (IBGE).\nO processo de industrialização e a mecanização do campo contribuíram para promover o êxodo rural. \nOs jovens foram os primeiros a deixar as fazendas em busca de oportunidades de educação ou emprego, \no que gerou uma lacuna de renovação de recursos humanos na zona rural.\nNo entanto, a tendência está se invertendo, em razão da facilidade de comunicação e da urbanização \ndo meio rural. A pandemia de Covid-19 e o trabalho remoto impulsionaram a migração dos jovens para \nas áreas rurais, e a Internet foi um instrumento fundamental para a inclusão nos processos produtivos \nnesse contexto, propondo-se uma nova dinâmica para o campo.\nTecnologia estimula volta de jovens ao campo. Disponível em: https://summitagro. estadao.com.br/noticias-do-campo/\ntecnologia-estimula-volta-de-jovens-ao-campo/. Acesso em: 14 jun. 2023 (adaptado).\nA partir das informações apresentadas no texto, faça o que se pede nos itens a seguir, considerando \nas políticas públicas de incentivo à permanência do jovem no campo e sua contribuição para o \ndesenvolvimento sustentável no agronegócio.\na) Cite uma linha de crédito do governo federal voltada a incentivar a permanência dos jovens no \ncampo e descreva suas principais características. (valor: 3,0 pontos)\nb) Discorra sobre a importância das novas tecnologias para incentivar o retorno de jovens ao campo e \ncontribuir para a eficiência da sustentabilidade no agronegócio. (valor: 4,0 pontos)\nc) Apresente os principais desafios encontrados pelos jovens em seu retorno ao campo. (valor: 3,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*r23202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 13"
+    }
+  ],
+  "10": [
+    {
+      "numero": 10,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2068,
+      "texto": "QUESTÃO 10 \nA rastreabilidade pode ser definida como o mecanismo que permite identificar a origem do produto \ne seu percurso desde o campo até o consumidor final, no caso de alimentos processados ou \nminimamente processados, que podem ter passado por uma ou mais transformações. Nesse sentido, \num sistema de rastreabilidade é um conjunto de medidas que possibilitam controlar e monitorar \nsistematicamente todas as entradas e saídas nas unidades, sejam elas produtivas, processadoras \nou distribuidoras, a fim de garantir a origem e a qualidade do produto final. Quanto maiores forem \no número e a frequência das informações necessárias, bem como as formas de comprovação destas, \nmelhor será o sistema de rastreabilidade.\nDisponível em: http://www.iea.sp.gov.br/out/. Acesso em: 12 jun. 2023 (adaptado).\nA partir das informações apresentadas, avalie as afirmações a seguir.\nI. A qualidade do sistema de rastreabilidade será melhor quanto maiores forem o número e a \nfrequência das informações necessárias, bem como suas formas de comprovação.\nII. A rastreabilidade pode ser aplicada a qualquer tipo de cadeia produtiva, sendo que, para cada \numa dessas cadeias, haverá critérios específicos para a qualidade final do produto, que pode \nser sanitária, de pureza e orgânica, além de inúmeras outras que o mercado já exige ou pode \npassar a demandar.\nIII. O processo de implantação de rastreabilidade tem início com uma solicitação do produtor à \nentidade responsável.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202313*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n14 Tecnologia em Agronegócio"
+    }
+  ],
+  "11": [
+    {
+      "numero": 11,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1593,
+      "texto": "QUESTÃO 11 \nNo Brasil, a batata é a hortaliça mais importante, com uma produção anual de, aproximadamente, \n3,5 milhões de toneladas em uma área de cerca de 130 mil hectares. De acordo com a Associação \nBrasileira da Batata (ABBA), o agronegócio da batata envolve em torno de 5 mil produtores em \n30 regiões de sete estados brasileiros (MG, SP , PR, RS, SC, GO e BA).\nDisponível em: https://www.embrapa.br/hortalicas/batata/como-plantar. Acesso em: 14 jun. 2023 (adaptado).\nCom relação ao tema, suponha que uma fazenda produtora de batatas forneça o produto para uma \nagroindústria local. A tabela a seguir apresenta informações sobre a transação, sendo R$ 100,00 o valor \nde referência para a saca de 25 kg.\nOperações Valor\nPreço de venda R$ 100,00\nImposto sobre as vendas R$ 10,00\nCusto das mercadorias vendidas R$ 30,00\nDespesas variáveis R$ 10,00\nDespesas fixas R$ 20,00 \nConsiderando essa situação, apure a demonstração do resultado (DR) e assinale a opção que indica a \nmargem de contribuição e a margem de lucro médio, respectivamente.\nA 60% e 30%\nB 50% e 30%\nC 40% e 30%\nD 30% e 50%\nE 10% e 30%\n*r23202314*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 15"
+    }
+  ],
+  "12": [
+    {
+      "numero": 12,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2635,
+      "texto": "QUESTÃO 12 \nEm meados de 1990, o Brasil ingressou em uma intensa fase de abertura comercial, o que possibilitou o \nestabelecimento de novas parcerias em todas as áreas da economia. O agronegócio acompanhou essa \ntendência e passou a ocupar uma posição de destaque ainda maior no cenário internacional, em setores \ncomo açúcar, soja, café, suco de laranja, fumo e biocombustíveis. Assim, a pauta da exportação brasileira \naumentou em diversidade de produtos, volumes negociados e mercados de destino; as importações \nacompanharam esse fluxo positivo, e houve mais importações da China e dos EUA. Esse trânsito \nintensificado, decorrente da globalização, evidentemente traria consequências para o aspecto sanitário. \nA disseminação de pragas e doenças passou a ocorrer em velocidade e direções antes inimagináveis, \ncom uma gama de espécies de insetos e ácaros introduzidos acidentalmente. Nesse contexto, o desafio \nque ora se apresenta é o de atuar no mercado global de modo a assegurar a sanidade agropecuária local.\nConsiderando o exposto e o que se refere às possíveis perdas causadas pela introdução de pragas \nexóticas no Brasil, avalie as afirmações a seguir.\nI. A realização de estudos e levantamentos acerca da situação das pragas existentes no Brasil é uma \nestratégia de prevenção que pode ser adotada para auxiliar o País a atuar no mercado global e a \ngarantir sua sanidade agropecuária.\nII. A rápida detecção de eventos de entrada, com uma vigilância efetiva e com condições adequadas \npara ser exercida em fronteiras e nas demais portas de entrada do território brasileiro, \né um instrumento eficiente para evitar a introdução de pragas exóticas no Brasil.\nIII. A adoção de uma postura proativa, que envolva todos os elos do agronegócio de forma sistêmica, \ndeve ser utilizada como procedimento padrão na prevenção de infestação por pragas exóticas.\nIV. A proibição da entrada de produtos que ofereçam risco para a agricultura brasileira é uma \nmedida recomendável, porque contribui para evitar a entrada de pragas exóticas no País.\nÉ correto apenas o que se afirma em\nA IV.\nB I e III.\nC I, II e III.\nD I, II e IV.\nE II, III e IV.\n*r23202315*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n16 Tecnologia em Agronegócio"
+    }
+  ],
+  "13": [
+    {
+      "numero": 13,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1256,
+      "texto": "QUESTÃO 13 \nO setor agropecuário contribui fortemente para o crescimento do produto interno bruto (PIB) do Brasil, \nfato que caracteriza o País como um dos maiores exportadores agrícolas mundiais. Nesse contexto, \numa política sanitária agropecuária atuante e comprometida com a segurança dos alimentos, \ntanto para os consumidores internos quanto para os de países importadores, é parte integrante das \npolíticas públicas e privadas direcionadas ao agronegócio nacional.\nCom relação ao tema tratado no texto, é correto afirmar que o alinhamento das normas nacionais com as \ninternacionais no âmbito do comércio internacional de alimentos busca\nA desenvolver a capacidade de competir, em preço e qualidade, com os alimentos produzidos no exterior e \nfacilitar o comércio internacional.\nB fazer o Brasil ser mais dependente de técnicas produtivas internacionais, no que diz respeito a questões \nprodutivas internas.\nC tornar o Brasil diretamente influente nas decisões econômicas mundiais via Organização Mundial do \nComércio (OMC).\nD categorizar internamente as empresas do agronegócio brasileiro em relação à sua competitividade \ninternacional. \nE diferenciar os padrões produtivos de alto rendimento daqueles direcionados à agricultura familiar nacional."
+    }
+  ],
+  "14": [
+    {
+      "numero": 14,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1236,
+      "texto": "QUESTÃO 14 \nO fluxo de caixa é uma das estratégias de planejamento financeiro na gestão de uma atividade \neconômica, sendo importante em todas as cadeias produtivas do agronegócio.\nA respeito desse tema, avalie as afirmações a seguir.\nI. Os gastos particulares dos gestores devem ser contabilizados de forma conjunta com os gastos \nda empresa, ainda que não façam parte dos custos de produção.\nII. O fluxo de caixa é um instrumento de controle financeiro que permite acompanhar as \nmovimentações financeiras de uma empresa.\nIII. O fluxo de caixa demonstra a relação de entradas e saídas monetárias realizadas em \nperíodos determinados.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202316*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 17"
+    }
+  ],
+  "15": [
+    {
+      "numero": 15,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2115,
+      "texto": "QUESTÃO 15 \nA adoção de sistemas de Integração Lavoura Pecuária Floresta (ILPF) pode trazer melhorias significativas \nno que se refere à sustentabilidade socioeconômica e ambiental das propriedades. Os benefícios \neconômicos trariam aumento da oferta, para determinado preço de mercado, com menores custos \nde produção. Isso seria viável pela maior eficiência no uso de fertilizantes e pela menor demanda por \nagroquímicos, devido à quebra do ciclo de pragas e doenças e de plantas daninhas. Trata-se de uma \npossibilidade plausível de recuperar áreas degradadas.\nDisponível em: https://www.embrapa.br/tema-integracao-lavoura-pecuaria-floresta-ilpf/nota-tecnica. \nAcesso em: 10 jun. 2023 (adaptado).\nA partir das informações apresentadas no texto, avalie as afirmações a seguir.\nI. A ILPF possibilita a produção de grãos, madeira, leite ou carne na mesma área, em plantios \nrotacionados e(ou) consorciados.\nII. A ILPF proporciona melhor aproveitamento na utilização dos insumos de produção e da área, \na exemplo do plantio de pastagens, que, após a safra de grãos, é beneficiado com a adubação \nresidual da safra anterior.\nIII. A ILPF, em razão dos benefícios que pode gerar, é aconselhável para todas as culturas, embora \npossa ocasionar a contaminação dos grãos e da pastagem por erros no processo de rotação.\nIV. A ILPF proporciona melhoria do bem-estar animal e maior conforto térmico, em decorrência \nda sombra das árvores e do microclima formado, o que também pode favorecer um melhor \ndesempenho produtivo dos animais.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*r23202317*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n18 Tecnologia em Agronegócio"
+    }
+  ],
+  "16": [
+    {
+      "numero": 16,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2394,
+      "texto": "QUESTÃO 16 \nDisponível em: https://indicacaogeografica.com.br/canastra/. Acesso em: 14 jun. 2023.\nOs queijos brasileiros artesanais vêm recebendo destaque no mundo todo por sua diversidade de \nmétodos de produção, características e sabores, tendo até mesmo conquistado prêmios em concursos \ninternacionais. Uma das maneiras de certificar a qualidade e agregar valor aos produtores é o registro de \nIndicação Geográfica (IG) pelo Instituto Nacional da Propriedade Industrial (INPI). No Brasil, o INPI divide \nos certificados de IG em duas categorias: Indicação de Procedência (IP) e a Denominação de Origem (DO).\nDisponível em: https://globorural.globo.com/Noticias/Criacao/Leite/noticia/2022/09/ queijos-brasileiros-tem-indicacao-\ngeografica-conheca-produtos-artesanais-com-origem-certificada.html. Acesso em: 14 jun. 2023 (adaptado).\nConsiderando o exposto e o que se refere às características da IG, avalie as afirmações a seguir.\nI. A DO é concedida quando o produto ou serviço possui características ou qualidades que se \ndevam exclusiva ou essencialmente a um meio geográfico, incluídos fatores naturais e humanos.\nII. A IP é concedida quando a extração, a produção ou a fabricação de um produto, ou a \nprestação de serviço, possibilita a agregação de valor por meio da indicação de origem, \nindependentemente de outras características.\nIII. A concessão da IG requer, entre outros critérios, que o local seja visto pela população como \nregião produtora daquele bem ou serviço apontado, com certo padrão de qualidade e \nconformidade e com características especiais instituídas para os produtores.\nIV. A solicitação de denominação de origem exige que os produtores ou prestadores de serviços \ntenham, primeiramente, requerido a IP , pois essas modalidades de proteção obedecem a uma \nhierarquia legal.\nÉ correto apenas o que se afirma em\nA I e III.\nB II e IV.\nC III e IV.\nD I, II e III.\nE I, II e IV.\n*r23202318*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 19"
+    }
+  ],
+  "17": [
+    {
+      "numero": 17,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2112,
+      "texto": "QUESTÃO 17 \nO cooperativismo é um modelo econômico-social \nque gera e distribui riqueza de forma proporcional \nao trabalho de cada associado. Considerado \npela Organização das Nações Unidas (ONU) \n“um modelo de negócios que constrói um mundo \nmelhor”, é uma opção de crescimento econômico \nque caminha junto com o desenvolvimento social, \npautada por valores humanos como solidariedade, \nresponsabilidade, democracia e igualdade.\nA figura a seguir apresenta dados do cooperativismo \nno Brasil.\n13,2\nmilhões\nde associados\n372 mil\nempregos gerados\npelas cooperativas\n24,9%\nda população é ligada\nao movimento cooperativista\n6,2%\nda população é \nassociada a uma cooperativa\nmil\ncooperativas6,7 \nCooperativismo no Brasil\nDisponível em: https://www.sescooprs.coop.br/. \nAcesso em: 14 jun. 2023.\nA partir do texto e da imagem apresentados, \navalie as asserções a seguir e a relação proposta \nentre elas.\nI. O cooperativismo proporciona diversas \nvantagens para produtores rurais, bem como \npara a comunidade local.\nPORQUE\nII. As cooperativas podem estabelecer condições \nde preços mais favoráveis para os produtores \nassociados, o que impacta na renda e no \ndesenvolvimento regional.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, \ne a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, \nmas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a \nII é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r23202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Tecnologia em Agronegócio"
+    }
+  ],
+  "18": [
+    {
+      "numero": 18,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2357,
+      "texto": "QUESTÃO 18 \nO poder dos consumidores de influenciar as decisões da cadeia produtiva agroalimentar deriva de \nmudanças nos seus hábitos de consumo, que, por sua vez, resultam de complexos movimentos \neconômicos, sociais, culturais e políticos. A transformação operada nas relações entre produtores e \nconsumidores tem sido de tal magnitude que não só influi na qualidade e na intensidade da produção \ne dá origem a novos negócios e oportunidades, mas também cria novos desafios produtivos e \norganizacionais para empresas e normativos para os governos.\nDisponível em: https://www.embrapa.br/visao/protagonismo-dos-consumidores. \nAcesso em: 13 ago. 2023 (adaptado). \nO mercado consumidor de alimentos tem mudado de forma significativa. Isso exige constante evolução \ndos profissionais envolvidos com o agronegócio para que aquilo que está sendo produzido esteja \nalinhado com o que está sendo demandado, o que envolve, inclusive, a busca por melhores ações de \nmarketing e vendas.\nConsiderando o exposto, avalie as afirmações a seguir, referentes aos fatores que podem influenciar a \ndemanda dos consumidores.\nI. O nível de urbanização das cidades é um fator capaz de influenciar a demanda do mercado \nconsumidor, estando relacionado com o surgimento de mais opções de produtos e serviços \nagroalimentares adequados às necessidades dos consumidores.\nII. O grau de envelhecimento da população impacta a demanda dos consumidores, visto que, com \no aumento da expectativa de vida, passou-se a exigir produtos alimentares diferenciados que \nproporcionem uma melhor qualidade de vida.\nIII. O grau de escolaridade e a renda familiar são fatores que influenciam as exigências dos \nconsumidores, às quais deve se adaptar o mercado de produtos e serviços alimentares.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 21"
+    }
+  ],
+  "19": [
+    {
+      "numero": 19,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 897,
+      "texto": "QUESTÃO 19 \nA Fazenda Lagoa Santa tem um projeto de implantação de soja em 200 hectares, e a produtividade \npor hectare é de 54 sacas. Os gestores da fazenda precisam elaborar um plano de custo de produção, \na fim de verificar a viabilidade do negócio. A seguir, são listadas informações do mercado, por hectare.\nItens Gastos R$/hectare\nDepreciação de maquinário 77,00\nManutenção periódica 1,00\nSeguro do capital fixo 2,00\nCustos variáveis 2.646,00\nPreço de venda por saca 89,00\nTendo como referência a situação hipotética apresentada e considerando que o ponto de equilíbrio \né obtido por meio da divisão dos gastos fixos pela margem de contribuição unitária, assinale a opção \nque apresenta, respectivamente, a margem de contribuição e o ponto de equilíbrio por hectare.\nA R$ 2 080,00 e 2 sacas.\nB R$ 2 160,00 e 2 sacas.\nC R$ 2 160,00 e 4 sacas.\nD R$ 2 646,00 e 4 sacas.\nE R$ 4 806,00 e 4 sacas."
+    }
+  ],
+  "20": [
+    {
+      "numero": 20,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1961,
+      "texto": "QUESTÃO 20 \nA produção integrada de frutas (PIF) surgiu na década de 1970 no Norte da Itália. À época, produtores \nde maçã constataram que era preciso mudar a forma de produção da cultura, diminuindo o uso de \nagrotóxicos, uma vez que já não fazia mais efeito adotar apenas esse método de controle de pragas, \nem razão dos problemas de resistência causados pelo desequilíbrio no meio ambiente. Daí surgiu a \nnecessidade de adoção de métodos integrados, que incluíssem não somente a utilização de agrotóxicos, \nmas também o emprego de outras formas de controle de pragas, como o controle biológico.\nDisponível em: https://ainfo.cnptia.embrapa.br/digital/bitstream/item/86672/1/a-producao- \nintegrada-de-frutas-como-um-mecanismo.pdf. Acesso em: 9 jun. 2023 (adaptado).\nConsiderando o exposto, avalie as afirmações a seguir, relativas à PIF no contexto brasileiro.\nI. A elevação dos padrões de qualidade e da competitividade das frutas brasileiras é uma das \nfinalidades da PIF. \nII. A PIF tem como objetivo priorizar a sustentabilidade, a aplicação de recursos naturais, a substituição \nde insumos poluentes e a rastreabilidade de produtos envolvidos nesse processo.\nIII. A tecnologia empregada em um pomar, independentemente do tipo de fruta escolhido pelo produtor, \ndeve estar adequada às normas técnicas da PIF, pois se trata de uma certificação compulsória.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202321*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n22 Tecnologia em Agronegócio"
+    }
+  ],
+  "21": [
+    {
+      "numero": 21,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 2292,
+      "texto": "QUESTÃO 21 \nEm relação ao cuidado com o trabalhador, os produtores que contratam mão de obra, mesmo que \ntemporária, em geral o fazem seguindo as normas da Consolidação das Leis do Trabalho (CLT) e, quando os \ntrabalhadores residem na propriedade, esta é oferecida sem custo, incluindo água e energia. Os produtores \nnormalmente também fornecem os equipamentos de proteção individual (EPIs) necessários para a \nexecução das tarefas. Porém, há casos em que as regras de segurança não são seguidas, por uma questão \nde conforto ou facilidade, inclusive no manuseio de defensivos.\nDisponível em: http://r1.ufrrj.br/esa/V2/ojs/index.php/esa/article/view/488/404. Acesso em: 9 jun. 2023 (adaptado).\nConsiderando as informações apresentadas no texto, avalie as asserções a seguir e a relação proposta \nentre elas.\nI. As práticas empresariais sustentáveis na cadeia produtiva do agronegócio devem buscar assegurar a \nsaúde e a segurança dos trabalhadores, bem como a conservação do meio ambiente, por intermédio \nda mitigação e(ou) da eliminação dos danos ambientais em todas as etapas produtivas.\nPORQUE\nII. A saúde e a segurança dos trabalhadores são indissociáveis do direito fundamental ao meio \nambiente equilibrado e envolvem fatores como a correta gestão e o controle adequado do uso \ndos EPIs a eles fornecidos, que impactam diretamente sua qualidade de vida.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r23202322*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 23"
+    }
+  ],
+  "22": [
+    {
+      "numero": 22,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2498,
+      "texto": "QUESTÃO 22 \nO Sistema Campo Limpo é um programa brasileiro de logística reversa de embalagens vazias de \ndefensivos agrícolas, no qual o Instituto Nacional de Processamento de Embalagens Vazias (inpEV) atua \ncomo núcleo de inteligência. O Sistema abrange todas as regiões do País e tem como base o conceito \nde responsabilidade compartilhada: agricultores, indústria fabricante, canais de distribuição e poder \npúblico têm papéis e responsabilidades específicas no fluxo de funcionamento do programa, definidas \npor lei. A capilaridade das ações e a excelência na articulação entre os diferentes agentes da cadeia \nprodutiva agrícola no Sistema fazem do Brasil uma referência mundial na destinação ambientalmente \ncorreta de embalagens vazias de defensivos, com uma média anual de 94% das embalagens plásticas \nprimárias comercializadas. Para sucesso do Sistema e segurança do trabalhador, é fundamental a \npromoção de informações e orientações sobre os procedimentos para descarte das embalagens vazias \nde defensivos agrícolas.\nDisponível em: https://www.inpev.org.br/sistema-campo-limpo/sobre-sistema/. Acesso em: 9 jun. 2023 (adaptado).\nConsiderando o sistema apresentado no texto, avalie as afirmações a seguir.\nI. O agricultor, após a tríplice lavagem, deve armazenar as embalagens vazias com suas respectivas \ntampas, rótulos e caixas em um lugar adequado, separando-as por tipo.\nII. Segundo a legislação pertinente, embalagens rígidas de defensivos agrícolas podem não ser \nsubmetidas a lavagem alguma ou podem passar por um dos dois tipos de lavagem previstos na \nNBR 13.968 da Associação Brasileira de Normas Técnicas (ABNT): tríplice e sob pressão.\nIII. O recebimento das embalagens por unidades de recebimento – central ou posto de coleta – \ndepende do atendimento às normas técnicas específicas, incluindo o licenciamento ambiental, \nconforme o porte e o serviço prestado pela unidade.\nÉ correto o que se afirma em\nA I apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Tecnologia em Agronegócio"
+    }
+  ],
+  "23": [
+    {
+      "numero": 23,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1235,
+      "texto": "QUESTÃO 23 \nPara controlar e satisfazer seu mercado-alvo, as empresas, por meio do planejamento e da implementação, \nutilizam ferramentas como composto mercadológico ou marketing mix. O marketing mix é também \nchamado de 4 Ps, que significam: Produto, Preço, Ponto de Distribuição e Composto Promocional.\nA respeito do marketing aplicado ao agronegócio, avalie as asserções a seguir e a relação proposta entre elas.\nI. As teorias clássicas do marketing, como a prevista no marketing mix , não são aplicáveis ao \nsetor agropecuário.\nPORQUE\nII. O fato de os produtos agropecuários estarem sujeitos a perecibilidade e sazonalidade, \ncaracterísticas relacionadas à oferta, gera instabilidade de preços nas cadeias produtivas, o que \nimpede a formulação de estratégias que propõem a adoção dos 4 Ps.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas."
+    }
+  ],
+  "24": [
+    {
+      "numero": 24,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1981,
+      "texto": "QUESTÃO 24 \nA comercialização de frutas, verduras e legumes enfrenta vários problemas no Brasil. Entre as principais \ndificuldades encontradas, incluem-se a desorganização dos produtores rurais quanto à regularidade de \nentrega de seus produtos, a grande distância entre as áreas produtivas e os mercados consumidores \ne a presença de comerciantes (atacadistas e atravessadores) que atuam como intermediários entre o \nprodutor rural e os mercados consumidores. Normalmente, o produto ofertado tem um curto período \npara a sua comercialização, devido à sua perecibilidade e ao seu baixo valor agregado.\nConsiderando a temática apresentada, avalie as asserções a seguir e a relação proposta entre elas.\nI. O uso de embalagens adequadas para frutas, verduras e legumes, bem como a garantia de \ncondições apropriadas de armazenagem e transporte, aumentam o valor agregado desses produtos.\nPORQUE\nII. Embalagens adequadas prolongam a vida útil pós-colheita, o que aumenta o tempo de \ncomercialização, além de incrementar a atratividade para o consumidor.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r23202324*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 25"
+    }
+  ],
+  "25": [
+    {
+      "numero": 25,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2439,
+      "texto": "QUESTÃO 25 \nA modernização das cadeias produtivas permitiu que o Brasil aumentasse sua produtividade, sem precisar \nutilizar mais terras para isso, além de ter reduzido os custos para o produtor e aumentado a previsibilidade \nda produção. Drones, robôs, telemetria, sensores inteligentes e até mesmo inteligência artificial começaram \na fazer parte da rotina do campo, e novos profissionais passaram a ser extremamente procurados \npor multinacionais, produtores e startups.\nEm grandes fazendas os gestores em agronegócio - profissionais com conhecimento em TI capazes de \nusar a tecnologia para solucionar problemas do campo - já são indispensáveis. No caso de pequenos e \nmédios produtores, contudo, a contratação de serviço esporádica desses profissionais é mais comum, \nem virtude dos custos elevados.\nDisponível em: https://exame.com/carreira/invasao-tecnologica-no-agronegocio-gera-onda-de-empregos- \ndigitais-veja-as-profissoes-mais-em-alta/. Acesso em: 9 jun. 2023 (adaptado).\nA respeito da informatização dos sistemas de produção, avalie as afirmações a seguir.\nI. Os sistemas informatizados proporcionam o gerenciamento do conhecimento adquirido ao longo \ndo tempo, o que contribui para que se obtenham as melhores práticas na produção.\nII. A tecnologia contribui para a elaboração de processos-padrão e para a otimização no processo \nde tomada de decisão do produtor rural.\nIII. A implantação de sistemas informatizados na propriedade permite monitorar as condições \nclimáticas, o que, por sua vez, possibilita reduzir os impactos causados por tais condições no \nmomento do plantio e da colheita e minimizar prejuízos.\nIV. O Ministério da Agricultura, Pecuária e do Abastecimento (MAPA) é responsável pelo \nmonitoramento do desempenho da produção, por meio de indicadores que demonstrem a \neficiência e a eficácia da tecnologia no negócio.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD I, II e III.\nE II, III e IV.\n*r23202325*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n26 Tecnologia em Agronegócio"
+    }
+  ],
+  "26": [
+    {
+      "numero": 26,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1669,
+      "texto": "QUESTÃO 26 \nUma maneira de conhecer a realidade de pequenos produtores é através do Diagnóstico Rural \nParticipativo (DRP), o qual envolve pessoas por meio de ferramentas que permitem diagnosticar e \ndesenvolver produtores, compartilhando experiências e analisando o conhecimento que estes possuem. \nEssa técnica envolve visitas a campo, diálogos e caminhadas, com o intuito de examinar a situação dos \nprodutores e elucidar as possibilidades de melhorar as situações mediante estudos e reflexões.\nVERDEJO, M. E. Diagnóstico rural participativo: guia prático DRP . Brasília: Secretaria da Agricultura Familiar, 2006 (adaptado).\nConsiderando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI. O DRP desenvolve processos de pesquisa a partir das condições e possibilidades dos \nparticipantes, fundamentando-se na ideia de que os participantes devem basear-se em seus \npróprios conceitos para analisar sua situação e avaliar diferentes opções para melhorá-la.\nPORQUE\nII. O principal objetivo do DRP é intervir, o máximo possível, nos problemas locais e propor formas \nde solucioná-los, a partir de um formulário previamente estruturado com uma lista de perguntas \npreviamente formuladas.\nA respeito dessas asserções, assinale a opção correta. \nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas."
+    }
+  ],
+  "27": [
+    {
+      "numero": 27,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1964,
+      "texto": "QUESTÃO 27 \nO sistema agroflorestal (SAF) é o uso da terra em que espécies perenes lenhosas (árvores, arbustos, \npalmeiras e bambus) são intencionalmente utilizadas e manejadas em associação com cultivos agrícolas anuais \ne/ou animais. Nos sistemas agroflorestais, deve-se tentar reproduzir ao máximo a arquitetura e a distribuição \nespacial das formações naturais, para melhor aproveitamento da radiação, da umidade e dos nutrientes.\nConsiderando esse contexto, avalie as asserções a seguir e a relação proposta entre elas.\nI. O sistema agroflorestal permite que o agricultor comercialize maior número de produtos \ndisponíveis em diferentes épocas do ano e ao longo do tempo, a fim de incrementar a renda e de \naproveitar melhor a mão de obra familiar.\nPORQUE\nII. As colheitas são planejadas desde o primeiro ano de implantação do sistema, de forma que \no agricultor as inicie por hortaliças, culturas anuais ou, até mesmo, fruteiras de ciclo curto, \nenquanto aguarda a produção das fruteiras de ciclo longo ou espécies florestais.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*r23202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 27"
+    }
+  ],
+  "28": [
+    {
+      "numero": 28,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1588,
+      "texto": "QUESTÃO 28 \nA certificação pode ser uma alternativa para que os agricultores consigam obter maior rentabilidade \ne sustentabilidade devido à padronização do gerenciamento e à agregação de valor obtida nos produtos \nfinais comercializados. Um modelo de certificação que vem surgindo com bastante força é o do \nfair trade (comércio justo), que trata de aspectos éticos relacionados à comercialização. Em diversos países, \norganizações não governamentais emitem selos de certificação para o comércio justo, o que estabelece um \ncaráter fiscalizador, garantindo a distribuição igualitária de lucros, a transparência nos processos comerciais \ne o monitoramento social das cadeias produtivas.\nDisponível em: https://sistemasdeproducao.cnptia.embrapa.br/FontesHTML/Cafe/ CafeOrganico_2ed/certificacao.htm. \nAcesso em: 7 jun. 2023 (adaptado).\nConsiderando o exposto no texto, avalie as informações a seguir.\nI. O Brasil reconhece, nas práticas de comercialização, os princípios da solidariedade e do comércio \njusto e, por meio de instrumentos de política pública, faz sua promoção.\nII. O consumo de produtos com o selo fair trade garante, de maneira prática, que os consumidores \najudem produtores de países em desenvolvimento.\nIII. O selo Fair Trade é atribuído a um produto quando todos os elos de sua cadeia de produção forem \nauditados, conforme as normas internacionais de certificação do comércio justo, as quais são \ndeterminadas por especialistas em certificação internacional.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III."
+    }
+  ],
+  "29": [
+    {
+      "numero": 29,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1560,
+      "texto": "QUESTÃO 29 \nA opção de compra (call ) é o tipo mais comum. Uma opção de compra concede ao titular o direito \nde comprar um ativo a um preço fixo durante determinado período. Não existe restrição quanto ao \ntipo de ativo. O titular (comprador) de uma opção exercerá o direito de opção se isso for vantajoso \nfinanceiramente. Caso contrário, assumirá o prejuízo relativo à sua compra, isto é, perderá o valor pago \nao vendedor sem ter feito uso de seu direito.\nROSS, S. A. Administração financeira. 10. ed. Porto Alegre: AMGH, 2015 (adaptado).\nDiante desse contexto, suponha que o sócio de uma fábrica de biscoitos, preocupado em garantir o preço \ndo trigo no período da colheita, tenha adquirido uma opção call no mercado de balcão, fechando um \ncontrato de 40 000 sacas de 60 kg, no valor de R$ 30,00 cada, e um valor de prêmio de R$ 0,50 por saca.\nNessa situação, considerando-se uma opção de compra com vencimento americano, o sócio da fábrica \ndeverá exercer a opção quando o preço no mercado físico for de\nA R$ 33,00.\nB R$ 29,50.\nC R$ 27,50.\nD R$ 25,00.\nE R$ 20,00.\n*r23202327*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n28 Tecnologia em Agronegócio"
+    }
+  ],
+  "30": [
+    {
+      "numero": 30,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2368,
+      "texto": "QUESTÃO 30 \nA agricultura é essencial para o ser humano, mas é também um dos setores que mais consomem água \nem todo o mundo. Segundo a Organização das Nações Unidas (ONU), aproximadamente 70% de toda \na água potável disponível no mundo são utilizados para irrigação, enquanto as atividades industriais \nconsomem 20% e o uso doméstico, 10%.\nDe acordo com a ONU, o uso da água tende a crescer a uma taxa duas vezes maior que a taxa do \ncrescimento da população ao longo do último século. Estima-se que o gasto seja elevado em \naté 50% até o ano de 2025 nos países em desenvolvimento e em 18% nos países desenvolvidos. \nNo Brasil, o índice de consumo de água nessa atividade chega a 72%, com uma área irrigável de \naproximadamente 29,6 milhões de hectares.\nDisponível em: http://www.teraambiental.com.br/blog-da-tera-ambiental/bid/320413/irrigacao-responsavel-pelo-consumo-\nde-72-da-agua-no-brasil. Acesso em: 25 ago. 2023 (adaptado).\nCom relação ao uso da água no agronegócio, avalie as afirmações a seguir.\nI. O Brasil é um país abundante no que diz respeito à disponibilidade hídrica, porém a distribuição \ndos recursos hídricos é desigual entre cada região.\nII. A água é um recurso natural renovável, não havendo, por isso, necessidade de propor estratégias \npara redução de seu desperdício na agricultura e nos demais setores da economia.\nIII. A reutilização da água na agricultura não é viável em qualquer tipo de lavoura, pois há restrições \nquanto à sua qualidade; nesse sentido, a água de reúso só pode ser empregada em culturas cujos \nprodutos sejam processados posteriormente, isto é, não sejam consumidos diretamente.\nIV. A demanda significativa por água, associada à escassez de recursos hídricos, cria preocupação \nquanto à sua reutilização nas atividades agrícolas.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*r23202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 29"
+    }
+  ],
+  "31": [
+    {
+      "numero": 31,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1914,
+      "texto": "QUESTÃO 31 \nA presença das mulheres no agronegócio vem alcançando, cada vez mais representatividade, embora \nainda seja pouco valorizada. As mulheres possuem características primordiais para o futuro do \nagronegócio. Assim, torna-se necessário fortalecer a presença da mulher no campo.\nDisponível em: https://institutoagro.com.br/mulheres-no-agronegocio/. Acesso em: 12 jun. 2023 (adaptado).\nConsiderando o exposto e o que se refere às políticas que fomentam a inserção da mulher no agronegócio, \navalie as afirmações a seguir.\nI. O Pronaf Mulher é um subprograma do Pronaf, destinado a fornecer financiamento à \nmulher agricultora, independentemente do estado civil.\nII. O projeto Rede Brasil Mulher é uma articulação nacional de órgãos e entidades públicas, \nempresariais e organizações da sociedade civil que visa, entre outros objetivos, ao fortalecimento \ne à participação das mulheres nos espaços de poder e decisão.\nIII. O Pronaf ABC + Agroecologia é um financiamento a agricultores e produtores rurais familiares, para \ninvestimento em sistemas de produção agroecológicos ou orgânicos, incluindo-se os custos relativos \nà implantação e à manutenção do empreendimento, o que contribui para a igualdade de gênero, \noportunizando o acesso da mulher aos espaços de tomada de decisão no agronegócio brasileiro.\nÉ correto o que se afirma em\nA I, apenas.\nB II, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Tecnologia em Agronegócio"
+    }
+  ],
+  "32": [
+    {
+      "numero": 32,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2738,
+      "texto": "QUESTÃO 32 \nO conceito de mercado, de forma mais ampla, não se refere somente a um espaço físico, mas a \ntoda situação em que compradores e vendedores de um bem ou serviço entram em contato para \ncomercializá-lo, como, por exemplo, no caso do mercado futuro e do mercado de opções.\nNo agronegócio, é comum que o lado mais forte domine a coordenação da cadeia produtiva. \nSe os vendedores são organizados e unidos, possivelmente a coordenação da cadeia produtiva caberá a \neles. Em situação contrária, são os compradores que poderão coordenar essa cadeia.\nDessa forma, em uma estrutura de mercado, costumeiramente, os agropecuaristas são tomadores \nde preço para seus fatores de produção (bens e serviços) e não conseguem formar preços para seus \npróprios produtos.\nARAUJO, M. J. Fundamentos de Agronegócios. 2. ed. São Paulo: Atlas, 2008. p. 128 (adaptado).\nA partir das informações apresentadas no texto, avalie as afirmações a seguir.\nI. A influência da Bolsa de Mercadorias & Futuros (BM&F), que realiza negócios com futuros \nagropecuários no Brasil, ainda é pouco significativa, pois os ofertantes de produtos nacionais não \nexercem influência na coordenação das cadeias produtivas, mesmo com um grande potencial \nagropecuário no País.\nII. As cooperativas agropecuárias, em algumas regiões do Brasil, têm forte interferência na \ncoordenação de cadeias produtivas, atuando ora como simples organizadoras de produtores, \nora como agroindústrias absorvedoras da produção, ora como comercializadoras de insumos e \nprodutos agropecuários.\nIII. As intervenções governamentais no agronegócio intensificam a comercialização, tanto no \nmercado futuro quanto no mercado de opções, sendo a Política de Garantia de Preços Mínimos \n(PGPM) a que mais diretamente interfere nas cadeias produtivas do agronegócio brasileiro.\nIV. O mercado de opções é visto como uma garantia de preço para o produtor: por exemplo, \nse o contrato estabelecer um preço X para o produto, mas, no dia da execução do contrato, \no preço cair, o produtor poderá exercer o direito de receber pelo valor acordado; caso o preço suba, \no produtor terá a opção de vender pelo preço do dia.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC III e IV.\nD I, II e IV.\nE II, III e IV.\n*r23202330*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 31"
+    }
+  ],
+  "33": [
+    {
+      "numero": 33,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 1938,
+      "texto": "QUESTÃO 33 \nA Fazenda W.F possui uma área destinada à produção de milho, mas o gestor da fazenda ainda não \ndecidiu qual variedade de milho cultivará nessa área. O seguinte quadro apresenta as previsões de \nreceitas e gastos relativos ao cultivo, com possibilidade de duas variedades de milho, e esses dados \npodem auxiliar o gestor em sua decisão.\nItens Milho mole \nsc.* 50 Kg\nMilho doce \nsc. 50 Kg\nPrevisão do preço de venda por saca R$ 52,50 R$ 55,00\nPrevisão das despesas variáveis por saca R$ 7,58 R$ 8,33\nPrevisão dos custos variáveis por saca R$ 27,52 R$ 29,77\nPrevisão de produtividade em sacas 2 000 2 100\nPrevisão das despesas fixas do período de produção R$ 15 000,00\nPrevisão dos custos fixos do período de produção R$ 13 000,00\n *sc. = saca\nCom base nessa situação hipotética, avalie as afirmações a seguir, considerando a maior lucratividade prevista.\nI. A margem de contribuição por saca do milho mole é de R$ 17,40 e a margem de contribuição \ntotal para a safra é de R$ 34 800,00.\nII. A margem de contribuição por saca do milho doce é de R$ 16,90 e a margem de contribuição \ntotal para a safra é de R$ 35 490,00.\nIII. A variedade cultivada com possibilidade de maior lucro é a que gera a maior margem de \ncontribuição total por produto, considerando-se que os gastos fixos são os mesmos para as duas \nvariedades de milho.\nÉ correto o que se afirma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*r23202331*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n32 Tecnologia em Agronegócio"
+    }
+  ],
+  "34": [
+    {
+      "numero": 34,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2202,
+      "texto": "QUESTÃO 34 \nNa avicultura, assim como em outras atividades econômicas, a análise de custos e receitas pode ser \ndesmembrada em níveis hierárquicos, como renda total, margem operacional, margem bruta e lucro \n(ou renda líquida), conforme representado na figura a seguir.\nIndicadores de rentabilidade da atividade avícola representados em níveis hierárquicos.\nRenda total (rt)\nRenda líquida (lucro)\nCusto de oprtunidade\ndo capital (co)\nMargem líquida\n(ml = rt-co)\nDepreciação do\ncapital\nCusto total (ct)\nCusto operacional\nMargem bruta\nmb = (rt-cv)\nCusto variável\n(cv)\nSANTOS F.; J. I.; TALAMINI, D. J. D. Custo de produção de frangos: Teoria, prática e implicações. In: MACRI, M. et al. \nProdução de Frangos de Corte. Campinas: FACTA, 2014 (adaptado).\nA partir das informações apresentadas no texto e na figura, avalie as afirmações a seguir.\nI. A renda líquida deve ser acrescida dos salários do trabalho familiar e de parte do juro sobre o \ncapital investido (custo de oportunidade), nas propriedades com mão de obra familiar.\nII. O custo variável não se incorpora totalmente ao produto a longo prazo e representa os gastos \ncom desembolso contínuo, não sendo reaproveitado em outros ciclos produtivos.\nIII. A renda líquida é a diferença entre a renda total e o custo total, constituindo o resíduo que \nremunera o trabalho do produtor ou do empreendedor pelo esforço e risco de produzir.\nIV. A margem líquida é a diferença entre a renda total e o custo operacional, e este é o somatório \ndos custos variáveis e da depreciação, ao passo que a margem bruta é a diferença entre a renda \ntotal e os custos variáveis.\nÉ correto apenas o que se afirma em\nA I e II.\nB I e III.\nC II e IV.\nD I, III e IV.\nE II, III e IV.\n*r23202332*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 33"
+    }
+  ],
+  "35": [
+    {
+      "numero": 35,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1258,
+      "texto": "QUESTÃO 35 \nNo agronegócio, o conhecimento do mercado, da empresa, dos produtos e de como trabalhar, \nfazer ou negociar produtos no cenário que os envolvem, bem como a gestão dos recursos materiais e \ndas pessoas, são itens essenciais para a sobrevivência de um empreendimento. Nesse contexto, a gestão \nde pessoas se destaca como um dos fatores de extrema relevância na gestão no agronegócio.\nCom relação ao tema tratado no texto, assinale a opção correta.\nA As práticas informais de gerenciamento de pessoas na gestão do agronegócio, se realizadas por \ngestores experientes, podem ser bem-sucedidas, uma vez que a experiência é mais importante do \nque os conhecimentos técnicos.\nB A existência de profissionais com forte visão sistêmica do cenário mundial e conhecimento sobre \nglobalização e tecnologia autossustentável é um diferencial na gestão do agronegócio.\nC O Brasil é um centro de tecnologia e modelo de infraestrutura logística no agronegócio, visto que \nseus resultados são positivos e promissores no cenário mundial.\nD O excesso de pessoas qualificadas no agronegócio faz com que a remuneração nesse setor esteja \nabaixo da média nacional.\nE O Brasil se destaca entre os países em desenvolvimento por sua mão de obra qualificada no agronegócio."
+    }
+  ],
+  "36": [
+    {
+      "numero": 36,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "sequencia_alternativas_global",
+      "tamanho": 1761,
+      "texto": "QUESTÃO 36 \nDiferentemente de alguns setores produtivos nos quais o ambiente é controlado e a produção e a \nvenda dos produtos não varia tanto ao longo do ano, o agronegócio apresenta algumas características \nespecíficas que podem influenciar a produção e a comercialização dos produtos. Essas características \nsão chamadas de especificidades do agronegócio, incluindo-se entre elas a sazonalidade; a dependência \nde fatores climáticos; a perecibilidade dos produtos; os riscos de produção; entre outras. Um exemplo \ndisso é o consumo de peixe, que aumenta durante toda a Quaresma. Durante a Semana Santa, \nmais especificamente na Sexta-Feira Santa, os cristãos têm o costume de não consumir carne, \npor isso neste período a procura por peixes aumenta nas peixarias, nas feiras livres e nos mercados.\nDisponível em: https://maisexpressao.com.br/noticia/consumo-de-peixe-tem-aumento-na-procura-durante-a-semana-\nsanta-71075.html. Acesso em: 13 jun. 2023 (adaptado).\nCom base no texto apresentado, que aborda a relação de produtos do agronegócio com uma tradição \nreligiosa, assinale a opção que explica a variação exemplificada.\nA Riscos de produção.\nB Perecibilidade do produto.\nC Sazonalidade de consumo.\nD Sazonalidade de produção.\nE Dependência de fatores climáticos.\n*r23202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Tecnologia em Agronegócio"
+    }
+  ],
+  "37": [
+    {
+      "numero": 37,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 2224,
+      "texto": "QUESTÃO 37 \nRecentemente, o governo federal relançou o Programa de Aquisição de Alimentos (PAA). Foi anunciada \na destinação de um orçamento de R$ 500 milhões ao programa, o maior recurso no seu histórico. \nUm dos objetivos do programa é priorizar fornecedores oriundos de comunidades tradicionais.\nA nova versão contará com algumas atualizações, que incluem: o aumento da cota individual que os \nagricultores familiares podem comercializar para o programa, que passa de R$ 12 mil para R$ 15 mil, \nem modalidades específicas; a ampliação da participação mínima de mulheres, de 40% para 50%; \na reinstalação do Conselho Nacional de Desenvolvimento Rural Sustentável (Condraf); e a criação do \nPrograma de Organização Produtiva e Econômica de Mulheres Rurais. Além disso, será garantida \nprioridade de acesso ao serviço aos trabalhadores incluídos no Cadastro Único para Programas Sociais \ndo Governo Federal - o CadÚnico.\nDisponível em: https://www.brasildefato.com.br/2023/03/31/volta-do-paa-relembre-o-que-e-o-programa-e-como-ele-\nimpacta-familias-brasileiras. Acesso em: 14 jun. 2023 (adaptado).\nEm relação ao PAA, avalie as afirmações a seguir.\nI. A promoção da segurança alimentar e nutricional das populações urbanas e rurais, assim como a \ndiversificação e a melhoria da qualidade dos produtos, são bases importantes do PAA.\nII. O PAA impulsiona a geração de renda e a sustentação de preços tanto aos agricultores familiares \nquanto ao agronégocio de ampla escala.\nIII. O incentivo e o manejo agroecológico dos sistemas produtivos, além do resgate e da preservação \nda biodiversidade, são alguns dos objetivos do PAA.\nÉ correto o que se afirma em\nA I, apenas.\nB lI, apenas.\nC I e III, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202334*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nTecnologia em Agronegócio 35"
+    }
+  ],
+  "38": [
+    {
+      "numero": 38,
+      "score": 130,
+      "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "alternativas_completas": true,
+      "strategy": "corte_por_comando",
+      "tamanho": 3517,
+      "texto": "QUESTÃO 38 \nO Brasil é um país diverso e sua pluralidade representa um desafio a mais para compreender quais \nestratégias de comunicação e políticas públicas podem impactar positivamente a mudança de hábitos \nda população. Ao compreendermos mais profundamente quais fatores comportamentais contribuem \npara o consumo de alimentos, surgem oportunidades para delineamento de políticas públicas e ações de \ncomunicação, para atender às demandas caracterizadas pelos novos comportamentos do consumidor.\nDisponível em: https://ainfo.cnptia.embrapa.br/digital/bitstream/item/ 183237/1/Quais-os-porques-do-desperdicio-de-\nalimentos.pdf. Acesso em: 9 jun. 2023 (adaptado).\nConsiderando que o estudo do comportamento dos consumidores permite identificar alguns padrões \nrelativos ao consumo dos produtos agroalimentares no contexto brasileiro, avalie as afirmações a seguir.\nI. Os consumidores tendem a preferir alimentos processados que preservem valor nutricional, \nem razão da dificuldade em adquirir produtos frescos na maior parte das regiões do Brasil, \nque apresentam alto custo de produção local.\nII. A procura por alimentos funcionais tem sido cada vez maior, uma vez que eles possuem baixo \ncusto de produção e apresentam constituintes nutricionais que substituem grande parte dos \ncontidos nos produtos da cesta básica consumida pelos brasileiros.\nIII. Os consumidores buscam produtores que preservem os recursos naturais e reduzam os impactos \nda produção no meio ambiente, a partir de modelos de produção sustentáveis.\nÉ correto o que se afirma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*r23202335*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n36\n*r23202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\n37\n*r23202337*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n38\n*r23202338*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nAVALIAÇÃ o GLoBAL DA P roVA"
+    }
+  ]
+}

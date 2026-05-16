@@ -4,6 +4,13 @@
       "numero": 1,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2144,
@@ -13,8 +20,15 @@
       "numero": 1,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 210,
       "texto": "QUESTÃO 01\nQual foi o tempo gasto por você para concluir a prova?\nA Menos de uma hora.\nB Entre uma e duas horas.\nC Entre duas e três horas.\nD Entre três e quatro horas.\nE Quatro horas, e não consegui terminar ."
     },
@@ -22,6 +36,13 @@
       "numero": 1,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 4328,
@@ -33,8 +54,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -42,8 +70,15 @@
       "numero": 2,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 02 \n O crescimento das cidades promove o aumento da demanda por serviços de água tratada, esgotamento \nsanitário, manejo das águas pluviais, limpeza urbana e coleta de resíduos sólidos. No Brasil, o processo \nde urbanização ocorreu de forma rápida e desigual, o que resultou no agravamento de injusti ças sociais \ne econômicas. Os serviços de saneamento básico considerados direitos humanos fundamentais não são \nacessíveis a uma parcela signifi cati va da população, principalmente àquela em que se concentram os \nsegmentos populacionais em situação de vulnerabilidade.\n O atendimento integral e universalizado junto às populações periféricas e em situação de \nvulnerabilidade consti tui um grande desafi o, por demandar políti cas públicas e investi mentos \nsubsidiados e permanentes.\nDisponível em: htt ps://www.periodicos.unimontes.br/index.php/verdegrande/ arti cle/view/6018. \nAcesso em: 22 jun. 2023 (adaptado) .\n Acerca do saneamento básico no Brasil, avalie as afi rmações a seguir.\nI. A grave desigualdade social, evidenciada pela segregação nos espaços urbanos, é uma das \nbarreiras para a universalização do acesso aos serviços de saneamento básico.\nII. O serviço de abastecimento de água no Brasil situa-se no mesmo patamar de fornecimento e de \ninfraestrutura que o sistema de coleta e tratamento do esgoto.\nIII. A universalização do acesso aos serviços de saneamento básico requer investi mentos em \npolíti cas públicas e em tecnologias sociais que priorizem a democrati zação e o atendimento às \npopulações em situação de vulnerabilidade.\nIV. O aumento da incidência de doenças transmiti das pela água resulta não somente da \ninadequação dos serviços de saneamento, mas também da precariedade das condições de \nmoradia da população em situação de vulnerabilidade.\n É correto apenas o que se afi rma em\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n*4* LOGO\nMATÉRIA 5"
     },
@@ -51,8 +86,15 @@
       "numero": 2,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 142,
       "texto": "QUESTÃO 02\nEm relação ao tempo total de aplicação, você \nconsidera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta."
     }
@@ -62,8 +104,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3057,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gr á fi c o .\n*5**R1920234*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 5\nLOGO\n4 MATÉRIA"
     },
@@ -71,8 +120,15 @@
       "numero": 3,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3053,
       "texto": "QUESTÃO 03 \n Estudos realizados em 2021 pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a \nOrganização Mundial da Saúde (OMS), mostraram que, no Brasil, houve uma queda brusca da taxa de \nvacinação infanti l nos últi mos anos: entre 2017 e 2021, a taxa caiu de 93,1% para 71,49%, considerando-se \ncrianças com menos de um ano de idade.\n Essa redução da cobertura vacinal deixa a população infanti l muito vulnerável e exposta a doenças que \njá estavam prati camente erradicadas, tal como o sarampo, que em 2018 voltou a ser uma preocupação \npara os brasileiros. Além do sarampo, corre-se o risco de outras doenças voltarem a acometer as \ncrianças, como a poliomielite, a meningite, a rubéola e a dift eria.\n O gráfi co a seguir mostra as taxas de vacinação infanti l, em crianças menores de um ano de idade, \nno período de 2017 a 2021.\n \nImunizante\n90%\n95%\n95%\n95%\n95%\n95%\n95%\nMeta de\nvacinação\nBCG\nTríplice Viral D1\nTríplice Viral D2\nTetraviral (SRC+VZ)\nPoliomielite\nFebre Amarela\nHepa�te A\nPercentual de vacinação \nem crianças menores de 1 ano\n2017\n99,72\n97,98\n92,61\n86,24\n76,89\n72,94\n33,26\n35,44\n89,54\n84,24\n59,50\n47,37\n82,69\n78,94\n2018 2019 2020 2021\n86,67\n74,03\n65,93\n76,05\n67,13\n55,56\n64,50\n57,20\n75,02\n93,12\n79,57\n70,94\n62,82\n49,62\n20,71\n5,70\n81,55\n34,24\n84,19\n62,41\n85,02\nDisponível em: htt ps://portal.fi ocruz.br/noti cia/vacinacao-infanti l-sofre-queda-brusca-no-brasil. \nAcesso em: 23 de jun. 2023 (adaptado).\n Considerando as informações apresentadas no texto e no gráfi co, assinale a opção correta.\nA O percentual de vacinação com o imunizante da poliomielite se manteve constante na maior parte \ndo período de 2017 a 2021.\nB A baixa cobertura vacinal de crianças menores de um ano de idade é um dos indicadores de baixo \ndesempenho das políti cas públicas de atenção primária em saúde.\nC A cobertura vacinal de crianças menores de um ano de idade foi muito variável, com alto índice \nvacinal da BCG e média cobertura da vacina tetraviral, no período de 2017 a 2021.\nD O aumento da taxa de vacinação infanti l contra a febre amarela em 2021, em comparação com o \níndice registrado em 2017, revela que as campanhas de conscienti zação da população foram \nbem-sucedidas quanto ao alcance da meta de vacinação contra essa enfermidade.\nE A pandemia de Covid-19, ao ampliar a conscienti zação da população sobre a necessidade de manter \nalto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o \naumento da cobertura vacinal contra outras doenças, conforme indicado no gráfi co.\n*5**R1920235*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n6 Medicina Veterinária\nLOGO\n6 MATÉRIA"
     },
@@ -80,8 +136,15 @@
       "numero": 3,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 236,
       "texto": "QUESTÃO 03\nAs informações/instruções fornecidas para a resolução \ndas questões foram suficientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas."
     }
@@ -91,8 +154,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -100,8 +170,15 @@
       "numero": 4,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2306,
       "texto": "QUESTÃO 04 \n TEXTO 1\n A Inteligência Arti fi cial (IA) generati va é capaz de criar novos dados, únicos, que possibilitam aprender \npor conta própria, indo além do que a tecnologia tradicional proporciona, visto que esta precisa de \nintervenção humana. Um exemplo da IA generati va é o ChatGPT, que pode gerar imagens, músicas e \ntextos completamente novos. Entre outras coisas, por meio da IA generati va, é possível elaborar \nmodelos de previsão de testes clínicos, realizar a identi fi cação de padrões em exames médicos e, ainda, \nauxiliar no diagnósti co de doenças.\n Disponível em: htt ps://olhardigital.com.br/2023/07/12/internet-e-redes-sociais/ inteligencia-arti fi cial-generati va-o-que-e-\ncomo-funciona-e-onde-usar/. Acesso em: 2 ago. 2023 (adaptado).\n TEXTO 2\n Acredita-se que a tecnologia de IA generati va será disrupti va e, portanto, capaz de alterar drasti camente \na maneira como o ser humano se relaciona com as máquinas. O uso da IA generati va pode causar \nimportante revolução no segmento de produção de conteúdo. Muitas dessas consequências poderão \nser maléfi cas para diversos setores da sociedade. Além do mau uso dessa tecnologia e das questões \néti cas, avalia-se que ela pode agravar a desigualdade econômico-social, tanto entre nações quanto \nentre indivíduos da mesma nação.\n Disponível em: htt ps://canaltech.com.br/inteligencia-arti fi cial/o-que-e-ia-generati va/. \nAcesso em: 2 ago. 2023 (adaptado).\n Considerando os textos apresentados, é correto afi rmar que a IA generati va\nA proporciona novos recursos de linguagem que geram tecnologias capazes de realizar interações \npróprias dos seres humanos.\nB restringe o aprendizado ao que é legalmente estabelecido e úti l ao ser humano, o que facilita seu \nmodo de agir no mundo do conhecimento e do trabalho.\nC promove a igualdade econômico-social ao substi tuir o ser humano no exercício de profi ssões cujas \nati vidades sejam repeti ti vas e exijam pouco conhecimento.\nD gera pouco impacto socioeconômico em países com elevado desenvolvimento tecnológico, pois, \nneles, os processos de criação e inovação já estão bem consolidados.\nE esti mula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do \nconhecimento, resolvendo problemas antes delegados apenas a especialistas.\n*6* LOGO\nMATÉRIA 7"
     },
@@ -109,8 +186,15 @@
       "numero": 4,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 309,
       "texto": "QUESTÃO 04\nVocê se deparou com alguma dificuldade ao responder \nà prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem do conteúdo.\nC Espaço insuficiente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não tive qualquer tipo de dificuldade para \nresponder à prova."
     }
@@ -120,8 +204,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2537,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1920236*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 7\nLOGO\n6 MATÉRIA"
     },
@@ -129,8 +220,15 @@
       "numero": 5,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2537,
       "texto": "QUESTÃO 05 \n Os seguintes ícones foram uti lizados em um estudo realizado por um grupo de trabalho de \nmonitoramento da relação das mulheres com a mobilidade urbana na cidade de São Paulo. Na pesquisa, \nperguntou-se às mulheres como elas se senti am nas situações representadas por tais imagens. \nAs respostas relati vas a cada ti po de mobilidade urbana são apresentadas a seguir.\nAtenta Desconfortável\nLivre\nApertada Em alerta\nObservada\nUm pouco mais segura\nAtenta aos assédios\nNem ﬁco, tenho medo\nAnsiosa Péssima\nCansada\nInsegura\nNão ando\nInsegura\nDesconﬁada\nPasso correndoEm pânico\nAndo a pé\nAndo de bicicleta\nPego o ônibus\nAndo de Metrô\nAndo de trem\nFrequento o \nespaço público\n Coleti vo Fórum Regional das Mulheres da Zona Norte, Rede MÁS, Sampapé! (2018). Relatório de Análises, \nResultados e Recomendações. Projeto Mulheres Caminhantes! Auditoria de Segurança de Gênero \ne Caminhabilidade Terminal Santana, São Paulo, SP (adaptado).\n Considerando o estudo apresentado e relacionando o trabalho de monitoramento social das \nnecessidades de mulheres no contexto urbano aos pressupostos do direito à cidade, avalie as \nafi rmações a seguir.\nI. A predominância de comentários negati vos indica o medo generalizado que as mulheres \nsentem ao se deslocarem ati vamente pela cidade, inclusive quanto à percepção de seu corpo no \nespaço urbano.\nII. Os comentários negati vos sobre os modos coleti vos de transporte estão relacionados à lotação \nnesses meios e a situações de assédio, tendo sido o metrô avaliado como um espaço um pouco \nmais seguro para as mulheres, em comparação com outras formas de mobilidade.\nIII. Os comentários negati vos refl etem a percepção das mulheres quanto ao perigo a que se expõem \ne sugerem que o medo relacionado à vulnerabilidade de gênero aponta para uma geografi a \nparti cular nas cidades, em que os meios de transporte afetam os movimentos roti neiros das \nmulheres no espaço urbano.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n*7**R1920237*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n8 Medicina Veterinária\nLOGO\n8 MATÉRIA"
     },
@@ -138,8 +236,15 @@
       "numero": 5,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 352,
       "texto": "QUESTÃO 05\nConsiderando apenas as questões objetivas da \nprova, você percebeu que\nA não estudou ainda a maioria desses conteúdos.\nB estudou alguns desses conteúdos, mas não os \naprendeu.\nC estudou a maioria desses conteúdos, mas não \nos aprendeu.\nD estudou e aprendeu muitos desses conteúdos.\nE estudou e aprendeu todos esses conteúdos.\nForMAÇÃ o GerAL"
     }
@@ -149,8 +254,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -158,8 +270,15 @@
       "numero": 6,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2855,
       "texto": "QUESTÃO 06 \n TEXTO 1\n Maria Bárbara ti nha o verdadeiro ti po das velhas maranhenses criadas na fazenda. Tratava muito dos \navós, quase todos portugueses. Quando falava dos pretos, dizia “os sujos” e, quando se referia a um \nmulato dizia “o cabra”. Maria Bárbara ti nha grande admiração pelos portugueses, dedicava-lhes um \nentusiasmo sem limites, preferia-os em tudo aos brasileiros. Quando a fi lha foi pedida por Manuel \nPedroso, então principiante no comércio da capital, ela dissera: “Bem! Ao menos tenho a certeza de que \né branco!”\nAZEVEDO , A. O mulato. São Luís: Typografi a o Paiz, 1881 (adaptado).\nTEXTO 2 \nA morte brinca com balas nos dedos gati lhos dos meninos. Dorvi se lembrou do combinado, \no juramento feito em voz uníssona, gritado sob o pipocar dos ti ros:\n— A gente combinamos de não morrer!\nBalas enfeitam o coração da noite. Não gosto de fi lmes da tevê. Morre e mata de menti ra. Aqui, não. \nÀs vezes a morte é leve como a poeira. E a vida se confunde com um pó branco qualquer. Às vezes é \numa fumaça adocicada enchendo o pulmão da gente. \nEVARISTO, C. Olhos d´agua. Rio de Janeiro: Pallas. Fundação Biblioteca Nacional, 2016 (adaptado).\nTEXTO 3\nDEL NUNES. O Cria. Disponível em: htt ps://www.instagram.com/p/CgCSOKegX4J/. Acesso em: 13 jun. 2023.\nO Cria é uma releitura da pintura “O Mesti ço” de Cândido Porti nari. Em sua obra, Del Nunes personifi ca \na identi dade do jovem brasileiro das periferias do Brasil. Oriundo de São Cristóvão, bairro periférico de \nSalvador, o arti sta transmite em suas produções a essência da cultura preta, cria e recria momentos do \npovo negro apagados pela história, divulgando-as nas redes sociais.\n*8* LOGO\nMATÉRIA 9\nA parti r das informações apresentadas e tendo em vista a possibilidade das várias manifestações \nculturais estabelecerem relação com a construção da memória e a defi nição da identi dade cultural de \num povo, avalie as afi rmações a seguir.\nI. Os trechos das obras apresentadas nos textos 1 e 2 e a ressignifi cação artí sti ca proposta no texto 3 \nresgatam uma refl exão acerca da condição histórica da maioria da população brasileira.\nII. Ao longo do processo histórico de consti tuição da identi dade do povo brasileiro, o convívio \ncooperati vo e cordial entre as diferentes culturas contribuiu para a integração e o respeito às \ndiferenças étnicas e religiosas.\nIII. A produção de conteúdo artí sti co que proponha a refl exão sobre a condição social da população \nnegra provoca a quebra do silenciamento imposto pelo processo de segregação historicamente \npromovido pelo processo de colonização.\nIV. A arte expressa no texto 3, ao imitar uma obra clássica de Porti nari, apresenta limitação na promoção \ndo empoderamento da população afrodescendente, provocando um acirramento cultural.\nÉ correto apenas o que se afi rma em\nA II.\nB IV.\nC I e III.\nD I e IV.\nE II e III."
     },
@@ -167,8 +286,15 @@
       "numero": 6,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 131,
       "texto": "QUESTÃO 06\nQual o grau de dificuldade das questões de \nFormação Geral?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -178,8 +304,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2018,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1920239*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n10 Medicina Veterinária\nLOGO\n10 MATÉRIA"
     },
@@ -187,8 +320,15 @@
       "numero": 7,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2016,
       "texto": "QUESTÃO 07 \n No Brasil, os idosos têm sido cada vez mais obrigados a permanecer no trabalho formal ou informal, \nmesmo após a aposentadoria, visto que os recursos provenientes desta, na maioria dos casos, \nsão insufi cientes para a manutenção dos indivíduos. Um fator que pode ter agravado essa situação foi \na aprovação da reforma previdenciária de 2019, que modifi cou as regras de idade e contribuição para o \nacesso ao direito ao benefí cio da aposentadoria. Tal mudança pode ter resultado em um número ainda \nmaior de idosos que disputam com as populações jovens e com sistemas de automação, no mercado \natual, o trabalho precarizado. Essa situação contribui para o acirramento do preconceito contra essa \nfaixa etária, denominado etarismo.\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. O conceito de etarismo fundamenta-se no fato de os idosos terem capacidade de \ntrabalho reduzida e imporem custo elevado à previdência social, o que compromete a sua \nsustentabilidade econômica.\nII. As ações legislati vas que visem ao prolongamento do tempo de atuação da população idosa no \nmercado de trabalho devem ser acompanhadas por uma políti ca de promoção da saúde e da \nqualidade de vida.\nIII. As ações intergeracionais no mercado de trabalho têm como premissa o desenvolvimento de \ntecnologias que dotem o idoso de capacidade de trabalho equivalente à de seus colegas jovens.\n É correto o que se afi rma em\nA II, apenas.\nB III, apenas.\nC I e II, apenas.\nD I e III, apenas.\nE I, II e III.\n*9**R1920238*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 9\nLOGO\n8 MATÉRIA"
     },
@@ -196,8 +336,15 @@
       "numero": 7,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 199,
       "texto": "QUESTÃO 07\nOs enunciados das questões de Formação Geral \nestavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nCoMPo NeNTe eSPeCÍFIC o"
     }
@@ -207,6 +354,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -216,6 +370,13 @@
       "numero": 8,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1961,
@@ -225,8 +386,15 @@
       "numero": 8,
       "score": 120,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 138,
       "texto": "QUeSTÃo 08\nQual o grau de dificuldade das questões do \nComponente Específico?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil."
     }
@@ -236,8 +404,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1821,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R19202310*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 11\nLOGO\n10 MATÉRIA"
     },
@@ -245,8 +420,15 @@
       "numero": 9,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 901,
       "texto": "QUESTÃO 09\nOs enunciados das questões do Componente \nEspecífico estavam compreensíveis e objetivos?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nQUeST IoNÁrI o De PerCePÇÃo DA Pro VA\nAs questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar .\nAssinale as alternativas correspondentes a sua opinião nos espaços apropriados do CArTÃo-reSPoSTA.\n19\n*R19202340*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP"
     },
@@ -254,8 +436,15 @@
       "numero": 9,
       "score": 100,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3667,
       "texto": "QUESTÃO 09 \n A sociedade do século XXI não é mais uma sociedade disciplinar, mas, sim, uma sociedade do desempenho. \nOs seus habitantes também não se chamam mais sujeitos de obediência, mas, sim, sujeitos de \ndesempenho e produção. São empresários de si mesmos.\n BYUNG-CHUL HAN. Sociedade do Cansaço . Petrópolis: Vozes, 2015 (adaptado).\n Considerando o texto apresentado, avalie as afi rmações a seguir.\nI. Os recursos tecnológicos, como noti fi cações de mensagens em tempo real e controle da \nvelocidade de áudio em redes de mensagens, são fatores que podem contribuir para a \nprecarização das relações de trabalho na sociedade contemporânea.\nII. As medidas pessoais de proteção à saúde mental e de promoção da qualidade de vida incluem \na desati vação de aplicati vos e mecanismos de noti fi cações instantâneas, bem como a fi xação de \nhorários para uso profi ssional e uso recreati vo das tecnologias digitais.\nIII. As medidas públicas de prevenção das doenças e dos danos sociais associados ao uso \nexcessivo dos recursos tecnológicos de comunicação envolvem estímulos ao letramento \ndigital, à alfabetização midiática e à regulamentação do uso de plataformas digitais no \nambiente de trabalho.\n É correto o que se afi rma em\nA I, apenas.\nB III, apenas.\nC I e II, apenas.\nD II e III, apenas.\nE I, II e III.\n \n*11**R19202311*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n12 Medicina Veterinária\nQUESTÃO DISCURSIVA 02 \nDe acordo com a Associação Brasileira de Proteína Animal (ABPA), o Brasil, em abril de 2023, \nexportou 433,3 mil toneladas de carne de frango (produtos in natura e processados), um volume que \nsupera em 4% o total exportado no mesmo período de 2022. No entanto, em 15 de maio de 2023, \nfoi detectado no País o vírus da influenza aviária de alta patogenicidade (IAAP). Para o Ministério da \nAgricultura e Pecuária, tal fato não compromete a condição do Brasil como país livre de IAAP para o comércio.\nDisponível em: https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/ \nsaude-animal/programas-de-saude-animal/pnsa/influenza-aviaria. \nAcesso em: 25 jun. 2023 (adaptado).\nConsiderando o impacto da influenza aviária na economia do País e o papel do médico veterinário no \ncontrole desta enfermidade, faça o que se pede nos itens a seguir.\na) Explique como ocorrem a transmissão direta e a transmissão indireta do vírus da influenza aviária. \n(valor: 3,0 pontos)\nb) Cite quatro medidas de biosseguridade a serem adotadas para controlar e erradicar o vírus em uma \ndeterminada propriedade, caso seja confirmado um caso de IAAP em ave doméstica. (valor: 4,0 pontos)\nc) Indique dois potenciais riscos à saúde pública que a influenza aviária representa. (valor: 3,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nCOMPONENTE ESPECÍFICO\n*R19202312*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 13"
     }
@@ -265,6 +454,13 @@
       "numero": 10,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2424,
@@ -276,6 +472,13 @@
       "numero": 11,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1862,
@@ -287,6 +490,13 @@
       "numero": 12,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2281,
@@ -298,6 +508,13 @@
       "numero": 13,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 3464,
@@ -309,6 +526,13 @@
       "numero": 14,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2411,
@@ -320,6 +544,13 @@
       "numero": 15,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2365,
@@ -331,8 +562,15 @@
       "numero": 16,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1687,
       "texto": "QUESTÃO 16 \nDisponível em: https://www.crmvrs.gov.br/sistema/noticia_detalhada.php?id_noticias=599. Acesso em: 15 jun. 2023.\nConsiderando que a toxoplasmose é frequentemente alvo de polêmica e que geralmente os felinos são \nresponsabilizados pela disseminação da doença, avalie as asserções a seguir e a relação proposta entre elas.\nI. A prevenção da toxoplasmose animal requer conhecimento da cadeia epidemiológica da \ndoença, em que os pássaros, os roedores, os felídeos, assim como a água, o solo e os alimentos \ncontaminados são possíveis fontes de infecção.\nPORQUE\nII. O ciclo de vida da doença se inicia com a ingestão de taquizoítos em água e alimentos contaminados, \nou por meio da ingestão de oocistos não esporulados em tecidos de animais infectados.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R19202319*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n20 Medicina Veterinária"
     }
@@ -342,8 +580,15 @@
       "numero": 17,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2539,
       "texto": "QUESTÃO 17 \nUm canino, macho, sem raça definida (SRD), com 35 kg, domiciliado em ambiente rural, foi atendido \nno serviço de emergência de um hospital veterinário universitário com hipertonicidade muscular, \nmiose, êmese, bradicardia, mialgia, mioglobinúria, aumento sérico de aspartato aminotransferase \n(AST), aumento sérico de creatina quinase (CK) e anemia macrocítica hipocrômica regenerativa. O tutor \nrelatou prostração aguda, anorexia e contou ter encontrado carne crua dentro do canil, o que o levou a \nsuspeitar de uma tentativa de intoxicação do animal. Após 24 horas internado, o animal não respondeu \nao tratamento e evoluiu para óbito.\nNa avaliação post mortem, foram observadas mucosas oral e ocular pálidas; em cavidade torácica: \nhemorragia e congestão pulmonar, além de pontos de infarto do miocárdio; em cavidade abdominal: \ncongestão hepática e hepatomegalia, congestão renal, grânulos enegrecidos no conteúdo estomacal \ne duodeno, hematoquezia, lesões ulcerosas em duodeno e jejuno.\nConsiderando as informações clínicas e laboratoriais do caso apresentado, assinale a opção que \ncorresponde à suspeita clínica e ao método confirmatório de diagnóstico corretos.\nA Intoxicação por tetraidrocanabinol (THC, maconha); dosar THC no plasma e urina.\nB Intoxicação por carbamato (chumbinho); dosar a atividade de acetilcolinesterase eritrocitária e \nplasmática ou realizar análise toxicológica de urina.\nC Intoxicação por herbicida dipiridílico; observar acidose metabólica e degeneração hepática e proceder \nà análise toxicológica de biopsia hepática realizada em, no máximo, 3 dias após a intoxicação.\nD Intoxicação por cumarínicos (rodenticida); observar prolongamento dos tempos de coagulação \n(tempo de protrombina - TP e tempo de tromboplastina parcial ativada - TTPA) e realizar análise \ntoxicológica de urina.\nE Intoxicação por Cyca revoluta; observar prolongamento dos tempos de coagulação \n(tempo de protrombina - TP e tempo de tromboplastina parcial ativada - TTPA) e proceder à análise \ntoxicológica de biopsia hepática e renal.\n*R19202320*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 21"
     }
@@ -353,6 +598,13 @@
       "numero": 18,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 3083,
@@ -364,6 +616,13 @@
       "numero": 19,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2220,
@@ -375,8 +634,15 @@
       "numero": 20,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3435,
       "texto": "QUESTÃO 20 \nUma cadela de 7 anos de idade, sem raça definida (SRD), com peso de 32 kg, é levada para atendimento \nemergencial em um hospital veterinário às 22h. A paciente estava em trabalho de parto e a queixa da \ntutora se devia a interrupção das expulsões fetais há mais de 5 horas. Na anamnese, foi relatado que a \nfêmea, primípara, havia entrado em trabalho de parto na manhã desse mesmo dia, por volta das 8h40min. \nDurante o dia, ela havia expulsado 4 filhotes, com intervalo médio de 2 horas entre os nascimentos, sem \nnecessidade de auxílio, tendo sido observado às 16h o último nascimento. Contudo, o laudo do exame \nradiográfico realizado durante o acompanhamento pré-natal descrevia a presença de 7 fetos.\nNo exame físico, observou-se mucosas hipocoradas, frequência cardíaca e frequência respiratória \naumentadas, grau leve de desidratação, porém normotérmica. No exame físico específico, foi detectada \numa secreção vaginal esverdeada. Ao exame de toque vaginal, constatou-se ausência de feto insinuado no \ncanal do parto. Para avaliação da vitalidade dos fetos, foi realizada uma ultrassonografia, que evidenciou \nque um deles não tinha batimento cardíaco e os outros dois apresentavam frequência cardíaca indicativa \nde sofrimento fetal. Como conduta terapêutica, foi indicada a realização de uma cirurgia cesariana de \nemergência.\nConsiderando que a escolha do protocolo anestésico é importante para a sobrevivência tanto dos \nfilhotes quanto da parturiente, assinale a opção correta, em relação à escolha adequada da analgesia e \nda anestesia no caso clínico apresentado.\nA O uso de xilazina, um agente alfa-2-adrenérgico, como medicação pré-anestésica de cadelas \ngestantes é a escolha mais indicada, pois esse fármaco é seguro para a parturiente e não promove \nefeito depressor nos fetos.\nB O uso de opioides, como butorfanol, meperidina e tramadol, previamente ao parto é indicado \nnesse caso, pois, além de reduzir o estresse e a ansiedade materna, não causa depressão neonatal, \npor se tratar de agentes que não atravessam a barreira placentária.\nC A manutenção de anestesia geral com isofluorano e o uso de lidocaína a 2%, sem vasoconstritor, na \nanestesia local epidural lombossacral é uma escolha indicada para esse caso, pois essa técnica está \nrelacionada ao nascimento de filhotes com menor depressão cardiorrespiratória.\nD O uso de cetamina ou tiopental na indução ao parto tem sido relacionado ao nascimento de filhotes \nque se recuperam mais rapidamente, pois causa menor depressão fetal e requer menos esforço na \nreanimação neonatal, sendo, por isso, recomendável na situação apresentada.\nE O uso de propofol in bolus repetido para manutenção da anestesia é o protocolo de eleição para o \ncaso descrito, pois, apesar da metabolização lenta do propofol, a não intubação da mãe faz com que \no tempo entre a indução e a remoção dos filhotes seja menor, havendo, com isso, menor depressão \nfetal por ação farmacológica.\n*R19202323*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n24 Medicina Veterinária"
     }
@@ -386,6 +652,13 @@
       "numero": 21,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2501,
@@ -397,6 +670,13 @@
       "numero": 22,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2263,
@@ -408,8 +688,15 @@
       "numero": 23,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2577,
       "texto": "QUESTÃO 23 \nDe acordo com a Instrução Normativa n. 5/2021, os Centros de Triagem de Animais Silvestres (Cetas) do \nIbama são definidos como unidades responsáveis pelo manejo de fauna silvestre com a finalidade de \nprestar serviço de recepção, identificação, marcação, triagem, avaliação, recuperação, reabilitação e \ndestinação de animais silvestres provenientes de apreensões, resgates ou entregas espontâneas. Os Cetas \ntambém têm permissão para realizar e subsidiar pesquisas científicas, ensino e extensão. Juntamente aos \njardins zoológicos, essas instituições possuem papel fundamental na conservação e na gestão de fauna \nbrasileira, bem como no processo de educação em saúde.\nDisponível em: https://www.gov.br/ibama/pt-br/acesso-a-informacao/institucional/o-que-sao-os-cetas. \nAcesso em: 19 jun. 2023 (adaptado).\nConsiderando as informações do texto e a responsabilidade do Estado no processo de conservação e \nproteção da fauna nacional, assinale a opção correta.\nA A entrega espontânea de animais silvestres mantidos em cativeiro para os Cetas é uma medida \ncontraindicada, devido ao risco de introdução de doenças.\nB A ação conjunta entre centros de triagem e zoológicos, coordenada por órgãos públicos e fomentada \npor toda a sociedade, pode auxiliar na recomposição e na futura reintrodução de indivíduos ao bioma.\nC Os Cetas recebem prioritariamente animais silvestres, sendo eventualmente admitido o \nrecebimento de espécies consideradas domésticas, as quais, em regra, devem ser encaminhadas aos \nCentros de Controle de Zoonoses do município.\nD A soltura de espécies de ocorrência natural, alóctones ou exóticas, deverá ser uma ação prioritária \ne ocorrerá nos casos em que o espécime não apresente problemas sanitários que indiquem \nimpedimentos para sua sobrevivência ou adaptação em vida livre.\nE A reprodução da fauna silvestre é um processo de grande importância na conservação de espécimes, \nmas são legalmente autorizadas a realizá-lo somente instituições que possuem atividades científicas \ne conservacionistas, como jardins zoológicos, criatórios comerciais e Cetas.\n*R19202326*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 27"
     }
@@ -419,6 +706,13 @@
       "numero": 24,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1944,
@@ -430,6 +724,13 @@
       "numero": 25,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1403,
@@ -441,8 +742,15 @@
       "numero": 26,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1822,
       "texto": "QUESTÃO 26 \nGalinhas poedeiras criadas em ambiente com iluminação natural, quando nascidas em estação desfavorável, \nentre setembro e outubro, apresentam redução no rendimento, caracterizado principalmente por atraso na \nidade do início da produção, menor quantidade de produção, interrupção precoce da produção e sobrepeso.\nNesse contexto, considerando a interferência do fotoperíodo no desenvolvimento das aves e visando \namenizar os prejuízos na produção avícola, causada pelos efeitos do ambiente, o médico veterinário deve\nA aumentar a luminosidade entre 16 e 22 semanas para que o consumo de alimento aumente e a \nmaturação sexual seja antecipada, diminuindo posteriormente o fotoperíodo para evitar o sobrepeso.\nB manter as aves em ambiente com fotoperíodo reduzido entre 16 e 22 semanas de idade para atrasar \na maturação sexual, aumentando o fotoperíodo posteriormente.\nC manter as aves em fotoperíodo de 12 por 12 horas, alternando entre claro e escuro, para gerar \nprevisibilidade, melhorar a homeostase e o bem-estar animal.\nD deixar a luminosidade natural estimular uma adaptação fisiológica dos animais, proporcionando-lhes \nmaior bem-estar, para que expressem seu potencial genético.\nE manter a luminosidade constante durante o crescimento das aves para aumentar a ingestão \nde ração e, consequentemente, a produtividade.\n*R19202328*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 29"
     }
@@ -452,8 +760,15 @@
       "numero": 27,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1907,
       "texto": "QUESTÃO 27 \nUma cadela com quatro anos de idade, Cocker Spaniel, pesando 13,3 kg, foi atendida em um hospital \nveterinário universitário, com diagnóstico prévio de hiperparatireoidismo secundário renal. Segundo \nrelato do tutor, ela apresentava, há dois meses, “cara inchada”, halitose, vômito e anorexia. Ao exame \nfísico, foram constatadas: apatia, mucosa cianótica, deformidade facial caracterizada por \"mandíbula de \nborracha\" e dor à palpação da região abdominal em topografia correspondente aos rins.\nCom base nos sinais clínicos descritos, assinale a opção que apresenta a sequência adequada às \nabordagens diagnóstica e terapêutica, respectivamente.\nA Realizar radiografia do crânio e hemograma, dosagem sérica de ureia, creatinina, fósforo, cálcio e \npotássio; prescrever dieta pastosa com níveis elevados de proteínas, suplementação de cálcio e \nvitamina D3.\nB Realizar radiografia do crânio e hemograma, dosagem sérica de ureia, creatinina, fósforo, cálcio e \npotássio; prescrever dieta pastosa com níveis reduzidos de proteínas, com quelantes de fósforo \nintestinais e suplementação de vitamina D3.\nC Realizar biópsia aspirativa e/ou incisional do segmento ósseo afetado e dosagem sérica de ureia, \ncreatinina, fósforo, cálcio e potássio; prescrever dieta pastosa com níveis reduzidos de proteínas, \ncom quelantes de fósforo intestinais e suplementação de cálcio.\nD Realizar tomografia computadorizada do crânio e dosagem sérica de ureia, creatinina, alanina \naminotransferase (ALT), aspartato aminotransferase (AST), cálcio e fósforo; prescrever dieta \ncomercial com níveis elevados de fósforo e suplementação de cálcio.\nE Realizar tomografia computadorizada do crânio e dosagem sérica de ureia, creatinina, alanina \naminotransferase (ALT), aspartato aminotransferase (AST), cálcio, fósforo e potássio; prescrever dieta \ncomercial com níveis elevados de fósforo e níveis reduzidos de proteínas."
     }
@@ -463,8 +778,15 @@
       "numero": 28,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 2184,
       "texto": "QUESTÃO 28 \nO termo eutanásia pode ser definido como “a indução da cessação da vida animal, por meio de método \ntecnicamente aceitável e cientificamente comprovado, observando-se sempre os princípios éticos”. \nA eutanásia se justifica em casos específicos e é feita por meio de analgésicos, sedativos ou por outros \nmétodos (de acordo com o § 1º do art. 14 da Lei n. 11.794/2008). Todo o processo deve ocorrer \ncom o máximo de consideração aos animais e suas necessidades. Isso envolve, principalmente, \no entendimento e o respeito aos princípios propostos. Os profissionais envolvidos precisam estar \ntreinados para o manuseio adequado dos animais, a escolha do método ideal e a execução dentro \ndas normas preconizadas. Conforme Resolução n. 1.000/2012, do Conselho Federal de Medicina \nVeterinária (CFMV), os métodos de eutanásia são classificados em aceitáveis, inaceitáveis e aceitos sob \nrestrição e podem variar conforme a espécie animal e a situação.\nDisponível em: https://www.cfmv.gov.br/guia-brasileiro-de-boas-praticas-para-a-eutanasia-em-animais/comunicacao/\npublicacoes/2020/08/03/#1. Acesso em: 15 jun. 2023 (adaptado).\nConsiderando essas informações, assinale a opção correta, a respeito dos métodos de eutanásia \naplicáveis em animais.\nA A aplicação intratecal de anestésico local com anestesia geral prévia é um método aceito sob \nrestrição em felinos.\nB O uso de barbitúricos ou outros anestésicos gerais injetáveis é um método inaceitável para roedores.\nC A eletrocussão sem anestesia geral prévia é um método aceito sob restrição em equinos.\nD A exsanguinação (sangria) sem inconsciência prévia é um método aceitável em bovinos.\nE A decapitação em aves é um método inaceitável.\n*R19202329*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n30 Medicina Veterinária"
     }
@@ -474,6 +796,13 @@
       "numero": 29,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2738,
@@ -485,6 +814,13 @@
       "numero": 30,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2368,
@@ -496,6 +832,13 @@
       "numero": 31,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2292,
@@ -507,8 +850,15 @@
       "numero": 32,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 1790,
       "texto": "QUESTÃO 32 \nVoluntários resgatam animais após o temporal em São Sebastião-SP\nDisponível em: https://g1.globo.com/sp/santos-regiao/noticia/2023/02/21/voluntarios-resgatam-animais-apos-o-temporal-\nem-sao-sebastiao-saiba-como-ajudar.ghtml. Acesso em: 23 mar. 2023.\nUm cão, sem raça definida (SRD), idoso, com 7 Kg, foi resgatado de área de desastre e, após 2 dias, foi \nencaminhado da base de resgate do Corpo de Bombeiros para um hospital veterinário, pois necessitava \nde cuidados de terapia intensiva por apresentar agravamento dos sinais clínicos de vômito, inapetência, \ndesidratação de 4%, apatia, polaciúria e polidipsia. No hospital, foram realizados exames complementares que \nevidenciaram azotemia e isostenúria. Na ultrassonografia, observaram-se sinais inespecíficos com corticais \nrenais normais em toda a extensão e ligeiramente hiperecoicos. Foi então diagnosticada uma insuficiência \nrenal aguda. Para fins de manutenção da volemia, o animal foi submetido à fluidoterapia.\nSabendo-se que um animal dessa idade e nessas condições, com perdas hídricas por vômitos contínuos \nde 40 mL/Kg/dia, tem a necessidade diária basal de líquidos de 180 mL/Kg/dia, é correto afirmar que \nele precisou receber, em 24 horas, um volume de fluido de\nA 1 260 mL.\nB 1 540 mL.\nC 1 820 mL.\nD 2 100 mL.\nE 2 380 mL.\n*R19202333*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2VALIDINEP\n34 Medicina Veterinária"
     }
@@ -518,6 +868,13 @@
       "numero": 33,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 1713,
@@ -529,6 +886,13 @@
       "numero": 34,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2089,
@@ -540,8 +904,15 @@
       "numero": 35,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
-      "strategy": "sequencia_abcde_global",
+      "strategy": "sequencia_alternativas_global",
       "tamanho": 3223,
       "texto": "QUESTÃO 35 \nUma médica veterinária foi contratada para prestar serviços em uma granja de suínos, devido à alta \ntaxa de mortalidade dos animais criados dentro do sistema. Em uma minuciosa inspeção, observou \nque, apesar de a granja se encontrar em condições de limpeza adequadas, os animais estavam alojados \nem densidades superiores à permitida para a espécie. Verificou-se também que a alimentação era \ninadequada e que o sistema de manutenção da temperatura estava danificado, o que gerava estresse \ntérmico nos animais. Além disso, a profissional observou que, nas imediações da propriedade, havia \nvalas a céu aberto onde os suínos mortos eram jogados, em desconformidade com as normas sanitárias \nestaduais e federais para descarte de animais.\nDiante disso, a médica veterinária emitiu um laudo técnico indicando que os animais se encontravam \nem condições inadequadas de alojamento, estado de desnutrição e caquexia. Explicou ao proprietário \nque ele estava incorrendo em atos de crueldade aos animais e oferecendo risco à saúde pública \ne ambiental ao descartar cadáveres a céu aberto. Por fim, elaborou um plano de ação para melhoria \ndas condições de funcionamento da granja; no entanto, o proprietário disse que não o implementaria, \nem razão do alto custo. A profissional, então, ressaltou que iria denunciá-lo pelo ato de crueldade \naos animais e pelo risco à saúde pública. Em resposta, o produtor ameaçou a médica veterinária de \ndenunciá-la ao Conselho Regional de Medicina Veterinária caso ela fizesse isso, alegando que a \nprofissional estaria infringindo o Código de Ética do Médico Veterinário ao expor o observado em seu \natendimento, em função da quebra de sigilo profissional.\nConsiderando essa situação hipotética e o disposto no Código de Ética do Médico Veterinário \n(Resolução CFMV n. 1.138/2016), avalie as asserções a seguir e a relação proposta entre elas.\nI. O produtor rural agiu corretamente ao ameaçar a médica veterinária de denunciá-la por \nexpor detalhes observados em um atendimento, pois isso configura um desvio que sujeita a \nprofissional a processo ético.\nPORQUE\nII. O referido Código de Ética estabelece que o médico veterinário não pode revelar fatos que sejam \nprejudiciais a outrem quando o conhecimento desses fatos for observado em seus atendimentos.\nA respeito dessas asserções, assinale a opção correta.\nA As asserções I e II são proposições verdadeiras, e II é uma justificativa correta da I.\nB As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE As asserções I e II são proposições falsas.\n*R19202336*\nVALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023VALIDINEP2023\nVALIDINEP2023VALIDINEP2023VALIDIN3P2023VALIDINEP2023VALIDIN3P2VALIDINEP\nMedicina Veterinária 37"
     }
@@ -551,6 +922,13 @@
       "numero": 36,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2381,
@@ -562,6 +940,13 @@
       "numero": 37,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2694,
@@ -573,6 +958,13 @@
       "numero": 38,
       "score": 130,
       "qtd_alternativas": 5,
+      "alternativas_esperadas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
       "alternativas_completas": true,
       "strategy": "corte_por_comando",
       "tamanho": 2678,
