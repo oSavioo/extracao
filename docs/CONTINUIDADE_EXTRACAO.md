@@ -4,6 +4,8 @@ Data deste registro: 2026-05-07.
 
 Este documento resume o estado atual do trabalho para que outro chat consiga continuar sem depender do histórico da conversa.
 
+Para o estado mais recente do banco e das views do app, leia tambem `docs/RETOMADA_2026-05-16_BANCO_E_VIEWS.md`.
+
 ## Objetivo do projeto
 
 Construir uma base de questões objetivas do ENADE em PostgreSQL.
@@ -107,17 +109,17 @@ Resumo atual apos a revisao em modo estudante de 2026-05-14:
 | Biomedicina | 20 | 18 | 0 | Q6 fora do escopo por regra do projeto |
 | Enfermagem | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
 | Engenharia Ambiental | 24 | 14 | 0 | Q6 fora do escopo por regra do projeto |
-| Engenharia Civil | 18 | 20 | 0 | Q17 e Q36 fora do escopo por fórmula/pseudocódigo visual |
-| Engenharia de Alimentos | 23 | 15 | 0 | Q6 fora do escopo por regra do projeto |
-| Engenharia da Computação | 22 | 16 | 0 | Q18 fora do escopo por notacao/O-grande quebrada |
-| Engenharia de Controle e Automação | 14 | 24 | 0 | Q22 fora do escopo por circuito/equação visual |
-| Engenharia de Produção | 12 | 26 | 0 | Q38 fora do escopo por esquema de ambientes |
-| Engenharia Elétrica | 15 | 23 | 0 | Q6 fora do escopo por regra do projeto |
-| Engenharia Florestal | 24 | 14 | 0 | Q29 fora do escopo por folha representada visualmente |
-| Engenharia Mecânica | 18 | 20 | 0 | Q6 fora do escopo por regra do projeto |
-| Engenharia Química | 10 | 28 | 0 | Q16/Q25 fora do escopo por fluxograma/equacoes quebradas |
-| Farmácia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
-| Fisioterapia | 26 | 12 | 0 | Q6 fora do escopo por regra do projeto |
+| Engenharia Civil | 18 | 20 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia de Alimentos | 22 | 16 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia da Computação | 20 | 18 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia de Controle e Automação | 13 | 25 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia de Produção | 12 | 26 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia Elétrica | 11 | 27 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia Florestal | 23 | 15 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia Mecânica | 17 | 21 | 0 | revisao humana aplicada ate Fisioterapia |
+| Engenharia Química | 9 | 29 | 0 | revisao humana aplicada ate Fisioterapia |
+| Farmácia | 24 | 14 | 0 | revisao humana aplicada ate Fisioterapia |
+| Fisioterapia | 26 | 12 | 0 | revisao humana aplicada ate Fisioterapia |
 | Fonoaudiologia | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
 | Medicina | 30 | 8 | 0 | Parser ajustado para alternativas A-D; Q10 fora do escopo por tabela extraída como texto |
 | Medicina Veterinária | 28 | 10 | 0 | Q6 fora do escopo por regra do projeto |
@@ -131,7 +133,7 @@ Resumo atual apos a revisao em modo estudante de 2026-05-14:
 | Tecnologia em Segurança do Trabalho | 31 | 7 | 0 | Q6 fora do escopo por regra do projeto |
 | Zootecnia | 32 | 6 | 0 | Q6 fora do escopo por regra do projeto |
 
-Total atual de 2023: 28 cursos, 1064 questoes, 668 `completa`, 396 `fora_escopo` e 0 `incompleta`.
+Total atual de 2023: 28 cursos, 1064 questoes, 655 `completa`, 409 `fora_escopo` e 0 `incompleta`.
 
 ## Pendência crítica resolvida
 
@@ -271,9 +273,9 @@ PROBLEMAS_FORTES 0
 ## Próximo passo recomendado
 
 1. Nao ha extracao pendente para 2023.
-2. Fazer olho humano amostral antes da carga final, priorizando cursos com maior descarte visual: `engenharia_quimica`, `engenharia_de_producao`, `engenharia_de_controle_e_automacao`, `engenharia_eletrica`, `arquitetura_e_urbanismo` e `engenharia_mecanica`.
-3. Se a revisao amostral aprovar, carregar staging e popular a camada final somente com `completa`.
-4. Depois de estabilizar 2023 no banco, replicar o fluxo para anos anteriores, comecando por 2022 ou 2021 antes de ir ate 2015.
+2. O banco local `enade_postgres` ja foi carregado com os JSONs atuais.
+3. Fazer olho humano amostral nos cursos apos `fisioterapia`, priorizando os restantes com maior descarte visual: `tecnologia_em_radiologia`, `tecnologia_em_gestao_ambiental`, `tecnologia_em_estetica_e_cosmetico`, `fonoaudiologia` e `medicina_veterinaria`.
+4. Depois de estabilizar 2023, replicar o fluxo para anos anteriores, comecando por 2022 ou 2021 antes de ir ate 2015.
 
 ## Carga no banco
 
@@ -345,7 +347,7 @@ Lembrete: `popular_final.sql` só leva para a camada final o que está `COMPLETA
 
 - Os 11 cursos restantes de 2023 foram baixados e processados: `engenharia_eletrica`, `engenharia_florestal`, `engenharia_mecanica`, `engenharia_quimica`, `zootecnia`, `tecnologia_em_agronegocio`, `tecnologia_em_estetica_e_cosmetico`, `tecnologia_em_gestao_ambiental`, `tecnologia_em_gestao_hospitalar`, `tecnologia_em_radiologia`, `tecnologia_em_seguranca_do_trabalho`.
 - 2023 agora esta com 28 cursos processados, 0 cursos pendentes, 668 `completa`, 396 `fora_escopo` e 0 `incompleta` apos a revisao em modo estudante.
-- A ultima conferencia com olho humano foi `engenharia_civil`. Depois dela, os demais cursos foram refinados por auditoria automatica e regras conservadoras; ainda devem passar por olho humano antes da carga definitiva no banco.
+- Naquele momento, a ultima conferencia com olho humano era `engenharia_civil`. Depois dela, os demais cursos foram refinados por auditoria automatica e regras conservadoras; o marco humano foi atualizado depois para `fisioterapia`.
 - `scripts/parser/processar_lote_2023.py` agora lista todos os 28 cursos em `CURSOS_ATUAIS_2023` e deixa `CURSOS_PENDENTES_2023` vazio.
 - `scripts/parser/pos_processar_exibicao.py` ganhou reforcos para descartar graficos de nivel/tempo, modelo de reator com conservacao de massa e lei de Fick, infografico, mapas, esquemas e figuras textualmente referenciadas.
 - Registro detalhado: `docs/RETOMADA_2026-05-14_FECHAMENTO_2023.md`.
@@ -358,3 +360,25 @@ Lembrete: `popular_final.sql` só leva para a camada final o que está `COMPLETA
 - Foram removidos rodapes soltos de alternativas com nome do curso/numero da pagina e restos de referencias `Disponivel em:`/`Acesso em:`.
 - Auditoria final atualizada: 668 `completa`, 396 `fora_escopo`, 0 `incompleta`.
 - Varreduras finais: 0 artefatos em completas, 0 caracteres invalidos, 0 padroes visuais fortes nao justificados e 0 rodapes finais candidatos.
+
+## Atualizacao de revisao humana - 2026-05-15
+
+- O usuario informou que a revisao com olho humano avancou ate `fisioterapia` inclusive, seguindo a ordem de `scripts/parser/processar_lote_2023.py`.
+- Os cursos apos `fisioterapia` permanecem como extraidos/refinados por auditoria automatica e regras conservadoras, devendo receber olho humano amostral antes da carga definitiva no banco.
+- Auditoria geral naquele momento: 28 cursos, 668 `completa`, 396 `fora_escopo`, 0 `incompleta` e 0 cursos pendentes.
+
+## Atualizacao de escopo humano - 2026-05-15
+
+- Foi aplicada a lista humana de questoes fora do escopo dos cursos de `engenharia_civil` ate `fisioterapia`.
+- A lista ficou registrada em `scripts/parser/escopo_manual_2023.py`, e `auditar_qualidade.py` agora falha se alguma questao dessa lista voltar para `completa`.
+- Os cursos revisados foram reprocessados e a planilha de conferencia foi atualizada.
+- Auditoria geral apos a aplicacao: 28 cursos, 655 `completa`, 409 `fora_escopo`, 0 `incompleta` e 0 cursos pendentes.
+
+## Atualizacao do banco - 2026-05-16
+
+- O banco local `enade_postgres` foi recriado/ajustado e carregado com os 28 cursos de 2023.
+- `criado_em` foi removido das tabelas `PROVA`, `QUESTAO_STAGING` e `QUESTAO`, pois a data de exportacao nao e necessaria para o projeto.
+- `CURSO` ganhou `SLUG`, mantendo nomes de exibicao com acentos e capitalizacao correta.
+- A limpeza de texto corrigiu ocorrencias recorrentes de OCR em campos exibidos: `insufi cientes`, `legislati vas` e `politi ca`.
+- Validacao do banco: `questao_staging` 1064, `questao` 651, `gabarito` 651 e `alternativa` 3230.
+- Validacao final: 0 questoes finais fora do staging `COMPLETA`, 0 colunas `criado_em` restantes e 0 ocorrencias dos problemas de OCR nos campos finais.

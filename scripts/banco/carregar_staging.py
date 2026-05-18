@@ -1,15 +1,52 @@
 import json
 import re
 import argparse
+import sys
 from pathlib import Path
 
 import psycopg2
+
+PARSER_DIR = Path(__file__).resolve().parents[1] / "parser"
+sys.path.insert(0, str(PARSER_DIR))
+
+from escopo_manual_2023 import eh_fora_escopo_manual_2023
 
 
 # ============================================
 # CONFIGURAÇÕES
 # ============================================
 VERSAO_PARSER = "V2"
+
+NOMES_CURSOS = {
+    "agronomia": "Agronomia",
+    "arquitetura_e_urbanismo": "Arquitetura e Urbanismo",
+    "biomedicina": "Biomedicina",
+    "enfermagem": "Enfermagem",
+    "engenharia_ambiental": "Engenharia Ambiental",
+    "engenharia_civil": "Engenharia Civil",
+    "engenharia_da_computacao": "Engenharia da Computação",
+    "engenharia_de_alimentos": "Engenharia de Alimentos",
+    "engenharia_de_controle_e_automacao": "Engenharia de Controle e Automação",
+    "engenharia_de_producao": "Engenharia de Produção",
+    "engenharia_eletrica": "Engenharia Elétrica",
+    "engenharia_florestal": "Engenharia Florestal",
+    "engenharia_mecanica": "Engenharia Mecânica",
+    "engenharia_quimica": "Engenharia Química",
+    "farmacia": "Farmácia",
+    "fisioterapia": "Fisioterapia",
+    "fonoaudiologia": "Fonoaudiologia",
+    "medicina": "Medicina",
+    "medicina_veterinaria": "Medicina Veterinária",
+    "nutricao": "Nutrição",
+    "odontologia": "Odontologia",
+    "tecnologia_em_agronegocio": "Tecnologia em Agronegócio",
+    "tecnologia_em_estetica_e_cosmetico": "Tecnologia em Estética e Cosmética",
+    "tecnologia_em_gestao_ambiental": "Tecnologia em Gestão Ambiental",
+    "tecnologia_em_gestao_hospitalar": "Tecnologia em Gestão Hospitalar",
+    "tecnologia_em_radiologia": "Tecnologia em Radiologia",
+    "tecnologia_em_seguranca_do_trabalho": "Tecnologia em Segurança do Trabalho",
+    "zootecnia": "Zootecnia",
+}
 
 # CASOS FORA DE ESCOPO DEFINIDOS PELO PROJETO
 # FORMATO: (ANO, CURSO_SLUG, NUMERO_QUESTAO)
@@ -22,7 +59,7 @@ FORA_ESCOPO = {
 # UTILIDADES
 # ============================================
 def slug_para_nome_curso(slug: str) -> str:
-    return slug.replace("_", " ").upper().strip()
+    return NOMES_CURSOS.get(slug, slug.replace("_", " ").title().strip())
 
 
 def extrair_ano_e_curso_da_pasta(nome_pasta: str):
@@ -52,6 +89,9 @@ def obter_arquivo_questoes(pasta_saida: Path) -> Path:
 
 def normalizar_status(status_json: str, ano: int, curso_slug: str, numero: int) -> str:
     if numero == 6:
+        return "FORA_ESCOPO"
+
+    if ano == 2023 and eh_fora_escopo_manual_2023(curso_slug, numero):
         return "FORA_ESCOPO"
 
     if (ano, curso_slug, numero) in FORA_ESCOPO:
@@ -122,20 +162,52 @@ def obter_ou_criar_ano(cur, ano: int) -> int:
     return cur.fetchone()[0]
 
 
-def obter_ou_criar_curso(cur, nome_curso: str) -> int:
-    cur.execute("SELECT ID FROM CURSO WHERE NOME = %s", (nome_curso,))
+def obter_ou_criar_curso(cur, curso_slug: str, nome_curso: str) -> int:
+    cur.execute("SELECT ID FROM CURSO WHERE SLUG = %s", (curso_slug,))
     row = cur.fetchone()
 
     if row:
+        cur.execute(
+            """
+            UPDATE CURSO
+               SET NOME = %s
+             WHERE ID = %s
+            """,
+            (nome_curso, row[0])
+        )
+        return row[0]
+
+    nome_legado = curso_slug.replace("_", " ").upper().strip()
+    cur.execute(
+        """
+        SELECT ID
+          FROM CURSO
+         WHERE NOME IN (%s, %s)
+         LIMIT 1
+        """,
+        (nome_curso, nome_legado)
+    )
+    row = cur.fetchone()
+
+    if row:
+        cur.execute(
+            """
+            UPDATE CURSO
+               SET NOME = %s,
+                   SLUG = %s
+             WHERE ID = %s
+            """,
+            (nome_curso, curso_slug, row[0])
+        )
         return row[0]
 
     cur.execute(
         """
-        INSERT INTO CURSO (NOME)
-        VALUES (%s)
+        INSERT INTO CURSO (NOME, SLUG)
+        VALUES (%s, %s)
         RETURNING ID
         """,
-        (nome_curso,)
+        (nome_curso, curso_slug)
     )
     return cur.fetchone()[0]
 
@@ -314,7 +386,7 @@ def processar_pasta(cur, pasta_saida: Path, pasta_pdfs: Path):
     titulo = f"ENADE {ano} - {nome_curso}"
 
     ano_id = obter_ou_criar_ano(cur, ano)
-    curso_id = obter_ou_criar_curso(cur, nome_curso)
+    curso_id = obter_ou_criar_curso(cur, curso_slug, nome_curso)
     prova_id = obter_ou_criar_prova(
         cur,
         ano_id,

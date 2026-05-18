@@ -1,0 +1,74 @@
+-- ============================================
+-- VIEWS BASE PARA O APP
+-- ============================================
+-- Execute este arquivo antes das views individuais em provas_2023/.
+-- As views usam apenas a camada final: QUESTAO, ALTERNATIVA e GABARITO.
+
+CREATE OR REPLACE VIEW vw_app_mapa_provas AS
+SELECT
+    P.ID AS PROVA_ID,
+    A.VALOR AS ANO,
+    C.ID AS CURSO_ID,
+    C.SLUG AS CURSO_SLUG,
+    C.NOME AS CURSO,
+    P.TITULO AS PROVA_TITULO,
+    P.URL_PDF_PROVA,
+    P.URL_PDF_GABARITO,
+    COUNT(Q.ID) AS TOTAL_QUESTOES
+FROM PROVA P
+JOIN ANO A ON A.ID = P.ANO_ID
+JOIN CURSO C ON C.ID = P.CURSO_ID
+LEFT JOIN QUESTAO Q ON Q.PROVA_ID = P.ID
+GROUP BY
+    P.ID,
+    A.VALOR,
+    C.ID,
+    C.SLUG,
+    C.NOME,
+    P.TITULO,
+    P.URL_PDF_PROVA,
+    P.URL_PDF_GABARITO;
+
+COMMENT ON VIEW vw_app_mapa_provas IS
+'Mapa de provas disponiveis para o app, com prova_id, ano, curso, slug e total de questoes finais.';
+
+CREATE OR REPLACE VIEW vw_app_questoes AS
+SELECT
+    P.ID AS PROVA_ID,
+    A.VALOR AS ANO,
+    C.ID AS CURSO_ID,
+    C.SLUG AS CURSO_SLUG,
+    C.NOME AS CURSO,
+    P.TITULO AS PROVA_TITULO,
+    Q.ID AS QUESTAO_ID,
+    Q.NUMERO AS NUMERO_QUESTAO,
+    Q.ENUNCIADO,
+    MAX(ALT.TEXTO) FILTER (WHERE TRIM(ALT.LETRA) = 'A') AS ALTERNATIVA_A,
+    MAX(ALT.TEXTO) FILTER (WHERE TRIM(ALT.LETRA) = 'B') AS ALTERNATIVA_B,
+    MAX(ALT.TEXTO) FILTER (WHERE TRIM(ALT.LETRA) = 'C') AS ALTERNATIVA_C,
+    MAX(ALT.TEXTO) FILTER (WHERE TRIM(ALT.LETRA) = 'D') AS ALTERNATIVA_D,
+    MAX(ALT.TEXTO) FILTER (WHERE TRIM(ALT.LETRA) = 'E') AS ALTERNATIVA_E,
+    JSONB_OBJECT_AGG(TRIM(ALT.LETRA), ALT.TEXTO ORDER BY TRIM(ALT.LETRA))
+        FILTER (WHERE ALT.ID IS NOT NULL) AS ALTERNATIVAS,
+    COUNT(ALT.ID) AS TOTAL_ALTERNATIVAS,
+    G.RESPOSTA AS GABARITO
+FROM PROVA P
+JOIN ANO A ON A.ID = P.ANO_ID
+JOIN CURSO C ON C.ID = P.CURSO_ID
+JOIN QUESTAO Q ON Q.PROVA_ID = P.ID
+JOIN GABARITO G ON G.QUESTAO_ID = Q.ID
+LEFT JOIN ALTERNATIVA ALT ON ALT.QUESTAO_ID = Q.ID
+GROUP BY
+    P.ID,
+    A.VALOR,
+    C.ID,
+    C.SLUG,
+    C.NOME,
+    P.TITULO,
+    Q.ID,
+    Q.NUMERO,
+    Q.ENUNCIADO,
+    G.RESPOSTA;
+
+COMMENT ON VIEW vw_app_questoes IS
+'View base de questoes finais para o app, com alternativas em colunas, JSON de alternativas e gabarito.';

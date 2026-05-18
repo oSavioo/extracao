@@ -10,8 +10,8 @@ Resumo da auditoria final:
 
 ```text
 28 cursos processados
-668 completa
-396 fora_escopo
+655 completa
+409 fora_escopo
 0 incompleta
 0 cursos pendentes
 ```
@@ -24,14 +24,16 @@ Comando usado para validar:
 
 ## Marco de conferencia humana
 
-A ultima conferencia com olho humano feita pelo usuario foi em `engenharia_civil`.
+A revisao com olho humano feita pelo usuario avancou ate `fisioterapia` inclusive, seguindo a ordem de `scripts/parser/processar_lote_2023.py`.
 
 Decisoes confirmadas em Engenharia Civil:
 
 - Q17 ficou `fora_escopo`, pois depende de formula matematica visual e a estrutura nao fica confiavel na extracao textual.
 - Q36 ficou `fora_escopo`, pois depende de pseudocodigo estruturado.
 
-Depois de Engenharia Civil, os demais cursos de 2023 foram refinados por auditoria automatica e regras conservadoras de descarte visual. Em 2026-05-14 foi feita uma revisao em modo estudante: as questoes completas foram triadas como se fossem resolvidas, e casos com dependencia visual/layout ruim foram movidos para `fora_escopo`. Ainda e recomendado um olho humano amostral antes de carga definitiva no banco final.
+A lista completa de questoes fora do escopo confirmadas pelo usuario ate `fisioterapia` esta registrada em `scripts/parser/escopo_manual_2023.py`.
+
+Depois de `fisioterapia`, os demais cursos de 2023 foram refinados por auditoria automatica e regras conservadoras de descarte visual. Em 2026-05-14 foi feita uma revisao em modo estudante: as questoes completas foram triadas como se fossem resolvidas, e casos com dependencia visual/layout ruim foram movidos para `fora_escopo`. Ainda e recomendado um olho humano amostral nos cursos apos `fisioterapia` antes de considerar 2023 definitivo.
 
 ## Cursos extraidos em 2023
 
@@ -43,15 +45,15 @@ Depois de Engenharia Civil, os demais cursos de 2023 foram refinados por auditor
 | enfermagem | 28 | 10 | 0 |
 | engenharia_ambiental | 24 | 14 | 0 |
 | engenharia_civil | 18 | 20 | 0 |
-| engenharia_da_computacao | 22 | 16 | 0 |
-| engenharia_de_alimentos | 23 | 15 | 0 |
-| engenharia_de_controle_e_automacao | 14 | 24 | 0 |
+| engenharia_da_computacao | 20 | 18 | 0 |
+| engenharia_de_alimentos | 22 | 16 | 0 |
+| engenharia_de_controle_e_automacao | 13 | 25 | 0 |
 | engenharia_de_producao | 12 | 26 | 0 |
-| engenharia_eletrica | 15 | 23 | 0 |
-| engenharia_florestal | 24 | 14 | 0 |
-| engenharia_mecanica | 18 | 20 | 0 |
-| engenharia_quimica | 10 | 28 | 0 |
-| farmacia | 26 | 12 | 0 |
+| engenharia_eletrica | 11 | 27 | 0 |
+| engenharia_florestal | 23 | 15 | 0 |
+| engenharia_mecanica | 17 | 21 | 0 |
+| engenharia_quimica | 9 | 29 | 0 |
+| farmacia | 24 | 14 | 0 |
 | fisioterapia | 26 | 12 | 0 |
 | fonoaudiologia | 28 | 10 | 0 |
 | medicina | 30 | 8 | 0 |
@@ -66,7 +68,7 @@ Depois de Engenharia Civil, os demais cursos de 2023 foram refinados por auditor
 | tecnologia_em_seguranca_do_trabalho | 31 | 7 | 0 |
 | zootecnia | 32 | 6 | 0 |
 
-Total: 1064 questoes de prova, sendo 668 no escopo textual e 396 fora de escopo.
+Total: 1064 questoes de prova, sendo 655 no escopo textual e 409 fora de escopo.
 
 ## Cursos extraidos nesta virada
 
@@ -182,17 +184,25 @@ Conteudo:
 
 - aba `Resumo por curso`: `Curso`, `Questoes no escopo`, `Link da prova`, `Total no escopo`;
 - aba `Questao por linha`: `Curso`, `Questao`, `Link da prova`;
-- total da planilha: 23 cursos e 552 questoes `completa`.
+- total da planilha: 23 cursos e 539 questoes `completa`.
 
 ## Proximo passo recomendado
 
-Fazer olho humano dos cursos que vieram depois de Engenharia Civil, com prioridade para os cursos com mais descarte visual:
+Fazer olho humano dos cursos que vieram depois de `fisioterapia`, com prioridade para os cursos restantes com mais descarte visual:
 
-- `engenharia_quimica`
-- `engenharia_de_producao`
-- `engenharia_de_controle_e_automacao`
-- `engenharia_eletrica`
-- `arquitetura_e_urbanismo`
-- `engenharia_mecanica`
+- `tecnologia_em_radiologia`
+- `tecnologia_em_gestao_ambiental`
+- `tecnologia_em_estetica_e_cosmetico`
+- `fonoaudiologia`
+- `medicina_veterinaria`
 
-Depois da revisao humana, carregar staging e popular a camada final somente com `completa`.
+O banco local `enade_postgres` ja foi carregado em 2026-05-16 com os JSONs atuais. Depois de qualquer nova revisao humana, basta recarregar staging e rodar `scripts/banco/popular_final.sql` novamente.
+
+Estado da carga local:
+
+```text
+questao_staging: 1064
+questao: 651
+gabarito: 651
+alternativa: 3230
+```

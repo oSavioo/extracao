@@ -7,12 +7,12 @@ Tokens de contexto: ['engenharia', 'florestal']
 
 Questões no gabarito: 38
 Questões encontradas: 38
-Questões completas: 24
+Questões completas: 23
 Questões incompletas: 0
-Questões fora de escopo: 14
+Questões fora de escopo: 15
 Questões faltando: 0
 
-Completas: [2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 23, 24, 25, 26, 28, 31, 34, 37, 38]
+Completas: [2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 23, 24, 25, 26, 28, 31, 34, 38]
 Incompletas: []
-Fora de escopo: [1, 3, 5, 6, 16, 17, 22, 27, 29, 30, 32, 33, 35, 36]
+Fora de escopo: [1, 3, 5, 6, 16, 17, 22, 27, 29, 30, 32, 33, 35, 36, 37]
 Faltando: []

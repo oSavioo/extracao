@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
 from pos_processar_exibicao import limpar_texto_exibicao, classificar_status_exibicao
+from escopo_manual_2023 import eh_fora_escopo_manual_2023
 
 try:
     from pypdf import PdfReader
@@ -122,6 +123,22 @@ def extrair_tokens_contexto(caminho_pdf: Path) -> List[str]:
         tokens.append(p)
 
     return tokens
+
+
+def extrair_ano_curso_prefixo(prefixo: str) -> Tuple[Optional[int], Optional[str]]:
+    match = re.match(r"^(?P<ano>\d{4})_(?:pv|gb)_(?P<curso>.+)$", prefixo)
+    if not match:
+        return None, None
+
+    return int(match.group("ano")), match.group("curso")
+
+
+def adicionar_observacao(observacao: Optional[str], nova: str) -> str:
+    if not observacao:
+        return nova
+    if nova in observacao:
+        return observacao
+    return f"{observacao}; {nova}"
 
 
 # =========================================================
@@ -672,6 +689,7 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
     pasta_output.mkdir(parents=True, exist_ok=True)
 
     prefixo = slugify(pdf_prova.stem)
+    ano_prova, curso_slug = extrair_ano_curso_prefixo(prefixo)
     context_tokens = extrair_tokens_contexto(pdf_prova)
 
     arq_saida_json = pasta_output / f"{prefixo}_questoes.json"
@@ -750,18 +768,28 @@ def processar(pdf_prova: Path, pdf_gabarito: Path, pasta_output: Path):
             )
         status, observacao = classificar_status_exibicao(status, bloco)
         if gabarito[numero] is None:
-            observacao_anulada = "QUESTAO ANULADA NO GABARITO OFICIAL"
-            observacao = (
-                f"{observacao}; {observacao_anulada}"
-                if observacao
-                else observacao_anulada
+            observacao = adicionar_observacao(
+                observacao,
+                "QUESTAO ANULADA NO GABARITO OFICIAL"
             )
         if numero in questoes_em_paginas_com_imagem:
             status = "fora_escopo"
-            observacao = "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+            observacao = adicionar_observacao(
+                observacao,
+                "QUESTAO EM PAGINA COM ELEMENTO VISUAL"
+            )
         if numero == 6:
             status = "fora_escopo"
-            observacao = "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+            observacao = adicionar_observacao(
+                observacao,
+                "QUESTAO 6 FORA DO ESCOPO POR REGRA DO PROJETO"
+            )
+        if ano_prova == 2023 and eh_fora_escopo_manual_2023(curso_slug, numero):
+            status = "fora_escopo"
+            observacao = adicionar_observacao(
+                observacao,
+                "QUESTAO FORA DO ESCOPO POR REVISAO HUMANA"
+            )
 
         registro = {
             "numero": numero,

@@ -7,12 +7,12 @@ Tokens de contexto: ['engenharia', 'eletrica']
 
 Questões no gabarito: 38
 Questões encontradas: 38
-Questões completas: 15
+Questões completas: 11
 Questões incompletas: 0
-Questões fora de escopo: 23
+Questões fora de escopo: 27
 Questões faltando: 0
 
-Completas: [2, 4, 7, 8, 9, 12, 14, 19, 25, 28, 29, 30, 32, 33, 38]
+Completas: [2, 4, 7, 8, 9, 12, 14, 28, 30, 32, 38]
 Incompletas: []
-Fora de escopo: [1, 3, 5, 6, 10, 11, 13, 15, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 31, 34, 35, 36, 37]
+Fora de escopo: [1, 3, 5, 6, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31, 33, 34, 35, 36, 37]
 Faltando: []

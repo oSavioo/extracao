@@ -6,6 +6,7 @@ import unicodedata
 from pathlib import Path
 
 from pos_processar_exibicao import eh_fora_escopo_visual
+from escopo_manual_2023 import eh_fora_escopo_manual_2023
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -99,6 +100,10 @@ def auditar_arquivo(caminho: Path):
     for questao in questoes:
         status = questao.get("status")
         numero = questao.get("numero")
+        nome_pasta = caminho.parent.name
+        ano_match = re.match(r"^(\d{4})_(.+)$", nome_pasta)
+        ano = int(ano_match.group(1)) if ano_match else None
+        curso = ano_match.group(2) if ano_match else None
         contagem[status] = contagem.get(status, 0) + 1
 
         if status == STATUS_OK:
@@ -109,6 +114,9 @@ def auditar_arquivo(caminho: Path):
             texto_bruto = questao.get("texto_bruto") or ""
             if eh_fora_escopo_visual(texto_bruto):
                 inconsistencias.append((numero, "detector_marcaria_fora_escopo"))
+
+            if ano == 2023 and eh_fora_escopo_manual_2023(curso, numero):
+                inconsistencias.append((numero, "revisao_humana_marcaria_fora_escopo"))
 
     return {
         "arquivo": caminho,
@@ -177,7 +185,7 @@ def main():
     if total_problemas == 0:
         print("Nenhum problema forte encontrado nas questoes completas.")
 
-    print("\nINCONSISTENCIAS COM DETECTOR ATUAL")
+    print("\nINCONSISTENCIAS COM DETECTOR/REVISAO HUMANA")
     for resultado in resultados:
         nome = resultado["arquivo"].parent.name
         for numero, motivo in resultado["inconsistencias"]:

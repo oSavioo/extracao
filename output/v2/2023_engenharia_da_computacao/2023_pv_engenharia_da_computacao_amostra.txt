@@ -6,7 +6,7 @@ CONFIANÇA: alta
 ESTRATÉGIA: corte_por_comando
 ALTERNATIVAS ESPERADAS: ['A', 'B', 'C', 'D', 'E']
 ALTERNATIVAS COMPLETAS: True
-OBSERVAÇÃO: QUESTAO EM PAGINA COM ELEMENTO VISUAL
+OBSERVAÇÃO: QUESTAO DEPENDE DE ELEMENTO VISUAL; QUESTAO EM PAGINA COM ELEMENTO VISUAL
 
 ENUNCIADO:
 A fome e a insegurança alimentar, anti gos problemas da sociedade, são agravados em regiões com elevados índices de desigualdade social. Propor soluções para esse quadro requer uma abordagem multi dimensional, que possibilite a interação entre as dimensões sociais, culturais, políticas, econômicas e ambientais envolvidas na produção e na distribuição de alimentos. v. Colheita de trigo perto da vila de Krasne, na Ucrânia. Considerando o texto e as imagens apresentados, avalie as asserções a seguir e a relação proposta entre elas.
